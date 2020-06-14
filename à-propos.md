@@ -2,14 +2,19 @@
 title: À propos de Ba-Moun𓅝Save
 description: Présentation de leremsesh.com
 published: true
-date: 2020-06-14T16:58:01.802Z
+date: 2020-06-14T21:50:23.650Z
 tags: 
 editor: markdown
 ---
 
-![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LÉRÉMSÈSH"){.pagelogo}
+![ba-moun-logo.png](/images/ba-moun-save/ba-moun-logo.png){.align-abstopright}
 
-*LÉRÉMSÈSH* est une encyclopédie créée par **Kitémona SYMSYMMAS CIMIA** en [Mars](/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/histoire/date/calendrier-gregorien/par-annee/2018). Cette encyclopédie est née d’un besoin d’accès et de partage de connaissances Kémit au sein de ce peuple.
+<a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est une encyclopédie créée par **Apa'Kitémona CIMIA** en [Mars](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-annee/2018).
+
+![apa-kitemona-cimia.jpg](/images/ba-moun-save/apa-kitemona-cimia.jpg){.align-right}
+
+Cette encyclopédie est née d’un constat au sein de la communauté Kamit. Après discussion avec ses proches, **Apa'Kitémona** a remarqué que des membres de son entourage ne savaient pas où trouver des informations sur leur propre histoire, science, culture, langue, etc.
+Pour pallier cela, il a créé une première version anciennement nomée LÉRÉMSÈSH. N'étant pas à l'aise avec la communication, **Apa'Kitémona** a eu du mal à faire connaitre l'encyclopédie. Suite à divers améliorations du concept, le partage de vidéos sur une chaîne YouTube
 
 Les articles qui constituent LÉRÉMSÈSH sont éditables par tous. Ceci étant, toute information présente dans LÉRÉMSÈSH est relue et vérifiée par les modératrices et les modérateurs LÉRÉMSÈSH.
 
