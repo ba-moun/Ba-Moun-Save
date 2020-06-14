@@ -1,9 +1,9 @@
 ---
-title: Page d'acceuil
-description: Vous êtes sur Ba-Moun𓅝Save
+title: Bienvenue sur Ba-Moun𓅝Save
+description: Présentation de Ba-Moun𓅝Save
 published: true
-date: 2020-06-14T18:05:50.074Z
-tags: 
+date: 2020-06-14T18:09:43.525Z
+tags: présentation de l'encyclopédie, page d'accueil
 editor: markdown
 ---
 
