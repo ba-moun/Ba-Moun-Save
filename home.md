@@ -2,26 +2,16 @@
 title: Page d'acceuil
 description: Vous êtes sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-14T17:49:28.103Z
+date: 2020-06-14T18:05:50.074Z
 tags: 
 editor: markdown
 ---
 
-![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LEREMSESH"){.pagelogo}
 ![ba-moun-logo.png](/images/ba-moun-save/ba-moun-logo.png){.align-abstopright}
 
-**Bienvenue** sur *LÉRÉMSÈSH*, l'encyclopédie afrocentrée collaborative !
+**Bienvenue** sur <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>, l'encyclopédie collaborative en ligne afrocentrée qui porte sur les humanités classiques africaines, et plus encore !
 
-Cette encyclopédie en ligne vous permet de *partager* et d'*accéder* à des *informations mettant en valeur des thématiques centrées sur le peuple Noir*.
-[En savoir plus sur LÉRÉMSÈSH](/leremsesh/presentation-de-leremsesh)
+Grâce à <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>, vous pouvez *partager* et *accéder* à des *informations mettant en valeur des thématiques centrées sur le peuple Noir*. 😍
 
-# Page à l'honneur
-
-![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparat"){.align-right}
-
-Notre page sur [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) a été mise à jour ! :)
-
-Apprenez-en plus sur le héro [kamit](/terminologie/mdw-ntr/kamit) des [îles des Caraïbes](/geographie/ile/caraibes/iles-de-la-caraibe), [Marcus GARVEY](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) --> [ici](/personnalite/homme/polymathe/caraibes/midi/colonie/xamayca/marcus-gavey) <--.
-
-# Comment j'utilise l'encyclopédie ?
-Besoin d'aide pour utiliser l'encyclopédie ? Faites un tour sur [la Foire Aux Questions](/leremsesh/faq).
+# Utilisation de l'encyclopédie
+Un guide d'utilisation de l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> se trouve [ici](/faq).
