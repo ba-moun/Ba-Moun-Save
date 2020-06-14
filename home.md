@@ -2,7 +2,7 @@
 title: Bienvenue sur Ba-Moun𓅝Save
 description: Présentation de Ba-Moun𓅝Save
 published: true
-date: 2020-06-14T18:09:43.525Z
+date: 2020-06-14T18:11:13.472Z
 tags: présentation de l'encyclopédie, page d'accueil
 editor: markdown
 ---
