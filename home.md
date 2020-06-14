@@ -2,13 +2,13 @@
 title: Page d'acceuil
 description: Vous êtes sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-14T17:48:28.826Z
+date: 2020-06-14T17:49:28.103Z
 tags: 
 editor: markdown
 ---
 
 ![Logo Leremsesh Com](/uploads/logo/logo_siteWeb.png "Logo de LEREMSESH"){.pagelogo}
-![logo de ba-moun.png](/images/ba-moun-save/logo\ de\ ba-moun.png){.align-abstopright}
+![ba-moun-logo.png](/images/ba-moun-save/ba-moun-logo.png){.align-abstopright}
 
 **Bienvenue** sur *LÉRÉMSÈSH*, l'encyclopédie afrocentrée collaborative !
 
