@@ -2,7 +2,7 @@
 title: À propos de Ba-Moun𓅝Save
 description: Présentation de leremsesh.com
 published: true
-date: 2020-06-14T21:50:59.495Z
+date: 2020-06-14T21:54:11.330Z
 tags: 
 editor: markdown
 ---
@@ -12,9 +12,10 @@ editor: markdown
 <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est une encyclopédie créée par **Apa'Kitémona CIMIA** en [Mars](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-annee/2018).
 
 Cette encyclopédie est née d’un constat au sein de la communauté Kamit. Après discussion avec ses proches, **Apa'Kitémona** a remarqué que des membres de son entourage ne savaient pas où trouver des informations sur leur propre histoire, science, culture, langue, etc.
-Pour pallier cela, il a créé une première version anciennement nomée LÉRÉMSÈSH. N'étant pas à l'aise avec la communication, **Apa'Kitémona** a eu du mal à faire connaitre l'encyclopédie. Suite à divers améliorations du concept, le partage de vidéos sur une chaîne YouTube
+Pour pallier cela, il a créé une première version anciennement nomée LÉRÉMSÈSH. N'étant pas à l'aise avec la communication, **Apa'Kitémona** a eu du mal à faire connaitre l'encyclopédie. Suite à divers améliorations du concept (ex. : partage de vidéos sur une [chaîne YouTube](https://www.youtube.com/c/bamoun)), LÉRÉMSÈSH est de retour sous le nom de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> !!!
 
-Les articles qui constituent LÉRÉMSÈSH sont éditables par tous. Ceci étant, toute information présente dans LÉRÉMSÈSH est relue et vérifiée par les modératrices et les modérateurs LÉRÉMSÈSH.
+Les articles qui constituent <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> sont éditables par tous. Ceci étant, toute information présente dans l'encyclopédie est relue et vérifiée par des modératrices et des modérateurs.
+[En savoir plus sur la gestion du contenu des pages…](/fr/faq)
 
 # Objectif et ambitions
 Ce projet vient du fait que les Kémit (personnes Noir.e.s) sont à la recherche d’informations et/ou souhaitent partager leurs connaissances ; qu’elles portent sur leur culture, leur spiritualité, leur histoire ou tout autre aspect d’eux-même. A fortiori, c’est aux Kémit (les Noir.e.s) de se définir.
