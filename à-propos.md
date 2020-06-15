@@ -2,40 +2,41 @@
 title: À propos de Ba-Moun𓅝Save
 description: Présentation de Ba-Moun𓅝Save
 published: true
-date: 2020-06-15T09:49:33.023Z
+date: 2020-06-15T10:56:46.241Z
 tags: présentation de l'encyclopédie, à propos, à propos de ba-moun𓅝save, ba-moun𓅝save, prés
 editor: markdown
 ---
 
 ![ba-moun-logo.png](/images/ba-moun-save/ba-moun-logo.png){.align-abstopright}
 
-<a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est une encyclopédie créée par **Apa'Kitémona CIMIA** en [Mars](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-annee/2018).
+<a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est une encyclopédie créée par **Apa'Kitémona CIMIA** en [Mars](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-mois/mars) [2018](/fr/encyclopédie/histoire/date/calendrier-gregorien/par-annee/2018) (calendrier grégorien).
 
-Cette encyclopédie est née d’un constat au sein de la communauté Kamit. Après discussion avec ses proches, **Apa'Kitémona** a remarqué que des membres de son entourage ne savaient pas où trouver des informations sur leur propre histoire, science, culture, langue, etc.
-Pour pallier cela, il a créé une première version anciennement nomée LÉRÉMSÈSH. N'étant pas à l'aise avec la communication, **Apa'Kitémona** a eu du mal à faire connaitre l'encyclopédie. Suite à divers améliorations du concept (ex. : partage de vidéos sur une [chaîne YouTube](https://www.youtube.com/c/bamoun)), LÉRÉMSÈSH est de retour sous le nom de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> !!!
+<a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>  est une encyclopédie collaborative. Elle se veut principalement :
 
-Les articles qui constituent <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> sont éditables par tous. Ceci étant, toute information présente dans l'encyclopédie est relue et vérifiée par des modératrices et des modérateurs.
-[En savoir plus sur la gestion du contenu des pages…](/fr/faq)
+* afrocentrée,
+* portant sur les humanités classiques africaines,
+* axée sur des thématiques mettant en valeur le peuple [Kamit](/fr/encyclopédie/peuple/monde/kamit)
+* … et plus encore !
+
+Par conséquent, les articles qui constituent l'encyclopédie sont éditables par tous. Toute information présente dans l'encyclopédie est relue et vérifiée par des modératrices et des modérateurs au préalable.
+[En savoir plus sur la modification de l'encyclopédie et la modération de son contenu …](/fr/faq)
 
 # Objectif et ambitions
-Ce projet vient du fait que les Kémit (personnes Noir.e.s) sont à la recherche d’informations et/ou souhaitent partager leurs connaissances ; qu’elles portent sur leur culture, leur spiritualité, leur histoire ou tout autre aspect d’eux-même. A fortiori, c’est aux Kémit (les Noir.e.s) de se définir.
 
-LÉRÉMSÈSH voulant dire “mettre à l’écrit” en [médou nétchèr](/ecriture/hieroglyphe/mdw-ntr) (langue négro-africaine Égyptienne pharaonique), cette encyclopédie a pour fil conducteur le partage et l’accès à des informations portant sur des connaissances Kémit.
+Après discussion avec ses proches, **Apa'Kitémona CIMIA**, le fondateur, a fait un constat. Nous avons besoin d'une plateforme qui permette de partager et d'accéder à :
 
-# Que veut dire LÉRÉMSÈSH ?
-Le nom de l’encyclopédie vient du [médou nétèr](/ecriture/hieroglyphe/mdw-ntr) (écriture négro-africaine Égyptienne antique). Cela signifie “mettre à l’écrit”. Par ce nom, l’encyclopédie exhorte le peuple Kémit de mettre à tout ou partie de leur savoir à l’écrit.
+* nos histoires,
+* nos sciences,
+* nos cultures,
+* nos langues,
+* …
 
-# Les modératrices et les modérateurs LÉRÉMSÈSH
-Le travail des modératrices et des modérateurs de LÉRÉMSÈSH est de vous fournir une encyclopédie avec des informations véridiques, vérifiables par vous-même (dans la mesure du possible), décentes , claires et laconiques. Par conséquent, ces personnes sont chargées de vérifier :
-* la véracité des informations partagées sur cette plateforme ;
-* la bienséance des textes saisis dans l’encyclopédie ;
-* la clarté des informations partagées.
+Pour pallier cela, il a créé une première encyclopédie en ligne portant sur les humanités classiques africaines, nommée LÉRÉMSÈSH. N'étant pas à l'aise avec la communication, **Apa'Kitémona** a eu du mal à faire connaitre cette première encyclopédie. Après des recherches plus poussées et une amélioration du concept, il a mis au goût du jour l'encyclopédie.
+
+# Signification de Ba-Moun𓅝Save
+<a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est une expression haitienne. Elle signifie « faire savoir aux gens ». Par ce nom, l'encyclopédie est par essence une plateforme d'accès et de partage du savoir [Kémit](/fr/encyclopédie/peuple/monde/kamit).
+
+Vous pouvez aussi identifier un [médou nétchèr](/fr/encyclopédie/ecriture/hieroglyphe/mdw-ntr) dans le nom de l'encyclopédie : <big>**𓅝**</big>. Ce caractère est classé G26 par Gardiner. C'est l'ibis sacré <big>**𓅞**</big> posé sur un symbole religieux : <big>**𓊾**</big> (R12 selon la classification Gardiner). Ce caractère est un déterminatif dans le sens où il définit la catégorie du mot qu'il constitue. <big>**𓅝**</big> est un des déterminatifs du mot [ḏḥwty (= Djéhouty ou Thot)](/fr/encyclopédie/spiritualite/divinite/projection/afrique/nord-est/kmt/djehuty). Dans la mythologie égyptienne antique, ḏḥwty est le nom de la divinité de la connaissance, du savoir, de l'écriture et de la langue. Cette entité correspond parfaitement avec l'encyclopédie que vous êtes actuellement en train de lire.
 
 # Pourquoi avoir créé un tel logo ?
-Le logo de *LÉRÉMSÈSH* est constitué d’adinkra et de [Khépèr](/spiritualite/concept/afrique/nord-est/kmt/kheper) (la loi de la transformation et la renaissance).
-
-Les adinkra ont été choisis les raisons suivantes :
-* c’est une écriture Akan donc Kémit ;
-* leurs significations sont en adéquation avec les principes de l’encyclopédie.
-
-[Khépèr](/spiritualite/concept/afrique/nord-est/kmt/kheper) symbolise la renaissance, de ce fait, sa représentation a pour objet d’incorporer le concept de renaissance au sein de l’encyclopédie LÉRÉMSÈSH.
+Le logo de l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est celui de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: #724e3f" >Ba-Moun</a>
