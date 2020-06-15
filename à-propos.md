@@ -2,7 +2,7 @@
 title: À propos de Ba-Moun𓅝Save
 description: Présentation de Ba-Moun𓅝Save
 published: true
-date: 2020-06-15T11:32:25.466Z
+date: 2020-06-15T11:32:48.694Z
 tags: présentation de l'encyclopédie, à propos, à propos de ba-moun𓅝save, ba-moun𓅝save, prés
 editor: markdown
 ---
@@ -40,4 +40,4 @@ Il y a aussi un [médou nétchèr](/fr/encyclopédie/ecriture/hieroglyphe/mdw-nt
 <big>**𓅝**</big> est un des déterminatifs du mot [ḏḥwty (= Djéhouty ou Thot)](/fr/encyclopédie/spiritualite/divinite/projection/afrique/nord-est/kmt/djehuty). Dans la mythologie égyptienne antique, ḏḥwty est le nom de la divinité de la connaissance, du savoir, de l'écriture et de la langue. Cette entité correspond parfaitement avec l'encyclopédie que vous êtes actuellement en train de lire.
 
 # Pourquoi avoir créé un tel logo ?
-Le logo de l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est celui de <a href="https://www.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: #724e3f" >Ba-Moun</a>
+Le logo de l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> est celui de <a href="https://www.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: #724e3f" >Ba-Moun</a>.
