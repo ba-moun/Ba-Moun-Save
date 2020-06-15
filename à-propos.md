@@ -1,9 +1,9 @@
 ---
 title: À propos de Ba-Moun𓅝Save
-description: Présentation de leremsesh.com
+description: Présentation de Ba-Moun𓅝Save
 published: true
-date: 2020-06-14T21:54:11.330Z
-tags: 
+date: 2020-06-15T09:49:33.023Z
+tags: présentation de l'encyclopédie, à propos, à propos de ba-moun𓅝save, ba-moun𓅝save, prés
 editor: markdown
 ---
 
