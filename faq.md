@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: 
 published: true
-date: 2020-06-14T18:11:11.762Z
+date: 2020-06-15T10:14:53.166Z
 tags: 
 editor: markdown
 ---
@@ -51,3 +51,9 @@ Une fois que vous apportez vos connaissances sur le site Web [PARTAGE.LEREMSESH]
 # Je souhaite m'identifier
 Le site Web sur lequel vous vous trouvez (*LEREMSESH*) est une vitrine qui sert uniquement à lire des informations [afrocentrées](/ideologie/afrocentricite).
 Si vous voulez partager votre savoir, accédez à [PARTAGE.LEREMSESH](http://partage.leremsesh.com) en suivant ce [lien](https://partage.leremsesh.com).
+
+# Les modératrices et les modérateurs LÉRÉMSÈSH
+Le travail des modératrices et des modérateurs de LÉRÉMSÈSH est de vous fournir une encyclopédie avec des informations véridiques, vérifiables par vous-même (dans la mesure du possible), décentes , claires et laconiques. Par conséquent, ces personnes sont chargées de vérifier :
+* la véracité des informations partagées sur cette plateforme ;
+* la bienséance des textes saisis dans l’encyclopédie ;
+* la clarté des informations partagées.
