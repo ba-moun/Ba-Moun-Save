@@ -1,15 +1,36 @@
 ---
 title: Foire Aux Questions
-description: 
+description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-15T10:14:53.166Z
-tags: 
+date: 2020-06-15T15:47:07.736Z
+tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
 
 Cette page rescence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 # Utilisation de l'encyclopédie ?
+
+## L'interface
+
+
+### Global
+
+* Global Navigation - A persistent navigation menu, displayed on all pages. Usually consists of important pages or links to external websites.
+* Global Search - Quickly find a page by performing a search.
+* Create New Page - Create a new page.
+* User Menu - User-specific actions such as View Profile, Administration and Logout.
+
+### Per Page
+
+* Page Actions - List of actions on the current page, such as Edit, Move, Delete, History, etc.
+* Breadcrumbs - Full Path to the current page. Represents the folder structure.
+* Table of Contents - Sections of the current page. Based on the headers in the content.
+* Page Tags - Tags associated to the current page. See related pages by clicking on a tag.
+* Author - View the author and date of the last modification of the page.
+* Social Links - Sharing / Printing Links for the current page.
+* Edit Page / Page Actions - Quick access menu to edit or perform other actions on the current page.
+
 ## Je souhaite faire une recherche
 Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
 
