@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:25:17.181Z
+date: 2020-06-16T20:26:03.980Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -33,8 +33,7 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 * Fil d'ariane : Chemin complet menant vers la page ouverte. Le chemin est structuré comme le système de fichier de votre appareil.
 * Table des matières : Sections de la page ouverte. Celles-ci se basent par rapport aux titres et aux sous-titres de la page.
 * Tags de la page : Tags liés à la page ouverte. En cliquant sur l'un d'entre eux, vous verrez la liste des pages partageant le même tag.
-* Auteurs : 
-* Author - View the author and date of the last modification of the page.
+* Auteurs : Liste des auteurs et la date de dernière modification de la page.
 * Social Links - Sharing / Printing Links for the current page.
 * Edit Page / Page Actions - Quick access menu to edit or perform other actions on the current page.
 
