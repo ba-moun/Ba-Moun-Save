@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:51:03.939Z
+date: 2020-06-16T20:51:23.510Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -59,16 +59,6 @@ Pour modifier ou créer une page, il faut tout d'abord vous connecter ou vous cr
 Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
 
 Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
-
-# Je veux créer ou modifier une page
-Voici les étapes à suivre pour partager vos connaissances afrocentrées :
-* tout d'abord, procurez-vous un compte Google ou Github, si vous n'en avez pas ;
-* à partir du moment où vous possédez au moins l'un de ces comptes, accédez à [PARTAGE.LEREMSESH](https://partage.leremsesh.com) ;
-* sur la page qui s'affiche, cliquez sur le bouton qui correspond au compte que vous souhaitez utiliser ;
-* authentifiez-vous, si ce n'est pas déjà fait.
-
-Une fois authentifié, vous accédez directement à la page d'acceuil de [PARTAGE.LEREMSESH](https://partage.leremsesh.com), où vous pourrez créer ou modifier des pages de l'encyclopédie.
-En cas de besoin, la page d'acceuil de [PARTAGE.LEREMSESH](https://partage.leremsesh.com) vous expliquera comment faire.
 
 # Pourquoi dois-je m'identifier pour créer ou modifier une page ?
 Afin d'assurer la qualité des informations présentes sur *LEREMSESH*, nous demandons aux utilisatrices et aux utilisateurs souhaitant partager leur savoir de s'identifier. Dès lors, si des personnes souhaitent nuire à cette encyclopédie, celles-ci peuvent perdre leur droit d'écriture.
