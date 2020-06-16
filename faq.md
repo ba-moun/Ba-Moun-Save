@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:29:09.725Z
+date: 2020-06-16T20:48:36.430Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -39,19 +39,26 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 * Éditer / agir sur une page : Accès rapide au menu d'édition et de faire d'autres actions sur la page ouverte.
 
 ## Je souhaite faire une recherche
-Pour commencer, faites une recherche dans la barre ci-dessus. Par exemple, pour savoir ce que c'est que leremsesh, saisissez « leremsesh », puis cliquez sur l'une des propositions.
+
+Cliquez sur la loupe située dans la zone de recherche située tout en haut de la page. Par la suite, saisissez votre recherche et laissez-vous guider. 🙂
 
 ## Je ne sais pas quoi chercher
-Il possible de voir la liste des pages à cette adresse : [https://leremsesh.com/all](https://leremsesh.com/all).
+
+Dans le menu tout à gauche, vous disposez d'une arborescence de fichier dans laquelle vous pouvez naviguer. Profitez-en pour voir ce qu'il y a dans l'encyclopédie.  :wink:
+
+> Si l'arborescence ne s'affiche pas, cliquez sur le bouton *Parcourir* qui se situe tout en haut du menu.
+{.is-info}
+
+
+> Sur un téléphone, cliquez sur le bouton bleu en bas à gauche pour voir ce menu. Ce dernier est toujours visible sur ordinateur.
+{.is-info}
 
 ## Je souhaite créer ou modifier une page
-Voici les étapes à suivre pour partager vos connaissances afrocentrées :
-* tout d'abord, procurez-vous un compte Google ou Github ;
-* à partir du moment où vous possédez au moins l'un de ces comptes, accédez à [ce lien](https://partage.leremsesh.com) ;
-* sur la page qui s'affiche, cliquez sur le bouton qui correspond au compte que vous souhaitez utiliser ;
-* authentifiez-vous, si ce n'est pas déjà fait.
 
-Une fois authentifié, vous accédez directement à la page d'acceuil de *PARTAGE.LEREMSESH* où vous trouverez des informations sur les manipulations vous permettant de créer ou de modifier une page.
+Pour modifier ou créer une page, il faut tout d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
+Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
+
+Une fois que les droits vous ont été donnés, vous possédez les droits de lecture/écriture sur une partie de l'encyclopédie.
 
 # Quelle est la différence entre LEREMSESH et PARTAGE.LEREMSESH ?
 *LEREMSESH* est le site vitrine qui permet à n'importe qui d'accéder à des informations [afrocentrées](/ideologie/afrocentricite), sans avoir à s'identifier.
