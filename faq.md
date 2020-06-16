@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:51:23.510Z
+date: 2020-06-16T21:17:10.574Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -40,17 +40,17 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 
 ## Je souhaite faire une recherche
 
-Cliquez sur la loupe située dans la zone de recherche située tout en haut de la page. Par la suite, saisissez votre recherche et laissez-vous guider. 🙂
+Cliquez sur la loupe située dans la zone de recherche (voir première image de cette page). Par la suite, saisissez votre recherche et laissez-vous guider. 🙂
 
 ## Je ne sais pas quoi chercher
 
-Dans le menu tout à gauche, vous disposez d'une arborescence de fichier dans laquelle vous pouvez naviguer. Profitez-en pour voir ce qu'il y a dans l'encyclopédie.  :wink:
+Dans le menu de navigation (voir première image decette page), vous disposez d'une arborescence de fichier. Vous pouvez y naviguer pour voir ce qu'il y a dans l'encyclopédie.  :wink:
 
-> Si l'arborescence ne s'affiche pas, cliquez sur le bouton *Parcourir* qui se situe tout en haut du menu.
+> Si l'arborescence ne s'affiche pas, cliquez sur le bouton *Parcourir* du *Menu de navigation*.
 {.is-info}
 
 
-> Sur un téléphone, cliquez sur le bouton bleu en bas à gauche pour voir ce menu. Ce dernier est toujours visible sur ordinateur.
+> Sur un téléphone, cliquez sur le bouton bleu en bas à gauche pour voir le *Menu de navigation*. Ce menu est toujours visible sur ordinateur.
 {.is-info}
 
 ## Je souhaite créer ou modifier une page
@@ -61,17 +61,13 @@ Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.
 Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
 
 # Pourquoi dois-je m'identifier pour créer ou modifier une page ?
-Afin d'assurer la qualité des informations présentes sur *LEREMSESH*, nous demandons aux utilisatrices et aux utilisateurs souhaitant partager leur savoir de s'identifier. Dès lors, si des personnes souhaitent nuire à cette encyclopédie, celles-ci peuvent perdre leur droit d'écriture.
+
+Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Dès lors, des personnes souhaitant nuire à cette encyclopédie, peuvent perdre leurs droits d'écriture.
 
 # Comment vérifiez-vous la véracité des informations ?
-Une fois que vous apportez vos connaissances sur le site Web [PARTAGE.LEREMSESH](https://partage.leremsesh.com), nos modératrices et modérateurs se chargent de faire les vérifications nécessaires avant que celles-ci n'apparaissent dans *LEREMSESH*.
+
+Toute modification et/ou ajout de page est effectué dans une zone dédiée aux scribes. Cette zone n'est accessible en lecture/écriture qu'à ces personnes. Par la suite, des modératrices et modérateurs sont chargé.e.s de vérifier les pages terminées. Une fois validées, ces dernières sont publiées.
 
 # Je souhaite m'identifier
-Le site Web sur lequel vous vous trouvez (*LEREMSESH*) est une vitrine qui sert uniquement à lire des informations [afrocentrées](/ideologie/afrocentricite).
-Si vous voulez partager votre savoir, accédez à [PARTAGE.LEREMSESH](http://partage.leremsesh.com) en suivant ce [lien](https://partage.leremsesh.com).
 
-# Les modératrices et les modérateurs LÉRÉMSÈSH
-Le travail des modératrices et des modérateurs de LÉRÉMSÈSH est de vous fournir une encyclopédie avec des informations véridiques, vérifiables par vous-même (dans la mesure du possible), décentes , claires et laconiques. Par conséquent, ces personnes sont chargées de vérifier :
-* la véracité des informations partagées sur cette plateforme ;
-* la bienséance des textes saisis dans l’encyclopédie ;
-* la clarté des informations partagées.
+Cliquez sur le *Menu utilisateur* situé tout en haut à droite (voir première image de cette page). Si ce n'est pas le cas, vous serez invité à vous identifier. Vous pouvez utiliser votre compte Google, Facebook ou <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
