@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:28:44.050Z
+date: 2020-06-16T20:29:09.725Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
