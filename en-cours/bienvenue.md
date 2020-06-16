@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-16T21:34:23.507Z
+date: 2020-06-16T21:49:09.112Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -19,11 +19,10 @@ Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouve
 ![choix-du-chemin-de-la-nouvelle-page.png](/images/ba-moun-save/choix-du-chemin-de-la-nouvelle-page.png)
 
 1. Choisissez la langue de la page à créer. La langue actuelle est sélectionnée par défaut.
-2. 
-Enter the full path to the page you want to create.
-   * The path should contain no spaces (use dashes instead), no periods and consists of URL-safe characters.
-   * DO NOT put a trailing slash.
-   * You don't need to create folders. Enter the full path you want to create and folders will be created automatically. For example, enter universe/planets/earth to automatically create the universe and planets subfolders.
+2. Saisissez le chemin complet menant vers la page à créer.
+   * Le chemin ne doit pas contenir d'espace. Utilisez des tirets à la place. Vous n'avez droit qu'à des caractères alphanumériques.
+   * NE PAS mettre de barre oblique.
+   * Il n'est pas nécessaire de créer des répertoires. Saisissez le chemin complet You don't need to create folders. Enter the full path you want to create and folders will be created automatically. For example, enter universe/planets/earth to automatically create the universe and planets subfolders.
 3. Click Select to proceed.
 
 # Select an Editor
