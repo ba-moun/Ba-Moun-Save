@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T21:22:21.940Z
+date: 2020-06-16T21:23:07.696Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -44,7 +44,7 @@ Cliquez sur la loupe située dans la zone de recherche (voir première image de 
 
 ## Je ne sais pas quoi chercher
 
-Dans le menu de navigation (voir première image decette page), vous disposez d'une arborescence de fichier. Vous pouvez y naviguer pour voir ce qu'il y a dans l'encyclopédie.  :wink:
+Dans le menu de navigation (voir première image de cette page), vous disposez d'une arborescence de fichier. Vous pouvez y naviguer pour voir ce qu'il y a dans l'encyclopédie.  :wink:
 
 > Si l'arborescence ne s'affiche pas, cliquez sur le bouton *Parcourir* du *Menu de navigation*.
 {.is-info}
