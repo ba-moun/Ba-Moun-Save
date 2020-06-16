@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T20:48:36.430Z
+date: 2020-06-16T20:51:03.939Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -58,14 +58,7 @@ Dans le menu tout à gauche, vous disposez d'une arborescence de fichier dans la
 Pour modifier ou créer une page, il faut tout d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
 Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
 
-Une fois que les droits vous ont été donnés, vous possédez les droits de lecture/écriture sur une partie de l'encyclopédie.
-
-# Quelle est la différence entre LEREMSESH et PARTAGE.LEREMSESH ?
-*LEREMSESH* est le site vitrine qui permet à n'importe qui d'accéder à des informations [afrocentrées](/ideologie/afrocentricite), sans avoir à s'identifier.
-
-[PARTAGE.LEREMSESH](https://partage.leremsesh.com) est le site Web par lequel vous devez passer pour partager vos connaissances.
-
-Actuellement, vous vous trouvez sur *LEREMSESH*.
+Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
 
 # Je veux créer ou modifier une page
 Voici les étapes à suivre pour partager vos connaissances afrocentrées :
