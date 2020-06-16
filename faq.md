@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T21:23:21.906Z
+date: 2020-06-16T21:26:04.337Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -62,7 +62,7 @@ Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture
 
 # Pourquoi dois-je m'identifier pour créer ou modifier une page ?
 
-Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Dès lors, des personnes souhaitant nuire à cette encyclopédie, peuvent perdre leurs droits d'écriture.
+Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Dès lors, des personnes nuisant à cette encyclopédie, perdent leurs droits d'écriture.
 
 # Comment vérifiez-vous la véracité des informations ?
 
