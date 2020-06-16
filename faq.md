@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T21:17:10.574Z
+date: 2020-06-16T21:19:45.156Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 ### Par Page
 
 * Langue : Permet de changer la langue de l'encyclopédie.
-* Agir sur la page : Liste des actions possibles sur la page ouverte. Les possibilités varies en fonction de vos droits :
+* Agir sur la page : Liste des actions possibles sur la page ouverte. Les possibilités varient en fonction de vos droits :
    * éditer la page
    * déplacer la page
    * supprimer la page
