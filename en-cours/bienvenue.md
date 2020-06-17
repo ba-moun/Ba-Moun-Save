@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T21:35:21.628Z
+date: 2020-06-17T22:00:24.233Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -16,23 +16,50 @@ Bienvenue, félicitations et merci pour l'nitérêt que vous portez à [<a href=
 
 Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouvelle page* (voir première image de cette page). La boite de dialogue suivante apparait.
 
+![creation-de-nouvelle-page.png](/images/ba-moun-save/creation-de-nouvelle-page.png)
 
 1. Choisissez la langue de la page à créer. La langue actuelle est sélectionnée par défaut.
 2. Saisissez le chemin complet menant vers la page à créer.
    * Le chemin ne doit pas contenir d'espace. Utilisez des tirets à la place. Vous n'avez droit qu'à des caractères alphanumériques.
    * NE PAS mettre de barre oblique.
-   * Il n'est pas nécessaire de créer des répertoires. Saisissez le chemin complet You don't need to create folders. Enter the full path you want to create and folders will be created automatically. For example, enter universe/planets/earth to automatically create the universe and planets subfolders.
-3. Click Select to proceed.
+   * Il n'est pas nécessaire de créer des dossiers. Saisissez le chemin complet menant vers la page. Les dossiers seront créés automatiquement. Par exemple, en saisissant univers/planète/terre, les dossiers univers et planète sont créés automatiquement s'ils n'existent pas.
+3. Cliquez sur *SELECT* pour poursuivre.
 
-# Select an Editor
+# Sélectionner un éditeur
 
-When creating a new page, you'll be prompted with the following dialog:
+À la création d'une nouvelle page, la boîte de dialogue suivante s'affichera.
 
-Select Editor Dialog
+![sélectionner-editeur.png](/images/ba-moun-save/sélectionner-editeur.png)
 
-Wiki.js offers various editors depending on the type of content you want to write or simply user preference. Developers will usually go with the Markdown editor while non-technical users may prefer the Visual Editor.
+Vous avez le choix entre plusieurs éditeurs. Choisissez l'éditeur en fonction du contenu que vous souhaitez rédiger. Vous pouvez aussi choisir l'éditeur en fonction de vos préférences. Les informaticiens ont habitiellement une préférence pour l'éditeur Markdown. Les personnes non techniques ont des préférences pour l'éditeur visuel.
 
-For a complete list of editors and how to use them, refer to the Editors section.
+Référez-vous à la section suivante pour une liste complète des éditeurs. Vous y verrez comment les utiliser.
+
+# Editeurs
+
+Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certains utilisateurs préfèrent l'éditeur Markdown. D'autres préfèrent l'éditeur visuel.
+
+> Une page créée avec un éditeur sera obligatoirement modifiée avec ce même éditeur.
+{.is-warning}
+
+## Éditeur Markdown
+{.tabset}
+
+### Overview
+
+L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs.
+
+Wiki.js supports the full CommonMark specification + adds some useful extensions (including the Github Flavored Markdown addons).
+
+### Test
+epéb
+
+## Éditeur Code
+bép
+
+## Éditeur visuel
+péb
+
 # Enter Page Metadata
 
 Upon selecting an editor, you'll be prompted with the Page Metadata dialog:
