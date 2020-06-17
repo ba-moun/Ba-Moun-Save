@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:19:04.203Z
+date: 2020-06-17T23:23:42.850Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -158,13 +158,15 @@ class main {
 }
 ```
 
-####  Diagrammes Mermaid
+####  Diagrammes
+
+##### Mermaid
 
 Utiliser un block de code avec le langage **mermaid**.
 
 Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 
-##### Exemple
+###### Exemple
 
 ```
 	```mermaid
@@ -181,7 +183,7 @@ Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 	```
 ```
 
-##### Résultat
+###### Résultat
 
 ```mermaid
 sequenceDiagram
@@ -196,13 +198,13 @@ sequenceDiagram
     Aba->Nkosi: Oui… Nkosi, comment vas-tu ?
 ```
 
-####  Diagrammes PlantUML
+##### PlantUML
 
 Utilisez un bloc de code **plantuml**.
 
 Référez-vous au [site Web de PlantUML](https://plantuml.com/).
 
-##### Exemple
+###### Exemple
 
 ```
 	```plantuml
@@ -210,7 +212,7 @@ Référez-vous au [site Web de PlantUML](https://plantuml.com/).
 	```
 ```
 
-##### Résultat
+###### Résultat
 
 ```plantuml
 Bakhitah->Aba : Hotep
