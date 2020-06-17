@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:27:49.978Z
+date: 2020-06-17T23:43:43.204Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -60,7 +60,7 @@ Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous dev
 ##### Exemple
 
 ```
-# Onglets {.tabset}
+# Onglets (en-tête pas affichée) {.tabset}
 
 ## Premier onglet
 
@@ -235,7 +235,16 @@ sequenceDiagram
 ```
 
 ## Éditeur Code
-bép
+
+L'éditeur de code permet de saisir la page au format HTML.
+
+### Cas particulier, les noglets
+
+Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette en-tête ne sera pas affichée dans le résultat final.
+
+> Vous pouvez utiliser n'importe quel niveau d'en-tête. Cela étant, les onglets doivent être définis avec des en-têtes de plus haut niveau. Par exemple, si une en-tête parente est `<h3>`, les en-têtes enfants doivent être `<h4>`. Ces en-têtes enfants donnent leurs noms aux onglets. Le niveau maximum d'une en-tête parent est `<h5>`. L'en-tête enfant maximum est `<h6>`.
+{.is-info}
+
 
 ## Éditeur visuel
 péb
