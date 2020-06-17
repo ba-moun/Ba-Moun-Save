@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:43:43.204Z
+date: 2020-06-17T23:49:20.835Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -247,7 +247,8 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 
 ## Éditeur visuel
-péb
+
+L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
 
 # Enter Page Metadata
 
