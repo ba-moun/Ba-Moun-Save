@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T22:08:07.282Z
+date: 2020-06-17T22:18:12.640Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -47,11 +47,30 @@ Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certa
 L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs. Ci-dessous une liste non exhaustive des balises mises à disposition.
 
 ### Tabs {.tabset}
+
 ####  Onglets
 
-Ajoutez {.tabset} à la fin de la section parent. The parent header text will not be shown in the final result.
+Ajoutez *{.tabset}* à la fin de l'en-tête parente.
 
-Note that you can use any header level, as long as the children headers are one level higher. For example, if a parent header is ### (h3), the tabs headers must be #### (h4). The maximum header level for a parent being 5 and the children 6.
+> L'en-tête parente n'est pas affichée.
+{.is-info}
+
+Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous devez utiliser des en-têtes de niveau supérieur par la suite. Les en-têtes de niveau supérieur seront le nom des onglets.Par exemple, si l'en-tête parente est ### (h3), les onglets doivent avoir une en-tête de niveau #### (h4). Le niveau maximum d'une en-tête parente est 5. Le niveau maximum pour une en-tête enfant est 6.
+
+##### Exemple
+
+`# Tabs {.tabset}
+## First Tab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+## Third Tab
+
+Any content here will go into the third tab...`
 
 ## Éditeur Code
 bép
