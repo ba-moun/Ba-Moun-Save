@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:25:18.692Z
+date: 2020-06-17T23:26:39.679Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -176,15 +176,34 @@ Utilisez la syntaxe `- [x]` pour un élément coché.
 - [x] Un autre élément vérifié
 - [ ] Un élément à véifier
 
-####  Diagrammes
 
-##### Mermaid
+#### Diagramme PlantUML
+
+Utilisez un bloc de code **plantuml**.
+
+Référez-vous au [site Web de PlantUML](https://plantuml.com/).
+
+##### Exemple
+
+```
+	```plantuml
+	Bakhitah->Aba : Hotep
+	```
+```
+
+##### Résultat
+
+```plantuml
+Bakhitah->Aba : Hotep
+```
+
+####  Diagrammes Mermaid
 
 Utiliser un block de code avec le langage **mermaid**.
 
 Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 
-###### Exemple
+##### Exemple
 
 ```
 	```mermaid
@@ -201,7 +220,7 @@ Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 	```
 ```
 
-###### Résultat
+##### Résultat
 
 ```mermaid
 sequenceDiagram
@@ -214,26 +233,6 @@ sequenceDiagram
     
     Bakhitah-->Aba: Vérifications avec Nkosi…
     Aba->Nkosi: Oui… Nkosi, comment vas-tu ?
-```
-
-##### PlantUML
-
-Utilisez un bloc de code **plantuml**.
-
-Référez-vous au [site Web de PlantUML](https://plantuml.com/).
-
-###### Exemple
-
-```
-	```plantuml
-	Bakhitah->Aba : Hotep
-	```
-```
-
-###### Résultat
-
-```plantuml
-Bakhitah->Aba : Hotep
 ```
 
 ## Éditeur Code
