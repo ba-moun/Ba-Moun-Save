@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:23:42.850Z
+date: 2020-06-17T23:25:18.692Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -157,6 +157,24 @@ class main {
    void main () {}
 }
 ```
+####  Liste à cocher
+
+Utilisez la syntaxe `- [ ]` pour un élément décoché.
+Utilisez la syntaxe `- [x]` pour un élément coché.
+
+##### Exemple
+
+```
+	- [x] Élément vérifié
+  - [x] Un autre élément vérifié
+  - [ ] Un élément à véifier
+```
+
+##### Résultat
+
+- [x] Élément vérifié
+- [x] Un autre élément vérifié
+- [ ] Un élément à véifier
 
 ####  Diagrammes
 
@@ -217,26 +235,6 @@ Référez-vous au [site Web de PlantUML](https://plantuml.com/).
 ```plantuml
 Bakhitah->Aba : Hotep
 ```
-
-####  Liste à cocher
-
-Utilisez la syntaxe `- [ ]` pour un élément décoché.
-Utilisez la syntaxe `- [x]` pour un élément coché.
-
-##### Exemple
-
-```
-	- [x] Élément vérifié
-  - [x] Un autre élément vérifié
-  - [ ] Un élément à véifier
-```
-
-##### Résultat
-
-- [x] Élément vérifié
-- [x] Un autre élément vérifié
-- [ ] Un élément à véifier
-
 
 ## Éditeur Code
 bép
