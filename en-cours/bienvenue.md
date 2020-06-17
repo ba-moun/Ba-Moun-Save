@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:26:39.679Z
+date: 2020-06-17T23:27:49.978Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -228,7 +228,6 @@ sequenceDiagram
     Bakhitah-->>Nkosi: Comment vas-tu Nkosi?
     Bakhitah--x Aba: Je vais bien, merci !
     Bakhitah-x Nkosi: Ça roule, merci !
-    
     Note right of Nkosi: Bakhitah pense pendant longtemps<br/>longtemps, si longtemps<br/>que le texte ne peut<br/>pas tenir sur une ligne.
     
     Bakhitah-->Aba: Vérifications avec Nkosi…
