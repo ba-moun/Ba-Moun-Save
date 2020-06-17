@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-16T21:49:09.112Z
+date: 2020-06-17T21:35:21.628Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -16,7 +16,6 @@ Bienvenue, félicitations et merci pour l'nitérêt que vous portez à [<a href=
 
 Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouvelle page* (voir première image de cette page). La boite de dialogue suivante apparait.
 
-![choix-du-chemin-de-la-nouvelle-page.png](/images/ba-moun-save/choix-du-chemin-de-la-nouvelle-page.png)
 
 1. Choisissez la langue de la page à créer. La langue actuelle est sélectionnée par défaut.
 2. Saisissez le chemin complet menant vers la page à créer.
