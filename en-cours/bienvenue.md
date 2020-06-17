@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:49:57.453Z
+date: 2020-06-17T23:50:22.803Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -238,7 +238,7 @@ sequenceDiagram
 
 L'éditeur de code permet de saisir la page au format HTML.
 
-### Cas particulier, les noglets
+### Cas particulier, les onglets
 
 Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette en-tête ne sera pas affichée dans le résultat final.
 
