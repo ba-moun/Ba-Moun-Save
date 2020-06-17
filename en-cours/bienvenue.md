@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T22:21:27.116Z
+date: 2020-06-17T23:19:04.203Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -60,19 +60,181 @@ Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous dev
 ##### Exemple
 
 ```
-# Tabs &#123;.tabset}
-## First Tab
+# Onglets {.tabset}
 
-Any content here will go into the first tab...
+## Premier onglet
 
-## Second Tab
+Contenu du premier onglet…
 
-Any content here will go into the second tab...
+## Second onglet
 
-## Third Tab
+Contenu du second onglet…
 
-Any content here will go into the third tab...
+## Troisième onglet
+
+Contenu du troisième onglet…
 ```
+
+####  Emojis
+
+Utilisez la syntaxe `:identifier:`.
+
+Jetez un œil à l'[antisèche des émojis](https://www.webfx.com/tools/emoji-cheat-sheet/). Vous y trouvez la liste complète des options possibles.
+
+##### Exemple
+
+###### Code
+
+```
+:apple:
+
+Can be also be used :fire: inline
+```
+
+###### Résultat
+
+:apple:
+
+Can be also be used :fire: inline
+
+####  Note de pied de page
+
+Dans le texte à référencer, utilisez la syntaxe `[^1]`. Variez le chiffre en fonction du numéro de la note. À la fin de la page, saisissez `[^1]: Note de bas de page`. variez le chiffre en fonction de la note. Un lien sera créé entre la marque contenu dans le texte et la note de fin.
+
+Les notes de pied de page apparaissent automatiquement à la fin du fichier.
+
+##### Exemple
+
+```
+Voici une phrase[^1] nécessitant de notes en pied de page.[^2]
+
+[^1]: Pied de page n°1.
+[^2]: Pied de page n°2.
+```
+
+####  Bloc de code
+
+Utiliser un triple accent grave avant et après le bloc de code.
+
+##### Exemple 1
+
+```
+	```
+	function lorem (ipsum) {
+	    const dolor = 'consectetur adipiscing elit'
+	}
+	```
+```
+
+##### Résultat 1
+
+```
+function lorem (ipsum) {
+    const dolor = 'consectetur adipiscing elit'
+}
+```
+
+##### Exemple 2
+
+Saisissez le nom du langage juste après les trois premiers accents graves. Ainsi, l'affichage du code sera adapté au langage utilisé.
+
+```
+	```java
+	class main {
+		int i = 0;
+
+		void main () {}
+	}
+	```
+```
+
+##### Résultat 2
+
+```java
+class main {
+   int i = 0;
+   
+   void main () {}
+}
+```
+
+####  Diagrammes Mermaid
+
+Utiliser un block de code avec le langage **mermaid**.
+
+Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
+
+##### Exemple
+
+```
+	```mermaid
+  sequenceDiagram
+      Aba ->> Bakhitah: Salut Bakhitah, comment vas ?
+      Bakhitah-->>Nkosi: Comment vas-tu Nkosi?
+      Bakhitah--x Aba: Je vais bien, merci !
+      Bakhitah-x Nkosi: Ça roule, merci !
+
+      Note right of Nkosi: Bakhitah pense pendant longtemps<br/>longtemps, si longtemps<br/>que le texte ne peut<br/>pas tenir sur une ligne.
+
+      Bakhitah-->Aba: Vérifications avec Nkosi…
+      Aba->Nkosi: Oui… Nkosi, comment vas-tu ?
+	```
+```
+
+##### Résultat
+
+```mermaid
+sequenceDiagram
+    Aba ->> Bakhitah: Salut Bakhitah, comment vas ?
+    Bakhitah-->>Nkosi: Comment vas-tu Nkosi?
+    Bakhitah--x Aba: Je vais bien, merci !
+    Bakhitah-x Nkosi: Ça roule, merci !
+    
+    Note right of Nkosi: Bakhitah pense pendant longtemps<br/>longtemps, si longtemps<br/>que le texte ne peut<br/>pas tenir sur une ligne.
+    
+    Bakhitah-->Aba: Vérifications avec Nkosi…
+    Aba->Nkosi: Oui… Nkosi, comment vas-tu ?
+```
+
+####  Diagrammes PlantUML
+
+Utilisez un bloc de code **plantuml**.
+
+Référez-vous au [site Web de PlantUML](https://plantuml.com/).
+
+##### Exemple
+
+```
+	```plantuml
+	Bakhitah->Aba : Hotep
+	```
+```
+
+##### Résultat
+
+```plantuml
+Bakhitah->Aba : Hotep
+```
+
+####  Liste à cocher
+
+Utilisez la syntaxe `- [ ]` pour un élément décoché.
+Utilisez la syntaxe `- [x]` pour un élément coché.
+
+##### Exemple
+
+```
+	- [x] Élément vérifié
+  - [x] Un autre élément vérifié
+  - [ ] Un élément à véifier
+```
+
+##### Résultat
+
+- [x] Élément vérifié
+- [x] Un autre élément vérifié
+- [ ] Un élément à véifier
+
 
 ## Éditeur Code
 bép
