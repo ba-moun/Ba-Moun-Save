@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T22:00:24.233Z
+date: 2020-06-17T22:01:32.533Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -42,8 +42,7 @@ Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certa
 > Une page créée avec un éditeur sera obligatoirement modifiée avec ce même éditeur.
 {.is-warning}
 
-## Éditeur Markdown
-{.tabset}
+## Éditeur Markdown {.tabset}
 
 ### Overview
 
