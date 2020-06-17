@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T22:01:32.533Z
+date: 2020-06-17T22:08:07.282Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -42,16 +42,16 @@ Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certa
 > Une page créée avec un éditeur sera obligatoirement modifiée avec ce même éditeur.
 {.is-warning}
 
-## Éditeur Markdown {.tabset}
+## Éditeur Markdown
 
-### Overview
+L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs. Ci-dessous une liste non exhaustive des balises mises à disposition.
 
-L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs.
+### Tabs {.tabset}
+####  Onglets
 
-Wiki.js supports the full CommonMark specification + adds some useful extensions (including the Github Flavored Markdown addons).
+Ajoutez {.tabset} à la fin de la section parent. The parent header text will not be shown in the final result.
 
-### Test
-epéb
+Note that you can use any header level, as long as the children headers are one level higher. For example, if a parent header is ### (h3), the tabs headers must be #### (h4). The maximum header level for a parent being 5 and the children 6.
 
 ## Éditeur Code
 bép
