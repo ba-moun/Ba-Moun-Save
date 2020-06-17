@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T22:18:12.640Z
+date: 2020-06-17T22:21:27.116Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -59,7 +59,8 @@ Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous dev
 
 ##### Exemple
 
-`# Tabs {.tabset}
+```
+# Tabs &#123;.tabset}
 ## First Tab
 
 Any content here will go into the first tab...
@@ -70,7 +71,8 @@ Any content here will go into the second tab...
 
 ## Third Tab
 
-Any content here will go into the third tab...`
+Any content here will go into the third tab...
+```
 
 ## Éditeur Code
 bép
