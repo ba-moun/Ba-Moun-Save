@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-16T21:28:01.830Z
+date: 2020-06-18T15:51:43.664Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -41,6 +41,10 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 ## Je souhaite faire une recherche
 
 Cliquez sur la loupe située dans la zone de recherche (voir première image de cette page). Par la suite, saisissez votre recherche et laissez-vous guider. 🙂
+
+L'étiquette à droite de la zone de recherche (cf. première image de la page) vous permet de rechercher par tag. Vous verrez la liste de tous les tags utilisés.
+
+Select one or multiple tags to view a list of pages matching the selection.
 
 ## Je ne sais pas quoi chercher
 
