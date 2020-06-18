@@ -2,12 +2,11 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T15:48:36.848Z
+date: 2020-06-18T17:46:37.439Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
 
-# Guide d'édition Ba-Moun𓅝Save
 Bienvenue, félicitations et merci pour l'nitérêt que vous portez à [<a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 ![interface-de-ba-moun-save.png](/images/ba-moun-save/interface-de-ba-moun-save.png)
@@ -25,7 +24,7 @@ Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouve
    * Il n'est pas nécessaire de créer des dossiers. Saisissez le chemin complet menant vers la page. Les dossiers seront créés automatiquement. Par exemple, en saisissant univers/planète/terre, les dossiers univers et planète sont créés automatiquement s'ils n'existent pas.
 3. Cliquez sur *SELECT* pour poursuivre.
 
-# Sélectionner un éditeur
+## Sélectionner un éditeur
 
 À la création d'une nouvelle page, la boîte de dialogue suivante s'affichera.
 
@@ -35,20 +34,20 @@ Vous avez le choix entre plusieurs éditeurs. Choisissez l'éditeur en fonction 
 
 Référez-vous à la section suivante pour une liste complète des éditeurs. Vous y verrez comment les utiliser.
 
-# Editeurs
+### Editeurs
 
 Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certains utilisateurs préfèrent l'éditeur Markdown. D'autres préfèrent l'éditeur visuel.
 
 > Une page créée avec un éditeur sera obligatoirement modifiée avec ce même éditeur.
 {.is-warning}
 
-## Éditeur Markdown
+### Éditeur Markdown
 
 L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs. Ci-dessous une liste non exhaustive des balises mises à disposition.
 
-### Tabs {.tabset}
+#### Tabs {.tabset}
 
-####  Onglets
+##### Onglets
 
 Ajoutez *{.tabset}* à la fin de l'en-tête parente.
 
@@ -57,7 +56,7 @@ Ajoutez *{.tabset}* à la fin de l'en-tête parente.
 
 Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous devez utiliser des en-têtes de niveau supérieur par la suite. Les en-têtes de niveau supérieur seront le nom des onglets.Par exemple, si l'en-tête parente est ### (h3), les onglets doivent avoir une en-tête de niveau #### (h4). Le niveau maximum d'une en-tête parente est 5. Le niveau maximum pour une en-tête enfant est 6.
 
-##### Exemple
+###### Exemple
 
 ```
 # Onglets (en-tête pas affichée) {.tabset}
@@ -75,15 +74,13 @@ Contenu du second onglet…
 Contenu du troisième onglet…
 ```
 
-####  Emojis
+#####  Emojis
 
 Utilisez la syntaxe `:identifier:`.
 
 Jetez un œil à l'[antisèche des émojis](https://www.webfx.com/tools/emoji-cheat-sheet/). Vous y trouvez la liste complète des options possibles.
 
-##### Exemple
-
-###### Code
+###### Exemple
 
 ```
 :apple:
@@ -97,13 +94,13 @@ Can be also be used :fire: inline
 
 Can be also be used :fire: inline
 
-####  Note de pied de page
+#####  Note de pied de page
 
 Dans le texte à référencer, utilisez la syntaxe `[^1]`. Variez le chiffre en fonction du numéro de la note. À la fin de la page, saisissez `[^1]: Note de bas de page`. variez le chiffre en fonction de la note. Un lien sera créé entre la marque contenu dans le texte et la note de fin.
 
 Les notes de pied de page apparaissent automatiquement à la fin du fichier.
 
-##### Exemple
+###### Exemple
 
 ```
 Voici une phrase[^1] nécessitant de notes en pied de page.[^2]
@@ -112,11 +109,11 @@ Voici une phrase[^1] nécessitant de notes en pied de page.[^2]
 [^2]: Pied de page n°2.
 ```
 
-####  Bloc de code
+#####  Bloc de code
 
 Utiliser un triple accent grave avant et après le bloc de code.
 
-##### Exemple 1
+###### Exemple 1
 
 ```
 	```
@@ -126,7 +123,7 @@ Utiliser un triple accent grave avant et après le bloc de code.
 	```
 ```
 
-##### Résultat 1
+###### Résultat 1
 
 ```
 function lorem (ipsum) {
@@ -134,7 +131,7 @@ function lorem (ipsum) {
 }
 ```
 
-##### Exemple 2
+###### Exemple 2
 
 Saisissez le nom du langage juste après les trois premiers accents graves. Ainsi, l'affichage du code sera adapté au langage utilisé.
 
@@ -148,7 +145,7 @@ Saisissez le nom du langage juste après les trois premiers accents graves. Ains
 	```
 ```
 
-##### Résultat 2
+###### Résultat 2
 
 ```java
 class main {
@@ -157,12 +154,12 @@ class main {
    void main () {}
 }
 ```
-####  Liste à cocher
+##### Liste à cocher
 
 Utilisez la syntaxe `- [ ]` pour un élément décoché.
 Utilisez la syntaxe `- [x]` pour un élément coché.
 
-##### Exemple
+###### Exemple
 
 ```
 	- [x] Élément vérifié
@@ -170,20 +167,20 @@ Utilisez la syntaxe `- [x]` pour un élément coché.
   - [ ] Un élément à véifier
 ```
 
-##### Résultat
+###### Résultat
 
 - [x] Élément vérifié
 - [x] Un autre élément vérifié
 - [ ] Un élément à véifier
 
 
-#### Diagramme PlantUML
+##### Diagramme PlantUML
 
 Utilisez un bloc de code **plantuml**.
 
 Référez-vous au [site Web de PlantUML](https://plantuml.com/).
 
-##### Exemple
+###### Exemple
 
 ```
 	```plantuml
@@ -191,19 +188,19 @@ Référez-vous au [site Web de PlantUML](https://plantuml.com/).
 	```
 ```
 
-##### Résultat
+###### Résultat
 
 ```plantuml
 Bakhitah->Aba : Hotep
 ```
 
-####  Diagrammes Mermaid
+#####  Diagrammes Mermaid
 
 Utiliser un block de code avec le langage **mermaid**.
 
 Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 
-##### Exemple
+###### Exemple
 
 ```
 	```mermaid
@@ -220,7 +217,7 @@ Référez-vous au [site Web de Mermaid](https://mermaid-js.github.io/mermaid).
 	```
 ```
 
-##### Résultat
+###### Résultat
 
 ```mermaid
 sequenceDiagram
