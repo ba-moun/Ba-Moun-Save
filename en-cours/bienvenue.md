@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T15:37:31.019Z
+date: 2020-06-18T15:48:36.848Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -256,7 +256,19 @@ Il est demandé de remplir les propriétés d'une page lors de sa création.
 
 ![propriete-de-la-page.png](/images/ba-moun-save/propriete-de-la-page.png)
 
-Saisissez donc son **titre** et une **description**. Attribuez lui des **tags** aussi.
+Saisissez donc son **titre** et une **description**.
+
+Attribuez aussi des **tags** à votre page. Ils permettent de trouver rapidement la page. Vous pouvez en mettre plusieurs. Par exemple, une page sur **Méroé** peut être taguée :
+- `ville`,
+- `nile`,
+- `antiquité`,
+- `Soudan`
+- `Royaume`
+- `Royaume de Kush`
+- `Kush`
+- `etc.`
+La page sur **Méroé** peut donc être retrouvée à l'aide d'un de ces tags.
+Un tag peut être ajouté ou supprimé à tout moment.
 
 Pour finir, cliquez sur **OK**. Cela ferme la boîte de dialogue. Vous pouvez enfin commencer à écrire. :)
 
