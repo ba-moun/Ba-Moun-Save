@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T17:46:37.439Z
+date: 2020-06-18T18:08:27.024Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -246,6 +246,14 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 ## Éditeur visuel
 
 L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
+
+# Modifier une page
+
+Vous pouvez éditer une page existante en cliquant sur le crayon en bas à droite. Vous pouvez aussi utiliser le bouton **Créer une nouvelle page** (cf. image en haut à droite).
+
+> Vous devrez utiliser l'éditeur sélectionné à la création de la page.
+{.is-info}
+
 
 # Propriétés de la page
 
