@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-17T23:50:22.803Z
+date: 2020-06-18T15:37:31.019Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -250,18 +250,24 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
 
-# Enter Page Metadata
+# Propriétés de la page
 
-Upon selecting an editor, you'll be prompted with the Page Metadata dialog:
+Il est demandé de remplir les propriétés d'une page lors de sa création.
 
-Page Metadata Dialog
+![propriete-de-la-page.png](/images/ba-moun-save/propriete-de-la-page.png)
 
-Enter a title, description and tags for your page.
+Saisissez donc son **titre** et une **description**. Attribuez lui des **tags** aussi.
 
-Finally, click OK to close the dialog and start writing!
+Pour finir, cliquez sur **OK**. Cela ferme la boîte de dialogue. Vous pouvez enfin commencer à écrire. :)
 
-    You can always return to the Page Metadata dialog later by clicking the Page button, located in the upper-right corner of the page.
+> Vous pouvez toujours retourner sur les propriétés de la page. Cliquez sur le bouton **PAGE** pour cela. Ce dernier est situé en tout en haut à droite de votre page d'édition.
+{.is-info}
 
-# Save
+# Sauvegarder
 
-Your page is not created until you hit the Create button (located in the upper-right corner of the page). It will be saved and rendered, after which you'll automatically be redirected to the final result. Simply click the edit button to go back to editing!
+> Votre page n'est créée qu'une fois que vous avez cliqué sur le bouton **CRÉER**. Celui-ci est tout en haut à droite de votre page d'édition.
+{.is-warning}
+
+Une fois sauvegardé, vous êtes redirigé vers le rendu de la page que vous avez créée.
+
+Cliquez sur le bouton **Éditer / agir sur une page** (cf. première image de cette page) pour reprendre l'édition !
