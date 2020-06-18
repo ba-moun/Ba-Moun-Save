@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T18:08:27.024Z
+date: 2020-06-18T18:19:00.749Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -247,14 +247,6 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
 
-# Modifier une page
-
-Vous pouvez éditer une page existante en cliquant sur le crayon en bas à droite. Vous pouvez aussi utiliser le bouton **Créer une nouvelle page** (cf. image en haut à droite).
-
-> Vous devrez utiliser l'éditeur sélectionné à la création de la page.
-{.is-info}
-
-
 # Propriétés de la page
 
 Il est demandé de remplir les propriétés d'une page lors de sa création.
@@ -288,3 +280,19 @@ Pour finir, cliquez sur **OK**. Cela ferme la boîte de dialogue. Vous pouvez en
 Une fois sauvegardé, vous êtes redirigé vers le rendu de la page que vous avez créée.
 
 Cliquez sur le bouton **Éditer / agir sur une page** (cf. première image de cette page) pour reprendre l'édition !
+# Modifier une page
+
+Vous pouvez éditer une page existante en cliquant sur le crayon en bas à droite. Vous pouvez aussi utiliser le bouton **Créer une nouvelle page** (cf. image en haut à droite).
+
+> Vous devrez utiliser l'éditeur sélectionné à la création de la page.
+{.is-info}
+
+# Gestion des dossiers
+
+Vous n'avez pas besoin de créer des dossiers. Quand vous créez ou déplacez une page, vous n'avez qu'à définir le chemin complet vers le fichier. L'encyclopédie créera automatiquement les répertoires nécessaires. L'encyclopédie supprime automatiquement les dossiers vides.
+
+Par conséquent, déplacer ou créer une page `personnalité/reine/njinga` générera automatiquement les répertoires `personnalité` et `reine`. Peu importe que ces dossiers existent ou pas.
+
+> **Retenez bien**
+> Vous n'avez pas à créer de dossiers. L'encyclopédie crée et supprime automatiquement les répertoires. Vous avez uniquement à définir le chemin complet menant vers la page.
+{.is-info}
