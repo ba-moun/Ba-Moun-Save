@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T18:19:00.749Z
+date: 2020-06-18T18:27:14.578Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -287,7 +287,9 @@ Vous pouvez éditer une page existante en cliquant sur le crayon en bas à droit
 > Vous devrez utiliser l'éditeur sélectionné à la création de la page.
 {.is-info}
 
-# Gestion des dossiers
+# Emplacement d'une page
+
+## Gestion des dossiers
 
 Vous n'avez pas besoin de créer des dossiers. Quand vous créez ou déplacez une page, vous n'avez qu'à définir le chemin complet vers le fichier. L'encyclopédie créera automatiquement les répertoires nécessaires. L'encyclopédie supprime automatiquement les dossiers vides.
 
@@ -296,3 +298,35 @@ Par conséquent, déplacer ou créer une page `personnalité/reine/njinga` gén�
 > **Retenez bien**
 > Vous n'avez pas à créer de dossiers. L'encyclopédie crée et supprime automatiquement les répertoires. Vous avez uniquement à définir le chemin complet menant vers la page.
 {.is-info}
+
+## Règles de nommage
+
+N'utilisez que des caractères alphanumériques.
+
+Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des fichiers :
+
+- a
+- c
+- e
+- f
+- h
+- i
+- p
+- s
+- t
+- u
+- w
+- Code de la langue (exmple : en, fr, …)
+- Code de la langue d'un pays (exemple : ht-ht, en-us, fr-ca, …)
+- _assets
+- favicon
+- favicon.ico
+- graphql
+- healthz
+- home
+- login
+- logout
+- register
+- manifest
+- manifest.json
+- svg
