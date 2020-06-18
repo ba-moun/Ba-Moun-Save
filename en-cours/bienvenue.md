@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T18:27:14.578Z
+date: 2020-06-18T19:09:47.847Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -299,9 +299,9 @@ Par conséquent, déplacer ou créer une page `personnalité/reine/njinga` gén�
 > Vous n'avez pas à créer de dossiers. L'encyclopédie crée et supprime automatiquement les répertoires. Vous avez uniquement à définir le chemin complet menant vers la page.
 {.is-info}
 
-## Règles de nommage
+## Règles de nommage (pages)
 
-N'utilisez que des caractères alphanumériques.
+N'utilisez que des caractères alphanumériques, des tirets ou des tirets du bas.
 
 Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des fichiers :
 
@@ -316,8 +316,8 @@ Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des f
 - t
 - u
 - w
-- Code de la langue (exmple : en, fr, …)
-- Code de la langue d'un pays (exemple : ht-ht, en-us, fr-ca, …)
+- Nom de deux caractères (ex. : fr, en, es, …)
+- Deux lettres suivi d'un tiret puis de deux lettres (exemple : ht-ht, en-us, fr-ca, …)
 - _assets
 - favicon
 - favicon.ico
@@ -330,3 +330,50 @@ Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des f
 - manifest
 - manifest.json
 - svg
+
+# Gestion des média
+
+Tous les éditeurs possèdent un bouton permettant d'ajouter un médium.
+
+## Envoyer un médium sur le serveur
+
+Utilisez le bouton **Upload asset**. Vous pouvez cliquer sur **PARCOURIR**, ou glisser-déposer votre fichier. Cliquez sur **TÉLÉVERSER** pour envoyer vos fichiers sur le serveur.
+
+##  Utiliser un fichier
+
+Sélectionnez le fichier que vous souhaitez insérer. Cliquez ensuite sur le bouton **INSÉRER**.
+
+## Aligner une image
+
+Avant d'insérer une image, vous définir l'alignement de l'image. Le menu d'alignement est tout en bas de la fenêtre de dialogue.
+
+- Left : Alignement à gauche de la page.
+- Centered : Alignement au centre de la page.
+- Right : Alignement à droite de la page.
+- Absolute Top Right : Affiche l'image à l'instar d'un logo tout en haut à droite.
+
+## Gérer les images
+
+Pour renommer, supprimer ou éditer une image, cliquez sur `…`. Un menu contextuel apparaitra.
+
+> Les fonctionnalités grisées ne sont pas encore disponibles.
+{.is-info}
+
+## Emplacement d'une image
+
+### Créer un dossier
+
+Cliquer sur le bouton **NOUVEAU DOSSIER**. Ce bouton se trouve en haut à droite de la liste des images du dossier en cours. Saisissez le nom du nouveau dossier. Respectez les règles de nommage ci-dessous.
+
+### Règles de nommage (images)
+
+Vous devez respecter les règles de nommage suivantes.
+
+- Pas d'espace.
+- Pas de majuscule.
+- Utiliser des caractères alphanumériques.
+- Tiret autorisé.
+- Tiret du bas autorisé.
+- Utilisez au moins trois caractères.
+- Il est interdit d'utiliser deux lettres suivi d'un tiret puis de deux lettres.
+- Terminer par un tiret ou un tiret du bas.
