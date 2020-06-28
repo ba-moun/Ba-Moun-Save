@@ -2,16 +2,22 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-18T19:09:47.847Z
+date: 2020-06-28T11:40:18.002Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
 
-Bienvenue, félicitations et merci pour l'nitérêt que vous portez à [<a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a>.
+Bienvenue, félicitations et merci pour l'nitérêt que vous portez à <a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a>.
+
+Vous trouverez sur cette page comment créer et modifier une page.
 
 ![interface-de-ba-moun-save.png](/images/ba-moun-save/interface-de-ba-moun-save.png)
 
 # Créer une nouvelle page
+
+> Vous avez le droit de créer une page dans l'arborescence `en-cours/` uniquement.
+> L'arborescence `encyclopédie/` est accessible en écriture aux membres du groupe **𓄂 Nkonsonkonson**.
+{.is-warning}
 
 Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouvelle page* (voir première image de cette page). La boite de dialogue suivante apparait.
 
