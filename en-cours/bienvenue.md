@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-06-28T11:42:28.387Z
+date: 2020-06-28T11:44:56.376Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -15,11 +15,6 @@ Vous trouverez sur cette page comment créer et modifier une page.
 
 # Créer une nouvelle page
 
-> Vous avez le droit de créer une page dans l'arborescence `en-cours/` uniquement.
-> L'arborescence `encyclopédie/` est accessible en écriture aux membres du groupe **𓄂 Nkonsonkonson**.
-> Plus d'infos sur les groupes de la communauté <a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a> [-> ici <-](/fr/faq)
-{.is-warning}
-
 Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouvelle page* (voir première image de cette page). La boite de dialogue suivante apparait.
 
 ![creation-de-nouvelle-page.png](/images/ba-moun-save/creation-de-nouvelle-page.png)
@@ -30,6 +25,11 @@ Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouve
    * NE PAS mettre de barre oblique.
    * Il n'est pas nécessaire de créer des dossiers. Saisissez le chemin complet menant vers la page. Les dossiers seront créés automatiquement. Par exemple, en saisissant univers/planète/terre, les dossiers univers et planète sont créés automatiquement s'ils n'existent pas.
 3. Cliquez sur *SELECT* pour poursuivre.
+
+> Vous avez le droit de créer dans l'arborescence `en-cours/` uniquement.
+> L'arborescence `encyclopédie/` n'est accessible en écriture qu'aux **𓄂 Nkonsonkonson**.
+> Plus d'infos sur les groupes de la communauté <a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a> [-> ici <-](/fr/faq)
+{.is-warning}
 
 ## Sélectionner un éditeur
 
