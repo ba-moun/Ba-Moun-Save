@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-06-30T21:30:08.933Z
+date: 2020-06-30T21:30:30.087Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Pour assurer la compréhension des écrits, il est conseillé d'écrire :
 > La *simultanéité* : Aya pense qu'Imhotep lave ses cheveux.
 > L'*antériorité* : Aya pense qu'Imhotep a lavé ses cheveux.
 > La *postériorité* : Aya pense qu'Imhotep lavera ses cheveux.
-{.is-info}
+{.is-success}
 
 # Des phrases simples
 
