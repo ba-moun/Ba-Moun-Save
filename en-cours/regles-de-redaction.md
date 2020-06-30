@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-06-30T21:31:24.971Z
+date: 2020-06-30T21:37:11.256Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe
 editor: markdown
 ---
@@ -44,3 +44,7 @@ Il vous est demandé d'écrire des phrases simples. Évitez autant que possible 
 Il est impératif de citer ses sources. Cela permet aux **𓏞𓏜 Ohu** de juger de la valeur des informations.
 
 Suivez [ce document](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html) pour le format de vos sources. Le format indiqué est fortement apprécié par les **𓏞𓏜 Ohu**.
+
+# Favoriser les listes
+
+Arrivé à un certain nombre d'éléments, favorisez les listes à puce. Vous pouvez aussi utiliser des listes ordonnées.
