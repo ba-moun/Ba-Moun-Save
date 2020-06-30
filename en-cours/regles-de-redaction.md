@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-06-30T21:26:52.735Z
+date: 2020-06-30T21:30:08.933Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe
 editor: markdown
 ---
@@ -27,10 +27,19 @@ Pour assurer la compréhension des écrits, il est conseillé d'écrire :
 > La *postériorité* : Aya pense qu'Imhotep lavera ses cheveux.
 {.is-info}
 
-
 # Des phrases simples
 
 Il vous est demandé d'écrire des phrases simples. Évitez autant que possible les propositions qui et que.
+
+> **Muvais exemple**
+> Imhotep, qui porte une tunique brodée de fil d’or, prend la figue posée sur la table que son père venait d’acheter et qui était mûre.
+{.is-danger}
+
+> **Bon exemple**
+> Imhotep porte une tunique brodée de fil d’or. Il prend la figue posée sur la table achetée par son père. La figue est mûre.
+{.is-success}
+
+
 
 # Toujours citer ses sources
 
