@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-06-18T15:54:04.800Z
+date: 2020-07-01T13:38:14.315Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -73,3 +73,7 @@ Toute modification et/ou ajout de page est effectué dans une zone dédiée aux 
 # Je souhaite m'identifier
 
 Cliquez sur le *Menu utilisateur* situé tout en haut à droite (voir première image de cette page). Si ce n'est pas le cas, vous serez invité.e à vous identifier. Vous pouvez utiliser votre compte Google, Facebook ou <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+
+# Le calendrier utilisé
+
+Les dates indiquées sont celles du calendrier Kamit. L'an 2020 du calendrier grégorien est à cheval entre 6256 et 6257. L'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> se base sur l'application Web [ounout](http://ounout.net/?page_id=704)
