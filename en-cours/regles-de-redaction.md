@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-06-30T21:43:10.600Z
+date: 2020-07-01T12:48:30.603Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe
 editor: markdown
 ---
@@ -48,3 +48,11 @@ Suivez [ce document](https://www.reseau-canope.fr/savoirscdi/centre-de-ressource
 # Favoriser les listes
 
 Arrivé à un certain nombre d'éléments, favorisez les listes à puce. Vous pouvez aussi utiliser des listes ordonnées.
+
+# Lien hypertexte
+
+Les liens hypertextes internes pointent vers des pages publiées. Cela évite de publier des pages contenant des liens vers l'arborescence `en-cours/`.
+
+> **Rappel**
+> Seul les écrivains ont accès aux dossiers de l'arobrescence `en-cours/`.
+{.is-warning}
