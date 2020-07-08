@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T20:13:36.398Z
+date: 2020-07-08T20:25:13.605Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -68,7 +68,23 @@ Il est nécessaire d'assurer la qualité des informations de <a href="https://sa
 
 # La gestion des accès
 
+Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> fait partie d'un de ces groupes. Cette répartition par groupe calque les civilisations négro-africaines.
 
+Ci-dessous une présentation de chacun de ces groupes.
+
+## 𓀀𓁐 Moun
+
+Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas connecté.e. Ainsi, vous pouvez lire des pages et commenter le contenu de l'encyclopédie.
+
+Les pages en cours d'édition ne sont pas accessibles à ce groupe.
+
+## 𓏜 Sua
+
+## 𓏞𓏜 Ohu
+
+## 𓄂 Nkonsonkonson
+
+## 𓎟 Abe Dua
 
 # Comment vérifiez-vous la véracité des informations ?
 
