@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T21:05:53.409Z
+date: 2020-07-08T21:06:41.700Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -70,7 +70,7 @@ Il est nécessaire d'assurer la qualité des informations de <a href="https://sa
 
 Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> fait partie d'un de ces groupes. Cette répartition par groupe calque les civilisations négro-africaines.
 
-Ci-dessous une présentation de chacun de ces groupes.
+Cliquez sur le groupe de votre choix.
 
 ## Onglet des groupes{.tabset}
 
