@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-08T21:03:47.290Z
+date: 2020-07-08T21:04:22.390Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -240,7 +240,7 @@ sequenceDiagram
 
 L'éditeur de code permet de saisir la page au format HTML.
 
-### Cas particulier, les onglets
+##### Cas particulier, les onglets
 
 Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette en-tête ne sera pas affichée dans le résultat final.
 
