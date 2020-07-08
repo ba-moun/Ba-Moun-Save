@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T21:07:04.875Z
+date: 2020-07-08T21:13:34.797Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -66,7 +66,7 @@ Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture
 
 Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Ainsi, toute personne nuisant à cette encyclopédie pourra perdre ses droits d'écriture.
 
-# La gestion des accès
+# Les clans
 
 Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> fait partie d'un de ces groupes. Cette répartition par groupe calque les civilisations négro-africaines.
 
@@ -108,7 +108,7 @@ Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le
 
 **𓄂 Nkonsonkonson** est le groupe des modérateurs. Ceux-ci sont chargés du respect des règles de bonne conduite. Les membres peuvent ajouter et supprimer des droits d'utilisation.
 
-Par exemple, un manque de respect des règles d'utilisation 
+Par exemple, un manque de respect des [règles d'utilisation](/fr/regle-utilisation)
 
 ### 𓎟 Abe Dua
 
