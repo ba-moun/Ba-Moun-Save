@@ -1,8 +1,8 @@
 ---
 title: Bienvenue
-description: Bienvenue dans la branch d'édition de Ba-Moun𓅝Save.
+description: Bienvenue dans la branche d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-07-08T20:08:05.811Z
+date: 2020-07-08T20:08:57.580Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
