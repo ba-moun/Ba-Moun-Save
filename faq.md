@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T21:13:34.797Z
+date: 2020-07-08T22:16:47.979Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -104,13 +104,34 @@ Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le
 
 **𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maitrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
 
-### 𓄂 Nkonsonkonson
+Le symbole du groupe est constitué de deux médou nétchèr. Ceux-ci forment un mot qui se traduit par :
 
-**𓄂 Nkonsonkonson** est le groupe des modérateurs. Ceux-ci sont chargés du respect des règles de bonne conduite. Les membres peuvent ajouter et supprimer des droits d'utilisation.
+- écrire
+- dessiner
+- peindre
+- écriture
+- livre
+- lettre
 
-Par exemple, un manque de respect des [règles d'utilisation](/fr/regle-utilisation)
+Le nom du groupe vient de l'akan `Nea onnim no sua a, ohu`. C'est le nom du symbole adinkra de la connaissance. `Ohu` signifie `savoir` en akan.
+
+### 𓀰 Nkonsonkonson
+
+**𓀰 Nkonsonkonson** est le groupe des modérateurs. Les membres sont chargé.e.s du respect des règles de bonne conduite. Ces membres peuvent ajouter et supprimer des droits d'utilisation.
+
+> **Exemple**
+> Manquez de respect aux [règles d'utilisation](/fr/regle-utilisation). Vous serez potentiellement banni par les **𓀰 Nkonsonkonson**.
+{.is-warning}
+
+Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est le déterminatif du chef.
 
 ### 𓎟 Abe Dua
+
+**𓎟 Abe Dua** est un groupe d'administratrices et d'administrateurs. Les membres sont chargé.e.s de servir la communauté.
+
+`Abe dua` se traduit par `palmier` en akan. C'est le symbole de la richesse, de l'auto-suffisance et de la vitalité.
+
+Le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est un mot qui se traduit par serviteur.
 
 # Comment vérifiez-vous la véracité des informations ?
 
