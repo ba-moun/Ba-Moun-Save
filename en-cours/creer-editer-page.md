@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-08T20:11:25.051Z
+date: 2020-07-08T21:03:04.463Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -46,7 +46,7 @@ Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certa
 > Une page créée avec un éditeur sera obligatoirement modifiée avec ce même éditeur.
 {.is-warning}
 
-### Éditeur Markdown
+#### Éditeur Markdown
 
 L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs. Ci-dessous une liste non exhaustive des balises mises à disposition.
 
