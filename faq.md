@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T20:25:13.605Z
+date: 2020-07-08T20:31:59.506Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -74,11 +74,21 @@ Ci-dessous une présentation de chacun de ces groupes.
 
 ## 𓀀𓁐 Moun
 
-Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas connecté.e. Ainsi, vous pouvez lire des pages et commenter le contenu de l'encyclopédie.
+Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e. Ainsi, vous pouvez lire des pages et commenter le contenu de l'encyclopédie.
 
-Les pages en cours d'édition ne sont pas accessibles à ce groupe.
+> Les pages en cours d'édition ne sont pas accessibles à ce groupe.
+{.is-info}
+
+> **Rappel**
+> Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
+{.is-info}
+
 
 ## 𓏜 Sua
+
+Scribes en herbe. Les membres de ce groupe peuvent proposer des mises à jour de l'encyclopédie. 
+
+> Pour intégrer ce groupe, il faut vous authentifier
 
 ## 𓏞𓏜 Ohu
 
