@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-08T21:03:04.463Z
+date: 2020-07-08T21:03:47.290Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -236,7 +236,7 @@ sequenceDiagram
     Aba->Nkosi: Oui… Nkosi, comment vas-tu ?
 ```
 
-## Éditeur Code
+#### Éditeur Code
 
 L'éditeur de code permet de saisir la page au format HTML.
 
@@ -248,7 +248,7 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 {.is-info}
 
 
-## Éditeur visuel
+#### Éditeur visuel
 
 L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
 
