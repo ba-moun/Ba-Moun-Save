@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T21:16:47.535Z
+date: 2020-07-08T21:43:07.435Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -15,7 +15,7 @@ Certaines pages de l'encyclopédie disposent d'un espace commentaire. Le cas éc
 
 L'espace commentaire est à votre disposition pour que vous échangiez. Vous pouvez dire ce que vous voulez. Néanmoins, vous devez respecter les règles suivantes.
 
-En cas d'irrespect des règles, les [**𓄂 Nkonsonkonson**](/fr/faq#les-clans) peuvent :
+En cas d'irrespect des règles, les [**𓀰 Nkonsonkonson**](/fr/faq#les-clans) peuvent :
 
 - supprimer votre message,
 - supprimer une partie du fil de votre discussion,
