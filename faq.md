@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T20:31:59.506Z
+date: 2020-07-08T20:54:02.621Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -74,25 +74,39 @@ Ci-dessous une présentation de chacun de ces groupes.
 
 ## 𓀀𓁐 Moun
 
-Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e. Ainsi, vous pouvez lire des pages et commenter le contenu de l'encyclopédie.
-
-> Les pages en cours d'édition ne sont pas accessibles à ce groupe.
-{.is-info}
+Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e.
 
 > **Rappel**
 > Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
 {.is-info}
 
+Le groupe est symbolisé par deux médou nétchèr (hiéroglyphes). Ceux-ci sont les déterminatifs utilisés pour désigner le genre humain. Dans ce groupe, vous pouvez lire pages et commenter l'encyclopédie.
+
+> Les pages en cours d'édition ne sont pas accessibles à ce groupe.
+{.is-info}
 
 ## 𓏜 Sua
 
-Scribes en herbe. Les membres de ce groupe peuvent proposer des mises à jour de l'encyclopédie. 
+> Pour intégrer ce groupe, il faut vous authentifier.
+{.is-info}
 
-> Pour intégrer ce groupe, il faut vous authentifier
+**𓏜 Sua** est le groupe des scribes en herbe. C'est l'étape obligatoire avant de passer à un autre groupe. Vous serez initié.e aux règles de rédaction et d'utilisation. Dès lors, vous pourrez proposer des mises à jour de l'encyclopédie. Les membres apprennent tout en participant à la vie de la communauté.
+
+Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le déterminatif de l'apprentissage.
+
+> **Rappel**
+> Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
+{.is-info}
 
 ## 𓏞𓏜 Ohu
 
+**𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maitrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
+
 ## 𓄂 Nkonsonkonson
+
+**𓄂 Nkonsonkonson** est le groupe des modérateurs. Ceux-ci sont chargés du respect des règles de bonne conduite. Les membres peuvent ajouter et supprimer des droits d'utilisation.
+
+Par exemple, un manque de respect des règles d'utilisation 
 
 ## 𓎟 Abe Dua
 
