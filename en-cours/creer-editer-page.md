@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-06-30T20:31:54.854Z
+date: 2020-07-08T20:11:25.051Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -35,7 +35,7 @@ Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouve
 
 ![sélectionner-editeur.png](/images/ba-moun-save/sélectionner-editeur.png)
 
-Vous avez le choix entre plusieurs éditeurs. Choisissez l'éditeur en fonction du contenu que vous souhaitez rédiger. Vous pouvez aussi choisir l'éditeur en fonction de vos préférences. Les informaticiens ont habitiellement une préférence pour l'éditeur Markdown. Les personnes non techniques ont des préférences pour l'éditeur visuel.
+Vous avez le choix entre plusieurs éditeurs. Choisissez l'éditeur en fonction du contenu que vous souhaitez rédiger. Vous pouvez aussi choisir l'éditeur en fonction de vos préférences. Les informaticiens ont habituellement une préférence pour l'éditeur Markdown. Les personnes non techniques ont des préférences pour l'éditeur visuel.
 
 Référez-vous à la section suivante pour une liste complète des éditeurs. Vous y verrez comment les utiliser.
 
@@ -59,7 +59,7 @@ Ajoutez *{.tabset}* à la fin de l'en-tête parente.
 > L'en-tête parente n'est pas affichée.
 {.is-info}
 
-Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous devez utiliser des en-têtes de niveau supérieur par la suite. Les en-têtes de niveau supérieur seront le nom des onglets.Par exemple, si l'en-tête parente est ### (h3), les onglets doivent avoir une en-tête de niveau #### (h4). Le niveau maximum d'une en-tête parente est 5. Le niveau maximum pour une en-tête enfant est 6.
+Vous pouvez utiliser n'importe quel niveau d'en-tête avec *{.tabset}*. Vous devez utiliser des en-têtes de niveau supérieur par la suite. Les en-têtes de niveau supérieur seront le nom des onglets. Par exemple, si l'en-tête parente est ### (h3), les onglets doivent avoir une en-tête de niveau #### (h4). Le niveau maximum d'une en-tête parente est 5. Le niveau maximum pour une en-tête enfant est 6.
 
 ###### Exemple
 
