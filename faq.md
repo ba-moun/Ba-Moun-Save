@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T21:01:15.333Z
+date: 2020-07-08T21:05:53.409Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -72,7 +72,9 @@ Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant
 
 Ci-dessous une présentation de chacun de ces groupes.
 
-## 𓀀𓁐 Moun
+## Onglet des groupes{.tabset}
+
+### 𓀀𓁐 Moun
 
 Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e.
 
@@ -85,7 +87,7 @@ Le groupe est symbolisé par deux médou nétchèr (hiéroglyphes). Ceux-ci sont
 > Les pages en cours d'édition ne sont pas accessibles à ce groupe.
 {.is-info}
 
-## 𓏜 Sua
+### 𓏜 Sua
 
 > Pour intégrer ce groupe, il faut vous authentifier.
 {.is-info}
@@ -98,17 +100,17 @@ Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le
 > Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
 {.is-info}
 
-## 𓏞𓏜 Ohu
+### 𓏞𓏜 Ohu
 
 **𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maitrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
 
-## 𓄂 Nkonsonkonson
+### 𓄂 Nkonsonkonson
 
 **𓄂 Nkonsonkonson** est le groupe des modérateurs. Ceux-ci sont chargés du respect des règles de bonne conduite. Les membres peuvent ajouter et supprimer des droits d'utilisation.
 
 Par exemple, un manque de respect des règles d'utilisation 
 
-## 𓎟 Abe Dua
+### 𓎟 Abe Dua
 
 # Comment vérifiez-vous la véracité des informations ?
 
