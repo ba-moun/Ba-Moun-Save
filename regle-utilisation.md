@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:41:12.991Z
+date: 2020-07-09T19:41:56.348Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -54,8 +54,7 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 
 - La provocation des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans) :
    - effectuer des modifications ne respectant pas les règles de commentaire,
-   - pester contre les décisions des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans),
-   - Antagonizing Moderators: Backseat modding, attacking moderator for decisions, or anything to further complicated matter not involving you is forbidden. Issues with moderator decisions can be made in the appeal form below.
+   - pester contre les décisions des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans).
 
 - Partage de données personnelles :
    - transmettre son numéro de carte de crédit,
