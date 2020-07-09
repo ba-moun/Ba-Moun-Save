@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:23:39.488Z
+date: 2020-07-09T10:24:07.968Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -117,7 +117,7 @@ Vos messages passent automatiquement en attente de validation. Cette validation 
 Pour commenter anonymement :
 
 - cochez la case `COMMENT ANONYMOUSLY`
-- saisissez votre commenatire dans le rectangle blanc
+- saisissez votre commentaire dans le rectangle blanc
 - envoyez votre message en cliquant sur `ADD COMMENT`
 
 > **Rappel**
