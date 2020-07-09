@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:06:49.227Z
+date: 2020-07-09T19:07:18.864Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -58,5 +58,3 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 
 > Contactez les autorités si vous sentez qu'un crime est ou sera commis !
 {.is-warning}
-
-    Graphic media containing violence and pornographic content are not allowed. Profile content allowed by Disqus may not be allowed on all communities, so report such profiles to the site moderator.
