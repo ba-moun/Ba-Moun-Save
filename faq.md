@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:13:44.591Z
+date: 2020-07-09T10:15:37.220Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -42,13 +42,13 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 > Certaines pages ne disposent pas d'espace commentaire.
 {.is-info}
 
-## Je souhaite faire une recherche
+## Rechercher
 
 Cliquez sur la loupe située dans la zone de recherche (voir première image de cette page). Par la suite, saisissez votre recherche et laissez-vous guider. 🙂
 
 L'étiquette à droite de la zone de recherche (cf. première image de la page) vous permet de rechercher par tag. Vous verrez la liste de tous les tags utilisés. Il est possible d'en choisir autant que vous voulez. Toutes les pages correspondant à la sélection s'affichent à droite.
 
-## Je ne sais pas quoi chercher
+## Quoi chercher ?
 
 Dans le menu de navigation (voir première image de cette page), vous disposez d'une arborescence de fichiers. Vous pouvez y naviguer pour voir ce qu'il y a dans l'encyclopédie.  :wink:
 
@@ -59,7 +59,7 @@ Dans le menu de navigation (voir première image de cette page), vous disposez d
 > Sur un téléphone, cliquez sur le bouton bleu en bas à gauche pour voir le *Menu de navigation*. Ce menu est toujours visible sur ordinateur.
 {.is-info}
 
-## Je souhaite mettre un commentaire
+## Commenter
 
 Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement.Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
 
@@ -132,9 +132,9 @@ Pour commenter anonymement :
 {.is-warning}
 
 
-## Je souhaite créer ou modifier une page
+## Créer ou modifier une page
 
-Pour modifier ou créer une page, il faut tout d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
+Pour rédiger, il faut d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
 Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
 
 Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
