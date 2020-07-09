@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:47:45.452Z
+date: 2020-07-09T19:49:21.450Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -34,8 +34,9 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 
 - Le spam :
    - promouvoir un produit ou un service sans rapport avec la discussion,
+   - promouvoir un service ou un produit sans l'accord des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans),
    - envoyer le même commentaire dans plusieurs fils de discussion,
-   - envoyer le même commentaire plusieurs fois dans un même fil de discussion.
+   - envoyer le même commentaire plusieurs fois dans un même fil de discussion,
 
 - Le sabotage :
    - usurper l'identité de quelqu'un pour tromper,
