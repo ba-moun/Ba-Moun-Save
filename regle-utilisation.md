@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:15:09.871Z
+date: 2020-07-09T19:35:18.345Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -26,9 +26,11 @@ Ci-dessous quelques potentiels risques encourus.
 
 Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Cette liste peut être amenée à changer en fonction de la communauté.
 
-- Le harcèlement :
+- Les remarques offensantes :
    - tenir un discours haineux ou toute autre forme de discours,
    - promouvoir le harcèlement d'une personne ou d'un groupe de personnes.
+   - harceler, intimider ou attaquer qui que ce soit,
+   - jurer, tenir de propos racistes ou sexistes.
 
 - Le spam :
    - promouvoir un produit ou un service sans rapport avec la discussion,
@@ -52,6 +54,10 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - communiquer son numéro de téléphone,
    - partager son adresse mail,
    - donner son numéro de sécurité sociale.
+   
+- Le troll :
+   - alimenter ou démarrer un conflit,
+   - créer un compte dédié à l'irrespect des règles de commentaire.
 
 > Vous restez libre de donner votre vrai nom.
 {.is-info}
