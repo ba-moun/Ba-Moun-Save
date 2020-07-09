@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T07:54:18.606Z
+date: 2020-07-09T10:13:44.591Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -61,6 +61,75 @@ Dans le menu de navigation (voir première image de cette page), vous disposez d
 
 ## Je souhaite mettre un commentaire
 
+Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement.Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
+
+> Tout commentaire anonyme est relu avant publication.
+{.is-warning}
+
+Le cas échéant, l'espace commentaire se situe à la fin de la page.
+
+![commentaire.png](/images/ba-moun-save/commentaire.png)
+
+> Ainsi vous serez notifié des prochains messages du fil de discussion.
+> De plus, vos messages seront directement envoyés dans le fil de discussion.
+> 
+> À l'inverse, nous vous déconseillons de commenter anonymement.
+> Il epermet de participer rapidement aux échanges. Néanmoins, vous ne recevrez pas de notification liée à la discussion.
+{.is-info}
+
+### Commenter avec mon compte
+
+#### Onglets{.tabset}
+
+##### Avantages
+
+Vous connecter pour commenter vous permet :
+
+- d'être notifié des prochains messages du fil de discussion,
+- de ne pas attendre que votre message soit validé par les [**𓀰 Nkonsonkonson**](#les-clans).
+
+##### Inconvénients
+
+Il faut vous authentifier pour commenter avec votre compte. Il vous est expliqué comment faire dans l'onglet suivant.
+
+##### Comment faire
+
+Pour commenter avec votre compte, dans l'espace commentaire :
+
+- cliquez sur Login
+- vous avez trois possibilités :
+   - cliquez sur Google pour vous connecter avec votre compte Google
+   - cliquez sur Twitter pour vous connecter avec votre compte Twitter
+   - saisissez votre adresse mail puis cliquez sur `CONTINUE` sinon
+- une fois authentifié.e, Saisissez votre message dans le rectangle blanc.
+- envoyez votre message en cliquant sur `ADD COMMENT`.
+
+### Commenter anonymement
+
+#### Onglets{.tabset}
+
+##### Avantages
+
+Commenter anonymement vous permet de bénéficier des avantages suivants :
+
+- inutile de bénéficier de créer un compte,
+- envoi plus rapide des messages, si vous n'êtes pas encore authentifié.e.
+
+##### Inconvénients
+
+Vos messages seront automatiquement en attente de validation. Cette validation se fait par les [**𓀰 Nkonsonkonson**](#les-clans).
+
+##### Comment faire
+
+Pour commenter anonymement :
+
+- cochez la case `COMMENT ANONYMOUSLY`
+- saisissez votre commenatire dans le rectangle blanc
+- envoyez votre message en cliquant sur `ADD COMMENT`
+
+> **Rappel**
+> Votre message sera visible par tous après validation par les [**𓀰 Nkonsonkonson**](#les-clans).
+{.is-warning}
 
 
 ## Je souhaite créer ou modifier une page
