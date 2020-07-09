@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:24:07.968Z
+date: 2020-07-09T10:26:20.890Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -132,7 +132,7 @@ Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.
 
 Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
 
-# Pourquoi dois-je m'identifier pour créer ou modifier une page ?
+# Pourquoi m'identifier pour créer ou modifier une page ?
 
 Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Ainsi, toute personne nuisant à cette encyclopédie pourra perdre ses droits d'écriture.
 
@@ -203,7 +203,7 @@ Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, 
 
 Le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est un mot qui se traduit par serviteur.
 
-# Comment vérifiez-vous la véracité des informations ?
+# La véracité des informations
 
 Toute modification et/ou ajout de page est effectué dans une zone dédiée aux scribes. Cette zone n'est accessible en lecture/écriture qu'à ces personnes. Par la suite, des modératrices et modérateurs sont chargé.e.s de vérifier les pages terminées. Une fois validées, ces dernières sont publiées.
 
