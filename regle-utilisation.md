@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T18:57:33.726Z
+date: 2020-07-09T19:06:49.227Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -37,21 +37,26 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - usurper l'identité de quelqu'un pour tromper,
    - usurper l'identité de quelqu'un pour créer la confusion,
    - usurper l'identité de quelqu'un pour induire en erreur.
-- Menacer :
+- Partage de contenu inapproprié :
+   - partager des photos porno,
+   - partager des vidéos porno,
+   - partager des photos violentes,
+   - partager des vidéos violentes.
+- Partage de données personnelles :
+   - transmettre son numéro de carte de crédit,
+   - envoyer son adresse postale,
+   - communiquer son numéro de téléphone,
+   - partager son adresse mail,
+   - donner son numéro de sécurité sociale.
+
+> Vous restez libre de donner votre vrai nom.
+{.is-info}
+
+- Les menaces :
    - menacer une personne en particulier
    - menacer un groupe de personnes
 
 > Contactez les autorités si vous sentez qu'un crime est ou sera commis !
 {.is-warning}
 
-   
-
-    Examples include 1) comments posted in large quantities to promote a product or service, 2) the exact same comment posted repeatedly to disrupt a thread. 3) following users multiple times
-    Impersonation
-    You may not impersonate others in a manner that does or is intended to mislead, confuse, or deceive others.
-    Direct threat of harm
-    This covers active threats of harm directed towards a specific person or defined group of individuals. Contact local authorities if you feel a crime has been committed or is imminent.
-    Posting personally identifiable information
-    Examples of protected information: credit card number, home/work address, phone number, email address, social security number. Real name isn't currently covered.
-    Inappropriate profile content
     Graphic media containing violence and pornographic content are not allowed. Profile content allowed by Disqus may not be allowed on all communities, so report such profiles to the site moderator.
