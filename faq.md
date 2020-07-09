@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-08T22:16:47.979Z
+date: 2020-07-09T07:54:18.606Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -37,6 +37,10 @@ Cette page rescence les questions les plus fréquemment posées par la communaut
 * Auteurs : Liste des auteurs et la date de dernière modification de la page.
 * Réseaux sociaux : Permet de partager, d'imprimer et d'ajouter dans vos favoris la page ouverte.
 * Éditer / agir sur une page : Accès rapide au menu d'édition et à d'autres actions sur la page ouverte.
+* Commentaire : Permet d'échanger de manière interactive avec la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+
+> Certaines pages ne disposent pas d'espace commentaire.
+{.is-info}
 
 ## Je souhaite faire une recherche
 
@@ -54,6 +58,10 @@ Dans le menu de navigation (voir première image de cette page), vous disposez d
 
 > Sur un téléphone, cliquez sur le bouton bleu en bas à gauche pour voir le *Menu de navigation*. Ce menu est toujours visible sur ordinateur.
 {.is-info}
+
+## Je souhaite mettre un commentaire
+
+
 
 ## Je souhaite créer ou modifier une page
 
