@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:41:56.348Z
+date: 2020-07-09T19:46:43.710Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -37,10 +37,16 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - envoyer le même commentaire dans plusieurs fils de discussion,
    - envoyer le même commentaire plusieurs fois dans un même fil de discussion.
 
-- L'usurpation d'identité :
+- Le sabotage :
    - usurper l'identité de quelqu'un pour tromper,
    - usurper l'identité de quelqu'un pour créer la confusion,
-   - usurper l'identité de quelqu'un pour induire en erreur.
+   - usurper l'identité de quelqu'un pour induire en erreur,
+   - pirater le service de commentaire,
+   - rechercher et divulguer des informations dans le dessein de nuire,
+   - troller,
+   - alimenter ou démarrer un conflit,
+   - créer un compte dédié à l'irrespect des règles de commentaire,
+   - poster délibérément des messages hostiles, insultants.
 
 - Partage de contenu inapproprié :
    - partager des photos porno,
