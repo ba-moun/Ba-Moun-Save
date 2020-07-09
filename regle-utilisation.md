@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:07:18.864Z
+date: 2020-07-09T19:08:46.113Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -42,6 +42,7 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - partager des vidéos porno,
    - partager des photos violentes,
    - partager des vidéos violentes.
+
 - Partage de données personnelles :
    - transmettre son numéro de carte de crédit,
    - envoyer son adresse postale,
