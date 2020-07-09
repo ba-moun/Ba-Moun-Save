@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:18:38.201Z
+date: 2020-07-09T10:19:09.769Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -76,7 +76,7 @@ Cet espace fournit un environnement interactif à la communauté. Le cas échéa
 
 ##### Avantages
 
-Vous connecter pour commenter vous permet :
+Vous authentifier avant de commenter vous permet :
 
 - d'être notifié des prochains messages du fil de discussion,
 - de ne pas attendre que votre message soit validé par les [**𓀰 Nkonsonkonson**](#les-clans).
