@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:22:59.004Z
+date: 2020-07-09T10:23:39.488Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -110,7 +110,7 @@ Commenter anonymement vous permet de bénéficier des avantages suivants :
 
 ##### Inconvénients
 
-Vos messages seront automatiquement en attente de validation. Cette validation se fait par les [**𓀰 Nkonsonkonson**](#les-clans).
+Vos messages passent automatiquement en attente de validation. Cette validation se fait par les [**𓀰 Nkonsonkonson**](#les-clans).
 
 ##### Comment faire
 
