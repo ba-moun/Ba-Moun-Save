@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:08:46.113Z
+date: 2020-07-09T19:10:12.797Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -29,14 +29,17 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 - Le harcèlement :
    - tenir un discours haineux ou toute autre forme de discours,
    - promouvoir le harcèlement d'une personne ou d'un groupe de personnes.
+
 - Le spam :
    - promouvoir un produit ou un service sans rapport avec la discussion,
    - envoyer le même commentaire dans plusieurs fils de discussion,
    - envoyer le même commentaire plusieurs fois dans un même fil de discussion.
+
 - L'usurpation d'identité :
    - usurper l'identité de quelqu'un pour tromper,
    - usurper l'identité de quelqu'un pour créer la confusion,
    - usurper l'identité de quelqu'un pour induire en erreur.
+
 - Partage de contenu inapproprié :
    - partager des photos porno,
    - partager des vidéos porno,
