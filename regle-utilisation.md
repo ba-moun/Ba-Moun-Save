@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T18:39:04.983Z
+date: 2020-07-09T18:57:33.726Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -14,7 +14,8 @@ Cette page recense les règles d'utilisation de <a href="https://save.ba-moun.co
 Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement. Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
 
 ## Mise en garde
-L'espace commentaire est à votre disposition pour que vous échangiez. Vous pouvez dire ce que vous voulez. Ci-dessous les risques encourus si vous ne respectez pas les règles :
+L'espace commentaire est à votre disposition pour que vous échangiez. Vous pouvez dire ce que vous voulez.
+Ci-dessous quelques potentiels risques encourus.
 
 - suppression de vos messages,
 - suppression d'une partie du fil de votre discussion,
@@ -23,11 +24,28 @@ L'espace commentaire est à votre disposition pour que vous échangiez. Vous pou
 
 ## Règle des commentaires
 
-Les points suivants ne sont pas acceptés sur <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Cette liste peut être amenée à changer en fonction de la communauté.
 
-- Le harcèlementTargeted harassment or encouraging others to do so
-    Hate speech and other forms of targeted and systematic harassment of people have no place on Disqus, nor do we tolerate communities dedicated to fostering harassing behavior.
-    Spam
+- Le harcèlement :
+   - tenir un discours haineux ou toute autre forme de discours,
+   - promouvoir le harcèlement d'une personne ou d'un groupe de personnes.
+- Le spam :
+   - promouvoir un produit ou un service sans rapport avec la discussion,
+   - envoyer le même commentaire dans plusieurs fils de discussion,
+   - envoyer le même commentaire plusieurs fois dans un même fil de discussion.
+- L'usurpation d'identité :
+   - usurper l'identité de quelqu'un pour tromper,
+   - usurper l'identité de quelqu'un pour créer la confusion,
+   - usurper l'identité de quelqu'un pour induire en erreur.
+- Menacer :
+   - menacer une personne en particulier
+   - menacer un groupe de personnes
+
+> Contactez les autorités si vous sentez qu'un crime est ou sera commis !
+{.is-warning}
+
+   
+
     Examples include 1) comments posted in large quantities to promote a product or service, 2) the exact same comment posted repeatedly to disrupt a thread. 3) following users multiple times
     Impersonation
     You may not impersonate others in a manner that does or is intended to mislead, confuse, or deceive others.
