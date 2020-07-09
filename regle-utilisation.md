@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:49:21.450Z
+date: 2020-07-09T19:57:56.746Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -73,3 +73,7 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 
 > Contactez les autorités si vous sentez qu'un crime est ou sera commis !
 {.is-warning}
+
+## Plus d'informations
+
+Cliquez [ici](https://www.ba-moun.com/kriye-ba-moun) pour toute question. Un mail sera envoyé aux [**𓎟 Abe Dua**](/fr/faq#les-clans). Après tout, les [**𓀰 Nkonsonkonson**](/fr/faq#les-clans) peuvent être injustes ou faire des erreurs.
