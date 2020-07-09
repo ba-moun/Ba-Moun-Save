@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:46:43.710Z
+date: 2020-07-09T19:47:45.452Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -46,21 +46,15 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - troller,
    - alimenter ou démarrer un conflit,
    - créer un compte dédié à l'irrespect des règles de commentaire,
-   - poster délibérément des messages hostiles, insultants.
+   - poster délibérément des messages hostiles, insultants,
+   - effectuer des modification de message sans respecter les règles,
+   - pester contre les décisions des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans).
 
 - Partage de contenu inapproprié :
    - partager des photos porno,
    - partager des vidéos porno,
    - partager des photos violentes,
    - partager des vidéos violentes.
-   
-- Le troll :
-   - alimenter ou démarrer un conflit,
-   - créer un compte dédié à l'irrespect des règles de commentaire.
-
-- La provocation des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans) :
-   - effectuer des modifications ne respectant pas les règles de commentaire,
-   - pester contre les décisions des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans).
 
 - Partage de données personnelles :
    - transmettre son numéro de carte de crédit,
