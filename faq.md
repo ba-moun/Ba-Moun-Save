@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:20:13.907Z
+date: 2020-07-09T10:20:47.191Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -90,7 +90,7 @@ Il faut vous authentifier pour commenter avec votre compte. Il vous est expliqu�
 Pour commenter avec votre compte, dans l'espace commentaire :
 
 - cliquez sur `Login`
-- vous avez trois possibilités :
+- authentifiez-vous d'une des trois façons suivantes :
    - cliquez sur Google pour vous connecter avec votre compte Google
    - cliquez sur Twitter pour vous connecter avec votre compte Twitter
    - saisissez votre adresse mail puis cliquez sur `CONTINUE` sinon
