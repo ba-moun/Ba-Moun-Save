@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T14:29:28.852Z
+date: 2020-07-09T18:33:48.334Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -11,7 +11,7 @@ Cette page recense les règles d'utilisation de <a href="https://save.ba-moun.co
 
 # Commentaires
 
-Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement.Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
+Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement. Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
 
 > Le cas échéant, l'espace commentaire se situe à la fin de la page.
 {.is-info}
