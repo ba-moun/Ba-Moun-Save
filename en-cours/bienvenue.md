@@ -2,7 +2,7 @@
 title: Bienvenue
 description: Bienvenue dans la branche d'édition de Ba-Moun𓅝Save.
 published: true
-date: 2020-07-09T07:36:23.056Z
+date: 2020-07-09T07:41:43.392Z
 tags: bienvenue, guide d'édition, scribe, écrire dans ba-moun𓅝save
 editor: markdown
 ---
@@ -15,4 +15,5 @@ Si vous lisez cette page, c'est que vous vous êtes authentifié.e. Les membres 
 {.is-info}
 
 > Vous êtes invité.e à lire les [règles de rédaction](/fr/en-cours/regles-de-redaction). Ces règles sont requises pour ajouter ou modifier du texte.
+> De plus, nous vous exhortons de toujours respecter les [règles d'utilisation](/fr/regle-utilisation).
 {.is-warning}
