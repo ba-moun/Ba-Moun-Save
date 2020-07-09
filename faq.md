@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:22:26.188Z
+date: 2020-07-09T10:22:59.004Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -106,7 +106,7 @@ Pour commenter avec votre compte, dans l'espace commentaire :
 Commenter anonymement vous permet de bénéficier des avantages suivants :
 
 - inutile de créer un compte,
-- rapidité d'envoi des messages, si vous n'êtes pas encore authentifié.e.
+- rapidité d'envoi des messages (vous n'avez pas besoin de vous authentifier).
 
 ##### Inconvénients
 
