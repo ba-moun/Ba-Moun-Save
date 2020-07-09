@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T19:10:12.797Z
+date: 2020-07-09T19:15:09.871Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
