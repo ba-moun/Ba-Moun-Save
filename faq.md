@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:15:37.220Z
+date: 2020-07-09T10:16:40.105Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -61,7 +61,7 @@ Dans le menu de navigation (voir première image de cette page), vous disposez d
 
 ## Commenter
 
-Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement.Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
+Certaines pages de l'encyclopédie disposent d'un espace commentaire. C'est un espace accessible à tous. Vous pouvez envoyer des messages avec votre compte ou anonymement. Cet espace permet de créer un environnement interactif entre les membres de l'encyclopédie.
 
 > Tout commentaire anonyme est relu avant publication.
 {.is-warning}
