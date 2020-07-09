@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:21:12.459Z
+date: 2020-07-09T10:21:27.406Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -94,7 +94,7 @@ Pour commenter avec votre compte, dans l'espace commentaire :
    - cliquez sur Google pour vous connecter avec votre compte Google
    - cliquez sur Twitter pour vous connecter avec votre compte Twitter
    - saisissez votre adresse mail puis cliquez sur `CONTINUE`
-- une fois authentifié.e, Saisissez votre message dans le rectangle blanc.
+- une fois authentifié.e, saisissez votre message dans le rectangle blanc.
 - envoyez votre message en cliquant sur `ADD COMMENT`.
 
 ### Commenter anonymement
