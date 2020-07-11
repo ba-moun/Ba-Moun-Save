@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:42:21.008Z
+date: 2020-07-11T10:50:35.768Z
 tags: 
 editor: markdown
 ---
@@ -33,7 +33,7 @@ Ci-dessous une brève généalogie de Marcus Garvey.
 
 ```mermaid
 flowchart TD
-   id0[Marcus Garvey, père]
+   id0["Marcus Garvey (père)"]
    
    subgraph Fraterie
       id1{{Marcus Garvey}}
@@ -42,8 +42,8 @@ flowchart TD
    end
    
    subgraph Fraterie maternelle
-      id2[Sarah Garvey, mère]
-      id6[Benjie, oncle maternel]
+      id2["Sarah Garvey (mère)"]
+      id6["Benjie (oncle maternel)"]
    end
    
    id0 --> Fraterie
