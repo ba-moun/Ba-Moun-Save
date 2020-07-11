@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:21:57.676Z
+date: 2020-07-11T10:27:17.733Z
 tags: 
 editor: markdown
 ---
@@ -34,23 +34,20 @@ editor: markdown
 ```mermaid
 flowchart TD
    id0[Marcus Garvey, père]
-   id5[grand-parents maternels]
-   
-   subgraph Descendants
-      id1[Marcus Garvey]
-      id3[Indiana Garvey]
-      id4
-      
-   end
    
    subgraph Fraterie
+      id1[Marcus Garvey]
+      id3[Indiana Garvey]
+      id4[9 autres enfants]
+   end
+   
+   subgraph Fraterie maternelle
       id2[Sarah Garvey, mère]
       id6[Benjie, oncle maternel]
    end
    
-   id0 --> Descendants
-   id2 --> Descendants
-   id5 --> Fraterie
+   id0 --> Fraterie
+   id2 --> Fraterie
    
 ```
     
