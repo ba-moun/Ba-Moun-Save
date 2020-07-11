@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:08:50.216Z
+date: 2020-07-11T09:10:13.908Z
 tags: 
 editor: markdown
 ---
@@ -16,7 +16,7 @@ Il nait le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoi
 *Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
 
 # Ambitions
-![Marcus Garvey Tenue D Apparat](/uploads/personnalite/marcus-garvey-tenue-d-apparat.png "Marcus Garvey dans une de ses tenues d'apparat"){.align-right}
+![marcus-garvey-tenue-d-apparat.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat.png){.align-right}
 
 Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'ambition[^1] :
 * de réinstaller l'Afrique et les Africains (tous les Noirs) dans leurs grandeurs et leurs dignités d'antan ;
