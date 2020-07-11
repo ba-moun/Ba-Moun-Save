@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:16:10.307Z
+date: 2020-07-11T09:16:55.618Z
 tags: 
 editor: markdown
 ---
@@ -94,7 +94,7 @@ Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et ta
 
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
-![united-fruit-company.jpg](/images/personnalite/kemit/marcus-garvey/united-fruit-company.jpg){.align-right}
+![united-fruit-company.jpg](/images/personnalite/kemit/marcus-garvey/united-fruit-company.jpg){.align-center}
 
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
