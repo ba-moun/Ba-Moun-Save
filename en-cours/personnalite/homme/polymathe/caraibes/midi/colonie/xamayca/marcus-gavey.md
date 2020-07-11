@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:27:17.733Z
+date: 2020-07-11T10:31:49.519Z
 tags: 
 editor: markdown
 ---
@@ -36,9 +36,9 @@ flowchart TD
    id0[Marcus Garvey, père]
    
    subgraph Fraterie
-      id1[Marcus Garvey]
+      id1{{Marcus Garvey}}
       id3[Indiana Garvey]
-      id4[9 autres enfants]
+      id4[9 autres sœurs et frères]
    end
    
    subgraph Fraterie maternelle
@@ -48,7 +48,7 @@ flowchart TD
    
    id0 --> Fraterie
    id2 --> Fraterie
-   
+      
 ```
     
 Le père de *Marcus Garvey*, s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
@@ -56,7 +56,7 @@ Le père de *Marcus Garvey*, s'appelle lui aussi `Marcus`. Il est maçon et inte
 `Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
 *Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche. Amoureux de lecture, il en vient à acheter ses premiers livres. [^1]
 
-Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
+Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et lui.[^1]
 
 # Mariages
 
