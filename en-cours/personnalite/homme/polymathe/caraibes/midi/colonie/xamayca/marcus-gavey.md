@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:50:35.768Z
+date: 2020-07-11T10:57:31.749Z
 tags: 
 editor: markdown
 ---
@@ -54,7 +54,7 @@ flowchart TD
 Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
 
 `Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
-*Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche. Amoureux de lecture, il en vient à acheter ses premiers livres. [^1]
+*Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche lui permettant d'acheter ses premiers livres. [^1]
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et lui.[^1]
 
