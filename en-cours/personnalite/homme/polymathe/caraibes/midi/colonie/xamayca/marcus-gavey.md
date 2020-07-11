@@ -2,14 +2,14 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:36:59.813Z
+date: 2020-07-11T10:40:54.945Z
 tags: 
 editor: markdown
 ---
 
 ![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
 
-![marcus-garvey-tenue-d-apparat.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat.png){.align-right}
+![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-left}
 
 *Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait le `18 Août 1887` dans un village côtier nommé `Saint Ann's Park`.[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
 À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
