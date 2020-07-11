@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:10:13.908Z
+date: 2020-07-11T09:16:10.307Z
 tags: 
 editor: markdown
 ---
@@ -32,9 +32,10 @@ C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
 # Mariages
-La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
-![Marcus With Amy Jacques Garvey](/uploads/personnalite/marcus-with-amy-jacques-garvey.png "Marcus Garvey et Amy Jacques Garvey, sa seconde femme, en 1922."){.align-center}
+![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
+
+La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
 # Apprentissage
 ## Scolarité
@@ -79,8 +80,6 @@ Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en
 
 ## Voyages
 ### L'Amérique Centrale et la Caraïbe
-![United 20 Fruit](/uploads/certificates/united-20-fruit.jpg "Certificat de l'UFC"){.align-right}
-
 Dans le but d'en apprendre plus sur la condition de ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi d'autres pays de l'Amérique Centrale, *Marcus Garvey* entreprend de voyager.[^1]
 Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
 * Porto Rico, où réside un frère de sa mère ;
@@ -94,6 +93,8 @@ Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-
 Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier étant potentiellement dû à la mal nutrition dont les [kamtyu](/terminologie/mdw-ntr/kamit) souffrent à cette époque.[^1]
 
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
+
+![united-fruit-company.jpg](/images/personnalite/kemit/marcus-garvey/united-fruit-company.jpg){.align-right}
 
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
