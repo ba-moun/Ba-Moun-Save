@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:19:20.886Z
+date: 2020-07-11T09:24:34.816Z
 tags: 
 editor: markdown
 ---
@@ -94,7 +94,7 @@ Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et ta
 
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
-![united-fruit-company.jpg](/images/personnalite/kemit/marcus-garvey/united-fruit-company.jpg){.align-center}
+![united-fruit-company.jpg](/images/company/united-fruit-company/united-fruit-company.jpg){.align-center}
 
 ### L'Europe et les États-Unis d'Amérique
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
@@ -133,7 +133,7 @@ Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendri
 Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
 
 ### The Watchman
-![Black Star Line Certificate](/uploads/document/black-star-line-certificate.png "Certificat de la Black Star Line"){.align-right}
+![black-star-line-certificate_by-sa.png](/images/company/black-star-line/black-star-line-certificate_by-sa.png){.align-right}
 
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
