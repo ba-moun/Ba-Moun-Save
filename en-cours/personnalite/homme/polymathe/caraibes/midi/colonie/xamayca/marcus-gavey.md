@@ -2,12 +2,14 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:31:49.519Z
+date: 2020-07-11T10:35:22.668Z
 tags: 
 editor: markdown
 ---
 
 ![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
+
+![marcus-garvey-tenue-d-apparat.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat.png){.align-right}
 
 *Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait le `18 Août 1887` dans un village côtier nommé `Saint Ann's Park`.[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
 À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
@@ -16,18 +18,14 @@ editor: markdown
 > *Yovodah* est un terme `Fon` utilisé pour désigner l'esclavage. Ce terme définit l'esclavage par "le désastre blanc".
 {.is-info}
 
-# Ambitions
-![marcus-garvey-tenue-d-apparat.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat.png){.align-right}
-
-*Marcus Garvey n'est jamais allé en Afrique[^1]. Néanmoins, il a eu l'ambition de[^1] :
-* restaurer la grandeur et la dignité des kamit (le peuple Noir) ;
-* inciter les kemit à retourner en Afrique ;
+*Marcus Garvey* n'est jamais allé en Afrique[^1]. Néanmoins, il a eu l'ambition de[^1] :
+* restaurer la grandeur et la dignité des kamyout (le peuple Noir) ;
+* inciter les kamyout à retourner en Afrique ;
 * prendre possession de terres africaines pour la communauté.
 
 > **Le saviez-vous ?**
 > À l'époque, le continent est colonisé sauf `Éthiopie 🇪🇹` et `Libéria 🇱🇷`.
 {.is-info}
-
 
 # Famille
 
