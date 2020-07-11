@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:24:34.816Z
+date: 2020-07-11T09:25:16.428Z
 tags: 
 editor: markdown
 ---
@@ -120,9 +120,9 @@ Il estimait que le devoir de révolte et de combat s'imposait à toute personne 
 
 # Réalisations
 ## Gouvernement
-L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
-
 ![marcus-garvey-march-1922_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png){.align-right}
+
+L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
 
 ## Armée
 
@@ -133,11 +133,11 @@ Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendri
 Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
 
 ### The Watchman
-![black-star-line-certificate_by-sa.png](/images/company/black-star-line/black-star-line-certificate_by-sa.png){.align-right}
-
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
+![black-star-line-certificate_by-sa.png](/images/company/black-star-line/black-star-line-certificate_by-sa.png){.align-right}
+
 Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
 # Hommages
 ## Livres
