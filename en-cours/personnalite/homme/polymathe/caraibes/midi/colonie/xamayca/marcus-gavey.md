@@ -2,12 +2,12 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:05:23.309Z
+date: 2020-07-11T09:08:50.216Z
 tags: 
 editor: markdown
 ---
 
-![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.png){.align-abstopright}
+![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
 
 # Origines
 *Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'[île de la Jamaïque](/geographie/ile/caraibes/midi/xamayca)).
