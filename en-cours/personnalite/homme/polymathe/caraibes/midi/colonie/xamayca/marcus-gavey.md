@@ -2,32 +2,62 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:27:21.638Z
+date: 2020-07-11T10:21:57.676Z
 tags: 
 editor: markdown
 ---
 
 ![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
 
-# Origines
-*Marcus Garvey* est un Africain de [Xamayca](/geographie/ile/caraibes/midi/xamayca) (nom originel de l'[île de la Jamaïque](/geographie/ile/caraibes/midi/xamayca)).
-Il nait le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [1887](/histoire/date/calendrier-gregorien/par-annee/1887) dans un village côtier nommé *Saint Ann's Park*.[^1] À cette époque, l'ile est une colonie britanique et l'abolition officiellement de l'esclavage date de 53 ans ([1834](/histoire/date/calendrier-gregorien/par-annee/1834)).[^1] En terme de génération, ses grands-parents ont connu le [Yovodah](/terminologie/fon/yovodah) (terme [Fon](/langue/afrique/a-situer/fon) utilisé, entre autre, pour l'esclavage).
+*Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait le `18 Août 1887` dans un village côtier nommé `Saint Ann's Park`.[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
+À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
 
-*Marcus Garvey* a reçu plusieurs prénoms : Manasseh, Moses, Aurelius et Moziah[^1].
+> **Définition**
+> *Yovodah* est un terme `Fon` utilisé pour désigner l'esclavage. Ce terme définit l'esclavage par "le désastre blanc".
+{.is-info}
 
 # Ambitions
 ![marcus-garvey-tenue-d-apparat.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat.png){.align-right}
 
-Malgré le fait qu'il ne soit jamais allé en Afrique[^1], Marcus Garvey a eu l'ambition[^1] :
-* de réinstaller l'Afrique et les Africains (tous les Noirs) dans leurs grandeurs et leurs dignités d'antan ;
-* d'inciter son peuple (les Africains de la diaspora) à retourner sur sa terre d'origine (l'Afrique continentale) ;
-* de prendre possession des terres africaines pour les Africains du continent et de la diaspora (à son époque, outre l'[Éthiopie](/geographie/empire/afrique/nord-est/ethiopie) et le [Libéria](/geographie/pays/afrique/nord-ouest/liberia), l'Afrique était totalement colonisée).
+*Marcus Garvey n'est jamais allé en Afrique[^1]. Néanmoins, il a eu l'ambition de[^1] :
+* restaurer la grandeur et la dignité des kamit (le peuple Noir) ;
+* inciter les kemit à retourner en Afrique ;
+* prendre possession de terres africaines pour la communauté.
+
+> **Le saviez-vous ?**
+> À l'époque, le continent est colonisé sauf `Éthiopie 🇪🇹` et `Libéria 🇱🇷`.
+{.is-info}
+
 
 # Famille
-Son père, qui s'appelle lui aussi *Marcus*, est maçon. Il possède une grande bibliothèque qui lui permet de travailler son intellecte.
-C'est de son père que *Marcus Garvey* tient son amour pour la lecture.[^2][^1]
 
-*Sarah*, la mère de *Marcus Garvey*, est une femme au foyer. Elle pratique l'agriculture sur un terrain qu'elle partage avec son frère *Benjie*, à *Chalky Hill*. Se terrain permet à *Marcus Garvey* de se faire de l'argent de poche pour acheter ses premiers livres. [^1]
+```mermaid
+flowchart TD
+   id0[Marcus Garvey, père]
+   id5[grand-parents maternels]
+   
+   subgraph Descendants
+      id1[Marcus Garvey]
+      id3[Indiana Garvey]
+      id4
+      
+   end
+   
+   subgraph Fraterie
+      id2[Sarah Garvey, mère]
+      id6[Benjie, oncle maternel]
+   end
+   
+   id0 --> Descendants
+   id2 --> Descendants
+   id5 --> Fraterie
+   
+```
+    
+Le père de *Marcus Garvey*, s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
+
+`Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
+*Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche. Amoureux de lecture, il en vient à acheter ses premiers livres. [^1]
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, lui et sa sœur *Indiana* sont les seuls à ne pas être morts en bas âge.[^1]
 
