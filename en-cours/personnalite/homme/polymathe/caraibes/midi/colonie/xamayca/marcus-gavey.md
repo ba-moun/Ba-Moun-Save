@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T09:25:16.428Z
+date: 2020-07-11T09:27:21.638Z
 tags: 
 editor: markdown
 ---
@@ -120,9 +120,10 @@ Il estimait que le devoir de révolte et de combat s'imposait à toute personne 
 
 # Réalisations
 ## Gouvernement
-![marcus-garvey-march-1922_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png){.align-right}
 
 L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
+
+![marcus-garvey-march-1922_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png){.align-center}
 
 ## Armée
 
