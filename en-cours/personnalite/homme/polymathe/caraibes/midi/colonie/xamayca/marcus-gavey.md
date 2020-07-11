@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:35:22.668Z
+date: 2020-07-11T10:36:59.813Z
 tags: 
 editor: markdown
 ---
@@ -28,6 +28,8 @@ editor: markdown
 {.is-info}
 
 # Famille
+
+Ci-dessous une brève généalogie de Marcus Garvey.
 
 ```mermaid
 flowchart TD
