@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-11T10:57:31.749Z
+date: 2020-07-12T13:18:56.783Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,7 @@ Ci-dessous une brève généalogie de Marcus Garvey.
 ```mermaid
 flowchart TD
    id0["Marcus Garvey (père)"]
+   id7["Amy Jacques Garvey (deuxième femme)"]
    
    subgraph Fraterie
       id1{{Marcus Garvey}}
@@ -41,14 +42,18 @@ flowchart TD
       id4[9 autres sœurs et frères]
    end
    
-   subgraph Fraterie maternelle
+   subgraph Avunculaire
       id2["Sarah Garvey (mère)"]
       id6["Benjie (oncle maternel)"]
    end
    
+   subgraph Descendance
+      id8[Enfant]
+   end
+   
    id0 --> Fraterie
    id2 --> Fraterie
-      
+
 ```
     
 Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
