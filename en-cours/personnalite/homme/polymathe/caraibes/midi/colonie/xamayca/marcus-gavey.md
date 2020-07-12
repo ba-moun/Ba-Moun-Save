@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T16:16:36.615Z
+date: 2020-07-12T16:17:11.023Z
 tags: 
 editor: markdown
 ---
@@ -53,9 +53,9 @@ flowchart TD
 
 ```
 
-![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
-    
 Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
+
+![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
 
 `Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
 *Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche lui permettant d'acheter ses premiers livres. [^1]
