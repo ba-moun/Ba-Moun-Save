@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T13:18:56.783Z
+date: 2020-07-12T16:06:31.483Z
 tags: 
 editor: markdown
 ---
@@ -47,8 +47,8 @@ flowchart TD
       id6["Benjie (oncle maternel)"]
    end
    
-   subgraph Descendance
-      id8[Enfant]
+   subgraph Descendants
+      id8["Enfants"]
    end
    
    id0 --> Fraterie
