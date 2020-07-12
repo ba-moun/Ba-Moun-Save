@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T16:17:11.023Z
+date: 2020-07-12T16:19:25.897Z
 tags: 
 editor: markdown
 ---
@@ -62,7 +62,7 @@ Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intel
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et lui.[^1]
 
-La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
+La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Garvey`. La photo a été prise en `1922`.
 
 # Apprentissage
 ## Scolarité
