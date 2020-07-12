@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T16:19:25.897Z
+date: 2020-07-12T16:21:28.300Z
 tags: 
 editor: markdown
 ---
@@ -60,7 +60,7 @@ Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intel
 `Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
 *Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche lui permettant d'acheter ses premiers livres. [^1]
 
-Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et lui.[^1]
+Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et *lui*.[^1]
 
 La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Garvey`. La photo a été prise en `1922`.
 
