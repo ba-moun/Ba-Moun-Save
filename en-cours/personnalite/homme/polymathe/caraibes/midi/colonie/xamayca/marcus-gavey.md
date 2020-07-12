@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T16:06:31.483Z
+date: 2020-07-12T16:16:36.615Z
 tags: 
 editor: markdown
 ---
@@ -33,11 +33,8 @@ Ci-dessous une brève généalogie de Marcus Garvey.
 
 ```mermaid
 flowchart TD
-   id0["Marcus Garvey (père)"]
-   id7["Amy Jacques Garvey (deuxième femme)"]
-   
    subgraph Fraterie
-      id1{{Marcus Garvey}}
+      id1[Marcus Garvey]
       id3[Indiana Garvey]
       id4[9 autres sœurs et frères]
    end
@@ -47,14 +44,16 @@ flowchart TD
       id6["Benjie (oncle maternel)"]
    end
    
-   subgraph Descendants
+   subgraph Descendance
       id8["Enfants"]
    end
    
-   id0 --> Fraterie
-   id2 --> Fraterie
+   id0["Marcus Garvey (père)"] & id2     --> Fraterie
+   id7["Amy Jacques (2ème femme)"] & id1 --> Descendance
 
 ```
+
+![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
     
 Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
 
@@ -62,10 +61,6 @@ Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intel
 *Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche lui permettant d'acheter ses premiers livres. [^1]
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et lui.[^1]
-
-# Mariages
-
-![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
 
 La photo suivante illustre Marcus GARVEY et sa seconde femme, Amy Jacques Garvey. Photo prise en [1922](/histoire/date/calendrier-gregorien/par-annee/1922).
 
