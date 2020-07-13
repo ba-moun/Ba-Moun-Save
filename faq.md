@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-13T19:57:11.095Z
+date: 2020-07-13T20:03:45.965Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -186,7 +186,7 @@ Le nom du groupe vient de l'akan `Nea onnim no sua a, ohu`. C'est le nom du symb
 
 ### 𓀰 Nkonsonkonson
 
-**𓀰 Nkonsonkonson** est le groupe des modérateurs. Les membres sont chargé.e.s du respect des règles de bonne conduite. Ces membres peuvent ajouter et supprimer des droits d'utilisation.
+**𓀰 Nkonsonkonson** est le groupe des modérateurs. Les membres sont chargés du respect des règles de bonne conduite. Ces membres peuvent ajouter et supprimer des droits d'utilisation.
 
 > **Exemple**
 > Manquez de respect aux [règles d'utilisation](/fr/regle-utilisation). Vous serez potentiellement banni par les **𓀰 Nkonsonkonson**.
@@ -196,7 +196,7 @@ Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, 
 
 ### 𓎟 Abe Dua
 
-**𓎟 Abe Dua** est un groupe d'administratrices et d'administrateurs. Les membres sont chargé.e.s de servir la communauté.
+**𓎟 Abe Dua** est un groupe d'administratrices et d'administrateurs. Les membres sont chargés de servir la communauté.
 
 `Abe dua` se traduit par `palmier` en akan. C'est le symbole de la richesse, de l'auto-suffisance et de la vitalité.
 
@@ -204,7 +204,7 @@ Le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est un mot qui se
 
 # Véracité des infos
 
-Toute modification et/ou ajout de page est effectué dans une zone dédiée aux scribes. Cette zone n'est accessible en lecture/écriture qu'à ces personnes. Par la suite, des modératrices et modérateurs sont chargé.e.s de vérifier les pages terminées. Une fois validées, ces dernières sont publiées.
+Toute modification et/ou ajout de page est effectué dans une zone dédiée aux scribes. Cette zone n'est accessible en lecture/écriture qu'à ces personnes. Par la suite, des modérateurs vérifient les pages terminées. Une fois validées, ces dernières sont publiées.
 
 # Comment m'identifier
 
