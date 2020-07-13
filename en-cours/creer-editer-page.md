@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-13T19:40:02.489Z
+date: 2020-07-13T19:45:20.047Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -336,7 +336,7 @@ Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des f
 - manifest.json
 - svg
 
-# Gestion des média
+# Gestion des médias
 
 Tous les éditeurs possèdent un bouton permettant d'ajouter un médium.
 
@@ -350,7 +350,7 @@ Sélectionnez le fichier que vous souhaitez insérer. Cliquez ensuite sur le bou
 
 ## Aligner une image
 
-Avant d'insérer une image, vous définir l'alignement de l'image. Le menu d'alignement est tout en bas de la fenêtre de dialogue.
+Avant d'insérer une image, vous devez définir l'alignement de l'image. Le menu d'alignement est tout en bas de la fenêtre de dialogue.
 
 - Left : Alignement à gauche de la page.
 - Centered : Alignement au centre de la page.
