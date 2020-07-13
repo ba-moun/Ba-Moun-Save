@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-09T10:26:20.890Z
+date: 2020-07-13T19:48:08.888Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -125,14 +125,14 @@ Pour commenter anonymement :
 {.is-warning}
 
 
-## Créer ou modifier une page
+## Éditer une page
 
 Pour rédiger, il faut d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
 Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
 
 Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
 
-# Pourquoi m'identifier pour créer ou modifier une page ?
+# Utilité du compte utilisateur
 
 Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Ainsi, toute personne nuisant à cette encyclopédie pourra perdre ses droits d'écriture.
 
@@ -203,11 +203,11 @@ Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, 
 
 Le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est un mot qui se traduit par serviteur.
 
-# La véracité des informations
+# Véracité des infos
 
 Toute modification et/ou ajout de page est effectué dans une zone dédiée aux scribes. Cette zone n'est accessible en lecture/écriture qu'à ces personnes. Par la suite, des modératrices et modérateurs sont chargé.e.s de vérifier les pages terminées. Une fois validées, ces dernières sont publiées.
 
-# Je souhaite m'identifier
+# Comment m'identifier
 
 Cliquez sur le *Menu utilisateur* situé tout en haut à droite (voir première image de cette page). Si ce n'est pas le cas, vous serez invité.e à vous identifier. Vous pouvez utiliser votre compte Google, Facebook ou <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
