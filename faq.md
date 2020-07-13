@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-13T19:55:16.450Z
+date: 2020-07-13T19:57:11.095Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -172,16 +172,15 @@ Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le
 
 ### 𓏞𓏜 Ohu
 
-**𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maitrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
+**𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maîtrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
 
 Le symbole du groupe est constitué de deux médou nétchèr. Ceux-ci forment un mot qui se traduit par :
 
-- écrire
-- dessiner
-- peindre
-- écriture
-- livre
-- lettre
+- dessiner,
+- peindre,
+- livre,
+- lettre,
+- écrire ou écriture.
 
 Le nom du groupe vient de l'akan `Nea onnim no sua a, ohu`. C'est le nom du symbole adinkra de la connaissance. `Ohu` signifie `savoir` en akan.
 
