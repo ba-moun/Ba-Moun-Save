@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-12T16:21:28.300Z
+date: 2020-07-13T22:57:42.157Z
 tags: 
 editor: markdown
 ---
@@ -11,8 +11,8 @@ editor: markdown
 
 ![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-left}
 
-*Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait le `18 Août 1887` dans un village côtier nommé `Saint Ann's Park`.[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
-À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
+*Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait dans un village côtier nommé `Saint Ann's Park`, le `18 Août 1887` (`calendrier grégorien`).[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
+À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834` du `calendrier grégorien`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
 
 > **Définition**
 > *Yovodah* est un terme `Fon` utilisé pour désigner l'esclavage. Ce terme définit l'esclavage par "le désastre blanc".
@@ -62,17 +62,21 @@ Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intel
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et *lui*.[^1]
 
-La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Garvey`. La photo a été prise en `1922`.
+La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Garvey`. La photo a été prise en `1922` (`calendrier grégorien`).
 
 # Apprentissage
 ## Scolarité
-Le père de *Marcus Garvey* a été son premier formateur. Il lui enseignait la lecture et lui racontait des histoires portant sur ses ancêtres, tel quel les [Nègres marrons](/personnalite/titre/negre-marron).[^1]
+*Marcus Garvey* a grandi à Saint Ann's (`Xamayca`). Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
 
-*Marcus Garvey* grandit à Saint Ann's ([Xamayca](/geographie/ile/caraibes/midi/xamayca)) où il effectue ses études primaires et secondaires.[^1]
-Afin d'assurer sa réussite scolaire, sa mère, Sarah, lui prend des cours particuliers.[^1]
+Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui a raconté des histoires sur les `Nègres marrons` et enseigné la lecture.[^1]
 
-À l'âge de neuf ans, *Marcus Garvey* a pris la décision d'acheter des livres à l'aide de l'argent de poche que son oncle *Benji* lui donnait lorsqu'il l'assistait dans ses travaux agricoles.[^1]
-Quand vient le moment où ses parents n'ont plus les moyens de payer ses études, *Marcus* décide de s'auto-former dans le but d'assouvir son désir de servir son peuple.[^1]
+À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Il profite de son argent de poche. Il l'a gagné en travaillant la terre avec son oncle et sa mère.[^1]
+
+![penny-jamaicain_public-domain.jpg](/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg){.align-right}
+
+Ci-contre un penny jamaicain. C'est la monnaie qu'a utilisé *Marcus Garvey*. Depuis 
+
+À terme, ses parents ne peuvent plus payer ses études. *Marcus Garvey* décide donc de s'auto-former. Son but est d'assouvir son désir de servir son peuple.[^1]
  
 ## Parcours professionnel
 À quatorze ans, *Marcus Garvey* s'est vu contraint d'arrêter les études par manque de moyens financiers ; il est donc embauché dans l'imprimerie d'*Alfred E. Burrowes* située à *Saint Ann's Bay* en tant que typographe.[^1]
