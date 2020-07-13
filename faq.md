@@ -2,12 +2,12 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-13T19:48:08.888Z
+date: 2020-07-13T19:55:16.450Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
 
-Cette page rescence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+Cette page recence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 # Utilisation de l'encyclopédie ?
 
@@ -146,13 +146,13 @@ Cliquez sur le nom d'un groupe pour avoir sa description.
 
 ### 𓀀𓁐 Moun
 
-Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e.
+Le groupe **𓀀𓁐 Moun** est comparable à un `groupe invité`. Vous faites partie de ce groupe tant que vous ne vous êtes pas authentifié.e. Ce groupe permet de lire toutes les pages publiées.
 
 > **Rappel**
 > Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
 {.is-info}
 
-Le groupe est symbolisé par deux médou nétchèr (hiéroglyphes). Ceux-ci sont les déterminatifs utilisés pour désigner le genre humain. Dans ce groupe, vous pouvez lire pages et commenter l'encyclopédie.
+Les symboles du groupe sont deux médou nétchèr (hiéroglyphes). Ils représent, de gauche à droite, une femme et un homme (cf. classification Gardiner). Ces médou nétchèr sont les déterminatifs du genre humain.
 
 > Les pages en cours d'édition ne sont pas accessibles à ce groupe.
 {.is-info}
