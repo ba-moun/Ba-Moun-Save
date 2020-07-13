@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-13T19:38:58.509Z
+date: 2020-07-13T19:40:02.489Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -250,7 +250,7 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 #### Éditeur visuel
 
-L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
+L'éditeur visuel est parfait pour les profils non techniques. Il permet de voir directement le résultat de ce qui est saisis.
 
 # Propriétés
 
