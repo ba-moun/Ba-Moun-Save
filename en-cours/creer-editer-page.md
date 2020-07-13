@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-08T21:04:22.390Z
+date: 2020-07-13T19:38:58.509Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -11,7 +11,7 @@ Vous trouverez sur cette page comment créer ou modifier une page.
 
 ![interface-de-ba-moun-save.png](/images/ba-moun-save/interface-de-ba-moun-save.png)
 
-# Créer une nouvelle page
+# Nouvelle page
 
 Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouvelle page* (voir première image de cette page). La boite de dialogue suivante apparait.
 
@@ -29,7 +29,7 @@ Dans le but de créer une nouvelle page, cliquez sur le bouton *Créer une nouve
 > Plus d'infos sur les groupes de la communauté <a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a> [-> ici <-](/fr/faq)
 {.is-warning}
 
-## Sélectionner un éditeur
+## Sélection d'éditeur
 
 À la création d'une nouvelle page, la boîte de dialogue suivante s'affichera.
 
@@ -252,7 +252,7 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 L'éditeur visuel est parfait pour les profils non techniques. Il de voir directement le résultat de ce qui est saisis.
 
-# Propriétés de la page
+# Propriétés
 
 Il est demandé de remplir les propriétés d'une page lors de sa création.
 
@@ -292,9 +292,9 @@ Vous pouvez éditer une page existante en cliquant sur le crayon en bas à droit
 > Vous devrez utiliser l'éditeur sélectionné à la création de la page.
 {.is-info}
 
-# Emplacement d'une page
+# Emplacement des pages
 
-## Gestion des dossiers
+## Dossiers des pages
 
 Vous n'avez pas besoin de créer des dossiers. Quand vous créez ou déplacez une page, vous n'avez qu'à définir le chemin complet vers le fichier. L'encyclopédie créera automatiquement les répertoires nécessaires. L'encyclopédie supprime automatiquement les dossiers vides.
 
@@ -304,7 +304,7 @@ Par conséquent, déplacer ou créer une page `personnalité/reine/njinga` gén�
 > Vous n'avez pas à créer de dossiers. L'encyclopédie crée et supprime automatiquement les répertoires. Vous avez uniquement à définir le chemin complet menant vers la page.
 {.is-info}
 
-## Règles de nommage (pages)
+## Nommage des pages
 
 N'utilisez que des caractères alphanumériques, des tirets ou des tirets du bas.
 
@@ -340,7 +340,7 @@ Les noms suivants ne peuvent être utilisés ni pour des dossiers, ni pour des f
 
 Tous les éditeurs possèdent un bouton permettant d'ajouter un médium.
 
-## Envoyer un médium sur le serveur
+## Envoyer un média
 
 Utilisez le bouton **Upload asset**. Vous pouvez cliquer sur **PARCOURIR**, ou glisser-déposer votre fichier. Cliquez sur **TÉLÉVERSER** pour envoyer vos fichiers sur le serveur.
 
