@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T19:47:27.898Z
+date: 2020-07-15T20:34:23.335Z
 tags: 
 editor: markdown
 ---
@@ -58,9 +58,6 @@ Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intel
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et *lui*.[^1]
 
-<figure class="image"><img src="/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png"> <figcaption><i>Marcus Garvey</i> et Amy Jacques Garvey, sa 2<sup>nde</sup> femme.</figcaption></figure>
-
-
 # Apprentissage
 ## Scolarité
 *Marcus Garvey* a grandi à Saint Ann's (`Xamayca`). Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
@@ -75,10 +72,16 @@ Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raco
 
 <figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
 
-À quatorze ans, *Marcus Garvey* s'est vu contraint d'arrêter les études par manque de moyens financiers ; il est donc embauché dans l'imprimerie d'*Alfred E. Burrowes* située à *Saint Ann's Bay* en tant que typographe.[^1]
-Ce premier métier lui a ouvert les portes du monde de l'imprimerie et lui a permi d'augmenter sa culture grâce à la lecture de nombreux ouvrages portant sur des figures historiques de la Caraïbe (ex. : [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco) et [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle)).[^1]
+À quatorze ans, *Marcus Garvey* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
 
-Étant sérieux et passionné par le métier d'imprimeur, *Marcus Garvey* a appris vite et si bien qu'à l'âge de dix-huit ans, il est devenu maître typographe et contre-maître à *P.A. Benjamin Company*, l'une des plus grandes imprimeries de Kingston (capitale de [Xamayca](/geographie/ile/caraibes/midi/xamayca)).[^1]
+Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, à `Xamayca`. Ce poste permet à *Marcus Garvey* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
+- le `général Cudjo`,
+- `Tacky`,
+- `Sam Sharpe`,
+- `Quaco`,
+- `Paul Bogle`.
+
+*Marcus Garvey* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca`). Il a le poste de maître typographe et contre-maître.[^1]
 
 Suite à sa participation à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907), *Marcus* est licencié ; ce qui l'a amené à trouver un autre poste d'imprimeur au gouvernement colonial.
 
