@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:45:01.658Z
+date: 2020-07-15T21:54:20.670Z
 tags: 
 editor: markdown
 ---
@@ -143,10 +143,7 @@ En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre p
 > Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.
 {.is-info}
 
-En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* a adhéré au parti politique [National Club](/organisme/parti-politique/national-club), ce qui lui a permi de découvrir la politique par la pratique. [National Club](/organisme/parti-politique/national-club) était reconnu au niveau national étant donné que deux de ses membres ont réussi à se faire élire au conseil législatif avant l'arrivé de *Marcus*.[^1]
-
-La même année, il y a réussi à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
-Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
+En `1910`, *Garvey* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
 
 ## Voyages
 ### L'Amérique Centrale et la Caraïbe
