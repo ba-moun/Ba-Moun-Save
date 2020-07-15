@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:29:47.443Z
+date: 2020-07-15T21:33:19.802Z
 tags: 
 editor: markdown
 ---
@@ -80,18 +80,18 @@ flowchart TB
    end
    
    subgraph id2["date inconnue"]
-      id1["Employeur : à Alfred E. Burrowes"]
+      id1["Employeur : Alfred E. Burrowes"]
       id3["Approfondit ses connaissances de la Caraïbe"]
    end
    
    subgraph id4["1905 (18 ans)"]
-      id5["Poste : maître typographe et contre-maître
+      id5["Nouveau poste : maître typographe et contre-maître
       Employeur : P.A. Benjamin Company"]
    end
    
    subgraph id7["1907 (20 ans)"]
       id6["Participation à une grève"] --> id8["Licenciement de P.A. Benjamin Company"]
-      id9["Poste : imprimeur
+      id9["Nouveau poste : imprimeur
       Employeur : Gouvernement colonial"]
    end
    
