@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:33:19.802Z
+date: 2020-07-15T21:45:01.658Z
 tags: 
 editor: markdown
 ---
@@ -134,13 +134,17 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De 
 *Marcus Garvey* débute en politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
 En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus Garvey* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
-Malgré les promesses qui lui ont fait le patronat, *Marcus Garvey* s'est tenu de rester solidaire de son peuple. En retour, suite à la grêve, le patronat[^1] :
-* lui a fait perdre son poste ;
-* l'a radié de la liste des imprimeurs ;
-* l'a condamné à changer de profession.
-Malgré cela, *Marcus* a réussi à être embauché en tant qu'imprimeur au sein du gouvernement colonial.
+> **Le saviez-vous ?**
+> Malgré les promesses du patronat, *Marcus Garvey* est resté solidaire en grêvant **avec son peuple** ! En retour, le patronat a :
+> - licencié *Marcus*,
+> - radié ce dernier de la liste des imprimeurs,
+> - condamné *Marcus* à changer de profession.
+> 
+> Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.
+{.is-info}
 
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* a adhéré au parti politique [National Club](/organisme/parti-politique/national-club), ce qui lui a permi de découvrir la politique par la pratique. [National Club](/organisme/parti-politique/national-club) était reconnu au niveau national étant donné que deux de ses membres ont réussi à se faire élire au conseil législatif avant l'arrivé de *Marcus*.[^1]
+
 La même année, il y a réussi à obtenir l'un des trois postes de secrétaire adjoint du parti.[^1]
 Enfin, pendant la même année et jusqu'à son départ en Amérique Centrale (en fin d'année), *Marcus* participe à l'animation de [Our Own](/organisme/journal/our-own), le journal du parti.[^1]
 
