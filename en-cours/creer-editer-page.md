@@ -2,7 +2,7 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-13T19:45:20.047Z
+date: 2020-07-15T20:12:54.659Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
@@ -47,6 +47,10 @@ Vous pouvez utiliser l'éditeur de votre choix à la création d'une page. Certa
 {.is-warning}
 
 #### Éditeur Markdown
+
+> Vous disposez de [cette page](/fr/en-cours/page-de-test-ter) pour tester l'éditeur Markdown. Pensez juste à respecter [les règles de bonne conduite](/fr/regle-utilisation#règles-de-bonne-conduite), svp. 🙂
+{.is-info}
+
 
 L'éditeur Markdown fournit un système de balise. Les sites Web comme GitHub fournissent de tels éditeurs. Ci-dessous une liste non exhaustive des balises mises à disposition.
 
@@ -240,6 +244,9 @@ sequenceDiagram
 
 L'éditeur de code permet de saisir la page au format HTML.
 
+> Vous disposez de [cette page](/fr/en-cours/page-de-test-bis) pour tester l'éditeur Code. Pensez juste à respecter [les règles de bonne conduite](/fr/regle-utilisation#règles-de-bonne-conduite), svp. 🙂
+{.is-info}
+
 ##### Cas particulier, les onglets
 
 Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette en-tête ne sera pas affichée dans le résultat final.
@@ -249,6 +256,9 @@ Utilisez des en-têtes. Ajoutez la classe `tabset` à l'en-tête parente. Cette 
 
 
 #### Éditeur visuel
+
+> Vous disposez de [cette page](/fr/en-cours/page-de-test) pour tester l'éditeur Visuel. Pensez juste à respecter [les règles de bonne conduite](/fr/regle-utilisation#règles-de-bonne-conduite), svp. 🙂
+{.is-info}
 
 L'éditeur visuel est parfait pour les profils non techniques. Il permet de voir directement le résultat de ce qui est saisis.
 
