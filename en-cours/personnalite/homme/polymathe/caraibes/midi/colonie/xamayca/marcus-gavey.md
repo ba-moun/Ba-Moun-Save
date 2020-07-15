@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:54:20.670Z
+date: 2020-07-15T21:58:07.671Z
 tags: 
 editor: markdown
 ---
@@ -110,6 +110,8 @@ flowchart TB
 
 À quatorze ans, *Marcus Garvey* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
 
+<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus Garvey</i></figcaption></figure>
+
 Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, à `Xamayca`. Ce poste permet à *Marcus Garvey* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
 - le `général Cudjo`,
 - `Tacky`,
@@ -131,7 +133,7 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De 
 
 ![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-right}
 
-*Marcus Garvey* débute en politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
+*Marcus Garvey* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
 En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus Garvey* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
 > **Le saviez-vous ?**
@@ -168,8 +170,6 @@ L'illustration ci-contre est un certificat d'une grande firme capitaliste transn
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
 #### L'Europe
-
-<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
 
 Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
 
