@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-13T22:57:42.157Z
+date: 2020-07-15T19:29:57.904Z
 tags: 
 editor: markdown
 ---
@@ -68,11 +68,13 @@ La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Gar
 ## Scolarité
 *Marcus Garvey* a grandi à Saint Ann's (`Xamayca`). Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
 
-Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui a raconté des histoires sur les `Nègres marrons` et enseigné la lecture.[^1]
+Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raconte des histoires sur les `Nègres marrons` et lui enseigne la lecture.[^1]
 
-À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Il profite de son argent de poche. Il l'a gagné en travaillant la terre avec son oncle et sa mère.[^1]
+À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il décide se faire de l'argent de poche. en travaillant la terre avec `son oncle Benji` et `sa mère Sarah`.[^1]
 
 ![penny-jamaicain_public-domain.jpg](/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg){.align-right}
+
+<figure class="image"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Ci-contre un penny jamaicain, la monnaie contemporaine de *Marcus Garvey*.</figcaption></figure>
 
 Ci-contre un penny jamaicain. C'est la monnaie qu'a utilisé *Marcus Garvey*. Depuis 
 
