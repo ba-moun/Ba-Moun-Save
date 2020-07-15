@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T19:33:29.283Z
+date: 2020-07-15T19:34:12.013Z
 tags: 
 editor: markdown
 ---
@@ -70,7 +70,7 @@ La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Gar
 
 Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raconte des histoires sur les `Nègres marrons` et lui enseigne la lecture.[^1]
 
-<figure class="image image-style-align-right"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
+<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
 
 À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il décide se faire de l'argent de poche. en travaillant la terre avec `son oncle Benji` et `sa mère Sarah`.[^1]
 
