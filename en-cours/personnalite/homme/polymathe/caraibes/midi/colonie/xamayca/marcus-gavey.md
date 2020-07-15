@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:15:48.697Z
+date: 2020-07-15T21:29:47.443Z
 tags: 
 editor: markdown
 ---
@@ -131,15 +131,10 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De 
 
 ![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-right}
 
-Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former.
-Pour commencer, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
+*Marcus Garvey* débute en politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
+En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus Garvey* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
-En [1907](/histoire/date/calendrier-gregorien/par-annee/1907), un tremblement de terre a dévasté son île. Cette catastrophe naturelle a engendré[^1] :
-* une pénurie des denrées alimentaires ;
-* une baisse des salaires ;
-* une flambée des prix.
-En réponse à cela, les habitants de l'île ont effectué une longue grêve qui fut déclenchée par l'imprimerie *La Printer's Union*.[^1]
-*Marcus Garvey* s'est joint au mouvement alors qu'en principe, étant contre-maître, il se devait d'être du côté des patrons. D'ailleurs, malgré les promesses qui lui ont fait le patronat, *Marcus Garvey* s'est tenu de rester solidaire de son peuple. En retour, suite à la grêve, le patronat[^1] :
+Malgré les promesses qui lui ont fait le patronat, *Marcus Garvey* s'est tenu de rester solidaire de son peuple. En retour, suite à la grêve, le patronat[^1] :
 * lui a fait perdre son poste ;
 * l'a radié de la liste des imprimeurs ;
 * l'a condamné à changer de profession.
