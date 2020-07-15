@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T19:34:12.013Z
+date: 2020-07-15T19:40:03.705Z
 tags: 
 editor: markdown
 ---
@@ -53,16 +53,17 @@ flowchart TD
 
 ```
 
-Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel. Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
+Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel.
 
-![marcus-with-amy-jacques-garvey_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png){.align-right}
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png"> <figcaption><i>Marcus Garvey</i> et Amy Jacques Garvey, sa 2<sup>nde</sup> femme, .</figcaption></figure>
+
+
+Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
 
 `Sarah`, la mère de *Marcus Garvey*, est une agricultrice. Elle pratique sur un terrain qu'elle partage avec son frère `Benjie`. Ce terrain se trouve à `Chalky Hill`.
 *Marcus* se met lui aussi à l'agriculture. Cela lui permet de gagner de l'argent de poche lui permettant d'acheter ses premiers livres. [^1]
 
 Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze frères et sœurs, deux ne sont pas morts en bas âge. Il s'agit de sa sœur `Indiana` et *lui*.[^1]
-
-La photo ci-contre illustre *Marcus GARVEY* et sa seconde femme `Amy Jacques Garvey`. La photo a été prise en `1922` (`calendrier grégorien`).
 
 # Apprentissage
 ## Scolarité
