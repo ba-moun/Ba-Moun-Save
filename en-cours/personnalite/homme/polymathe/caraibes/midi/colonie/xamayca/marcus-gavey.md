@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T21:58:07.671Z
+date: 2020-07-15T22:07:35.494Z
 tags: 
 editor: markdown
 ---
@@ -85,7 +85,7 @@ flowchart TB
    end
    
    subgraph id4["1905 (18 ans)"]
-      id5["Nouveau poste : maître typographe et contre-maître
+      id5["Nouveau poste : maître typographe et contre-maître en imprimerie
       Employeur : P.A. Benjamin Company"]
    end
    
@@ -131,9 +131,35 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De 
 
 ## Politique
 
-![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-right}
+Ci-dessous une frise chronologique du parcours politique de *Marcus Garvey*.
+
+```mermaid
+flowchart TB
+
+   subgraph id4["1905 (18 ans)"]
+      id5["Poste : maître typographe et contre-maître en imprimerie
+      Employeur : P.A. Benjamin Company"]
+   end
+   
+   subgraph id7["1907 (20 ans)"]
+      id6["Participation à une grève"] --> id8["Licenciement + barrières professionnelles"]
+      id9["Nouveau poste : imprimeur
+      Employeur : Gouvernement colonial"]
+   end
+   
+   subgraph id10["1910 (23 ans)"]
+      id11["Création du journal « Watchman »"]
+      id12["Animateur du journal « Our Own »"]
+   end
+   
+   id4 --> id7
+   id8 --> id9
+   id7 --> id10
+
+```
 
 *Marcus Garvey* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
+
 En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus Garvey* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
 > **Le saviez-vous ?**
@@ -149,6 +175,9 @@ En `1910`, *Garvey* adhère au `National Club`. C'est un parti politique reconnu
 
 ## Voyages
 ### L'Amérique Centrale et la Caraïbe
+
+![united-fruit-company.jpg](/images/company/united-fruit-company/united-fruit-company.jpg){.align-right}
+
 Dans le but d'en apprendre plus sur la condition de ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi d'autres pays de l'Amérique Centrale, *Marcus Garvey* entreprend de voyager.[^1]
 Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
 * Porto Rico, où réside un frère de sa mère ;
@@ -163,9 +192,9 @@ Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et ta
 
 L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
 
-![united-fruit-company.jpg](/images/company/united-fruit-company/united-fruit-company.jpg){.align-center}
-
 ### L'Europe et les États-Unis d'Amérique
+
+![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-right}
 
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
