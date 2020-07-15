@@ -2,14 +2,12 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T19:42:44.782Z
+date: 2020-07-15T19:46:03.172Z
 tags: 
 editor: markdown
 ---
 
 ![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
-
-![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-left}
 
 *Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait dans un village côtier nommé `Saint Ann's Park`, le `18 Août 1887` (`calendrier grégorien`).[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
 À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834` du `calendrier grégorien`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
@@ -69,13 +67,14 @@ Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze f
 
 Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raconte des histoires sur les `Nègres marrons` et lui enseigne la lecture.[^1]
 
-<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
-
 À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il décide se faire de l'argent de poche. en travaillant la terre avec `son oncle Benji` et `sa mère Sarah`.[^1]
 
 À terme, ses parents ne peuvent plus payer ses études. *Marcus Garvey* décide donc de s'auto-former. Son but est d'assouvir son désir de servir son peuple.[^1]
  
 ## Parcours professionnel
+
+<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
+
 À quatorze ans, *Marcus Garvey* s'est vu contraint d'arrêter les études par manque de moyens financiers ; il est donc embauché dans l'imprimerie d'*Alfred E. Burrowes* située à *Saint Ann's Bay* en tant que typographe.[^1]
 Ce premier métier lui a ouvert les portes du monde de l'imprimerie et lui a permi d'augmenter sa culture grâce à la lecture de nombreux ouvrages portant sur des figures historiques de la Caraïbe (ex. : [général Cudjo](/personnalite/homme/militaire/caraibes/a-situer/general-cudjo), [Tacky](/personnalite/homme/a-classer/caraibes/a-situer/tacky), [Sam Sharpe](/personnalite/homme/a-classer/caraibes/a-situer/sam-sharpe), [Quaco](/personnalite/homme/a-classer/caraibes/a-situer/quaco) et [Paul Bogle](/personnalite/homme/a-classer/caraibes/a-situer/paul-bogle)).[^1]
 
@@ -88,6 +87,9 @@ Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il e
 * animer [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
 
 ## Politique
+
+![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-right}
+
 Ses parents n'ayant plus les moyens, *Marcus Garvey* décide de s'auto-former.
 Pour commencer, il s'invite dans des luttes syndicales à [Xamayca](/geographie/ile/caraibes/midi/xamayca).
 
