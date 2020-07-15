@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T20:53:33.301Z
+date: 2020-07-15T21:15:48.697Z
 tags: 
 editor: markdown
 ---
@@ -70,25 +70,41 @@ Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raco
  
 ## Parcours professionnel
 
+Ci-dessous une frise chronologique du parcours professionnel de *Marcus Garvey*.
+
 ```mermaid
-flowchart TD
-   subgraph Fraterie
-      id1[Marcus Garvey]
-      id3[Indiana Garvey]
-      id4[9 autres sœurs et frères]
+flowchart TB
+
+   subgraph "1901 (14 ans)"
+      id0["Fin des études"]
    end
    
-   subgraph Avunculaire
-      id2["Sarah Garvey (mère)"]
-      id6["Benjie (oncle maternel)"]
+   subgraph id2["date inconnue"]
+      id1["Employeur : à Alfred E. Burrowes"]
+      id3["Approfondit ses connaissances de la Caraïbe"]
    end
    
-   subgraph Descendance
-      id8["Enfants"]
+   subgraph id4["1905 (18 ans)"]
+      id5["Poste : maître typographe et contre-maître
+      Employeur : P.A. Benjamin Company"]
    end
    
-   id0["Marcus Garvey (père)"] & id2     --> Fraterie
-   id7["Amy Jacques (2ème femme)"] & id1 --> Descendance
+   subgraph id7["1907 (20 ans)"]
+      id6["Participation à une grève"] --> id8["Licenciement de P.A. Benjamin Company"]
+      id9["Poste : imprimeur
+      Employeur : Gouvernement colonial"]
+   end
+   
+   subgraph id10["1910 (23 ans)"]
+      id11["Création du journal « Watchman »"]
+      id12["Animateur du journal « Our Own »"]
+   end
+   
+   id0 --> id2
+   id2 --> id4
+   id4 --> id7
+   id8 --> id9
+   id7 --> id10
 
 ```
 
