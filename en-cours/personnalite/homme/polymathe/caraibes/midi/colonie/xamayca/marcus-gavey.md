@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T20:34:23.335Z
+date: 2020-07-15T20:52:52.068Z
 tags: 
 editor: markdown
 ---
@@ -70,7 +70,27 @@ Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raco
  
 ## Parcours professionnel
 
-<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
+```mermaid
+flowchart TD
+   subgraph Fraterie
+      id1[Marcus Garvey]
+      id3[Indiana Garvey]
+      id4[9 autres sœurs et frères]
+   end
+   
+   subgraph Avunculaire
+      id2["Sarah Garvey (mère)"]
+      id6["Benjie (oncle maternel)"]
+   end
+   
+   subgraph Descendance
+      id8["Enfants"]
+   end
+   
+   id0["Marcus Garvey (père)"] & id2     --> Fraterie
+   id7["Amy Jacques (2ème femme)"] & id1 --> Descendance
+
+```
 
 À quatorze ans, *Marcus Garvey* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
 
@@ -83,11 +103,13 @@ Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred 
 
 *Marcus Garvey* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca`). Il a le poste de maître typographe et contre-maître.[^1]
 
-Suite à sa participation à la grêve de [1907](/histoire/date/calendrier-gregorien/par-annee/1907), *Marcus* est licencié ; ce qui l'a amené à trouver un autre poste d'imprimeur au gouvernement colonial.
+En `1907` (20 ans), *Marcus Garvey* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
+Il devient imprimeur pour le gouvernement colonial.
 
-Par la suite, en [1910](/histoire/date/calendrier-gregorien/par-annee/1910) il en est venu à[^1] :
-* créer son premier journal : [Watchman](/organisme/journal/watchman) ;
-* animer [Our Own](/organisme/journal/our-own), le journal du parti politique [National Club](/organisme/parti-politique/national-club).
+Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De plus, il anime le journal `Our Own`.
+
+> `Our Own` est le journal du parti politique `National Club`.
+{.is-info}
 
 ## Politique
 
@@ -130,6 +152,9 @@ L'illustration ci-contre est un certificat d'une grande firme capitaliste transn
 ![united-fruit-company.jpg](/images/company/united-fruit-company/united-fruit-company.jpg){.align-center}
 
 ### L'Europe et les États-Unis d'Amérique
+
+<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, la monnaie contemporaine de <i>Marcus Garvey</i>.</figcaption></figure>
+
 Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
 #### L'Europe
