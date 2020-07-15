@@ -2,7 +2,7 @@
 title: Marcus Garvey
 description: Présentation de Marcus Gavey
 published: true
-date: 2020-07-15T19:40:03.705Z
+date: 2020-07-15T19:41:04.038Z
 tags: 
 editor: markdown
 ---
@@ -55,7 +55,7 @@ flowchart TD
 
 Le père de *Marcus Garvey* s'appelle lui aussi `Marcus`. Il est maçon et intellectuel.
 
-<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png"> <figcaption><i>Marcus Garvey</i> et Amy Jacques Garvey, sa 2<sup>nde</sup> femme, .</figcaption></figure>
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-with-amy-jacques-garvey_public-domain.png"> <figcaption><i>Marcus Garvey</i> et Amy Jacques Garvey, sa 2<sup>nde</sup> femme.</figcaption></figure>
 
 
 Marcus père a su transmettre son amour de la lecture à son fils.[^2][^1]
