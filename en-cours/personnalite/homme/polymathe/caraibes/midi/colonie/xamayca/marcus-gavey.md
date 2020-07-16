@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T11:41:30.442Z
+date: 2020-07-16T11:52:19.373Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -232,15 +232,15 @@ flowchart TB
 
 *Marcus GARVEY* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca` (l'île de la Jamaïque 🇯🇲).
 
-En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus GARVEY* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
+En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie alimentaire, baisse des salaires et hausse des prix. Le pays entre donc dans une grêve générale déclenchée par l'imprimerie `La Printer's Union`. Par solidarité, *Marcus GARVEY* se joint au mouvement ; malgré les propositions de corruption que lui fait le patronat. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
 > **Le saviez-vous ?**
-> Malgré les promesses du patronat, *Marcus GARVEY* est resté solidaire en grêvant **avec son peuple** ! En retour, le patronat a :
+> En réponse à la solidarité de *Marcus GARVEY*, le patronat a :
 > - licencié *Marcus*,
 > - radié ce dernier de la liste des imprimeurs,
 > - condamné *Marcus* à changer de profession.
 > 
-> Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.  :sunglasses:
+> *Marcus GARVEY* a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial, nonobstant ces obstacles.  :sunglasses:
 {.is-info}
 
 En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
