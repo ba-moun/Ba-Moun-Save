@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T12:00:42.354Z
+date: 2020-07-16T14:35:14.449Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -75,12 +75,16 @@ flowchart TB
       Employeur : Gouvernement colonial"]
    end
    
-   subgraph id10["1910 (23 ans)"]
-      id11["Marcus GARVEY crée le journal « Watchman » 📰"]
-      id25["Marcus GARVEY adhère au parti politique « National Club »"]
-      id26["Marcus GARVEY est promu secrétaire adjoint du parti politique"]
-      id12["Marcus GARVEY est chargé de
+   subgraph id10["1910 - 1911 (23/24 ans)"]
+      id11["1° Marcus GARVEY crée le journal « Watchman » 📰"]
+      id25["2° Marcus GARVEY adhère au parti politique « National Club »"]
+      id26["3° Marcus GARVEY est promu secrétaire adjoint du parti politique"]
+      id12["4° Marcus GARVEY est chargé de
       l'animation du journal du parti 📰"]
+      id29["5° Marcus GARVEY enchaîne les postes 🥥🥕🌶
+      dans des plantations de différents pays 🍠🥭🍍"]
+      id30["6° Marcus GARVEY fonde et anime Nacionale à Porto Rico"]
+      id31["7° Marcus GARVEY fonde Prensa au Panama"]
    end
    
    
@@ -138,54 +142,6 @@ Ayant grandi à Saint Ann's (`Xamayca` 🇯🇲), *Marcus GARVEY* y effectue ses
  
 ## Parcours professionnel
 
-Ci-dessous une frise chronologique du parcours professionnel de *Marcus GARVEY*.
-
-```mermaid
-flowchart TB
-
-   subgraph id21["1901 (14 ans)"]
-      id0["Marcus GARVEY arrête les études par manque de moyens 💸"]
-   end
-   
-   subgraph id2["date inconnue"]
-      id1["NOUVEAU POSTE 📃
-      Employeur : Alfred E. Burrowes (imprimeur)"]
-      id3["Marcus GARVEY approfondit de ses connaissances de la Caraïbe 
-      à l'aide des ouvrages imprimés"]
-
-   end
-   
-   subgraph id4["1905 (18 ans)"]
-      id5["Nouveau poste : Maître typographe et contre-maître en imprimerie 📃
-      Employeur : P.A. Benjamin Company"]
-   end
-   
-   subgraph id7["1907 (20 ans)"]
-      id13["1° Tremblement de terre à Xamayca 🇯🇲"]
-      id14["2° Pénurie alimentaire & baisse du pouvoir d'achat
-      dans dans tout le pays"]
-      id6["3° Marcus GARVEY participe à la grève générale"]
-      id8["4° Marcus GARVEY est licencié pour avoir grèvé 🔥
-      L'ancien employeur tente d'arrêter la carrière de Marcus GARVEY"]
-      id9["5° Nouveau poste : Imprimeur 📃
-      Employeur : Gouvernement colonial"]
-   end
-   
-   subgraph id10["1910 (23 ans)"]
-      id11["Marcus GARVEY crée le journal « Watchman » 📰"]
-      id25["Marcus GARVEY adhère au parti politique « National Club »"]
-      id26["Marcus GARVEY est promu secrétaire adjoint du parti politique"]
-      id12["Marcus GARVEY est chargé de
-      l'animation du journal du parti 📰"]
-   end
-   
-   id21 --> id2
-   id2 --> id4
-   id4 --> id7
-   id7 --> id10
-
-```
-
 À quatorze ans, en `1901`, *Marcus GARVEY* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour assouvir son souhait de servir son peuple.
 
 <figure class="image image-style-align-right"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
@@ -210,55 +166,6 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`) et d
 
 ## Politique
 
-Ci-dessous une frise chronologique du parcours politique de *Marcus GARVEY*.
-
-```mermaid
-flowchart TB
-
-   subgraph id21["1901 (14 ans)"]
-      id0["Marcus GARVEY arrête les études par manque de moyens 💸"]
-   end
-   
-   subgraph id2["date inconnue"]
-      id1["NOUVEAU POSTE 📃
-      Employeur : Alfred E. Burrowes (imprimeur)"]
-      id3["Marcus GARVEY approfondit de ses connaissances de la Caraïbe 
-      à l'aide des ouvrages imprimés"]
-   end
-   
-   subgraph id4["1905 (18 ans)"]
-      id5["Nouveau poste : Maître typographe et contre-maître en imprimerie 📃
-      Employeur : P.A. Benjamin Company"]
-   end
-   
-   subgraph id7["1907 (20 ans)"]
-      id13["1° Tremblement de terre à Xamayca 🇯🇲"]
-      id14["2° Pénurie alimentaire & baisse du pouvoir d'achat
-      dans dans tout le pays"]
-      id6["3° Marcus GARVEY débute sa carrière politique
-      Il participe à une grève déclenchée par La Printer's Union"]
-      id8["4° Marcus GARVEY est licencié pour avoir grèvé 🔥
-      L'ancien employeur tente d'arrêter la carrière de Marcus GARVEY"]
-      id9["5° Nouveau poste : Imprimeur 📃
-      Employeur : Gouvernement colonial"]
-   end
-   
-   subgraph id10["1910 (23 ans)"]
-      id11["Marcus GARVEY crée le journal « Watchman » 📰"]
-      id25["Marcus GARVEY adhère au parti politique « National Club »"]
-      id26["Marcus GARVEY est promu secrétaire adjoint du parti politique"]
-      id12["Marcus GARVEY est chargé de
-      l'animation du journal du parti 📰"]
-   end
-   
-   
-   id21 --> id2
-   id2 --> id4
-   id4 --> id7
-   id7 --> id10
-
-```
-
 *Marcus GARVEY* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca` (l'île de la Jamaïque 🇯🇲).
 
 En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie alimentaire, baisse des salaires et hausse des prix. Le pays entre donc dans une grêve générale déclenchée par l'imprimerie `La Printer's Union`. Par solidarité, *Marcus GARVEY* se joint au mouvement ; malgré les propositions de corruption que lui fait le patronat. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
@@ -275,13 +182,16 @@ En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre p
 En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
 
 ## Voyages
+
+*Marcus Garvey* entreprend de voyager dans le but d'en apprendre plus sur la condition de ses cotemporains Kamyout (Noirs).[^1]
+
 ### L'Amérique Centrale et la Caraïbe
 
-![united-fruit-company.jpg](/images/company/united-fruit-company/united-fruit-company.jpg){.align-right}
+De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaille dans les plantations de différents pays.[^1]
 
-Dans le but d'en apprendre plus sur la condition de ses frères de [Xamayca](/geographie/ile/caraibes/midi/xamayca) mais aussi d'autres pays de l'Amérique Centrale, *Marcus Garvey* entreprend de voyager.[^1]
-Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-gregorien/par-annee/1910) jusqu'en début [1911](/histoire/date/calendrier-gregorien/par-annee/1911), à travailler dans des plantations de divers pays[^1] :
-* Porto Rico, où réside un frère de sa mère ;
+<figure class="image image-style-align-right"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company (UFC), une grande firme capitaliste transnationale</figcaption></figure>
+
+* Porto Rico, où réside un de ses oncles maternels ;
 * Panama ;
 * Equateur ;
 * Nicaragua ;
@@ -289,9 +199,7 @@ Dès lors, il se trouve, de la fin de l'année [1910](/histoire/date/calendrier-
 * Colombie ;
 * Venezuela.
 
-Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux [Nacionale]() et [Prensa]() respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt des populations. [^1] Ce dernier étant potentiellement dû à la mal nutrition dont les [kamtyu](/terminologie/mdw-ntr/kamit) souffrent à cette époque.[^1]
-
-L'illustration ci-contre est un certificat d'une grande firme capitaliste transnationale, [United Fruit Company (UFC)](/organisme/firme-capitaliste-transnationale/ufc).
+Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt pour ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
 
 ### L'Europe et les États-Unis d'Amérique
 
