@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T10:40:49.077Z
+date: 2020-07-16T11:41:30.442Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -24,6 +24,75 @@ editor: markdown
 > **Le saviez-vous ?**
 > À l'époque, le continent est colonisé sauf `Éthiopie 🇪🇹` et `Libéria 🇱🇷`.
 {.is-info}
+
+Ci-dessous une frise chronologique retraçant la vie de *Marcus GARVEY*.[^1]
+
+> **Vous voulez en savoir plus ?**
+> La communauté <a href="/" style="font-family:'Yatra One';color:gold;" >Ba-Moun𓅝Save</a> vous invite à lire la biographie. Elle se trouve juste après la frise suivante. Nous serons ravis de lire vos commentaires tout en bas de la page.  :heart::green_heart::black_heart:
+{.is-info}
+
+
+```mermaid
+flowchart TB
+
+   subgraph id23["1834"]
+      id24["Abolition officielle de l'esclavage sur l'île de Xamayca 🇯🇲"]
+   end
+   
+   subgraph id22["1887 (naissance)"]
+      id20["Marcus GARVEY vient au monde 🚼"]
+   end
+   
+   subgraph id27["1896 (9 ans)"]
+      id28["Premier achat de livres avec son argent de poche 📚"]
+   end
+   
+   subgraph id21["1901 (14 ans)"]
+      id0["Marcus GARVEY arrête les études par manque de moyens 💸"]
+   end
+   
+   subgraph id2["date inconnue"]
+      id1["NOUVEAU POSTE 📃
+      Employeur : Alfred E. Burrowes (imprimeur)"]
+      id3["Marcus GARVEY approfondit de ses connaissances de la Caraïbe 
+      à l'aide des ouvrages imprimés"]
+   end
+   
+   subgraph id4["1905 (18 ans)"]
+      id5["Nouveau poste : Maître typographe et contre-maître en imprimerie 📃
+      Employeur : P.A. Benjamin Company"]
+   end
+   
+   subgraph id7["1907 (20 ans)"]
+      id13["1° Tremblement de terre à Xamayca 🇯🇲"]
+      id14["2° Pénurie alimentaire & baisse du pouvoir d'achat
+      dans dans tout le pays"]
+      id6["3° Marcus GARVEY débute sa carrière politique
+      Il participe à une grève déclenchée par La Printer's Union"]
+      id8["4° Marcus GARVEY est licencié pour avoir grèvé 🔥
+      L'ancien employeur tente d'arrêter la carrière de Marcus GARVEY"]
+      id9["5° Nouveau poste : Imprimeur 📃
+      Employeur : Gouvernement colonial"]
+   end
+   
+   subgraph id10["1910 (23 ans)"]
+      id11["Marcus GARVEY crée le journal « Watchman » 📰"]
+      id25["Marcus GARVEY adhère au parti politique « National Club »"]
+      id26["Marcus GARVEY est promu secrétaire adjoint du parti politique"]
+      id12["Marcus GARVEY est chargé de
+      l'animation du journal du parti 📰"]
+   end
+   
+   
+   id21 --> id2
+   id2 --> id4
+   id4 --> id7
+   id7 --> id10
+   id22 --> id27
+   id27 --> id21
+   id23 --> id22
+
+```
 
 # Famille
 
@@ -122,10 +191,9 @@ Ce travail lui permet d'approfondir ses connaissances. Il en profite pour lire l
 
 *Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`, l'une des plus grandes imprimeries de Kingston (`Xamayca` 🇯🇲). Il obtient le poste de maître typographe et de contre-maître.[^1]
 
-À ses 20 ans, en `1907`, *Marcus GARVEY* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
-Il devient imprimeur pour le gouvernement colonial.
+À ses 20 ans, en `1907` un , *Marcus GARVEY* participe à une grêve. Son employeur décide donc de le licencier et forcé d'abandonner le métieur d'imprimeur. Il devient imprimeur pour le gouvernement colonial.
 
-Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De plus, il anime le journal `Our Own`.
+Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`) et devient animateur de `Our Own`.
 
 > `Our Own` est le journal du parti politique `National Club`.
 {.is-info}
@@ -143,8 +211,12 @@ flowchart TB
    end
    
    subgraph id7["1907 (20 ans)"]
-      id6["Participation à une grève"] --> id8["Licenciement + barrières professionnelles"]
-      id9["Nouveau poste : imprimeur
+      id13["1° Tremblement de terre à Xamayca 🇯🇲"]
+      id14["2° Pénurie alimentaire & baisse du pouvoir d'achat
+      dans dans tout le pays"]
+      id6["3° Participation à une grève"]
+      id8["4° Licenciement + barrières professionnelles"]
+      id9["5° Nouveau poste : imprimeur
       Employeur : Gouvernement colonial"]
    end
    
@@ -154,7 +226,6 @@ flowchart TB
    end
    
    id4 --> id7
-   id8 --> id9
    id7 --> id10
 
 ```
@@ -169,7 +240,7 @@ En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre p
 > - radié ce dernier de la liste des imprimeurs,
 > - condamné *Marcus* à changer de profession.
 > 
-> Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.
+> Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.  :sunglasses:
 {.is-info}
 
 En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
