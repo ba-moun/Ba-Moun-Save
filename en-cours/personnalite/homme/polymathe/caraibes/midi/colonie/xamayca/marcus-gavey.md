@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T10:10:59.295Z
+date: 2020-07-16T10:24:00.872Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -80,7 +80,7 @@ flowchart TB
    
    subgraph id2["date inconnue"]
       id1["Employeur : Alfred E. Burrowes"]
-      id3["Approfondit ses connaissances de la Caraïbe"]
+      id3["Approfondissement de ses connaissances de la Caraïbe"]
    end
    
    subgraph id4["1905 (18 ans)"]
