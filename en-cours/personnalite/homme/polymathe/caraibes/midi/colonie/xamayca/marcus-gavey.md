@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T11:52:19.373Z
+date: 2020-07-16T11:57:06.486Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -143,35 +143,37 @@ Ci-dessous une frise chronologique du parcours professionnel de *Marcus GARVEY*.
 ```mermaid
 flowchart TB
 
-   subgraph "1901 (14 ans)"
-      id0["Fin des études"]
-   end
-   
    subgraph id2["date inconnue"]
-      id1["Employeur : Alfred E. Burrowes"]
-      id3["Approfondissement de ses connaissances de la Caraïbe"]
+      id1["NOUVEAU POSTE 📃
+      Employeur : Alfred E. Burrowes (imprimeur)"]
    end
    
    subgraph id4["1905 (18 ans)"]
-      id5["Nouveau poste : maître typographe et contre-maître en imprimerie
+      id5["Nouveau poste : Maître typographe et contre-maître en imprimerie 📃
       Employeur : P.A. Benjamin Company"]
    end
    
    subgraph id7["1907 (20 ans)"]
-      id6["Participation à une grève"] --> id8["Licenciement"]
-      id9["Nouveau poste : imprimeur
+      id13["1° Tremblement de terre à Xamayca 🇯🇲"]
+      id14["2° Pénurie alimentaire & baisse du pouvoir d'achat
+      dans dans tout le pays"]
+      id6["3° Marcus GARVEY participe à la grève générale"]
+      id8["4° Marcus GARVEY est licencié pour avoir grèvé 🔥
+      L'ancien employeur tente d'arrêter la carrière de Marcus GARVEY"]
+      id9["5° Nouveau poste : Imprimeur 📃
       Employeur : Gouvernement colonial"]
    end
    
    subgraph id10["1910 (23 ans)"]
-      id11["Création du journal « Watchman »"]
-      id12["Animateur du journal « Our Own »"]
+      id11["Marcus GARVEY crée le journal « Watchman » 📰"]
+      id25["Marcus GARVEY adhère au parti politique « National Club »"]
+      id26["Marcus GARVEY est promu secrétaire adjoint du parti politique"]
+      id12["Marcus GARVEY est chargé de
+      l'animation du journal du parti 📰"]
    end
    
-   id0 --> id2
    id2 --> id4
    id4 --> id7
-   id8 --> id9
    id7 --> id10
 
 ```
