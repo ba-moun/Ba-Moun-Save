@@ -1,9 +1,9 @@
 ---
-title: Marcus Garvey
-description: Présentation de Marcus Gavey
+title: Marcus GARVEY
+description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-15T22:10:51.876Z
-tags: 
+date: 2020-07-16T09:20:13.480Z
+tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
 
@@ -60,17 +60,16 @@ Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze f
 
 # Apprentissage
 ## Scolarité
-*Marcus Garvey* a grandi à Saint Ann's (`Xamayca`). Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
-
-Néanmoins, `le père` de *Marcus Garvey* est son premier formateur. Il lui raconte des histoires sur les `Nègres marrons` et lui enseigne la lecture.[^1]
+`Le père` de *Marcus Garvey* est son premier formateur. `Marcus (père)` raconte à son fils des histoires sur les `Nègres marrons` et lui enseigne la lecture.
+Ayant grandi à Saint Ann's (`Xamayca`), *Marcus GARVEY*. Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers. Cependant, [^1]
 
 À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il décide se faire de l'argent de poche. en travaillant la terre avec `son oncle Benji` et `sa mère Sarah`.[^1]
 
-À terme, ses parents ne peuvent plus payer ses études. *Marcus Garvey* décide donc de s'auto-former. Son but est d'assouvir son désir de servir son peuple.[^1]
+À terme, ses parents ne peuvent plus payer ses études. *Marcus GARVEY* décide donc de s'auto-former. Son but est d'assouvir son désir de servir son peuple.[^1]
  
 ## Parcours professionnel
 
-Ci-dessous une frise chronologique du parcours professionnel de *Marcus Garvey*.
+Ci-dessous une frise chronologique du parcours professionnel de *Marcus GARVEY*.
 
 ```mermaid
 flowchart TB
@@ -108,20 +107,20 @@ flowchart TB
 
 ```
 
-À quatorze ans, *Marcus Garvey* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
+À quatorze ans, *Marcus GARVEY* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
 
-<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus Garvey</i></figcaption></figure>
+<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
 
-Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, à `Xamayca`. Ce poste permet à *Marcus Garvey* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
+Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, à `Xamayca`. Ce poste permet à *Marcus GARVEY* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
 - le `général Cudjo`,
 - `Tacky`,
 - `Sam Sharpe`,
 - `Quaco`,
 - `Paul Bogle`.
 
-*Marcus Garvey* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca`). Il a le poste de maître typographe et contre-maître.[^1]
+*Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca`). Il a le poste de maître typographe et contre-maître.[^1]
 
-En `1907` (20 ans), *Marcus Garvey* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
+En `1907` (20 ans), *Marcus GARVEY* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
 Il devient imprimeur pour le gouvernement colonial.
 
 Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De plus, il anime le journal `Our Own`.
@@ -131,7 +130,7 @@ Par la suite, en `1910` (23 ans), il crée son premier journal (`Watchman`). De 
 
 ## Politique
 
-Ci-dessous une frise chronologique du parcours politique de *Marcus Garvey*.
+Ci-dessous une frise chronologique du parcours politique de *Marcus GARVEY*.
 
 ```mermaid
 flowchart TB
@@ -158,12 +157,12 @@ flowchart TB
 
 ```
 
-*Marcus Garvey* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
+*Marcus GARVEY* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
 
-En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus Garvey* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
+En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus GARVEY* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
 > **Le saviez-vous ?**
-> Malgré les promesses du patronat, *Marcus Garvey* est resté solidaire en grêvant **avec son peuple** ! En retour, le patronat a :
+> Malgré les promesses du patronat, *Marcus GARVEY* est resté solidaire en grêvant **avec son peuple** ! En retour, le patronat a :
 > - licencié *Marcus*,
 > - radié ce dernier de la liste des imprimeurs,
 > - condamné *Marcus* à changer de profession.
@@ -171,7 +170,7 @@ En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre p
 > Cependant, il a quand-même réussi à obtenir un poste d'imprimeur au sein du gouvernement colonial.
 {.is-info}
 
-En `1910`, *Garvey* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
+En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu au niveau national puisque deux de ses membres ont été élus au conseil législatif. Cette adhésion permet à *Marcus* de découvrir la politique par la pratique. Par exemple, l'année de son adhésion, il obtient l'un des trois postes de secrétaire adjoint du parti. De plus, jusqu'à son départ en Amérique Centrale en fin d'année, *Marcus* est chargé d'animer `Our Own`, le journal du parti.[^1]
 
 ## Voyages
 ### L'Amérique Centrale et la Caraïbe
@@ -194,20 +193,20 @@ L'illustration ci-contre est un certificat d'une grande firme capitaliste transn
 
 ### L'Europe et les États-Unis d'Amérique
 
-Suite à son séjour en Amérique Centrale, *Marcus Garvey* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
+Suite à son séjour en Amérique Centrale, *Marcus GARVEY* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
 
 #### L'Europe
 
 Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
 
-En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *Garvey* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
+En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *GARVEY* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
 
 *Marcus* rencontre donc [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.[^1]
 Cette rencontre permet à *Marcus* de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamtyu](/terminologie/mdw-ntr/kamit).
 
 # Prise de conscience
 
-*Marcus Garvey* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
+*Marcus GARVEY* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
 
 ![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-left}
 
@@ -222,7 +221,7 @@ Il estimait que le devoir de révolte et de combat s'imposait à toute personne 
 # Réalisations
 ## Gouvernement
 
-L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
+L'image suivante représente *Marcus GARVEY* lors de l'évènement qu'il a organisé aux États-Unis d'Amérique en [1922](/histoire/date/calendrier-gregorien/par-annee/1922). Il porte les apparats de chef du gouvernement qu'il a fondé.
 
 ![marcus-garvey-march-1922_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png){.align-center}
 
@@ -230,23 +229,23 @@ L'image suivante représente Marcus Garvey lors de l'évènement qu'il a organis
 
 ## Entreprises
 ### Journaux de presse
-Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus Garvey* crée le journaux [Nacionale]() à Porto Rico et [Prensa]() au Panama.
+Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus GARVEY* crée le journaux [Nacionale]() à Porto Rico et [Prensa]() au Panama.
 
 Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
 
 ### The Watchman
-En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus Garvey* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
+En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus GARVEY* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
 
 ### Compagnie maritime
 ![black-star-line-certificate_by-sa.png](/images/company/black-star-line/black-star-line-certificate_by-sa.png){.align-right}
 
-Marcus Garvey a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
+*Marcus GARVEY* a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
 # Hommages
 ## Livres
-Voici une liste de livres rendant hommage à Marcus GARVEY :
-* [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est Marcus Garvey aux jeunes mais aussi aux moins jeunes ;
+Voici une liste de livres rendant hommage à *Marcus GARVEY* :
+* [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est *Marcus GARVEY* aux jeunes mais aussi aux moins jeunes ;
 * [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples) de [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo) ;
-* [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey) de [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey).
+* [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey) de [Amy Jacques GARVEY](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey).
 ## Forum
 Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
