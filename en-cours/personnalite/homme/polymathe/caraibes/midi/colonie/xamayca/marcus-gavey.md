@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T14:35:14.449Z
+date: 2020-07-16T15:21:43.100Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -87,6 +87,14 @@ flowchart TB
       id31["7° Marcus GARVEY fonde Prensa au Panama"]
    end
    
+   subgraph id34["1912 (25 ans)"]
+      id32["Premier contact avec l'intelligentsia kamit (Noire), en Angleterre"]
+   end
+   
+   subgraph id35["1916 (28 ans)"]
+      id33["Second contact avec l'intelligentsia kamit (Noire)"]
+   end
+   
    
    id21 --> id2
    id2 --> id4
@@ -95,6 +103,8 @@ flowchart TB
    id22 --> id27
    id27 --> id21
    id23 --> id22
+   id10 --> id34
+   id34 --> id35
 
 ```
 
@@ -191,28 +201,45 @@ De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaill
 
 <figure class="image image-style-align-right"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company (UFC), une grande firme capitaliste transnationale</figcaption></figure>
 
-* Porto Rico, où réside un de ses oncles maternels ;
-* Panama ;
+* Borikén (Porto Rico 🇵🇷), où réside un de ses oncles maternels ;
+* Panama 🇵🇦 ;
 * Equateur ;
 * Nicaragua ;
 * Honduras ;
 * Colombie ;
 * Venezuela.
 
-Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à Porto Rico et au Panama. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt pour ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
+Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à Borikén (Porto Rico 🇵🇷) et au Panama 🇵🇦. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt pour ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
 
 ### L'Europe et les États-Unis d'Amérique
 
-Suite à son séjour en Amérique Centrale, *Marcus GARVEY* décide de voyager en Europe et aux États-Unis d'Amérique pour observer et étudier les mouvements intellectuels [Kamit](/terminologie/mdw-ntr/kamit). Ainsi, *Marcus* entre en contact avec l'intelligentsia Noire en [1912]() en Angleterre puis en [1916](). Grâce à cela, il réussit à comprendre les luttes menées. [^1]
+Suite à son séjour en Amérique Centrale, *Marcus GARVEY* décide de voyager en Europe 🇪🇺 et aux États-Unis 🇺🇸 d'Amérique. Il souhaite observer et étudier les mouvements intellectuels `Kamyout` (Noirs). Grâce à cela, il réussira à comprendre les luttes menées par la communauté.
 
-#### L'Europe
+Il s'avère que *Marcus GARVEY* rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte. Il s'agit principalement du `Royaume-Uni :uk:` et des `États-Unis d'Amérique :us:`. Des lors, à `Londres`, *Marcus* entame une carrière de docker aux ports :anchor: de Liverpool et de Cardiff. Il s'avère justement que sa sœur `Indiana` réside à `Londres`. Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il entre en contact avec l'intelligentsia `Kamit`. À l'inverse, *Marcus GARVEY* identifie une faible activité intellectuelle `Kamit` dans les autres pays européens qu'il visite. Les `politiques coloniales` appliquées par ces pays en sont certainement la cause.[^1]
 
-Quand il arrive à Londres, lieu de résidence de sa sœur [Indiana](/personnalite/femme/a-classer/indiana-garvey), *Marcus* réussit à trouver du travail en tant que docker aux ports de Liverpool et de Cardiff.[^1]
+> **Le saviez-vous ?**
+> 
+> *Marcus* a été dans tous les pays suivants pour progresser intellectuellement et découvrir les conditions de vie de la communauté.
+> 
+> - la France :fr:,
+> - l'Italie :it:,
+> - l'Espagne :es:,
+> - l'Allemagne :de:,
+> - l'Autriche 🇦🇹,
+> - le Royaume-Uni :uk:,
+> - les États-Unis d'Amérique :us:,
+> - le Panama 🇵🇦,
+> - Borikén (Porto Rico 🇵🇷).
+> 
+> N'oublions pas qu'en plus, *il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
+{.is-info}
 
-En visitant la France, l'Italie, l'Espagne, l'Allemagne, l'Autriche et la Hongrie, *GARVEY* y identifie une faible activité intellectuelle [Kamit](/terminologie/mdw-ntr/kamit). Cela vient des [politiques coloniales](/ideologie/colonisation) appliquées par ces pays. Il en découle donc qu'il rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte (en [Angleterre](/geographie/pays/europe/ouest/angleterre) et aux [États-Unis d'Amérique](/geographie/pays/tamara/nord/etats-unis-d-amerique)).[^1]
+Son séjour à Londres lui permet de[^1] :
 
-*Marcus* rencontre donc [Mohamed Ali Duse](/personnalite/homme/polymathe/afrique/nord-est/egypte/duse-mohamed-ali) à Londres.[^1]
-Cette rencontre permet à *Marcus* de parfaire son expérience dans la publication et la presse tout en étant en contact physique ou par écrit avec des nationalites [Kamtyu](/terminologie/mdw-ntr/kamit).
+- parfaire son expérience dans la publication
+- parfaire son savoir-faire dans la presse.
+- communiquer par écrit avec des nationalistes `Kamyout`,
+- être en contact physique avec des nationalites `Kamyout, comme `Mohamed Ali Duse.
 
 # Prise de conscience
 
