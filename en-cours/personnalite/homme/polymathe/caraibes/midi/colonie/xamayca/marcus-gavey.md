@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T15:21:43.100Z
+date: 2020-07-16T15:27:32.745Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -201,13 +201,13 @@ De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaill
 
 <figure class="image image-style-align-right"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company (UFC), une grande firme capitaliste transnationale</figcaption></figure>
 
-* Borikén (Porto Rico 🇵🇷), où réside un de ses oncles maternels ;
-* Panama 🇵🇦 ;
-* Equateur ;
-* Nicaragua ;
-* Honduras ;
-* Colombie ;
-* Venezuela.
+* Borikén (Porto Rico 🇵🇷), où réside un de ses oncles maternels,
+* Panama 🇵🇦,
+* Equateur 🇪🇨,
+* Nicaragua 🇳🇮,
+* Honduras 🇭🇳,
+* Colombie 🇨🇴,
+* Venezuela 🇻🇪.
 
 Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à Borikén (Porto Rico 🇵🇷) et au Panama 🇵🇦. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt pour ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
 
@@ -230,6 +230,11 @@ Il s'avère que *Marcus GARVEY* rencontre l'intelligentsia Noire principalement 
 > - les États-Unis d'Amérique :us:,
 > - le Panama 🇵🇦,
 > - Borikén (Porto Rico 🇵🇷).
+> - Equateur 🇪🇨,
+> - Nicaragua 🇳🇮,
+> - Honduras 🇭🇳,
+> - Colombie 🇨🇴,
+> - Venezuela 🇻🇪.
 > 
 > N'oublions pas qu'en plus, *il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
 {.is-info}
