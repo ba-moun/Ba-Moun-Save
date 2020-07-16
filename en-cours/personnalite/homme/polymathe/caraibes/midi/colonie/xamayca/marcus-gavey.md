@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T15:36:28.844Z
+date: 2020-07-16T15:37:21.731Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -241,7 +241,7 @@ Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il ent
 > N'oublions pas qu'en plus, il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
 {.is-info}
 
-Son séjour à Londres lui permet de[^1] :
+Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 
 - parfaire son expérience dans la publication
 - parfaire son savoir-faire dans la presse.
