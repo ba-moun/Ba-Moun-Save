@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T10:27:13.988Z
+date: 2020-07-16T10:29:22.759Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -61,7 +61,7 @@ Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze f
 # Apprentissage
 ## Scolarité
 `Le père` de *Marcus Garvey* est son premier formateur. Il raconte à son fils des histoires sur les `Nègres marrons` et lui enseigne la lecture.
-Ayant grandi à Saint Ann's (`Xamayca`), *Marcus GARVEY* y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
+Ayant grandi à Saint Ann's (`Xamayca` 🇯🇲), *Marcus GARVEY* y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
 
 À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il travaille la terre avec `sa mère Sarah` et `son oncle Benji` afin de gagner de l'argent de poche.[^1]
 
@@ -111,14 +111,14 @@ flowchart TB
 
 <figure class="image image-style-align-right"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
 
-Tout d'abord, il obtient un poste de typographe dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, `Xamayca`. Ce poste permet à *Marcus GARVEY* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
+Tout d'abord, il obtient un poste de typographe dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, `Xamayca` (la Jamaïque 🇯🇲). Ce poste permet à *Marcus GARVEY* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
 - le `général Cudjo`,
 - `Tacky`,
 - `Sam Sharpe`,
 - `Quaco`,
 - `Paul Bogle`.
 
-*Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca`). Il a le poste de maître typographe et contre-maître.[^1]
+*Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`. C'est l'une des plus grandes imprimeries de Kingston (`Xamayca` 🇯🇲). Il a le poste de maître typographe et contre-maître.[^1]
 
 En `1907` (20 ans), *Marcus GARVEY* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
 Il devient imprimeur pour le gouvernement colonial.
@@ -157,7 +157,7 @@ flowchart TB
 
 ```
 
-*Marcus GARVEY* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca`.
+*Marcus GARVEY* débute sa carière politique par des luttes syndicales. Celles-ci se déroulent à `Xamayca` (l'île de la Jamaïque 🇯🇲).
 
 En `1907`, un tremblement de terre dévaste l'île. Cette catastrophe engendre pénurie et baisse du pouvoir d'achat. Cela aboutit à une grêve déclenchée par `La Printer's Union`. *Marcus GARVEY* se joint au mouvement déclenché par l'imprimerie. Cette décision est en inadéquation avec son poste de contre-maître. Normalement, le contre-maître est toujours du côté des patrons.
 
