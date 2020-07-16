@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T10:40:00.049Z
+date: 2020-07-16T10:40:49.077Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -120,7 +120,7 @@ Ce travail lui permet d'approfondir ses connaissances. Il en profite pour lire l
 - `Quaco`,
 - `Paul Bogle`.
 
-*Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`, l'une des plus grandes imprimeries de Kingston (`Xamayca` 🇯🇲). Il obtient le poste de maître typographe et contre-maître.[^1]
+*Marcus GARVEY* est sérieux et passionné par son métier d'imprimeur. Il apprend donc vite et bien. Ainsi, à 18 ans, il travaille pour `P.A. Benjamin Company`, l'une des plus grandes imprimeries de Kingston (`Xamayca` 🇯🇲). Il obtient le poste de maître typographe et de contre-maître.[^1]
 
 À ses 20 ans, en `1907`, *Marcus GARVEY* participe à une grêve. Il se voit licencié de son poste de maître typographe et contre-maître.
 Il devient imprimeur pour le gouvernement colonial.
