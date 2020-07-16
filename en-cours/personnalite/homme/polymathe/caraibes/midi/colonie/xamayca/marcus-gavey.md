@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T15:33:12.647Z
+date: 2020-07-16T15:36:28.844Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -215,7 +215,7 @@ Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et ta
 
 Suite à son séjour en Amérique Centrale, *Marcus GARVEY* décide de voyager en Europe 🇪🇺 et aux États-Unis 🇺🇸 d'Amérique. Il souhaite observer et étudier les mouvements intellectuels `Kamyout` (Noirs). Grâce à cela, il réussira à comprendre les luttes menées par la communauté.
 
-Il s'avère que *Marcus GARVEY* rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte. Il s'agit en l'occurence du `Royaume-Uni 🇬🇧` et des `États-Unis d'Amérique 🇺🇸`. Des lors, à `Londres`, *Marcus* entame une carrière de docker aux ports :anchor: de Liverpool et de Cardiff. Il s'avère justement que sa sœur `Indiana` réside à `Londres`.
+Il s'avère que *Marcus GARVEY* rencontre l'intelligentsia Noire principalement où se pratique l'administration coloniale indirecte. Il s'agit en l'occurence du `Royaume-Uni 🇬🇧` et des `États-Unis d'Amérique 🇺🇸`. Des lors, à `Londres`, *Marcus* entame une carrière de docker aux ports :anchor: de Liverpool et de Cardiff. Il s'avère justement que sa sœur `Indiana` réside dans la même ville.
 Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il entre en contact avec l'intelligentsia `Kamit`.
 À l'inverse, *Marcus GARVEY* identifie une faible activité intellectuelle `Kamit` dans les autres pays européens qu'il visite. Les `politiques coloniales` appliquées par ces pays en sont certainement la cause.[^1]
 
@@ -238,7 +238,7 @@ Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il ent
 > - Colombie 🇨🇴,
 > - Venezuela 🇻🇪.
 > 
-> N'oublions pas qu'en plus, *il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
+> N'oublions pas qu'en plus, il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
 {.is-info}
 
 Son séjour à Londres lui permet de[^1] :
