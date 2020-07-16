@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T09:20:13.480Z
+date: 2020-07-16T10:10:59.295Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -60,12 +60,12 @@ Enfin, concernant sa fraterie, *Marcus Garvey* est le plus jeune. Sur ses onze f
 
 # Apprentissage
 ## Scolarité
-`Le père` de *Marcus Garvey* est son premier formateur. `Marcus (père)` raconte à son fils des histoires sur les `Nègres marrons` et lui enseigne la lecture.
-Ayant grandi à Saint Ann's (`Xamayca`), *Marcus GARVEY*. Il y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers. Cependant, [^1]
+`Le père` de *Marcus Garvey* est son premier formateur. Il raconte à son fils des histoires sur les `Nègres marrons` et lui enseigne la lecture.
+Ayant grandi à Saint Ann's (`Xamayca`), *Marcus GARVEY* y effectue ses études primaires et secondaires. Pour assurer sa réussite scolaire, sa mère lui paye des cours particuliers.[^1]
 
-À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il décide se faire de l'argent de poche. en travaillant la terre avec `son oncle Benji` et `sa mère Sarah`.[^1]
+À l'âge de neuf ans, *Marcus* décide d'acheter des livres. Pour se faire, il travaille la terre avec `sa mère Sarah` et `son oncle Benji` afin de gagner de l'argent de poche.[^1]
 
-À terme, ses parents ne peuvent plus payer ses études. *Marcus GARVEY* décide donc de s'auto-former. Son but est d'assouvir son désir de servir son peuple.[^1]
+À terme, ses parents ne peuvent plus payer ses études. *Marcus GARVEY* décide donc de s'auto-former dans le but d'assouvir son désir de servir son peuple.[^1]
  
 ## Parcours professionnel
 
@@ -109,7 +109,7 @@ flowchart TB
 
 À quatorze ans, *Marcus GARVEY* arrête les études. Ses parents ne peuvent plus assurer le financement. Dès lors, il se forme seul pour réussir à servir son peuple.
 
-<figure class="image image-style-align-left"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
+<figure class="image image-style-align-right"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
 
 Tout d'abord, *Marcus* est typographe. Il travaille dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, à `Xamayca`. Ce poste permet à *Marcus GARVEY* d'accéder au monde de l'imprimerie. De plus, il en profite pour continuer de s'instruire. Il lit des ouvrages sur des modèles de la Caraïbe, comme[^1] :
 - le `général Cudjo`,
