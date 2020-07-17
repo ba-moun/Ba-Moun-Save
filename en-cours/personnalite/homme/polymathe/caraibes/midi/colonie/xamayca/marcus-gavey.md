@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-17T08:51:17.233Z
+date: 2020-07-17T08:51:51.914Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -199,7 +199,7 @@ En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu
 
 De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaille dans les plantations de différents pays.[^1] 🍠🥭🍍🥥🥕🌶
 
-<figure class="image image-style-align-right"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company (UFC), une grande firme capitaliste transnationale</figcaption></figure>
+<figure class="image image-style-align-right"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company (UFC), une firme capitaliste transnationale</figcaption></figure>
 
 * Borikén (Porto Rico 🇵🇷), où réside un de ses oncles maternels,
 * Panama 🇵🇦,
