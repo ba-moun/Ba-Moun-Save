@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-16T15:37:21.731Z
+date: 2020-07-17T07:51:31.621Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -250,9 +250,15 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 
 # Prise de conscience
 
-*Marcus GARVEY* a remarqué que le clivage social de [Xamayca](/geographie/ile/caraibes/midi/xamayca) était l'exact reflet de sa configuration raciale ; c'est-à-dire que seuls les Blancs accompagnés de quelques rares Métis, se trouvaient en haut de l'échelle sociale alors qu'au plus bas étaient tous les Noirs, formant une masse d'ouvriers agricoles dans les plantations de bananes et de tabac, d'ouvriers du bâtiment et des chemins de fer, de mineurs, de terrassiers, etc..[^1]
+*Marcus GARVEY* a remarqué que le clivage social de `Xamayca` est l'exact reflet de sa configuration raciale. Seuls les `Leucodermes` (Blancs) accompagnés de quelques rares « Métis » se trouvent en haut de l'échelle sociale. À l'inverse, les Noirs, qui sont au plus bas de l'échelle, forment une masse[^1] :
 
-![marcus-garvey-tenue-d-apparat-public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png){.align-left}
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png"> <figcaption><i>GARVEY</i></figcaption></figure>
+
+- d'ouvriers agricoles dans les plantations de bananes :banana: et de tabac :smoking:.,
+- d'ouvriers du bâtiment et des chemins de fer,
+- de mineurs,
+- de terrassiers,
+- etc.
 
 Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église blanc auquel il a dû faire face.[^1]
 Un jour, une camarade blanche du même quartier que celui de *Marcus* a été envoyée en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a permis de réaliser que ce racisme était omniprésent.[^1]
