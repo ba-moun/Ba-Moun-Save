@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-17T07:51:31.621Z
+date: 2020-07-17T08:49:06.042Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -260,13 +260,32 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 - de terrassiers,
 - etc.
 
-Ceci étant, l'événement le plus marquant et le plus décisif pour *Marcus* a été le racisme d'un homme d'église blanc auquel il a dû faire face.[^1]
-Un jour, une camarade blanche du même quartier que celui de *Marcus* a été envoyée en Écosse pour continuer sa scolarité. Le père de cette jeune fille, un pasteur méthodiste, lui a ordonné de n'entretenir aucune correspondance avec *Marcus* du fait de l'appartenance de ce dernier à la race nègre. Cette information, une fois arrivée aux oreilles de *Marcus*, lui a permis de réaliser que ce racisme était omniprésent.[^1]
-Cette prise de conscience a allumé en lui une flamme révolutionnaire inextinguible.[^1]
-Il estimait que le devoir de révolte et de combat s'imposait à toute personne prenant conscience de l'ampleur des injustices que subit son peuple.[^1]
+> **Le saviez-vous ?**
+> 
+> À l'époque de *Marcus GARVEY*, la `communauté Kamit` est divisée en fonction de sa quantité de mélanine. Il existe :
+> 
+> - les `Nègres`,
+> - les `Quarterons`,
+> - les `Quinterons`,
+> - les `Chabins`,
+> - …
+> 
+> Ces appellations servent à définir la quantité de mélanine d'un individu. En des termes moins scientifiques, ces groupes ethniques servent à distinguer le degré de Noir et/ou de Blanc d'une personne `Kamit`.
+> Des personnes de la `communauté Kamit` se sont identifiées à ce standard défini par les colonisateurs leucodermes. L'objectif de cette distinction est de diviser la `communauté Kamit` afin d'assurer la soumission de la population. Par endroits, la communauté représente une majorité écrasante.
+> Par exemple, *Marcus GARVEY* se définit comme `Nègre` et il s'identifit uniquement à ce groupe. Cela vient du fait qu'il remarque qu'un trop grand nombre de `Métis` (Quarteron, Chabin, …) opressent activement les `Nègres`. En réponse à cela, il exhorte les `Nègres` d'agir pour eux et par eux-mêmes.
+>
+> À présent, cette distinction a évoluée et est appelée le colorisme.
+{.is-info}
 
-« Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société. »[^3][^4]
-« J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race. »[^4]
+Ceci étant, un événement raciste a été des plus marquant et des plus décisifs pour *Marcus GARVEY*.[^1]
+Durant ses études sur l'île de `Xamayca ` (la `Jamaïque 🇯🇲`), *Marcus* se fait une camarade de classe. Le père de cette jeune fille, un pasteur méthodiste `Leucoderme`, refuse cette camaraderie parce que *Marcus GARVEY* est un `Nègre`. Ce pasteur en vient donc à envoyer son enfant en `Écosse` et lui ordonne de rompre à jamais cette camaraderie. [^1]
+Une fois cette information arrivée à ses oreilles, *Marcus* prend conscience de  l'omniprésence du racisme. Cela allume en lui une flamme révolutionnaire inextinguible ! Dès lors, il estime que le devoir de révolte et de combat s'impose à toute personne prenant conscience de l'ampleur des injustices que subissent les `Nègres`.[^1]
+
+> Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
+> *Marcus Garvey*
+
+> J'ai toujours désiréé de toute mon âme, travailler au progrès de ma race.[^4]
+> *Marcus Garvey*
 
 # Réalisations
 ## Gouvernement
