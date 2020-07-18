@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T07:13:07.925Z
+date: 2020-07-18T07:13:24.292Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -275,8 +275,6 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 > En des termes moins scientifiques, ces `groupes raciaux` servent à distinguer le degré de Noir (ou de Blanc) d'une personne.
 > Des personnes de la `communauté Kamit` se sont identifiées à ce standard défini par les colonisateurs leucodermes. L'objectif de cette distinction est de diviser la `communauté Kamit` afin d'assurer la soumission de la population. Par endroits, la communauté représente une majorité écrasante.
 > Par exemple, *Marcus GARVEY* se définit comme `Nègre` et il s'identifit uniquement à ce groupe. Cela vient du fait qu'il remarque qu'un trop grand nombre de « métis » opressent activement les `Nègres`. En réponse à cela, il exhorte les `Nègres` d'agir pour eux et par eux-mêmes.
->
-> À présent, cette distinction a évoluée et est appelée le colorisme.
 {.is-info}
 
 Ceci étant, un événement raciste a été des plus marquant et des plus décisifs pour *Marcus GARVEY*.[^1]
