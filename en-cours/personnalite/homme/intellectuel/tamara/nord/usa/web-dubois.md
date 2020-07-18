@@ -2,10 +2,12 @@
 title: William Edward Burghardt DuBois
 description: Présentation de William Edward Burghardt DuBois
 published: true
-date: 2020-07-18T20:39:05.529Z
+date: 2020-07-18T21:48:27.712Z
 tags: kamit, edward, kémit, w.e.b. dubois, web dubois, web, w.e.b., dubois, william, burghardt, william edward burghardt dubois, intellectuel, intelligentsia, intelligentsia noire, intelligentsia kamit, intelligentsia kémit, intellectuel noir, intellectuel kémit, intellectuel kamit, kemit, noir, africain, homme
 editor: markdown
 ---
+
+![william-edward-burghardt-dubois_public-domain.jpg](/images/personnalite/kemit/william-edward-burghardt-dubois/william-edward-burghardt-dubois_public-domain.jpg){.align-abstopright}
 
 William Edward Burghardt DuBois né en `1868` (calendrier grégorien). Il meurt en `1963` au `Ghana 🇬🇭`.[^1]
 
