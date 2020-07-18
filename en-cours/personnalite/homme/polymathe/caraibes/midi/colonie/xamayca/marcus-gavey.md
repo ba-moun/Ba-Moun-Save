@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T07:39:35.577Z
+date: 2020-07-18T07:41:07.334Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -211,6 +211,10 @@ De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaill
 
 Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à `Borikén` (`Porto Rico 🇵🇷`) et au `Panama 🇵🇦`. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le désintéressement de ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
 
+
+> J'ai toujours désiré, de toute mon âme, travailler au progrès de ma race.[^4]
+> <p style="text-align: right;"><i>Marcus Garvey</i></p>
+
 ### L'Europe et les États-Unis d'Amérique
 
 Suite à son séjour en Amérique Centrale, *Marcus GARVEY* décide de voyager en Europe et aux États-Unis d'Amérique 🇺🇸. Il souhaite observer et étudier les mouvements intellectuels `Kamyout` (Noirs). Grâce à cela, il espère comprendre les luttes menées par la communauté.
@@ -283,9 +287,6 @@ Durant ses études sur l'île de `Xamayca ` (la `Jamaïque 🇯🇲`), *Marcus* 
 Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ampleur des injustices subient par la `communauté Kamit`.[^1]
 
 > Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
-> <p style="text-align: right;"><i>Marcus Garvey</i></p>
-
-> J'ai toujours désiré, de toute mon âme, travailler au progrès de ma race.[^4]
 > <p style="text-align: right;"><i>Marcus Garvey</i></p>
 
 # Réalisations
