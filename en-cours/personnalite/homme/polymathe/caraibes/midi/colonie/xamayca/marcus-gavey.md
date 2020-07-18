@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T06:43:15.590Z
+date: 2020-07-18T06:44:18.260Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -221,6 +221,8 @@ Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il ent
 
 > **Le saviez-vous ?**
 > 
+> <figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png"> <figcaption><i>GARVEY</i></figcaption></figure>
+> 
 > *Marcus GARVEY* a été dans tous les pays suivants pour progresser intellectuellement et découvrir les conditions de vie de la communauté.
 > 
 > - France :fr:,
@@ -259,8 +261,6 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 - etc.
 
 > **Le saviez-vous ?**
-> 
-> <figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-tenue-d-apparat-public-domain.png"> <figcaption><i>GARVEY</i></figcaption></figure>
 > 
 > À l'époque de *Marcus GARVEY*, la `communauté Kamit` est divisée en fonction de sa quantité de mélanine. Il existe :
 > 
