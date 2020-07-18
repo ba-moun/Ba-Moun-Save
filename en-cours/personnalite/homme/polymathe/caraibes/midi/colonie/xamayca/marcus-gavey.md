@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T08:59:17.603Z
+date: 2020-07-18T09:05:08.583Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -253,12 +253,14 @@ Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il ent
 > N'oublions pas qu'en plus, il est né et a grandi sur l'île de Xamayca (la Jamaïque 🇯🇲).
 {.is-info}
 
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/mohamed-ali-duse/mohamed-ali-duse_public-domain.jpg"> <figcaption>Mohamed Ali Duse</figcaption></figure>
+
 Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 
 - parfaire son expérience dans la publication
 - parfaire son savoir-faire dans la presse.
 - cotoyer des personnalités `Kamyout` :
-   - `Mohamed Ali Duse`,
+   - `Mohamed Ali Duse`,   
    - `Henry Sylvester Williams`,
    - `William Edward Burghardt DuBois`
    - `Edward Wilmot Blyden`.
