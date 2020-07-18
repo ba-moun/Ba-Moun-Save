@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T06:39:34.453Z
+date: 2020-07-18T06:40:57.350Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -223,14 +223,14 @@ Ainsi, en Angleterre, en `1912` puis en `1916` (`calendrier grégorien`), il ent
 > 
 > *Marcus GARVEY* a été dans tous les pays suivants pour progresser intellectuellement et découvrir les conditions de vie de la communauté.
 > 
-> - la France :fr:,
-> - l'Italie :it:,
-> - l'Espagne :es:,
-> - l'Allemagne :de:,
-> - l'Autriche 🇦🇹,
-> - le Royaume-Uni :uk:,
-> - les États-Unis d'Amérique :us:,
-> - le Panama 🇵🇦,
+> - France :fr:,
+> - Italie :it:,
+> - Espagne :es:,
+> - Allemagne :de:,
+> - Autriche 🇦🇹,
+> - Royaume-Uni :uk:,
+> - États-Unis d'Amérique :us:,
+> - Panama 🇵🇦,
 > - Borikén (Porto Rico 🇵🇷).
 > - Equateur 🇪🇨,
 > - Nicaragua 🇳🇮,
