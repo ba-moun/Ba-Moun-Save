@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T06:40:57.350Z
+date: 2020-07-18T06:41:53.857Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -246,7 +246,7 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 - parfaire son expérience dans la publication
 - parfaire son savoir-faire dans la presse.
 - communiquer par écrit avec des nationalistes `Kamyout`,
-- être en contact physique avec des nationalites `Kamyout, comme `Mohamed Ali Duse.
+- être en contact physique avec des nationalites `Kamyout`, comme `Mohamed Ali Duse`.
 
 # Prise de conscience
 
