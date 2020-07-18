@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T07:57:58.062Z
+date: 2020-07-18T08:09:37.501Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -199,7 +199,13 @@ En `1910`, *GARVEY* adhère au `National Club`. C'est un parti politique reconnu
 
 De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaille dans les plantations de différents pays.[^1] 🍠🥭🍍🥥🥕🌶
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/company/united-fruit-company/united-fruit-company.jpg"> <figcaption>Certificat de la United Fruit Company<br/>(UFC)</figcaption></figure>
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/company/united-fruit-company/united-fruit-company.jpg">
+   <figcaption>
+      Certificat de la United Fruit Company<br/>
+      (UFC)
+   </figcaption>
+</figure>
 
 * `Borikén` (`Porto Rico 🇵🇷`), où réside un de ses oncles maternels,
 * `Panama 🇵🇦`,
@@ -292,8 +298,15 @@ Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ample
 # Réalisations
 ## Gouvernement
 
-<figure class="image"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-looking-right-march-1922-_public-domain.png"> <figcaption><i>Marcus GARVEY</i> dans sa tenue d'apparat.<br/>Évènement organisé par <i>Marcus GARVEY</i><br/>États-Unis d'Amérique 🇺🇸, 1922 (calendrier grégorien)
-</figcaption></figure>
+<figure class="image image_resized" style="width: 50%;">
+   <img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-looking-right-march-1922-_public-domain.png">
+   <figcaption>
+      Marche organisée par <i>Marcus GARVEY</i><br/>
+      États-Unis d'Amérique 🇺🇸<br/>
+      1922 (calendrier grégorien)
+
+   </figcaption>
+</figure>
 
 ## Armée
 
