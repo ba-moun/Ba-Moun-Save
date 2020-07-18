@@ -2,7 +2,7 @@
 title: Duse Mohamed Ali
 description: Présentation de Duse Mohamed Ali
 published: true
-date: 2020-07-18T09:14:40.567Z
+date: 2020-07-18T09:15:33.734Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ editor: markdown
 
 *Mohamed Ali Duse* est le fondateur du journal mensuel :newspaper: `African Times and Orient Review`. Ce journal :newspaper: centralise des informations venant de tous les `nationalistes Kemyout` résidant ou de passage en Angleterre.[^1]
 
-<figure class="image image_resized" style="width: 50%;"><img src="/images/papers/newspapers/african-times-and-orient-review/african-times-and-orient-review_cover_public-domain.jpg"> <figcaption>Couverture de African Times Orient Review, Juillet 1912 (calendrier grégorien)</figcaption></figure>
+<figure class="image image_resized" style="width: 50%;"><img src="/images/papers/newspapers/african-times-and-orient-review/african-times-and-orient-review_cover_public-domain.jpg"> <figcaption>Couverture du <em>African Times Orient Review</em> de Juillet 1912 (calendrier grégorien)</figcaption></figure>
 
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
