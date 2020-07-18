@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T07:18:54.819Z
+date: 2020-07-18T07:19:29.558Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -279,7 +279,7 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 
 Un événement raciste a été des plus marquants et des plus décisifs pour *Marcus GARVEY*.[^1]
 Durant ses études sur l'île de `Xamayca ` (la `Jamaïque 🇯🇲`), *Marcus* se fait une camarade de classe. Le père de cette jeune fille, un pasteur méthodiste `Leucoderme`, refuse cette camaraderie parce que *Marcus GARVEY* est un `Nègre`. Ce pasteur en vient donc à envoyer son enfant en `Écosse` et lui ordonne de rompre à jamais cette camaraderie. [^1]
-*Marcus* prend conscience de  l'omniprésence du racisme une fois que cette information arrive à lui. Cela allume en lui une flamme révolutionnaire inextinguible ! Dès lors, il estime que le devoir de révolte et de combat s'impose à toute personne prenant conscience de l'ampleur des injustices que subissent les `Nègres`.[^1]
+*Marcus* prend conscience de  l'omniprésence du racisme une fois que cette information arrive à lui. Ceci allume en lui une flamme révolutionnaire inextinguible ! Dès lors, il estime que le devoir de révolte et de combat s'impose à toute personne prenant conscience de l'ampleur des injustices que subissent les `Nègres`.[^1]
 
 > Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
 > *Marcus Garvey*
