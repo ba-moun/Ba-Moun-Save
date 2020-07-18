@@ -2,10 +2,12 @@
 title: Duse Mohamed Ali
 description: Présentation de Duse Mohamed Ali
 published: true
-date: 2020-07-18T08:48:12.736Z
+date: 2020-07-18T09:06:13.179Z
 tags: 
 editor: markdown
 ---
+
+![mohamed-ali-duse_public-domain.jpg](/images/personnalite/kemit/mohamed-ali-duse/mohamed-ali-duse_public-domain.jpg){.align-abstopright}
 
 *Mohamed Ali Duse* est né en `1867` (`calendrier grégorien`). Il est mort au `Nigéria 🇳🇬` en `1945` (`calendrier grégorien`).[^1]
 
