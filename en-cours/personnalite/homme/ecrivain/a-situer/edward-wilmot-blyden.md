@@ -2,7 +2,7 @@
 title: Edward Wilmot Blyden
 description: Présentation de Edward Wilmot Blyden
 published: true
-date: 2020-07-18T10:39:44.692Z
+date: 2020-07-18T10:41:41.699Z
 tags: scribe, kamit, edward, wilmot, blyden, edward wilmot blyden, écrivain, kémit
 editor: markdown
 ---
@@ -21,6 +21,8 @@ Il accomplit l'essentiel de son œuvre au `Libéria 🇱🇷`.[^1]
 
 *Edward Wilmot Blyden* a écrit[^1] :
 - [Christianism, Islam and Negro Race](https://www.amazon.com/Christianity-Islam-Edward-Wilmot-Blyden/dp/0933121415).
-- un texte dénonçant les travaux de `Gobineau` sur `essai sur l'inégalité des races humaines` et d'autres prétendus intellectuels.
+- un texte dénonçant les travaux de `Gobineau` sur `essai sur l'inégalité des races humaines` et d'autres prétendus intellectuels,
+
+De plus, *Edward Wilmot Blyden* est à l'origine de la doctrine `African Nationality`.
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
