@@ -2,7 +2,7 @@
 title: Edward Wilmot Blyden
 description: Présentation de Edward Wilmot Blyden
 published: true
-date: 2020-07-18T11:04:40.782Z
+date: 2020-07-18T11:05:01.386Z
 tags: scribe, kamit, edward, wilmot, blyden, edward wilmot blyden, écrivain, kémit
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
 
 *Edward Wilmot Blyden* né en `1832` (`calendrier grégorien`) et meurt dans la misère, en `Sierra Leone 🇸🇱`, en `1912`.
 Il accomplit l'essentiel de son œuvre au `Libéria 🇱🇷`.[^1]
-Ce `kémit` a influencé plusieurs `intellectuels de la communauté 🧠`. Il a su leur faire abandonner leurs noms d'esclave  pour des noms indubitablement originaires du continent :earth_africa:.
+Ce `kémit` a influencé plusieurs `intellectuels de la communauté 🧠`. Il a su leur faire abandonner leurs noms d'esclave  pour des noms indubitablement originaires du continent :earth_africa:.[^4]
 
 *Edward Wilmot Blyden* a écrit[^1] :
 - [Christianism, Islam and Negro Race](https://www.amazon.com/Christianity-Islam-Edward-Wilmot-Blyden/dp/0933121415).
