@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T06:34:51.615Z
+date: 2020-07-18T06:35:32.516Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -209,7 +209,7 @@ De fin `1910` à début `1911` (calendrier grégorien), *Marcus GARVEY* travaill
 * `Colombie 🇨🇴`,
 * `Venezuela 🇻🇪`.
 
-Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à `Borikén` (`Porto Rico 🇵🇷`) et au `Panama 🇵🇦`. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le manque d'intérêt de ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
+Tout ce que *Marcus* voit n'est que misère sociale extrème, malnutrition et taudis. Pour dénoncer cela, il créé et anime les journaux `Nacionale` et `Prensa` respectivement à `Borikén` (`Porto Rico 🇵🇷`) et au `Panama 🇵🇦`. L'édition de ces deux journaux ne dure pas longtemps étant donné la pression des régimes en place et le désintéressement de ses lecteurs. Ce dernier provient sûrement des problèmes de mal nutrition dont ils souffrent. En effet, avant de penser à remplir sa tête, l'être humain a besoin de remplir son ventre.[^1]
 
 ### L'Europe et les États-Unis d'Amérique
 
