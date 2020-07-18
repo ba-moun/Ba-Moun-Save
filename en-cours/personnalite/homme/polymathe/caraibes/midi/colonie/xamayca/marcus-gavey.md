@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T09:05:08.583Z
+date: 2020-07-18T20:08:04.295Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -317,9 +317,9 @@ Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ample
 
 ## Entreprises
 ### Journaux de presse
-Pendant son voyage en Amérique et aux Caraïbes ([1910](/histoire/date/calendrier-gregorien/par-annee/1910)-[1911](/histoire/date/calendrier-gregorien/par-annee/1911)), *Marcus GARVEY* crée le journaux [Nacionale]() à Porto Rico et [Prensa]() au Panama.
+Pendant son voyage à `Tarama` (l'Amérique) et aux Caraïbes de `1910` à `1911`, *Marcus GARVEY* crée deux journaux. Il y a `Nacionale` à `Borikén` (`Porto Rico 🇵🇷`) et `Prensa` au `Panama 🇵🇦`.
 
-Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des Portoricain.e.s semblent être la raison de ce « désintéressement ».[^1]
+Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des `Boricua` (`Portoricains`) semble être la raison de ce « désintéressement ».[^1]
 
 ### The Watchman
 En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus GARVEY* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
