@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T07:41:07.334Z
+date: 2020-07-18T07:41:32.592Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -292,7 +292,7 @@ Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ample
 # Réalisations
 ## Gouvernement
 
-<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png"> <figcaption><i>Marcus GARVEY</i> dans sa tenue d'apparat.<br/>Évènement organisé par <i>Marcus GARVEY</i> aux États-Unis d'Amérique 🇺🇸 en 1922 (calendrier grégorien)
+<figure class="image"><img src="/images/personnalite/kemit/marcus-garvey/marcus-garvey-march-1922_public-domain.png"> <figcaption><i>Marcus GARVEY</i> dans sa tenue d'apparat.<br/>Évènement organisé par <i>Marcus GARVEY</i> aux États-Unis d'Amérique 🇺🇸 en 1922 (calendrier grégorien)
 </figcaption></figure>
 
 ## Armée
