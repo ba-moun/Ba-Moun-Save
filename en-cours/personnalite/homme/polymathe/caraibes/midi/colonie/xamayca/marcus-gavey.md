@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-18T06:44:18.260Z
+date: 2020-07-18T06:53:51.136Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme
 editor: markdown
 ---
@@ -255,8 +255,8 @@ Son séjour à Londres permet à *Marcus GARVEY* de[^1] :
 *Marcus GARVEY* a remarqué que le clivage social de `Xamayca` est l'exact reflet de sa configuration raciale. Seuls les `Leucodermes` (les `Blancs`) accompagnés de quelques rares « Métis » se trouvent en haut de l'échelle sociale. À l'inverse, les Noirs, qui sont au plus bas de l'échelle, forment une masse[^1] :
 
 - d'ouvriers agricoles dans les plantations de bananes :banana: et de tabac :smoking:.,
-- d'ouvriers du bâtiment et des chemins de fer,
-- de mineurs,
+- d'ouvriers du bâtiment 🧱 et des chemins de fer 🛤,
+- de mineurs ⛏,
 - de terrassiers,
 - etc.
 
