@@ -2,12 +2,15 @@
 title: Edward Wilmot Blyden
 description: Présentation de Edward Wilmot Blyden
 published: true
-date: 2020-07-18T11:05:01.386Z
+date: 2020-07-18T11:05:40.124Z
 tags: scribe, kamit, edward, wilmot, blyden, edward wilmot blyden, écrivain, kémit
 editor: markdown
 ---
 
 ![edward-wilmot-blyden_visage_public-domain.jpg](/images/personnalite/kemit/edward-wilmot-blyden/edward-wilmot-blyden_visage_public-domain.jpg){.align-abstopright}
+
+> Votre place a été assignée dans l'univers comme Africains, et il n'y a pas de place pour vous nulle part ailleurs.[^4]
+> <p style="text-align: right;"><i>Edward Wilmot Blyden</i></p>
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/edward-wilmot-blyden/edward-wilmot-blyden_public-domain.png">
@@ -25,9 +28,6 @@ Ce `kémit` a influencé plusieurs `intellectuels de la communauté 🧠`. Il a 
 - un texte dénonçant les travaux de `Gobineau` sur `essai sur l'inégalité des races humaines` et d'autres prétendus intellectuels,
 
 De plus, *Edward Wilmot Blyden* est à l'origine de la doctrine `African Nationality`.[^1]
-
-> Votre place a été assignée dans l'univers comme Africains, et il n'y a pas de place pour vous nulle part ailleurs.[^4]
-> <p style="text-align: right;"><i>Edward Wilmot Blyden</i></p>
 
 [^1]: `Doumbi Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
 
