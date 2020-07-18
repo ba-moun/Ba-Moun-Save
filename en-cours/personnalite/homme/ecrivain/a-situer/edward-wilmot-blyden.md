@@ -2,7 +2,7 @@
 title: Edward Wilmot Blyden
 description: Présentation de Edward Wilmot Blyden
 published: true
-date: 2020-07-18T10:41:41.699Z
+date: 2020-07-18T10:52:59.663Z
 tags: scribe, kamit, edward, wilmot, blyden, edward wilmot blyden, écrivain, kémit
 editor: markdown
 ---
@@ -25,4 +25,9 @@ Il accomplit l'essentiel de son œuvre au `Libéria 🇱🇷`.[^1]
 
 De plus, *Edward Wilmot Blyden* est à l'origine de la doctrine `African Nationality`.
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
+> Votre place a été assignée dans l'univers comme Africains, et il n'y a pas de place pour vous nulle part ailleurs.[^4]
+> <p style="text-align: right;"><i>Edward Wilmot Blyden</i></p>
+
+[^1]: `Doumbi Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
+
+[^4]: `Têtêvi Godwin Tété-Adjalogo`. `Marcus Garvey, Père de l'Unité Africaine des Peuples`. Tome 1. Ed. L'Harmattan ; `Paris` ; `1995`.
