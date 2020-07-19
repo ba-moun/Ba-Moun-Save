@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-19T13:21:43.395Z
+date: 2020-07-19T13:22:16.059Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -81,8 +81,6 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
 * construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
 
 ### L'exil du roi
-![Njoya Of Bamun](/uploads/personnalite/njoya-of-bamun.jpg "Le Roi Ibrahim NJOYA"){.align-right}
-
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
 À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
