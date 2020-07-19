@@ -2,14 +2,14 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-19T13:08:50.003Z
+date: 2020-07-19T13:11:07.471Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
 
 ![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya_public-domain.jpg){.align-abstopright}
 
-Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie de Nchare Yen`. Le *roi* a régné de `1887` à `1933` (`calendrier grégorien`). Les `Bamoun` l'ont considéré comme un Dieu, suite aux miracles qu'il a accomplis.[^1][^2]
+Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie de Nchare Yen`. Ce *roi* a régné de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
 
 # Naissance
 *Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
