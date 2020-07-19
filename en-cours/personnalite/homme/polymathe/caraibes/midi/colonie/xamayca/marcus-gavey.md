@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-19T12:16:18.634Z
+date: 2020-07-19T12:28:40.104Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -339,7 +339,7 @@ Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
 
 
-[^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
+[^1]: `Doumbi Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur [Internet](http://join.clubme.net). [Jeu.](/histoire/date/calendrier-gregorien/par-jour-de-la-semaine/jeudi) [13](/histoire/date/calendrier-gregorien/par-jour/13) [Jan.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2011](/histoire/date/calendrier-gregorien/par-annee/2011) ; 12:50 (lu le [25](/histoire/date/calendrier-gregorien/par-jour/25) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [2018](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2018)).
 [^3]: [Amy Jacques Garvey](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey). [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey). Vol. 2. Cité par Têtêvi Godwin Tété-Adjalogo.
-[^4]: [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo). [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples). Tome 1. Ed. L'Harmattan ; [Paris](/geographie/ville/europe/ouest/paris) ; [1995](/histoire/date/calendrier-gregorien/par-annee/1995).
+[^4]: `Têtêvi Godwin Tété-Adjalogo`. `Marcus Garvey, Père de l'Unité Africaine des Peuples`. Tome 1. Ed. L'Harmattan ; `Paris` ; `1995`.
