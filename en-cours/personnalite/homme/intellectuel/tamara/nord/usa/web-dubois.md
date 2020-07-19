@@ -2,7 +2,7 @@
 title: William Edward Burghardt DuBois
 description: Présentation de William Edward Burghardt DuBois
 published: true
-date: 2020-07-18T22:44:46.969Z
+date: 2020-07-19T11:44:26.369Z
 tags: kamit, edward, kémit, w.e.b. dubois, web dubois, web, w.e.b., dubois, william, burghardt, william edward burghardt dubois, intellectuel, intelligentsia, intelligentsia noire, intelligentsia kamit, intelligentsia kémit, intellectuel noir, intellectuel kémit, intellectuel kamit, kemit, noir, africain, homme
 editor: markdown
 ---
@@ -11,7 +11,8 @@ editor: markdown
 
 William Edward Burghardt DuBois né en `1868` (calendrier grégorien). Il meurt en `1963` au `Ghana 🇬🇭`.[^1]
 
-*William Edward Burghardt DuBois* fait partie des `intillectuels de la communauté 🧠`. Il prône le bien-être moral et matériel dans le pays d'acceuil forcé de chaque afrodescendant. De plus, il exhorte ses compatriotes à fonder des leagues (associations de commençants) partout
-*W.E.B. DuBois* a fondé la NAACP (National Association for the Advancement of Coloured People).[^1]
+*William Edward Burghardt DuBois* fait partie des `intillectuels de la communauté 🧠`. Il prône le bien-être moral et matériel dans le pays d'acceuil forcé de chaque afrodescendant. De plus, il exhorte ses compatriotes à fonder des leagues (associations de commençants) partout où se trouvent des `Kamit` (des Noir.e.s).[^1]
+
+*W.E.B. DuBois* est le fondateur de la `NAACP` (`National Association for the Advancement of Coloured People`). En français, ce nom peu se traduire par `Association Nationale pour le Progrès des Gens de Couleur`[^1]
 
 [^1]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
