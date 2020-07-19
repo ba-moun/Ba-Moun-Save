@@ -2,14 +2,14 @@
 title: Booker Taliaferro Washington
 description: Présentation de Booker Taliaferro Washington
 published: true
-date: 2020-07-19T12:10:05.027Z
+date: 2020-07-19T12:11:02.809Z
 tags: kamit, kémit, intellectuel, intelligentsia, intelligentsia kamit, intelligentsia kémit, intellectuel noir, intellectuel kémit, kemit, booker, taliaferro, washington, booker taliaferro washington
 editor: markdown
 ---
 
 ![booker-taliaferro-washington_public-domain.jpg](/images/personnalite/kemit/booker-t-washington/booker-taliaferro-washington_public-domain.jpg){.align-abstopright}
 
-*Booker Taliaferro Washington* fait parti des `intellectuels de la communauté`. Il prône l'épanouissement moral et matériel dans le pays d'accueil forcé de chaque afrodescendant.[^1]
+*Booker Taliaferro Washington* fait parti des `intellectuels de la communauté 🧠`. Il prône l'épanouissement moral et matériel dans le pays d'accueil forcé de chaque afrodescendant.[^1]
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/company/national-negro-league/national-negro-business-league_bureau-exécutif_public-domain.jpg">
