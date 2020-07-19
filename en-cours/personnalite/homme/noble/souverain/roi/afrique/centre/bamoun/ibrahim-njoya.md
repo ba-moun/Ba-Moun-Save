@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-19T13:11:07.471Z
+date: 2020-07-19T13:21:43.395Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -26,7 +26,14 @@ Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le 
 Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun). Ce monument est classé patrimoine mondial de l'UNESCO.[^1]
 
 # Sciences
-![Bamum Syllabary](/uploads/ecriture/bamum-syllabary.png "L'écriture syllabique des Bamouns : le Shu-Mom"){.align-right}
+
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/writing/bamun/bamum-syllabary.png">
+   <figcaption>
+      Bamun (écriture syllabique)
+   </figcaption>
+</figure>
 
 Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
 Cette réalisation vient de la complexité de l'écriture africaine précédemment utilisée ; en effet, cette écriture était trop complexe pour que les [Bamouns](/peuple/afrique/a-situer/bamoun) réussissent tous à la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
@@ -53,6 +60,14 @@ L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmo
 Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 
 ### L'annexion du royaume
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
+   <figcaption>
+      Le roi Ibrahim Njoya<br/>
+      en tenue traditionnelle
+   </figcaption>
+</figure>
 Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
 Quand vient « le tour » de la colonisation française, une opposition [Bamoun](/peuple/afrique/a-situer/bamoun) prend place contre l'installation des Français dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
