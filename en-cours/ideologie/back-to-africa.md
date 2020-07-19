@@ -2,14 +2,17 @@
 title: Back to Africa (retour en Afrique)
 description: Présentation de la philosophie Back to Africa
 published: true
-date: 2020-07-19T12:32:46.117Z
+date: 2020-07-19T12:36:28.003Z
 tags: back to africa, retour en afrique, philosophie, philosophie africaine, philosophie négro-africaine, philosophie kamit, philosophie kémit, philosophie kemit
 editor: markdown
 ---
 
+> L'Afrique à la Race africaine, et c'est à des hommes noirs de la gouverner. Par des hommes noirs, j'entends des hommes de descendance africaine qui réclament une identité avec la race.[^1][^4]
+> <p style="text-align: right;"><i>Martin R. Delany</i></p>
+
 Le *back to Africa* est une idéologie aspirant au bien-être moral et matériel de la `communauté` sur `le continent` :earth_africa:.
 
-Des personnalités comme `Marcus GARVEY` et `Wesley S. Jones` prônent cette idéologie.
+Des personnalités comme `Marcus GARVEY`, `Martin R. Delany` et `Wesley S. Jones` prônent cette idéologie.[^1][^4]
 
 > […]nous (les `Kamit`) ferons là-bas une grande nation pour nous-mêmes, nous construirons nos propres cités et villes, édicterons nos propres lois, collecterons nos propres revenus, commanderons nos propres gouvernements et législateurs, aurons nos propres écoles et collèges, nos propres avocats et docteurs ; en un mot, nous cesserons d'être des employés à couper le bois, à puiser l'eau et serons des hommes.[^1][^4]
 > <p style="text-align: right;"><i>Wesley S. Jones</i></p>
