@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-20T15:30:26.981Z
+date: 2020-07-20T15:32:37.737Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -37,7 +37,7 @@ flowchart TB
       spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
       les rites traditionnels Bamoun, le coran et la bible"]
       
-      conversion["Le Sultan Ibrahim Njoya se convertit à l’Islam"]
+      conversion["1920 : Le Sultan Ibrahim Njoya se convertit à l’Islam"]
    end
    
    birth --> reign
