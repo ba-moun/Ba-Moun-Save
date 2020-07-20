@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-20T15:26:49.131Z
+date: 2020-07-20T15:27:35.389Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -40,16 +40,16 @@ flowchart TB
 
 ## Fondements spirituels et religieux
 
-En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforcer la puissance de `son royaume`. Pour se faire, il crée une spiritualité basée sur les rites traditionnels Bamoun. Il y rajoute des éléments religieux provenant du `Coran` et de la `Bible`. Par la suite, en `1920`, le *Sultan* adhère à l'`Islam`.[^1][^2]
-
-## Monuments
-
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/monument/palais-des-sultants-bamoun_cc-by-sa.jpg">
    <figcaption>
       Palais des sultans Bamoun
    </figcaption>
 </figure>
+
+En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforcer la puissance de `son royaume`. Pour se faire, il crée une spiritualité basée sur les rites traditionnels Bamoun. Il y rajoute des éléments religieux provenant du `Coran` et de la `Bible`. Par la suite, en `1920`, le *Sultan* adhère à l'`Islam`.[^1][^2]
+
+## Monuments
 
 Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban (Cameroun). Le palais est classé patrimoine mondial par l'UNESCO.[^1]
 
