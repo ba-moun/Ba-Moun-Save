@@ -2,30 +2,58 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-19T13:22:16.059Z
+date: 2020-07-20T15:26:49.131Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
 
 ![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya_public-domain.jpg){.align-abstopright}
 
-Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie de Nchare Yen`. Ce *roi* a régné de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
+Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
 
-# Naissance
-*Ibrahim Njoya* est né en [1876](/histoire/date/calendrier-gregorien/par-annee/1876) de [Na Njapdnunke](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke), [sa mère](/personnalite/femme/noble/souveraine/reine/afrique/a-situer/bamoun/na-njapdnunke).[^1]
+Le *Roi Ibrahim Njoya* né en `1876` (`calendrier grégorien`) de `Na Njapdnunke`, `sa mère`.[^1]
+Il se marie avec plus de six cent femmes. Par ces mariages, il souhaite rassembler tous les critères de beauté féminins.[^2]
 
-# Mariages
-Le *Roi Ibrahim NJOYA* s'est marrié avec plus de six cent femmes. Par ces mariages, il souhaitait rassembler tous les critères de beauté féminins.[^2]
+La frise ci-dessous retrace les faits historiques liées au  *Sultan Ibrahim Njoya*.
 
-# Fondements spirituels et religieux
-Dans le but de renforcer la puissance de [son royaume](/geographie/royaume/afrique/nord-ouest/bamoun), le *Roi Ibrahim NJOYA* crée en [1915](/histoire/date/calendrier-gregorien/par-annee/1915)  une spiritualité basée sur les rites traditionnels bamouns ; il y rajoute des éléments religieux provenant du [Coran](/ouvrage/a-classer/coran) et de la [Bible](/ouvrage/roman/bible-chretienne).[^2][^1]
+```mermaid
+flowchart TB
 
-Par la suite, en [1920](/histoire/date/calendrier-gregorien/par-annee/1920), le *Sultan* adhère à l'[Islam](/religion/confession/islam).[^1]
+   birth["1876 : Naissance de Ibrahim Njoya"]
+   
+   subgraph reign["1887 − 1933"]
+      coronation["1887 : Couronnement de Ibrahim Njoya"]
+      
+      civilWar["1892 − 1895 : Guerre civile"]
+      
+      spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
+      les rites traditionnels Bamoun, le coran et la bible"]
+      
+      conversion["Le Sultan Ibrahim Njoya se convertit à l’Islam"]
+   end
+   
+   birth --> reign
+   
+```
 
-# Monuments
-Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamoun](/monument/afrique/a-situer/palais-des-sultants-bamouns). Celui-ci se trouve à Foumban (pays du Cameroun). Ce monument est classé patrimoine mondial de l'UNESCO.[^1]
+# Réalisations
 
-# Sciences
+## Fondements spirituels et religieux
+
+En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforcer la puissance de `son royaume`. Pour se faire, il crée une spiritualité basée sur les rites traditionnels Bamoun. Il y rajoute des éléments religieux provenant du `Coran` et de la `Bible`. Par la suite, en `1920`, le *Sultan* adhère à l'`Islam`.[^1][^2]
+
+## Monuments
+
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/monument/palais-des-sultants-bamoun_cc-by-sa.jpg">
+   <figcaption>
+      Palais des sultans Bamoun
+   </figcaption>
+</figure>
+
+Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban (Cameroun). Le palais est classé patrimoine mondial par l'UNESCO.[^1]
+
+## Sciences
 
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
@@ -35,7 +63,7 @@ Durant son règne, le *Roi Ibrahim NJOYA* construit le [palais des sultant Bamou
    </figcaption>
 </figure>
 
-Suite à la [guerre civile](/histoire/evenement/guerre/guerre-civile-bamoun) de [1892](/histoire/date/calendrier-gregorien/par-annee/1892) à [1895](/histoire/date/calendrier-gregorien/par-annee/1895) qui a ravagé le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun), *NJOYA* et son peuple se dotent d'une nouvelle écriture nommée [shu-mom](/ecriture/shu-mom).[^1]
+Suite à la `guerre civile` de `1892` à `1895` (`calendrier grégorien`) qui ravage le `royaume Bamoun`, le *Sultan Ibrahim Njoya* et son peuple se dotent d'une nouvelle écriture nommée `shu-mom`.[^1]
 Cette réalisation vient de la complexité de l'écriture africaine précédemment utilisée ; en effet, cette écriture était trop complexe pour que les [Bamouns](/peuple/afrique/a-situer/bamoun) réussissent tous à la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
 
 Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) (fiscalité, justice, archives, etc.).[^1]
@@ -61,7 +89,7 @@ Les Français prennent la succession des Anglais dans la colonisation du [royaum
 
 ### L'annexion du royaume
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
    <figcaption>
       Le roi Ibrahim Njoya<br/>
@@ -137,9 +165,9 @@ Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30)
 
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le `10` `Juin` `2018` (`calendrier grégorien`)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
-[^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), [27](/histoire/date/calendrier-gregorien/par-jour/27) [févr.](/histoire/date/calendrier-gregorien/par-mois/fevrier) [2017](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2017) [consulté le [14](/histoire/date/calendrier-gregorien/par-jour/14) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
-[^3]: [Adultère − XIXème siècle en France](https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le [13](/histoire/date/calendrier-gregorien/par-jour/13) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France
-[^4]: [Palais de l'Élysée − Le palais de l'Élysée en chiffres](https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le [13](/histoire/date/calendrier-gregorien/par-jour/13) [Août](/histoire/date/calendrier-gregorien/par-mois/aout) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. [https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres](https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres)
-[^5]: [Doumbi-Fakoly](/personnalite/homme/polymathe/afrique/nord-ouest/pays/mali/doumbi-fakoli). [Marcus Garvey expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents). Édition [MENAIBUC](/organisme/editeur/menaibuc) ; 2ème trimestre [2009](/histoire/date/calendrier-gregorien/par-annee/2009). 91 p. ISBN : 978-2-35349-102-5.
-[^6]: [Guy CABORT-MASSON](/personnalite/homme/ecrivain/caraibes/centre/departement/madinina/guy-cabort-masson). [Les puissances d'argent de la martinique − La caste des Békés](/ouvrage/these/caraibes/centre/departement/madinina/les-puissances-dargent-en-martinique-la-caste-beke). 3ème édition. La V.d.P. 339 p..
-[^7]: [Peine de mort en France − Opinion française](https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise). In [Wikipédia, l'encyclopédie libre](https://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le [18](/histoire/date/calendrier-gregorien/par-jour/18) [Juillet](/histoire/date/calendrier-gregorien/par-mois/juillet) [2018](/histoire/date/calendrier-gregorien/par-annee/2018)]. https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise
+[^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), `27` `févr.` `2017` [consulté le `14` `Juillet` `2018`]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
+[^3]: [Adultère − XIXème siècle en France](https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le `13` `Août` `2018`]. https://fr.wikipedia.org/wiki/Adult%C3%A8re#XIXe_si%C3%A8cle_en_France
+[^4]: [Palais de l'Élysée − Le palais de l'Élysée en chiffres](https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le `13` `Août` `2018`]. https://fr.wikipedia.org/wiki/Palais_de_l%27%C3%89lys%C3%A9e#Le_palais_de_l'%C3%89lys%C3%A9e_en_chiffres
+[^5]: `Doumbi-Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
+[^6]: `Guy CABORT-MASSON`. `Les puissances d'argent de la martinique − La caste des Békés`. 3ème édition. La V.d.P. 339 p..
+[^7]: [Peine de mort en France − Opinion française](https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise). In [Wikipédia, l'encyclopédie libre](https://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003 [consulté le `18` `Juillet` `2018`]. https://fr.wikipedia.org/wiki/Peine_de_mort_en_France#Opinion_fran%C3%A7aise
