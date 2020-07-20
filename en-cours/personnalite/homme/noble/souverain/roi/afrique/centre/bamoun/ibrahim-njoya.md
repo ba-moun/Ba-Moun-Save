@@ -2,12 +2,19 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-20T15:27:35.389Z
+date: 2020-07-20T15:28:31.961Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
 
 ![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya_public-domain.jpg){.align-abstopright}
+
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/monument/palais-des-sultants-bamoun_cc-by-sa.jpg">
+   <figcaption>
+      Palais des sultans Bamoun
+   </figcaption>
+</figure>
 
 Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
 
@@ -39,13 +46,6 @@ flowchart TB
 # Réalisations
 
 ## Fondements spirituels et religieux
-
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
-   <img src="/images/monument/palais-des-sultants-bamoun_cc-by-sa.jpg">
-   <figcaption>
-      Palais des sultans Bamoun
-   </figcaption>
-</figure>
 
 En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforcer la puissance de `son royaume`. Pour se faire, il crée une spiritualité basée sur les rites traditionnels Bamoun. Il y rajoute des éléments religieux provenant du `Coran` et de la `Bible`. Par la suite, en `1920`, le *Sultan* adhère à l'`Islam`.[^1][^2]
 
