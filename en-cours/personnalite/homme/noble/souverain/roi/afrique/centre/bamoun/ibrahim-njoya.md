@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T22:20:30.977Z
+date: 2020-07-21T22:25:55.890Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -74,8 +74,8 @@ Les `Allemands` sont les premiers envahisseurs européens que rencontre le *Roi 
 Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les apprioris des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.[^2]
 
 ## Invasion anglaise
-Suite à la défaite des Allemands sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
-L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmonieuse » qu'avec les Allemands, avant la [première guerre tribale européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne).[^2]
+
+Suite à la défaite des `Allemands` sur le `royaume bamoun`, les `Anglais` deviennent les nouveaux colons du royaume. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` reste tout autant respectueuse et harmonieuse qu'avec les `Allemands`.[^2]
 
 ## Invasion française
 Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
