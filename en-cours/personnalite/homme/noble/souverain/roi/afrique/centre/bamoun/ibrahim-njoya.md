@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T14:57:23.777Z
+date: 2020-07-21T15:22:39.531Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -53,22 +53,19 @@ En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforce
 
 ## Monuments
 
-Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban, au Cameroun 🇨🇲. Le palais est classé patrimoine mondial par l'UNESCO.[^1]
+Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban, au Cameroun. Le palais est classé patrimoine mondial par l'UNESCO.[^1]
 
 ## Sciences
 
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/writing/bamun/bamum-syllabary.png">
    <figcaption>
       Bamun (écriture syllabique)
    </figcaption>
 </figure>
 
-Suite à la `guerre civile` de `1892` à `1895` (`calendrier grégorien`) qui ravage le `royaume Bamoun`, le *Sultan Ibrahim Njoya* et son peuple se dotent d'une nouvelle écriture nommée `shu-mom`.[^1]
-Cette réalisation vient de la complexité de l'écriture africaine précédemment utilisée ; en effet, cette écriture était trop complexe pour que les [Bamouns](/peuple/afrique/a-situer/bamoun) réussissent tous à la maitriser. Ainsi, pour y pallier, le *Sultan NJOYA* a décidé de simplifier cette ancienne écriture pour en faire le [shu-mom](/ecriture/shu-mom).[^2]
-
-Grâce à cette dernière, les [Bamouns](/peuple/afrique/a-situer/bamoun) ont amélioré le système administratif du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) (fiscalité, justice, archives, etc.).[^1]
+Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écriture difficile à maitriser par le peuple. Pour pallier cela, le *Sultan Ibrahim Njoya* décide de la simplifier. Dès lors, suite à la `guerre civile` qui ravage le royaume (`1892 − 1895` du `calendrier grégorien`), le Sultan crée le `shu-mom`. Cette nouvelle écriture est un tremplin à l’amélioration du système administratif du `royaume Bamoun` (fiscalité, justice, archives, etc.).[^1][^2]
 
 # Guerres
 ## Guerre civile
