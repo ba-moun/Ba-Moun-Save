@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T20:36:02.285Z
+date: 2020-07-21T20:37:51.509Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -60,16 +60,16 @@ Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écr
 # Première guerre tribale Européenne
 Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin officielle de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns](/peuple/afrique/a-situer/bamoun).[^2]
 
-# Colonisation européenne
-## Colonisation allemande
+# Invasion européenne
+## Invasion allemande
 Les Allemands sont les premiers colons Européens que rencontre *Ibrahim*.[^2]
 Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun). Surpris de l'avancé civilisationnel des [Bamouns](/peuple/afrique/a-situer/bamoun), les Allemands perdent leurs apprioris et le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) envisage d'effectuer des échanges avec les Allemands.[^2]
 
-## Colonisation anglaise
+## Invasion anglaise
 Suite à la défaite des Allemands sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmonieuse » qu'avec les Allemands, avant la [première guerre tribale européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne).[^2]
 
-## Colonisation française
+## Invasion française
 Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 
 ## Annexion du royaume
