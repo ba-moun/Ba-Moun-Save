@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T15:27:57.233Z
+date: 2020-07-21T20:36:02.285Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -45,40 +45,34 @@ flowchart TB
    
 ```
 
-# Réalisations
-
-## Fondements spirituels et religieux
+# Fondements spirituels et religieux
 
 En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforcer la puissance de `son royaume`. Pour se faire, il crée une spiritualité basée sur les rites traditionnels Bamoun. Il y rajoute des éléments religieux provenant du `Coran` et de la `Bible`. Par la suite, en `1920`, le *Sultan* adhère à l'`Islam`.[^1][^2]
 
-## Monuments
+# Monuments
 
 Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban, au Cameroun 🇨🇲. Le palais est classé patrimoine mondial par l'UNESCO.[^1]
 
-## Sciences
+# Sciences
 
 Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écriture difficile à maitriser par le peuple. Pour pallier cela, le *Sultan Ibrahim Njoya* décide de la simplifier. Dès lors, suite à la `guerre civile` qui ravage le royaume (`1892 − 1895` du `calendrier grégorien`), le Sultan crée le `shu-mom`. Cette nouvelle écriture est un tremplin à l’amélioration du système administratif du `royaume Bamoun` (fiscalité, justice, archives, etc.).[^1][^2]
 
-# Guerres
-## Guerre civile
-Voir [guerre civile Bamoun](/histoire/evenement/guerre/guerre-civile-bamoun).
-
-## Première guerre tribale Européenne
+# Première guerre tribale Européenne
 Lors de la [première guerre tribale Européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne), le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) est colonisé par les Allemands. En [1920](/histoire/date/calendrier-gregorien/par-annee/1920), soit deux ans après la fin officielle de cette guerre, les Allemands capitulent et cessent de se battre contre les anglais sur le territoire des [Bamouns](/peuple/afrique/a-situer/bamoun).[^2]
 
-# La colonisation européenne
-## La colonisation allemande
+# Colonisation européenne
+## Colonisation allemande
 Les Allemands sont les premiers colons Européens que rencontre *Ibrahim*.[^2]
 Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun). Surpris de l'avancé civilisationnel des [Bamouns](/peuple/afrique/a-situer/bamoun), les Allemands perdent leurs apprioris et le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) envisage d'effectuer des échanges avec les Allemands.[^2]
 
-## La colonisation anglaise
+## Colonisation anglaise
 Suite à la défaite des Allemands sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 L'entente entre le roi et les Anglais reste tout autant « respectueuse et harmonieuse » qu'avec les Allemands, avant la [première guerre tribale européenne](/histoire/periode/epoque-moderne/europe/partout/confrontation/premiere-guerre-tribale-europeenne).[^2]
 
-## La colonisation française
+## Colonisation française
 Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 
-### L'annexion du royaume
+## Annexion du royaume
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
@@ -99,7 +93,7 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
 * divisent le royaume en chefferies supérieures ;
 * construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
 
-### L'exil du roi
+## L'exil
 
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
@@ -139,7 +133,7 @@ Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/ca
 * Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
 * Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 
-# La fin du reigne
+# Fin du reigne
 Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé.[^2]
 *Le Sultan* reçoit le peuple, lui donne à manger, dessine et peint avec lui, lui enseigne sa langue et son écriture (le [shu-mom](/ecriture/shu-mom)), etc.[^2]
 En remerciement, le peuple aide le *Roi NJOYA* dans ses travaux de construction.[^2]
