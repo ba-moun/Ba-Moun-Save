@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T21:57:25.734Z
+date: 2020-07-21T22:20:30.977Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -66,9 +66,12 @@ Moins de vingt ans plus tard, les `Européens` décident de faire la guerre entr
 À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun. En `1920` (`calendrier grégorien`), les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la seconde guerre tribale européenne.[^1][^2]
 
 # Invasion européenne
+
 ## Invasion allemande
-Les Allemands sont les premiers colons Européens que rencontre *Ibrahim*.[^2]
-Le *sultan* acceuil ces colons avec respect et laisse découvrir le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun). Surpris de l'avancé civilisationnel des [Bamouns](/peuple/afrique/a-situer/bamoun), les Allemands perdent leurs apprioris et le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) envisage d'effectuer des échanges avec les Allemands.[^2]
+
+Les `Allemands` sont les premiers envahisseurs européens que rencontre le *Roi Ibrahim Njoya*. Il les acceuille avec respect et les laisse découvrir le `royaume`.
+
+Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les apprioris des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.[^2]
 
 ## Invasion anglaise
 Suite à la défaite des Allemands sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), les Anglais deviennent les nouveaux colons du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
