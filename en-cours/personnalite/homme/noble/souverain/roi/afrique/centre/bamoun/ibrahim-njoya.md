@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T22:29:20.270Z
+date: 2020-07-21T22:33:16.685Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -78,9 +78,10 @@ Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Le
 Suite à la défaite des `Allemands` sur le `royaume bamoun`, les `Anglais` deviennent les nouveaux envahisseurs du royaume. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` reste tout autant respectueuse et harmonieuse qu'avec les `Allemands`.[^2]
 
 ## Invasion française
-Les Français prennent la succession des Anglais dans la colonisation du [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
 
-## Annexion du royaume
+Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`.[^2]
+
+# Annexion du royaume
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
@@ -101,7 +102,7 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
 * divisent le royaume en chefferies supérieures ;
 * construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
 
-## L'exil
+# L'exil
 
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
