@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T15:22:39.531Z
+date: 2020-07-21T15:24:04.828Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -57,14 +57,6 @@ Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Ba
 
 ## Sciences
 
-
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
-   <img src="/images/writing/bamun/bamum-syllabary.png">
-   <figcaption>
-      Bamun (écriture syllabique)
-   </figcaption>
-</figure>
-
 Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écriture difficile à maitriser par le peuple. Pour pallier cela, le *Sultan Ibrahim Njoya* décide de la simplifier. Dès lors, suite à la `guerre civile` qui ravage le royaume (`1892 − 1895` du `calendrier grégorien`), le Sultan crée le `shu-mom`. Cette nouvelle écriture est un tremplin à l’amélioration du système administratif du `royaume Bamoun` (fiscalité, justice, archives, etc.).[^1][^2]
 
 # Guerres
@@ -108,6 +100,14 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
 * construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
 
 ### L'exil du roi
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/writing/bamun/bamum-syllabary.png">
+   <figcaption>
+      Bamun (écriture syllabique)
+   </figcaption>
+</figure>
+
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
 À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
