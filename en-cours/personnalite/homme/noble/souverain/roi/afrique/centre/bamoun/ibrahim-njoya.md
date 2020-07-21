@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T15:24:04.828Z
+date: 2020-07-21T15:24:58.001Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -101,6 +101,12 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
 
 ### L'exil du roi
 
+Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
+
+À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
+
+Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) [^2] :
+
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/writing/bamun/bamum-syllabary.png">
    <figcaption>
@@ -108,11 +114,6 @@ Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun)
    </figcaption>
 </figure>
 
-Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
-
-À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
-
-Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) [^2] :
 * il a plusieurs épouses (plus de six cent) et trop d'enfants ;
 * il vit dans un grand palais ;
 * il asservit son peuple ;
