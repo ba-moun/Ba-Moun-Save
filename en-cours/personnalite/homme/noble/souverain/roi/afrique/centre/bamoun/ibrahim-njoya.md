@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T14:52:16.425Z
+date: 2020-07-21T14:57:23.777Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -32,7 +32,8 @@ flowchart TB
    subgraph reign["1887 − 1933"]
       coronation["1887 : Couronnement de Ibrahim Njoya"]
       
-      civilWar["1892 − 1895 : Guerre civile"]
+      civilWarBegining["1892 : Une guerre civile éclate dans le royaume Bamoun"]
+      civilWarEnd["1895 : Fin de la guerre civile dans le royaume Bamoun"]
       
       spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
       les rites traditionnels Bamoun, le coran et la bible"]
@@ -52,7 +53,7 @@ En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforce
 
 ## Monuments
 
-Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban (Cameroun). Le palais est classé patrimoine mondial par l'UNESCO.[^1]
+Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban, au Cameroun 🇨🇲. Le palais est classé patrimoine mondial par l'UNESCO.[^1]
 
 ## Sciences
 
