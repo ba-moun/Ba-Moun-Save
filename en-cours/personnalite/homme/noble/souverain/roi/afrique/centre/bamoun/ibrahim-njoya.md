@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T15:24:58.001Z
+date: 2020-07-21T15:25:20.528Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -110,7 +110,7 @@ Voici la liste des « reproches » faits à *NJOYA* par les français pour soute
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/writing/bamun/bamum-syllabary.png">
    <figcaption>
-      Bamun (écriture syllabique)
+      Shu-mom (écriture syllabique)
    </figcaption>
 </figure>
 
