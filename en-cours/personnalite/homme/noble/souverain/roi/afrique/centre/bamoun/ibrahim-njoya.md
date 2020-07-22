@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-22T08:54:19.972Z
+date: 2020-07-22T08:55:32.094Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -75,15 +75,6 @@ Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `ch
 
 ## Invasion anglaise
 
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
-   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
-   <figcaption>
-      Le roi Ibrahim Njoya<br/>
-      en tenue traditionnelle
-   </figcaption>
-</figure>
-
-
 En `1895` (`calendrier grégorien`), les Bamoun sortent d’une guerre civile. Cette guerre ravage le `royaume Bamoun`.
 Moins de vingt ans plus tard, les `Européens` décident de faire la guerre entre eux ; c’est la `première guerre tribale européenne`. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
 À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun.
@@ -112,6 +103,14 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
 * construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*.
 
 # L'exil
+
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
+   <figcaption>
+      Le roi Ibrahim Njoya<br/>
+      en tenue traditionnelle
+   </figcaption>
+</figure>
 
 Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
 
