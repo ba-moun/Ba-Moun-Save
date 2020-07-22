@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-21T22:33:16.685Z
+date: 2020-07-22T08:54:19.972Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -27,23 +27,29 @@ La frise ci-dessous retrace les faits historiques liées au  *Sultan Ibrahim Njo
 ```mermaid
 flowchart TB
 
-   birth["1876 : Naissance de Ibrahim Njoya"]
+   birth["1876 : Naissance de Ibrahim Njoya 🚼"]
    
-   subgraph reign["1887 − 1933"]
-      coronation["1887 : Couronnement de Ibrahim Njoya"]
-      
-      civilWarBegining["1892 : Une guerre civile éclate dans le royaume Bamoun"]
-      civilWarEnd["1895 : Fin de la guerre civile dans le royaume Bamoun"]
-      
-      spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
-      les rites traditionnels Bamoun, le coran et la bible"]
-      
-      conversion["1920 :
-      - Le Sultan Ibrahim Njoya se convertit à l’Islam
-      - Fin de la première guerre tribale européenne sur le royaume Bamoun"]
-   end
+   coronation["1887 : Couronnement de Ibrahim Njoya"]
+
+   christianity["1895 : Les envahisseurs européens introduisent
+   la religion chrétienne dans le royaume Bamoun"]
+
+    civilWarBegining["1892 : Une guerre civile 💀 éclate dans le royaume Bamoun"]
+    civilWarEnd["1895 : Fin de la guerre civile dans le royaume Bamoun 🏳"]
+
+   spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
+   les rites traditionnels Bamoun, le coran 📖 et la bible 📖"]
+
+   subgraph 1920
+
+     conversion["Le Sultan Ibrahim Njoya se convertit à l’Islam"]
+     firstEuTribalWarEnd["Fin de la première guerre tribale européenne sur le royaume Bamoun"]
+     dutchEviction["Les Anglais expulsent les Allemands du royaume Bamoun"]
+     englishInvasion["Les Anglais deviennent les nouveaux envahisseurs du royaume Bamoun"]
+
+        end
    
-   birth --> reign
+   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920
    
 ```
 
@@ -59,29 +65,15 @@ Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Ba
 
 Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écriture difficile à maitriser par le peuple. Pour pallier cela, le *Sultan Ibrahim Njoya* décide de la simplifier. Dès lors, suite à la `guerre civile` qui ravage le royaume (`1892 − 1895` du `calendrier grégorien`), le Sultan crée le `shu-mom`. Cette nouvelle écriture est un tremplin à l’amélioration du système administratif du `royaume Bamoun` (fiscalité, justice, archives, etc.).[^1][^2]
 
-# 1^ère^ guerre tribale européenne
-
-En `1895` (`calendrier grégorien`), les Bamoun sortent d’une guerre civile. Cette guerre ravage le `royaume Bamoun`.
-Moins de vingt ans plus tard, les `Européens` décident de faire la guerre entre eux. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
-À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun. En `1920` (`calendrier grégorien`), les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la seconde guerre tribale européenne.[^1][^2]
-
 # Invasion européenne
 
 ## Invasion allemande
 
 Les `Allemands` sont les premiers envahisseurs européens que rencontre le *Roi Ibrahim Njoya*. Il les acceuille avec respect et les laisse découvrir le `royaume`.
-
-Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les apprioris des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.[^2]
+Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les apprioris des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.
+Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `chrétienne` et démantèlent les structures politiques établies du `royaume Bamoun`.[^2][^1]
 
 ## Invasion anglaise
-
-Suite à la défaite des `Allemands` sur le `royaume bamoun`, les `Anglais` deviennent les nouveaux envahisseurs du royaume. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` reste tout autant respectueuse et harmonieuse qu'avec les `Allemands`.[^2]
-
-## Invasion française
-
-Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`.[^2]
-
-# Annexion du royaume
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
@@ -90,17 +82,34 @@ Les `Français` prennent la succession des `Anglais` dans la colonisation du `ro
       en tenue traditionnelle
    </figcaption>
 </figure>
-Entre [1885](/histoire/date/calendrier-gregorien/par-annee/1885) et [1916](/histoire/date/calendrier-gregorien/par-annee/1916), les colons européens introduisent la religion [chrétienne](/religion/confession/christianisme) dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) et, par la même occasion, démantèlent les structures politiques établies. [^1]
 
-Quand vient « le tour » de la colonisation française, une opposition [Bamoun](/peuple/afrique/a-situer/bamoun) prend place contre l'installation des Français dans le [royaume](/geographie/royaume/afrique/nord-ouest/bamoun).[^2]
-Pour éviter les effusions de sang, *le Sultan NJOYA* décide de faire la paix avec les Français. Cet acte, *NJOYA* l'a fait par intérêt pour son [peuple](/peuple/afrique/a-situer/bamoun), afin que celui-ci ne se voit pas de nouveau en guerre.[^2]
-Peu après, les Français et quelques [Bamouns](/peuple/afrique/a-situer/bamoun) trahissent le traité de paix en complotant contre le *Roi*.[^2]
+
+En `1895` (`calendrier grégorien`), les Bamoun sortent d’une guerre civile. Cette guerre ravage le `royaume Bamoun`.
+Moins de vingt ans plus tard, les `Européens` décident de faire la guerre entre eux ; c’est la `première guerre tribale européenne`. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
+À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun.
+En `1920` (`calendrier grégorien`), les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la seconde guerre tribale européenne.[^1][^2]
+
+Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` deviennent les nouveaux envahisseurs. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` reste tout autant « respectueuse et harmonieuse » qu'avec les `Allemands`.[^2]
+
+## Invasion française
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/writing/bamun/bamum-syllabary.png">
+   <figcaption>
+      Shu-mom (écriture syllabique)
+   </figcaption>
+</figure>
+
+Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`. Une opposition `Bamoun` prend place contre l'invasion des Français dans le royaume.
+Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` fait face à une `guerre civile` puis à la `première guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
+Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le traité de paix en complotant contre le *Sultan Ibrahim Njoya*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
-* interdisent l'enseignement du [Shu-Mom](/ecriture/shu-mom) ;
-* interdisent le Ngouon ;
+
+* interdisent l'enseignement du `shu-mom` ;
+* interdisent le `Ngouon` (fête traditionnelle `Bamoun`) ;
 * divisent le royaume en chefferies supérieures ;
-* construisent une route principale passant à l'intérieur du [palais d'*Ibrahim*](/monument/afrique/a-situer/palais-des-sultants-bamouns).
+* construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*.
 
 # L'exil
 
@@ -109,13 +118,6 @@ Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan N
 À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
 
 Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) [^2] :
-
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
-   <img src="/images/writing/bamun/bamum-syllabary.png">
-   <figcaption>
-      Shu-mom (écriture syllabique)
-   </figcaption>
-</figure>
 
 * il a plusieurs épouses (plus de six cent) et trop d'enfants ;
 * il vit dans un grand palais ;
