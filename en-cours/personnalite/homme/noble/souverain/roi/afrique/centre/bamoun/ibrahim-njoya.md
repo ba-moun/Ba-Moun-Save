@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-22T08:55:32.094Z
+date: 2020-07-22T20:37:18.445Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -48,8 +48,13 @@ flowchart TB
      englishInvasion["Les Anglais deviennent les nouveaux envahisseurs du royaume Bamoun"]
 
         end
+        
+   careOrder["Destitution du Sultan Ibrahim Njoya par les envahisseurs Français"]
+        
+   treaty["5 Avril 1931 : MARCHAND signe un traité ordonnant l’exil du
+   Sultan Ibrahim Njoya par les chefs de six conscriptions coloniales"]
    
-   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920
+   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920 --> careOrder --> treaty
    
 ```
 
@@ -98,13 +103,11 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
 À l'aide d'accusations fausses[^2], les Français :
 
 * interdisent l'enseignement du `shu-mom` ;
-* interdisent le `Ngouon` (fête traditionnelle `Bamoun`) ;
+* interdisent le `Ngouon` (fête `Bamoun`) ;
 * divisent le royaume en chefferies supérieures ;
-* construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*.
+* construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*`.
 
-# L'exil
-
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
    <figcaption>
       Le roi Ibrahim Njoya<br/>
@@ -112,36 +115,34 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
    </figcaption>
 </figure>
 
-Par peur d'une révolte populaire, les Français décident d'exiler le *Sultan NJOYA* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), dans le but de démanteler son pouvoir.[^2]
+Par peur d'une révolte populaire et pour démanteler le pouvoir du *Sultan Ibrahim Njoya*, les envahisseurs français manigancent une destitution. Ils enrôlent donc des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir. La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la légion d’honneur.[^2]
 
-À l'aide d'un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) et d'une liste de « reproches » faits au *roi*, les français accompagnés de [Bamouns](/peuple/afrique/a-situer/bamoun) et d'autres Africains avides de pouvoir et de commandement réussissent à destituer *le Sultan NJOYA*.[^2]
+Voici la liste des « reproches » faits au *Sultan Ibrahim Njoya* par les `Français` pour soutenir le démantèlement du `royaume`.[^2]
 
-Voici la liste des « reproches » faits à *NJOYA* par les français pour soutenir le démantèlement du [royaume](/geographie/royaume/afrique/nord-ouest/bamoun) [^2] :
+1. Le *Sultan Ibrahim Njoya* a plusieurs épouses (plus de six cent) et trop d'enfants.
+2. Le *Sultan Ibrahim Njoya* vit dans un grand palais.
+3. Le *Sultan Ibrahim Njoya* asservit son peuple.
+4. Le *Sultan Ibrahim Njoya* possède toutes les terres et cultures du royaume.
+5. Le *Sultan Ibrahim Njoya* possède le droit de mort et de vie sur les `Bamoun`.
+6. Le *Sultan Ibrahim Njoya* refuse d'être auxilliaire de l'administration française.
 
-* il a plusieurs épouses (plus de six cent) et trop d'enfants ;
-* il vit dans un grand palais ;
-* il asservit son peuple ;
-* il possède toutes les terres et cultures du royaume ;
-* il possède le droit de mort et de vie sur les [Bamouns](/peuple/afrique/a-situer/bamoun) ;
-* il refuse d'être auxilliaire de l'administration française.
+Voici quelques faits historiques qui mettent en exergue le manque de cohérence entre ces accusations et la justice appliquée dans la « `métropole` ».
 
-Pour comprendre la fourberie, il faut se rappeler que :
-* à défaut de légaliser la polygamie, le [15](/histoire/date/calendrier-gregorien/par-jour/15) [Décembre](/histoire/date/calendrier-gregorien/par-mois/decembre) [1904](/histoire/date/calendrier-gregorien/par-annee/1904), les français suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère, ce qui montre que le fait qu'un homme possède plusieurs femmes n'est pas un « problème » dans ce pays[^3] ;
-* le président de la république réside à l'Élysée, soit dans 11 179 m²[^4] ;
-* les [Kamtyu](/terminologie/mdw-ntr/kamit) de la diaspora vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'[abolition officielle de l'esclavage](/histoire/periode/yovodah/abolition-de-lesclavage)[^5] ;
-* la [France](/geographie/pays/europe/ouest/france) prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit[^6] ;
-* *le Roi Ibrahim NJOYA* a renoncé à son droit de vie ou de mort sur son peuple, lors qu'il est devenu *Roi, par conséquent avant l'arrivée des français[^2] ;
-* la peine de mort n'est pas abolie en [France](/geographie/pays/europe/ouest/france), à cette époque[^7] ;
-* pour assurer son égémonie, la [France](/geographie/pays/europe/ouest/france) oblige tous les royaumes présents sur le territoire de ses dites colonies françaises à être annexées (le [royaume Bamoun](/geographie/royaume/afrique/nord-ouest/bamoun) en est l'exemple).
+1. Le `15` `Déc.` `1904` (`calendrier grégorien`), les `Français` suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère. Cela montre qu’au moment de l’accusation, faute de légaliser la polygamie, un homme possédant plusieurs femmes n'est pas un problème en `France`.[^3]
+2. Le président de la république française réside à l'Élysée, soit dans 11 179 m², ce qui est un grand palais.[^4]
+3. Les `Kamyout` vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'`abolition officielle du Yovodah`.[^5]
+4. La `France` prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit.[^6]
+5. Le *Sultan Ibrahim Njoya* a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. Néanmoins, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
+6. Pour assurer son égémonie, la `France` oblige tous les royaumes et tous les empires présents sur ses « `colonies` » à être annexés. Le `royaume Bamoun` en est l'exemple.
 
-La destitution de *NJOYA* se déroule un matin, lors de son embarquement ; d'un côté les [Bamouns](/peuple/afrique/a-situer/bamoun) désarmés et de l'autre les français menaçant le [peuple](/peuple/afrique/a-situer/bamoun) avec des kalashnikovs.[^2]
+La destitution du *Sultan Ibrahim Njoya* se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs kalashnikovs.[^2]
 
-Quelques jours après son embarquement, les guerriers [Bamouns](/peuple/afrique/a-situer/bamoun) font circuler la rumeur d'une libération du *Sultan NJOYA*.[^2]
-Par peur d'une libération du *roi* par les guerriers [Bamouns](/peuple/afrique/a-situer/bamoun), les français envisagent d'exiler le *roi* au [Congo](/geographie/pays/afrique/centre/congo) avec la complicité d'Africains corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), à la demande de Tanashangana.[^2]
+Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du *Sultan ibrahim Njoya*. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
 
-Le [5](/histoire/date/calendrier-gregorien/par-jour/5) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [1931](/histoire/date/calendrier-gregorien/par-annee/1931), un arrêté signé par [MARCHAND](/personnalite/homme/colon/europe/ouest/pays/france/marchand) (le gouvereneur des colonies, commissaire de la république française du [Cameroun](/geographie/pays/afrique/nord-ouest/cameroun) et commandeur de la légion d'honneur) stipule ceci[^2] :
-* Article 1 : Le nommé *NJOYA* ex-sultant de [Fumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban) sera interné pendant une période de cinq années avec résidence obligatoire à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde). Les biens seront plassés sous séquestre pendant la durée de l'internement.
-* Article 2 : Les chefs de des six conscriptions […] de [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
+> * Article 1 : Le nommé *NJOYA* ex-sultant de `Fumban` sera interné pendant une période de cinq années avec résidence obligatoire à `Yaoundé`. Les biens seront plassés sous séquestre pendant la durée de l'internement.
+> * Article 2 : Les chefs des six conscriptions […] de `Yaoundé` sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
+> 
+> <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
 
 # Fin du reigne
 Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé.[^2]
