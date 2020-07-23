@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:49:15.228Z
+date: 2020-07-23T15:52:06.770Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -152,8 +152,6 @@ Lors de son exil forcé, le *Sultan Ibrahim NJOYA* crée des liens avec les habi
 
 En remerciement, les habitants aident le *Sultan Ibrahim Njoya* dans ses travaux de construction.[^2]
 
-Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef du `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan* est convié aux défilés de l'armée Française à `Yaoundé`. Le *Sultan Ibrahim Njoya* apprécie tant `Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
-
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
    <figcaption>
@@ -161,6 +159,8 @@ Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `K
       en tenue traditionnelle
    </figcaption>
 </figure>
+
+Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef du `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan* est convié aux défilés de l'armée Française à `Yaoundé`. Le *Sultan Ibrahim Njoya* apprécie tant `Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
 Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital 🏥. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan Ibrahim Njoya* agonise.
 Le `30` `Mai` `1933` (`calendrier grégorien`), vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
