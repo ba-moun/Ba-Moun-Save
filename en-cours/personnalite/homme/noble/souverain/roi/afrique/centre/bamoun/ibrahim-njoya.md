@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:52:06.770Z
+date: 2020-07-23T15:52:25.548Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -140,7 +140,7 @@ Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la 
 
 # Fin du reigne
 
-Lors de son exil forcé, le *Sultan Ibrahim NJOYA* crée des liens avec les habitants de `Yaoundé`. Ainsi, le *Sultan*[^2] :
+Lors de son exil forcé, le *Sultan Ibrahim NJOYA* tisse des liens avec les habitants de `Yaoundé`. Ainsi, le *Sultan*[^2] :
 
 - les accueil dans sa demeure,
 - leur donne à manger,
