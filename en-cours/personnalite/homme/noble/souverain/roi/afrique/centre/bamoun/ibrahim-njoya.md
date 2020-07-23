@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-22T20:37:18.445Z
+date: 2020-07-23T15:07:03.074Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -107,7 +107,7 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
 * divisent le royaume en chefferies supérieures ;
 * construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*`.
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
    <figcaption>
       Le roi Ibrahim Njoya<br/>
