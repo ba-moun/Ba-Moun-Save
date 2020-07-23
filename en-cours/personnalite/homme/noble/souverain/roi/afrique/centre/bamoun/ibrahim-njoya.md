@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:57:51.363Z
+date: 2020-07-23T18:52:31.921Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -22,25 +22,26 @@ Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentan
 Le *Roi Ibrahim Njoya* né en `1876` (`calendrier grégorien`) de `Na Njapdnunke`, `sa mère`.[^1]
 Il se marie avec plus de six cent femmes dans le but de rassembler tous les critères de beauté féminins.[^2]
 
-La frise ci-dessous retrace les faits historiques liées au  *Sultan Ibrahim Njoya*. Les dates ci-dessous sont celles du `calendrier grégorien`.
+La frise ci-dessous retrace quelques faits historiques liées au  *Sultan Ibrahim Njoya*. Les dates ci-dessous sont celles du `calendrier grégorien`.
 
 ```mermaid
 flowchart TB
 
    birth["1876 : Naissance de Ibrahim Njoya 🚼"]
    
-   coronation["1887 : Couronnement de Ibrahim Njoya"]
+   coronation["1887 (11 ans) : Couronnement de Ibrahim Njoya"]
 
-   christianity["1895 : Les envahisseurs européens introduisent
-   la religion chrétienne dans le royaume Bamoun"]
+   civilWarBegining["1892 (16 ans) : Une guerre civile 💀 éclate dans le royaume Bamoun"]
 
-    civilWarBegining["1892 : Une guerre civile 💀 éclate dans le royaume Bamoun"]
-    civilWarEnd["1895 : Fin de la guerre civile dans le royaume Bamoun 🏳"]
+   civilWarShuMomChristianity["1895 (19 ans) :
+   - Fin de la guerre civile dans le royaume Bamoun 🏳
+   - Le Sultan Ibrahim Njoya crée une nouvelle écriture : le shu-mom
+   - Les Européens introduisent le christianisme dans le royaume Bamoun"]
 
-   spirituality["1915 : Le Roi Ibrahim Njoya crée une spiritualité basée sur
+   spirituality["1915 (39 ans) : Le Roi Ibrahim Njoya crée une spiritualité basée sur
    les rites traditionnels Bamoun, le coran 📖 et la bible 📖"]
 
-   subgraph 1920
+   subgraph misc["1920 (44 ans)"]
 
      conversion["Le Roi Ibrahim Njoya se convertit à l’Islam"]
      firstEuTribalWarEnd["Fin de la première guerre tribale européenne sur le royaume Bamoun"]
@@ -51,12 +52,12 @@ flowchart TB
         
    careOrder["Destitution du Roi Ibrahim Njoya par les envahisseurs Français"]
         
-   treaty["5 Avril 1931 : MARCHAND signe un traité ordonnant l’exil du
+   treaty["5 Avril 1931 (55 ans) : MARCHAND signe un traité ordonnant l’exil du
    Roi Ibrahim Njoya par les chefs de six conscriptions coloniales"]
    
-   death["30 Mai 1933 : le Roi Ibrahim Njoya rejoint les ancêtres"]
+   death["30 Mai 1933 (57 ans) : le Roi Ibrahim Njoya rejoint les ancêtres"]
    
-   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920 --> careOrder --> treaty --> death
+   birth --> coronation --> civilWarBegining --> civilWarShuMomChristianity --> spirituality --> misc --> careOrder --> treaty --> death
    
 ```
 
