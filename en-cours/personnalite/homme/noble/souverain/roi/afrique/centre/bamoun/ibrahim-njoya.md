@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:53:38.229Z
+date: 2020-07-23T15:57:51.363Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -161,9 +161,9 @@ En remerciement, les habitants aident le *Sultan Ibrahim Njoya* dans ses travaux
    </figcaption>
 </figure>
 
-Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan* est convié aux défilés de l'armée Française à `Yaoundé`. Le *Sultan Ibrahim Njoya* apprécie tant `Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
+Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan Ibrahim Njoya* est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
-Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital 🏥. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan Ibrahim Njoya* agonise.
+Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital 🏥. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan* agonise.
 Le `30` `Mai` `1933` (`calendrier grégorien`), vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
 
 Dans un premier temps, les `Français` décident d'énumer feu le *Sultan Ibharim Njoya* à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le *Sultan* près des siens, à `Foumban`, sur les terres du `royaume Bamoun`. Par conséquent, le `31` `Mai` `1933` (`calendrier grégorien`), la dépouille du *Sultan Ibrahim Njoya* est ramenée à `Foumban`. Les `Atémengé` voient le *Sultan Ibrahim Njoya*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolations couvrent le cortège.
