@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:30:34.370Z
+date: 2020-07-23T15:49:15.228Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentan
 Le *Roi Ibrahim Njoya* né en `1876` (`calendrier grégorien`) de `Na Njapdnunke`, `sa mère`.[^1]
 Il se marie avec plus de six cent femmes dans le but de rassembler tous les critères de beauté féminins.[^2]
 
-La frise ci-dessous retrace les faits historiques liées au  *Sultan Ibrahim Njoya*.
+La frise ci-dessous retrace les faits historiques liées au  *Sultan Ibrahim Njoya*. Les dates ci-dessous sont celles du `calendrier grégorien`.
 
 ```mermaid
 flowchart TB
@@ -42,19 +42,21 @@ flowchart TB
 
    subgraph 1920
 
-     conversion["Le Sultan Ibrahim Njoya se convertit à l’Islam"]
+     conversion["Le Roi Ibrahim Njoya se convertit à l’Islam"]
      firstEuTribalWarEnd["Fin de la première guerre tribale européenne sur le royaume Bamoun"]
      dutchEviction["Les Anglais expulsent les Allemands du royaume Bamoun"]
      englishInvasion["Les Anglais deviennent les nouveaux envahisseurs du royaume Bamoun"]
 
         end
         
-   careOrder["Destitution du Sultan Ibrahim Njoya par les envahisseurs Français"]
+   careOrder["Destitution du Roi Ibrahim Njoya par les envahisseurs Français"]
         
    treaty["5 Avril 1931 : MARCHAND signe un traité ordonnant l’exil du
-   Sultan Ibrahim Njoya par les chefs de six conscriptions coloniales"]
+   Roi Ibrahim Njoya par les chefs de six conscriptions coloniales"]
    
-   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920 --> careOrder --> treaty
+   death["30 Mai 1933 : le Roi Ibrahim Njoya rejoint les ancêtres"]
+   
+   birth --> coronation --> christianity --> civilWarBegining --> civilWarEnd --> spirituality --> 1920 --> careOrder --> treaty --> death
    
 ```
 
@@ -160,19 +162,11 @@ Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `K
    </figcaption>
 </figure>
 
-Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les français. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan Ibrahim Njoya* agonise.[^2]
+Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital 🏥. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan Ibrahim Njoya* agonise.
+Le `30` `Mai` `1933` (`calendrier grégorien`), vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
 
-Le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
-
-Dans un premier temps, les français décident d'énumer feu le *Sultan* à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) mais après une négociation menée par les Africains, les français en viennent à accepter d'enterrer le *Roi Ibrahim NJOYA* près des siens, sur les [terres bamouns](/geographie/royaume/afrique/nord-ouest/bamoun), à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban).[^2]
-
-Le 31 Mai 1933, la dépouille du *Roi NJOYA* est ramenée à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban). Les Atémengé voient *NJOYA*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois.[^2]
-Le cortège est couvert par des pleurs et des désolations.[^2]
-
-Une fois à [Foumban](/geographie/ville/afrique/nord-ouest/cameroun/foumban), les français veulent enterrer le *Roi NJOYA* dans la forêt ; néanmoins, les frères de *NJOYA* et le [peuple Bamoun](/peuple/afrique/a-situer/bamoun) refusent catégoriquement. Ainsi, grâce à eux, le corps du *Roi NJOYA* peut reposer auprès de celui de ses ancêtres.[^2]
-
-Le *Sultan NJOYA* meurt le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), suite à son exil dans cette ville par les envahisseurs français, avec la complicité de quelques Africains avides.[^1][^2]
-
+Dans un premier temps, les `Français` décident d'énumer feu le *Sultan Ibharim Njoya* à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le *Sultan* près des siens, à `Foumban`, sur les terres du `royaume Bamoun`. Par conséquent, le `31` `Mai` `1933` (`calendrier grégorien`), la dépouille du *Sultan Ibrahim Njoya* est ramenée à `Foumban`. Les `Atémengé` voient le *Sultan Ibrahim Njoya*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolations couvrent le cortège.
+Une fois à `Foumban`, les `Français` décident d’enterrer le *Sultan Ibrahim Njoya* dans la forêt. Les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du *Sultan Ibrahim NJOYA* repose auprès de ses ancêtres.[^2]
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le `10` `Juin` `2018` (`calendrier grégorien`)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
 [^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), `27` `févr.` `2017` [consulté le `14` `Juillet` `2018`]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
