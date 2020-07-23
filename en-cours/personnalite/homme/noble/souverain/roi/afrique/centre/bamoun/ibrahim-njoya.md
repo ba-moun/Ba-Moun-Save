@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:07:43.834Z
+date: 2020-07-23T15:30:34.370Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -107,14 +107,6 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
 * divisent le royaume en chefferies supérieures ;
 * construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*`.
 
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
-   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
-   <figcaption>
-      Le roi Ibrahim Njoya<br/>
-      en tenue traditionnelle
-   </figcaption>
-</figure>
-
 Par peur d'une révolte populaire et pour démanteler le pouvoir du *Sultan Ibrahim Njoya*, les envahisseurs français manigancent une destitution. Ils enrôlent donc des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir. La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la légion d’honneur.[^2]
 
 Voici la liste des « reproches » faits au *Sultan Ibrahim Njoya* par les `Français` pour soutenir le démantèlement du `royaume`.[^2]
@@ -145,17 +137,30 @@ Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la 
 > <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
 
 # Fin du reigne
-Lors de son exil à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde), le *Sultan Ibrahim NJOYA* réussit à créer un lien avec le peuple de Yaoundé.[^2]
-*Le Sultan* reçoit le peuple, lui donne à manger, dessine et peint avec lui, lui enseigne sa langue et son écriture (le [shu-mom](/ecriture/shu-mom)), etc.[^2]
-En remerciement, le peuple aide le *Roi NJOYA* dans ses travaux de construction.[^2]
 
-Cet exil engendre une amitié entre *le Sultan* et Shala Tangana, un africain nommé chef du [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde) par les envahisseurs français. Tel un invité de Tanashangana, *le Roi* est convié aux défilés de l'armée française sur les terres Africaines, au [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
-*le Sultan Ibrahim NJOYA* apprécie tant Tangana qu'il en vient à donner son nom à son fils qui né à [Yaoundé](/geographie/ville/afrique/centre/cameroun/yaounde).[^2]
+Lors de son exil forcé, le *Sultan Ibrahim NJOYA* crée des liens avec les habitants de `Yaoundé`. Ainsi, le *Sultan*[^2] :
 
-Malgré cette amitié avec Shala Tangana, le *Sultan NJOYA* sait pertinemment que Tangana est du côté des français et qu'il a pour mission de le surveiller.[^2]
+- les accueil dans sa demeure,
+- leur donne à manger,
+- leur enseigne sa langue,
+- leur enseigne le `shu-mom`,
+- dessine avec eux,
+- peint avec eux,
+- …
 
-Prenant conscience du fait que son frère a été nommé « Sultan par intérime » par les colons et que Shala Tangana le surveille pour les français, le *Roi NJOYA* commence à s'isoler. *NJOYA* en arrive à rester enfermé dans sa chambre et n'accepter que la compagnie de sa femme.[^2]
-Petit à petit, sa santé s'agrave ; sa respiration diminue. Il va à l'hôpital puis il retourne à son domicile. À l'arrivée de la nuit, le *Sultan NJOYA* agonise.[^2]
+En remerciement, les habitants aident le *Sultan Ibrahim Njoya* dans ses travaux de construction.[^2]
+
+Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef du `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan* est convié aux défilés de l'armée Française à `Yaoundé`. Le *Sultan Ibrahim Njoya* apprécie tant `Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
+   <figcaption>
+      Le roi Ibrahim Njoya<br/>
+      en tenue traditionnelle
+   </figcaption>
+</figure>
+
+Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les français. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan Ibrahim Njoya* agonise.[^2]
 
 Le [30](/histoire/date/calendrier-gregorien/par-jour/30) [Mai](/histoire/date/calendrier-gregorien/par-mois/mai) [1933](/histoire/date/calendrier-gregorien/par-annee/1933), vers 2h du matin, le *Roi NJOYA* succombe.[^2]
 
