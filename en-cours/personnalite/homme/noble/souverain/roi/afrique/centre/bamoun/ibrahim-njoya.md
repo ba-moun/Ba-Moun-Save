@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T15:07:03.074Z
+date: 2020-07-23T15:07:43.834Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -70,7 +70,7 @@ Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Ba
 
 Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écriture difficile à maitriser par le peuple. Pour pallier cela, le *Sultan Ibrahim Njoya* décide de la simplifier. Dès lors, suite à la `guerre civile` qui ravage le royaume (`1892 − 1895` du `calendrier grégorien`), le Sultan crée le `shu-mom`. Cette nouvelle écriture est un tremplin à l’amélioration du système administratif du `royaume Bamoun` (fiscalité, justice, archives, etc.).[^1][^2]
 
-# Invasion européenne
+# Invasion du royaume Bamoun
 
 ## Invasion allemande
 
