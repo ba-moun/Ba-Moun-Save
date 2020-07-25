@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-25T19:27:16.468Z
+date: 2020-07-25T19:29:12.987Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -338,7 +338,8 @@ Voici une liste de livres rendant hommage à *Marcus GARVEY*.
 
 ## Forum
 
-Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
+Voici une liste de sujets de discussion créés dans des forums sur l'Internet.
+
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
 
 ![unia-membership-card_mndindwa-marwanqana_public-domain.jpg](/images/company/universal-negro-improvement-association/unia-membership-card_mndindwa-marwanqana_public-domain.jpg)
