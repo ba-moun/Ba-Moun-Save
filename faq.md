@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-25T20:09:44.493Z
+date: 2020-07-25T20:18:22.026Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -13,7 +13,15 @@ Cette page resence les questions les plus fréquemment posées par la communaut�
 
 ## L'interface
 
-![interface-de-ba-moun-save.png](/images/ba-moun-save/interface-de-ba-moun-save.png)
+Ci-dessous l'interface Web de l'encyclopédie que vous pouvez voir à l'aide d'un ordinateur. Les zones de couleur de cette image sont utilisées pour mettre en exergue l'emplacement de chaque menu.
+
+<figure class="image image_resized image-style-align-right" style="width: 100%;">
+   <img src="/images/ba-moun-save/interface-de-ba-moun-save.png">
+   <figcaption>
+      Interface Web de l'encyclopédie pour un ordinateur
+
+   </figcaption>
+</figure>
 
 ### Global
 
