@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-25T20:19:36.469Z
+date: 2020-07-25T20:27:28.935Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -135,10 +135,14 @@ Pour commenter anonymement :
 
 ## Éditer une page
 
-Pour rédiger, il faut d'abord vous connecter ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
-Par la suite, demandez les droits d'écriture via [ce lien](https://www.ba-moun.com/kriye-ba-moun).
+Pour rédiger, il faut vous identifier ou vous créer un compte. Pour cela, cliquez sur le bouton *Menu utilisateur* en haut à droite de la page.
 
-Une fois que les droits vous sont donnés, vous avez accès en lecture/écriture au répertoire *en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
+Après vous être identifié, vous bénéficierez automatiquement des droits d'écriture dans l'arborescence */en-cours* de l'encyclopédie. Celui-ci contient tous les travaux en cours de rédaction de l'encyclopédie.
+
+> **À savoir**
+> Le répertoire *en-cours* est visible dans le menu de navigation situé à gauche de la page (voir première illustration de cette page). Si vous ne voyez pas ce dossier, cliquez sur le bouton « Parcourir » qui se situe tout en haut du menu de navigation.
+{.is-info}
+
 
 # Utilité du compte utilisateur
 
