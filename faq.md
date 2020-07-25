@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-25T20:27:28.935Z
+date: 2020-07-25T20:43:25.150Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -176,7 +176,7 @@ Les symboles du groupe sont deux médou nétchèr (hiéroglyphes). Ils représen
 
 **𓏜 Sua** est le groupe des scribes en herbe. C'est l'étape obligatoire avant de passer à un autre groupe. Vous serez initié.e aux règles de rédaction et d'utilisation. Dès lors, vous pourrez proposer des mises à jour de l'encyclopédie. Les membres apprennent tout en participant à la vie de la communauté.
 
-Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le déterminatif de l'apprentissage.
+Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Ce caractère est un rouleau de papyrus scellé utilisé comme `déterminatif` de l'apprentissage.
 
 > **Rappel**
 > Le cas échéant, pour vous authentifier, cliquez sur le [menu utilisateur](/login). Ce menu est tout en haut à droite (cf. première image de la page).
@@ -186,7 +186,7 @@ Ce groupe est symbolisé par un médou nétchèr (hiéroglyphe). Celui-ci est le
 
 **𓏞𓏜 Ohu** est le groupe des grandes et des grands scribes. Les membres maîtrisent les règles de rédaction et d'utilisation. Ce sont eux qui mettent à jour le contenu de l'encyclopédie. Cette mise à jour se fait à partir des propositions de modifications.
 
-Le symbole du groupe est constitué de deux médou nétchèr. Ceux-ci forment un mot qui se traduit par :
+Le symbole du groupe est constitué de deux médou nétchèr (hiéroglyphes). Ces caractères sont, de gauche à droite, une palette de dessin et un rouleau de papyrus. À eux seuls, ils forment un mot qui se traduit par :
 
 - dessiner,
 - peindre,
@@ -204,7 +204,8 @@ Le nom du groupe vient de l'akan `Nea onnim no sua a, ohu`. C'est le nom du symb
 > Manquez de respect aux [règles d'utilisation](/fr/regle-utilisation). Vous serez potentiellement banni par les **𓀰 Nkonsonkonson**.
 {.is-warning}
 
-Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est le déterminatif du chef.
+Nkonsonkonson est le nom du symbole Adinkra des relations humaines.
+Néanmoins, le symbole du groupe **𓀰 Nkonsonkonson** est un médou nétchèr (hiéroglyphe). Il représente un roi tenant un fouet ou un fléau. C'est le déterminatif du chef.
 
 ### 𓎟 Abe Dua
 
@@ -212,7 +213,7 @@ Nkonsonkonson est le nom du symbole Adinkra des relations humaines. Néanmoins, 
 
 `Abe dua` se traduit par `palmier` en akan. C'est le symbole de la richesse, de l'auto-suffisance et de la vitalité.
 
-Le symbole du groupe est un médou nétchèr (hiéroglyphe). C'est un mot qui se traduit par serviteur.
+Le symbole du groupe est un médou nétchèr (hiéroglyphe). Il représente un panier en vannerie. À lui seul, ce hiéroglyphe est un mot qui peut se traduire par serviteur.
 
 # Véracité des infos
 
