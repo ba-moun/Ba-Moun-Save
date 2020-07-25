@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-25T20:18:22.026Z
+date: 2020-07-25T20:19:06.001Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Ci-dessous l'interface Web de l'encyclopédie que vous pouvez voir à l'aide d'u
 
 ### Global
 
-* Menu de navigation : Toujours situé à droit de la pages. Dans le cas d'un téléphone, cliquez sur le cercle bleu en bas à gauche de l'écran. Contient des liens vers des pages importantes ou des liens webs externes.
+* Menu de navigation : Toujours situé à droite de la page. Dans le cas d'un téléphone, cliquez sur le cercle bleu en bas à gauche de l'écran. Contient des liens vers des pages importantes ou des liens webs externes.
 * Zone de recherche : Permet de rechercher une page par mot-clé.
 * Créer une nouvelle page : Permet de créer une nouvelle page.
 * Menu utilisateur : Variable en fonction de l'utilisateur. Peut contenir des liens vers le profil utilisateur ou l'interface d'administration. Ce bouton permet de se connecter ou de se déconnecter.
