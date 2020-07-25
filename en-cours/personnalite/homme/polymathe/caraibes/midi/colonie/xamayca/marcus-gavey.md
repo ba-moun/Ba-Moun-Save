@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-25T19:22:43.792Z
+date: 2020-07-25T19:27:16.468Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -330,10 +330,11 @@ Le régime politique en place et le manque d'intérêt des populations engendren
 
 ## Livres
 
-Voici une liste de livres rendant hommage à *Marcus GARVEY* :
-* [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est *Marcus GARVEY* aux jeunes mais aussi aux moins jeunes ;
-* [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples) de [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo) ;
-* [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey) de [Amy Jacques GARVEY](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey).
+Voici une liste de livres rendant hommage à *Marcus GARVEY*.
+
+- `Marcus Garvey, expliqué aux adolescents`, de `Doumbi Fakoli` : un documentaire ayant pour but de présenter le héros *Marcus Garvey* aux jeunes et aux moins jeunes ;
+- `Marcus Garvey, Père de l'Unité Africaine des Peuples`, de `Têtêvi Godwin Tété-Adjalogo` ;
+- `Philosophy and Opinions of Marcus Garvey`, de `Amy Jacques Garvey` (la seconde femme de *Marcus Garvey*).
 
 ## Forum
 
