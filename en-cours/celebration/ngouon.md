@@ -2,14 +2,14 @@
 title: Ngouon
 description: Présentation du Ngouon
 published: true
-date: 2020-07-22T10:06:42.987Z
+date: 2020-07-25T22:05:43.183Z
 tags: événement, bamoun, ngouon, fête, célébration, cameroun, cameroun 🇨🇲, tradition, fête traditionnelle, fête traditionnelle bamoun
 editor: markdown
 ---
 
 *Ngouon* est le nom d’une fête traditionnelle *Bamoun* constituée de `fantasias`.[^7][^1][^4]
 
-À l’origine, le *Ngouon* est une cérémonie biannuelle `Tikars` (ancêtres des `Bamoun`). À l’époque, cet événement est placé sous l’autorité des cheftaines et des chefs de la région. La sagesse des participants est primordiale pour régler les litiges fonciers et assurer la cohésion des divers groupes sociaux du territoire.[^7]
+À l’origine, le *Ngouon* est une cérémonie biannuelle `Tikars` (ancêtres des `Bamoun`). À l’époque, cet événement est placé sous l’autorité des cheffes et des chefs de la région. Elle est l'occasion de régler les litiges fonciers et assurer la cohésion des divers groupes sociaux du territoire.[^7] La sagesse des participants est primordiale.
 
 Pour les `Bamoun`, *Ngouon* est un événement biannuel important. Cette cérémonie est une preuve du désir de paix, de dialogue, d’unité et de démocratie.
 Les `Lamibé`, les `Fons` et les `Fôs` (chefs des traditions du Nord, du Nord-Ouest et de l’Ouest) font partie des invités de l’événement.[^7]
