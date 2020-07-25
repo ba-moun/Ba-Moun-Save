@@ -2,7 +2,7 @@
 title: Ngouon
 description: Présentation du Ngouon
 published: true
-date: 2020-07-25T22:05:43.183Z
+date: 2020-07-25T22:06:28.443Z
 tags: événement, bamoun, ngouon, fête, célébration, cameroun, cameroun 🇨🇲, tradition, fête traditionnelle, fête traditionnelle bamoun
 editor: markdown
 ---
