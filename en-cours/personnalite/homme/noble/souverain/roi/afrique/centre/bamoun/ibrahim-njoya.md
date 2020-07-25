@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-23T18:52:31.921Z
+date: 2020-07-25T21:56:22.791Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -17,7 +17,7 @@ editor: markdown
    </figcaption>
 </figure>
 
-Le *roi Ibrahim Njoya* (ou *Sultant Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
+Le *roi Ibrahim Njoya* (ou *Sultan Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
 
 Le *Roi Ibrahim Njoya* né en `1876` (`calendrier grégorien`) de `Na Njapdnunke`, `sa mère`.[^1]
 Il se marie avec plus de six cent femmes dans le but de rassembler tous les critères de beauté féminins.[^2]
@@ -52,7 +52,7 @@ flowchart TB
         
    careOrder["Destitution du Roi Ibrahim Njoya par les envahisseurs Français"]
         
-   treaty["5 Avril 1931 (55 ans) : MARCHAND signe un traité ordonnant l’exil du
+   treaty["5 Avril 1931 (55 ans) : MARCHAND (représentant de l'état français) signe un traité ordonnant l’exil du
    Roi Ibrahim Njoya par les chefs de six conscriptions coloniales"]
    
    death["30 Mai 1933 (57 ans) : le Roi Ibrahim Njoya rejoint les ancêtres"]
@@ -78,17 +78,17 @@ Avant `1895` (`calendrier grégorien`), le `royaume Bamoun` dispose d’une écr
 ## Invasion allemande
 
 Les `Allemands` sont les premiers envahisseurs européens que rencontre le *Roi Ibrahim Njoya*. Il les acceuille avec respect et les laisse découvrir le `royaume`.
-Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les apprioris des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.
+Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les a priori des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.
 Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `chrétienne` et démantèlent les structures politiques établies du `royaume Bamoun`.[^2][^1]
 
 ## Invasion anglaise
 
 En `1895` (`calendrier grégorien`), les Bamoun sortent d’une guerre civile. Cette guerre ravage le `royaume Bamoun`.
-Moins de vingt ans plus tard, les `Européens` décident de faire la guerre entre eux ; c’est la `première guerre tribale européenne`. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
+Moins de vingt ans plus tard, les `Européens` se font la guerre; c’est la `première guerre tribale européenne`. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
 À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun.
 En `1920` (`calendrier grégorien`), les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la seconde guerre tribale européenne.[^1][^2]
 
-Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` deviennent les nouveaux envahisseurs. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` reste tout autant « respectueuse et harmonieuse » qu'avec les `Allemands`.[^2]
+Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` deviennent les nouveaux envahisseurs. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` est autant « respectueuse et harmonieuse » qu'avec les `Allemands`.[^2]
 
 ## Invasion française
 
@@ -100,7 +100,7 @@ Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` devi
 </figure>
 
 Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`. Une opposition `Bamoun` prend place contre l'invasion des Français dans le royaume.
-Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` fait face à une `guerre civile` puis à la `première guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
+Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` a fait face à une `guerre civile` puis à la `première guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
 Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le traité de paix en complotant contre le *Sultan Ibrahim Njoya*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
@@ -130,21 +130,21 @@ Voici quelques faits historiques qui mettent en exergue le manque de cohérence 
 5. Le *Sultan Ibrahim Njoya* a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. Néanmoins, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
 6. Pour assurer son égémonie, la `France` oblige tous les royaumes et tous les empires présents sur ses « `colonies` » à être annexés. Le `royaume Bamoun` en est l'exemple.
 
-La destitution du *Sultan Ibrahim Njoya* se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs kalashnikovs.[^2]
+La destitution du *Sultan Ibrahim Njoya* se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs armes à feux.[^2]
 
 Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du *Sultan ibrahim Njoya*. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
 
-> * Article 1 : Le nommé *NJOYA* ex-sultant de `Fumban` sera interné pendant une période de cinq années avec résidence obligatoire à `Yaoundé`. Les biens seront plassés sous séquestre pendant la durée de l'internement.
+> * Article 1 : Le nommé *NJOYA* ex-sultant de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
 > * Article 2 : Les chefs des six conscriptions […] de `Yaoundé` sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 > 
 > <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
 
-# Fin du reigne
+# Fin du règne
 
 Lors de son exil forcé, le *Sultan Ibrahim NJOYA* tisse des liens avec les habitants de `Yaoundé`.
 Ainsi, le *Sultan*[^2] :
 
-- les accueil dans sa demeure,
+- les accueille dans sa demeure,
 - leur donne à manger,
 - leur enseigne sa langue,
 - leur enseigne le `shu-mom`,
@@ -164,11 +164,11 @@ En remerciement, les habitants aident le *Sultan Ibrahim Njoya* dans ses travaux
 
 Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan Ibrahim Njoya* est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
-Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Cela l’amène à s'isoler, s’enfermer dans sa chambre et n'accepter que la compagnie de sa femme. De là, petit à petit, sa santé s'agrave au point d’avoir des problèmes de respiration qui l’obligent à passer à l'hôpital 🏥. Une fois de retour chez lui, à l'arrivée de la nuit, le *Sultan* agonise.
+Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Il s'isole, s'enferme dans sa chambre et n'accepte que la compagnie de sa femme. Progressivement, sa santé se détériore  et des problèmes de respiration apparaissent et il est hospitalisé 🏥. De retour chez lui, à la tombée de la nuit, le *Sultan* est mourant.
 Le `30` `Mai` `1933` (`calendrier grégorien`), vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
 
-Dans un premier temps, les `Français` décident d'énumer feu le *Sultan Ibharim Njoya* à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le *Sultan* près des siens, à `Foumban`, sur les terres du `royaume Bamoun`. Par conséquent, le `31` `Mai` `1933` (`calendrier grégorien`), la dépouille du *Sultan Ibrahim Njoya* est ramenée à `Foumban`. Les `Atémengé` voient le *Sultan Ibrahim Njoya*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolations couvrent le cortège.
-Une fois à `Foumban`, les `Français` décident d’enterrer le *Sultan Ibrahim Njoya* dans la forêt. Les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du *Sultan Ibrahim NJOYA* repose auprès de ses ancêtres.[^2]
+Dans un premier temps, les `Français` décident d'inhumer feu le *Sultan Ibharim Njoya* à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le *Sultan* près des siens, sur les terres du `royaume Bamoun`. Le `31` `Mai` `1933` (`calendrier grégorien`), la dépouille du *Sultan Ibrahim Njoya* est ramenée à `Foumban`. Les `Atémengé` voient le *Sultan Ibrahim Njoya*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolation remplient le cortège.
+Une fois à `Foumban`, les `Français` souhaitent inhumer le *Sultan Ibrahim Njoya* dans la forêt, mais les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du *Sultan Ibrahim NJOYA* repose auprès de ses ancêtres.[^2]
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le `10` `Juin` `2018` (`calendrier grégorien`)]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
 [^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), `27` `févr.` `2017` [consulté le `14` `Juillet` `2018`]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
