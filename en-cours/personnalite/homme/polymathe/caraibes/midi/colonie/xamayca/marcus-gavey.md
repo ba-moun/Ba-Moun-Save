@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-19T12:59:51.885Z
+date: 2020-07-25T19:22:43.792Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -313,34 +313,45 @@ Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ample
    </figcaption>
 </figure>
 
-## Armée
-
 ## Entreprises
-### Journaux de presse
-Pendant son voyage à `Tarama` (l'Amérique) et aux Caraïbes de `1910` à `1911`, *Marcus GARVEY* crée deux journaux. Il y a `Nacionale` à `Borikén` (`Porto Rico 🇵🇷`) et `Prensa` au `Panama 🇵🇦`.
 
+### Journaux de presse
+
+En `1910` (`calendrier grégorien`), *Marcus Garvey* crée le journal `Watchman`. Ce journal est une critique de la politique sociale du gouvernement colonial à `Xamayca 🇯🇲`.[^1]
+
+Pendant son voyage à `Tarama` (l'Amérique) et aux Caraïbes de `1910` à `1911`, *Marcus GARVEY* crée deux journaux. Il y a `Nacionale` à `Borikén` (`Porto Rico 🇵🇷`) et `Prensa` au `Panama 🇵🇦`.
 Le régime politique en place et le manque d'intérêt des populations engendrent le déclin de ces journaux. Les problèmes de nutrition des `Boricua` (`Portoricains`) semble être la raison de ce « désintéressement ».[^1]
 
-### The Watchman
-En [1910](/histoire/date/calendrier-gregorien/par-annee/1910), *Marcus GARVEY* crée le journal [Watchman](/organisme/journal/watchman) afin de critiquer la ploitique sociale du gouvernement colonial.[^1]
-
 ### Compagnie maritime
-![black-star-line-certificate_by-sa.png](/images/company/black-star-line/black-star-line-certificate_by-sa.png){.align-right}
 
-*Marcus GARVEY* a créé une compagnie maritime dans le but de fournir un moyen de retour en Afrique aux Africains de la diaspora. Celle-ci s'appelle *Black Star Line*.[^1]
+*Marcus Garvey* créée une compagnie maritime nomée `Black Star Line`. Le but de cette entreprise est de permettre aux `Kémyout de la diaspora` de retourner sur le continent.[^1]
+
 # Hommages
+
 ## Livres
+
 Voici une liste de livres rendant hommage à *Marcus GARVEY* :
 * [Marcus Garvey, expliqué aux adolescents](/ouvrage/documentaire/marcus-garvey-explique-aux-adolescents), un documentaire ayant pour but de présenter le héros qu'est *Marcus GARVEY* aux jeunes mais aussi aux moins jeunes ;
 * [Marcus Garvey, Père de l'Unité Africaine des Peuples](/ouvrage/a-classer/marcus-garvey-pere-de-l-unite-africaine-des-peuples) de [Têtêvi Godwin Tété-Adjalogo](/personnalite/homme/ecrivain/a-situer/tetevi-godwin-tete-adjalogo) ;
 * [Philosophy and Opinions of Marcus Garvey](/ouvrage/a-classer/philosophy-and-opinions-of-marcus-garvey) de [Amy Jacques GARVEY](/personnalite/femme/ecrivaine/a-situer/amy-jacques-garvey).
+
 ## Forum
+
 Voici une liste de sujet de discussion créés dans des forum sur l'Internet :
 * [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26) créé par l'utilisateur « Admin ».
 
 ![unia-membership-card_mndindwa-marwanqana_public-domain.jpg](/images/company/universal-negro-improvement-association/unia-membership-card_mndindwa-marwanqana_public-domain.jpg)
 ![unia-membership-card_ellen-lyons_public-domain.jpg](/images/company/universal-negro-improvement-association/unia-membership-card_ellen-lyons_public-domain.jpg)
 ![one-black-star-line-ship_public-domain.jpg](/images/company/black-star-line/one-black-star-line-ship_public-domain.jpg)
+<figure class="image image_resized image-style-align-right" style="width: 50%;">
+   <img src="/images/company/black-star-line/black-star-line-certificate_by-sa.png">
+   <figcaption>
+      Marche organisée par <i>Marcus GARVEY</i><br/>
+      États-Unis d'Amérique 🇺🇸<br/>
+      1922 (calendrier grégorien)
+
+   </figcaption>
+</figure>
 
 [^1]: `Doumbi Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
 [^2]: Admin. [Sir Marcus Mosiah Garvey His beliefs deeply influenced the Rastafari, who took his statements as a prophecy](http://join.clubme.net/t26-sir-marcus-mosiah-garvey-his-beliefs-deeply-influenced-the-rastafari-who-took-his-statements-as-a-prophecy#26). Forum sur [Internet](http://join.clubme.net). [Jeu.](/histoire/date/calendrier-gregorien/par-jour-de-la-semaine/jeudi) [13](/histoire/date/calendrier-gregorien/par-jour/13) [Jan.](/histoire/date/calendrier-gregorien/par-mois/janvier) [2011](/histoire/date/calendrier-gregorien/par-annee/2011) ; 12:50 (lu le [25](/histoire/date/calendrier-gregorien/par-jour/25) [Avril](/histoire/date/calendrier-gregorien/par-mois/avril) [2018](https://partage.leremsesh.com/histoire/date/calendrier-gregorien/par-annee/2018)).
