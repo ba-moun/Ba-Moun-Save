@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-15T19:55:10.830Z
+date: 2020-07-25T20:45:13.667Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -27,7 +27,7 @@ Ci-dessous quelques potentiels risques encourus.
 Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Cette liste peut être amenée à changer en fonction de la communauté.
 
 - Les remarques offensantes :
-   - tenir un discours haineux ou toute autre forme de discours,
+   - tenir un discours haineux ou toute autre forme de discours de ce type,
    - promouvoir le harcèlement d'une personne ou d'un groupe de personnes.
    - harceler, intimider ou attaquer qui que ce soit,
    - jurer, tenir de propos racistes ou sexistes.
