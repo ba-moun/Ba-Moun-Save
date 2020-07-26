@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-25T19:29:12.987Z
+date: 2020-07-26T15:27:39.963Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -299,6 +299,8 @@ Le devoir de révolte et de combat s'impose aux personnes conscientes de l'ample
 
 > Je compris qu'il existait des ségrégations dans l'humanité et qu'il y avait plusieurs races, chacune ayant une place bien précise dans la société.[^3][^4]
 > <p style="text-align: right;"><i>Marcus Garvey</i></p>
+
+La prise de conscience de *Marcus Garvey* l'amène à intégrer l'idéologie `panafricaniste`.
 
 # Réalisations
 ## Gouvernement
