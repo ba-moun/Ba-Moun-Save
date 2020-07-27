@@ -2,7 +2,7 @@
 title: Juif Bantu (négro messianisme)
 description: Présentation des juifs Bantu
 published: true
-date: 2020-07-27T12:02:20.539Z
+date: 2020-07-27T12:04:39.245Z
 tags: juif bantu, juif bantou, bantu, juif, hébreu, hébreu bantou, hébreu bantu, négro messianisme, négro-messianisme, afro messianisme, afro-messianisme
 editor: markdown
 ---
