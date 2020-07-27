@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-27T12:22:24.667Z
+date: 2020-07-27T12:26:21.271Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionanire
 editor: markdown
 ---
@@ -12,4 +12,4 @@ editor: markdown
 
 ***Wilhelm Sigismund Koelle*** est né en `1823` et mort en `1902`. C’est un missionnaire allemand qui a mis au point le regroupement des langues ouest-africaines avec `Wilhelm Bleek`.[^1]
 
-[^1]: [Messianiste](https://www.cnrtl.fr/definition/messianiste). Dans [Centre National de Ressources Textuelles et Lexicales](https://www.cnrtl.fr/) [en ligne]. [consulté le `26` `Juillet` `2020`]. Disponible sur : https://www.cnrtl.fr/definition/messianiste
+[^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
