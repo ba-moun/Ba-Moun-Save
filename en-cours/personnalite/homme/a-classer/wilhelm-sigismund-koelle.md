@@ -2,8 +2,8 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-27T12:26:21.271Z
-tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionanire
+date: 2020-07-27T12:30:21.586Z
+tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
 editor: markdown
 ---
 
