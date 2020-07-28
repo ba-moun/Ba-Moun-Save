@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T11:25:28.372Z
+date: 2020-07-28T11:40:43.804Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
 editor: markdown
 ---
@@ -12,15 +12,16 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Wilhelm Sigismund Koelle*** est mort le `18` `février` `1902`. En `1847`, il est evoyé en `Sierra Leone` en tant que missionnaire allemand. Il y réalise un regroupement des langues ouest-africaines, avec `Wilhelm Bleek`.[^1][^2]
+***Wilhelm Sigismund Koelle*** est mort le `18` `février` `1902`. En `1847`, il est evoyé en `Sierra Leone` en tant que missionnaire allemand. Il y réalise un regroupement des langues ouest-africaines, avec `Wilhelm Bleek`.[^1][^2][^5]
 
 > **Le saviez-vous ?**
 > De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
 {.is-info}
 
 Alors qu’il enseigne à `l’Université de Fourah Bay`, ***Wilhelm Sigismund Koelle*** collecte moult informations sur les langues Africaines.
-Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`.
-En `1854`, ***Wilhelm Sigismund Koelle*** publiue `Polyglotta Africana`. Cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
+Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier `GRAMMAR OF THE BORNU OR KANURI LANGUAGE` en `1854`.[^5][^4][^1][^2]
+
+`Polyglotta Africana` est l’œuvre majeure de ***Wilhelm Sigismund Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
 
 > **Le saviez-vous ?**
 > `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`. Il y a été mis en captivité puis asservi.
@@ -32,3 +33,4 @@ En `1854`, ***Wilhelm Sigismund Koelle*** publiue `Polyglotta Africana`. Cet ouv
 [^2]: [Sigismund Koelle](https://en.wikipedia.org/wiki/Sigismund_Koelle). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `22` `Mars` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sigismund_Koelle
 [^3]: [Sierra Leone Colony and Protectorate](https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `18` `Juillet` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate
 [^4]: [Ali Eisami](https://en.wikipedia.org/wiki/Ali_Eisami). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Décembre` `2019` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Ali_Eisami
+[^5]: ***Wilhelm Sigismund Koelle*** ET `Ali Eisami Gazirmabe`. [GRAMMAR of the BORNU OR KANURI LANGUAGE](https://books.google.fr/books?id=JiFKAAAAcAAJ&pg=PR8&redir_esc=y#v=onepage&q&f=false). `LONDON CHURCH MISSONIARY HOUSE, SALISBURY SQUARE`, `1854`. 326 p.
