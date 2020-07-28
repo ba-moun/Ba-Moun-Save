@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-28T15:08:15.909Z
+date: 2020-07-28T16:06:44.113Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -19,12 +19,14 @@ La frise chronologique suivante présente des faits historiques liés à ***Wilh
 ```mermaid
 flowchart TB
    
-   Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants de l’ouest de l’espace occupé par l’Afrique du Sud"]
+   Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants
+   de l’ouest de l’espace occupé par l’Afrique du Sud"]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest atteignent
    l’actuelle province du KwaZulu-Natal (est de l’Afrique du Sud)"]
    
-   amaXhosa["~900 : Les AmaXhosa s’installent au sud-est de l’espace occupé par l’Afrique du Sud"]
+   amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
+   de l’espace occupé par l’Afrique du Sud"]
    
    europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
    
@@ -51,7 +53,7 @@ flowchart TB
    
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> wSKoellebirth --> birth --> studies --> thesis --> 1854 --> bantuistik --> death --> wSKoelledeath
+   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> wSKoellebirth --> birth --> studies --> thesis --> southAfrica --> 1854 --> bantuistik --> death --> wSKoelledeath
    
 ```
 
