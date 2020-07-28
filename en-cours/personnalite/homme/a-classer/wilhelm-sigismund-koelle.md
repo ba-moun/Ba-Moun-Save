@@ -2,10 +2,12 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T10:52:41.931Z
+date: 2020-07-28T11:04:52.004Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
 editor: markdown
 ---
+
+![german-flag_free-for-commercial-use-no-attribution-required.png](/images/flag/germany/german-flag_free-for-commercial-use-no-attribution-required.png){.align-abstopright}
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
@@ -16,7 +18,6 @@ Alors qu’il enseigne à `l’Université de Fourah Bay`, ***Wilhelm Sigismund 
 > **Le saviez-vous ?**
 > De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
 {.is-info}
-
 
 En `1854`, ***Wilhelm Sigismund Koelle*** publiue `Polyglotta Africana`. Cet ouvrage est le début des études poussées des langues africaines, par les `Européens`.[^1][^2]
 
