@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T13:06:20.220Z
+date: 2020-07-28T13:40:47.619Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Ci-dessous une frise chronologique retraçant des événements historiques liée
 ```mermaid
 flowchart TB
 
-   aliEisamiGazirmabeBirth["1786–1787 : Naissance de Ali Eisami Gazirmabe 🚼"]
+   aliEisamiGazirmabeBirth["1786–1787 : Naissance de Ali Eisami Gazirmabe"]
    
    sierraLeoneProtectorate["1808 : La Sierra Leone devient un protectorat Britanique 🇬🇧"]
    
