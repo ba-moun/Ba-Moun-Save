@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T11:40:43.804Z
+date: 2020-07-28T11:47:51.973Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
 editor: markdown
 ---
@@ -18,8 +18,16 @@ editor: markdown
 > De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
 {.is-info}
 
+<figure class="image image_resized image-style-align-right" style="width: 30%;">
+   <img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg">
+   <figcaption>
+      Ali Eisami Gazirmabe<br/>
+      de Kanem
+  </figcaption>
+</figure>
+
 Alors qu’il enseigne à `l’Université de Fourah Bay`, ***Wilhelm Sigismund Koelle*** collecte moult informations sur les langues Africaines.
-Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier `GRAMMAR OF THE BORNU OR KANURI LANGUAGE` en `1854`.[^5][^4][^1][^2]
+Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier `Grammar of the Bórnu Or Kānurī Language` en `1854`.[^5][^4][^1][^2]
 
 `Polyglotta Africana` est l’œuvre majeure de ***Wilhelm Sigismund Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
 
@@ -33,4 +41,4 @@ Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismun
 [^2]: [Sigismund Koelle](https://en.wikipedia.org/wiki/Sigismund_Koelle). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `22` `Mars` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sigismund_Koelle
 [^3]: [Sierra Leone Colony and Protectorate](https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `18` `Juillet` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate
 [^4]: [Ali Eisami](https://en.wikipedia.org/wiki/Ali_Eisami). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Décembre` `2019` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Ali_Eisami
-[^5]: ***Wilhelm Sigismund Koelle*** ET `Ali Eisami Gazirmabe`. [GRAMMAR of the BORNU OR KANURI LANGUAGE](https://books.google.fr/books?id=JiFKAAAAcAAJ&pg=PR8&redir_esc=y#v=onepage&q&f=false). `LONDON CHURCH MISSONIARY HOUSE, SALISBURY SQUARE`, `1854`. 326 p.
+[^5]: ***Wilhelm Sigismund Koelle*** ET `Ali Eisami Gazirmabe`. [Grammar of the Bórnu Or Kānurī Language](https://books.google.fr/books?id=JiFKAAAAcAAJ&pg=PR8&redir_esc=y#v=onepage&q&f=false). `LONDON CHURCH MISSONIARY HOUSE, SALISBURY SQUARE`, `1854`. 326 p.
