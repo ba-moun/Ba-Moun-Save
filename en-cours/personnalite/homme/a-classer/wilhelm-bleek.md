@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-28T14:22:46.514Z
+date: 2020-07-28T14:29:14.807Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -14,14 +14,17 @@ editor: markdown
 En `1859`, ***Wilhelm Bleek*** établit les bases de la `Bantuistik` (science des langues bantoues) modernes dans le cadre de l’analyse comparée des langues des régions australe et centrale d’Afrique, auxquelles il donne le nom « bantous ».
 L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des langues sud-africaines.[^1][^2][^3]
 
-La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^1][^2][^3][^4]
+La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^1][^2][^3][^4][^5]
 
 ```mermaid
 flowchart TB
    
-   Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants de l’espace occupé par l’Afrique du Sud"]
+   Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants de l’ouest de l’espace occupé par l’Afrique du Sud"]
    
-   grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest atteignent l’actuelle province du KwaZulu-Natal"]
+   grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest atteignent
+   l’actuelle province du KwaZulu-Natal (est de l’Afrique du Sud)"]
+   
+   amaXhosa["~900 : Les amaXhosa s’installent à "]
    
    wSKoellebirth["~1820 : Naissance de Wilhelm Sigismund Koelle 🚼"]
    
@@ -44,7 +47,7 @@ flowchart TB
    
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
-   wSKoellebirth --> birth --> studies --> thesis --> 1854 --> bantuistik --> death --> wSKoelledeath
+   Khoïsan --> grassland --> amaXhosa --> wSKoellebirth --> birth --> studies --> thesis --> 1854 --> bantuistik --> death --> wSKoelledeath
    
 ```
 
@@ -54,3 +57,4 @@ En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de ch
 [^2]: [Le Cap](https://fr.wikipedia.org/wiki/Le_Cap). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `16` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Le_Cap
 [^3]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
 [^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
+[^5]: [KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juin` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/KwaZulu-Natal
