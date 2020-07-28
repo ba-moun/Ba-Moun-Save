@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T11:59:40.427Z
+date: 2020-07-28T12:03:16.198Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
 editor: markdown
 ---
@@ -23,7 +23,7 @@ Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismun
 
 `Polyglotta Africana` est l’œuvre majeure de ***Wilhelm Sigismund Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
 
-<figure class="image">
+<figure class="image image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg">
    <figcaption>
       Ali Eisami Gazirmabe<br/>
