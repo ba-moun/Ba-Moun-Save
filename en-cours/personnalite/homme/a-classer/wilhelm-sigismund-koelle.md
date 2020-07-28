@@ -2,8 +2,8 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T12:03:16.198Z
-tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire
+date: 2020-07-28T12:06:42.929Z
+tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
 
@@ -18,16 +18,15 @@ editor: markdown
 > De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
 {.is-info}
 
-Alors qu’il enseigne à `l’Université de Fourah Bay`, ***Wilhelm Sigismund Koelle*** collecte moult informations sur les langues Africaines.
+Alors qu’il enseigne à `l’Université de Fourah Bay`, ***W.S. Koelle*** collecte moult informations sur les langues Africaines.
 Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier `Grammar of the Bórnu Or Kānurī Language` en `1854`.[^5][^4][^1][^2]
 
-`Polyglotta Africana` est l’œuvre majeure de ***Wilhelm Sigismund Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
+`Polyglotta Africana` est l’œuvre majeure de ***W.S. Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
 
 <figure class="image image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg">
    <figcaption>
-      Ali Eisami Gazirmabe<br/>
-      de Kanem
+      Ali Eisami Gazirmabe de Kanem
   </figcaption>
 </figure>
 
