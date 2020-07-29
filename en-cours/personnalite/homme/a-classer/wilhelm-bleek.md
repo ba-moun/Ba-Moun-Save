@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-29T15:12:41.638Z
+date: 2020-07-29T15:19:19.239Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -43,7 +43,7 @@ flowchart TB
    secondCapWar["1793 : Deuxième guerre
    AmaXhosas ⚔ autorités coloniales du Cap"]
    
-   europeanWarInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais commencent à se disputer le sud de l’Afrique"]
+   europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais commencent à se disputer le sud de l’Afrique"]
    
    thirdCapWar["1803 : Troisième guerre
       AmaXhosas ⚔ autorités coloniales du Cap"]
@@ -69,6 +69,8 @@ flowchart TB
    sixthCapWar["1834 − 1835 : Sixième guerre
    AmaXhosas ⚔ autorités coloniales du Cap"]
    
+   
+   
    seventhCapWar["1846 : Septième guerre 
    AmaXhosas ⚔ autorités coloniales du Cap"]
       
@@ -88,7 +90,7 @@ flowchart TB
    end
    
    subgraph 1854
-      majorStudy["Wilhelm Sigismund Koelle publie « Polyglotta Africana » 📖"]
+      majorStudy["1854 : Wilhelm Sigismund Koelle publie « Polyglotta Africana » 📖"]
    end
    
    bantuistik["1859 : Wilelm Bleek établit les bases de la Bantuistik"]
@@ -99,7 +101,14 @@ flowchart TB
    
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> boersArrive --> boersConflict --> firstCapWar --> secondCapWar --> europeanFightInSouthAfricaBegin --> thirdCapWar --> europeanFightInSouthAfricaEnd --> fourthCapWar --> fifthCapWar --> wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> studies --> eighthCapWar --> 1854 --> bantuistik --> death --> ninethCapWar --> wSKoelledeath
+   Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
+   europeanInvasionNextStep --> boersArrive --> boersConflict --> 
+   firstCapWar --> secondCapWar --> 
+   europeanFightInSouthAfricaBegin --> thirdCapWar --> 
+   europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecane --> 
+   wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> 
+   studies --> eighthCapWar --> 1854 --> bantuistik --> death --> 
+   ninethCapWar --> wSKoelledeath
    
 ```
 
