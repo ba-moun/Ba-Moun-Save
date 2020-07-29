@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-29T14:54:16.708Z
+date: 2020-07-29T15:12:41.638Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -14,8 +14,7 @@ editor: markdown
 En `1859`, ***Wilhelm Bleek*** établit les bases de la `Bantuistik` (science des langues bantoues) modernes dans le cadre de l’analyse comparée des langues des régions australe et centrale d’Afrique, auxquelles il donne le nom « bantous ».
 L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des langues sud-africaines.[^1][^2][^3]
 
-La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^1][^2][^3][^4][^5]
-
+La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^6][^1][^2][^3]
 ```mermaid
 flowchart TB
    
@@ -44,14 +43,24 @@ flowchart TB
    secondCapWar["1793 : Deuxième guerre
    AmaXhosas ⚔ autorités coloniales du Cap"]
    
-   thirdCapWar["1803 : Troisième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   europeanWarInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais commencent à se disputer le sud de l’Afrique"]
    
+   thirdCapWar["1803 : Troisième guerre
+      AmaXhosas ⚔ autorités coloniales du Cap"]
+
+   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leurs colonies aux Britaniques"]
+
    fourthCapWar["1811 − 1812 : Quatrième guerre
    AmaXhosas ⚔ autorités coloniales du Cap"]
    
-   fifthCapWar["1818 − 1819 : Cinquième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   subgraph mfecane["1818 − 1825 : Mfecane"]
+      mfecaneBegin["1818 : Chaka Zoulou étend son empire sur l’Est de l’espace occupé par l’Afrique du Sud"]
+      
+      fifthCapWar["1818 − 1819 : Cinquième guerre
+         AmaXhosas ⚔ autorités coloniales du Cap"]
+         
+      mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
+   end
    
    wSKoellebirth["~1820 : Naissance de Wilhelm Sigismund Koelle 🚼"]
    
@@ -90,7 +99,7 @@ flowchart TB
    
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> boersArrive --> boersConflict --> firstCapWar --> secondCapWar --> thirdCapWar --> fourthCapWar --> fifthCapWar --> wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> studies --> eighthCapWar --> 1854 --> bantuistik --> death --> ninethCapWar --> wSKoelledeath
+   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> boersArrive --> boersConflict --> firstCapWar --> secondCapWar --> europeanFightInSouthAfricaBegin --> thirdCapWar --> europeanFightInSouthAfricaEnd --> fourthCapWar --> fifthCapWar --> wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> studies --> eighthCapWar --> 1854 --> bantuistik --> death --> ninethCapWar --> wSKoelledeath
    
 ```
 
@@ -101,3 +110,4 @@ En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de ch
 [^3]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
 [^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
 [^5]: [KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juin` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/KwaZulu-Natal
+[^6]: [Guerres cafres](https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Janvier` `2020` [consulté le `29` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)
