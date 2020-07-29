@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-28T16:06:44.113Z
+date: 2020-07-29T14:54:16.708Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -22,8 +22,9 @@ flowchart TB
    Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants
    de l’ouest de l’espace occupé par l’Afrique du Sud"]
    
-   grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest atteignent
-   l’actuelle province du KwaZulu-Natal (est de l’Afrique du Sud)"]
+   grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
+   (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
+   (l’Est de l’Afrique du Sud)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
    de l’espace occupé par l’Afrique du Sud"]
@@ -32,16 +33,50 @@ flowchart TB
    
    europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
    
+   boersArrive["1770 : Premier contact entre les boers (franco-néerlandais) et
+   les peuples originaires des hauts plateaux de l’ouest"]
+   
+   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les boers"]
+   
+   firstCapWar["1779-1778 : Première des neuf guerres
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
+   secondCapWar["1793 : Deuxième guerre
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
+   thirdCapWar["1803 : Troisième guerre
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
+   fourthCapWar["1811 − 1812 : Quatrième guerre
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
+   fifthCapWar["1818 − 1819 : Cinquième guerre
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
    wSKoellebirth["~1820 : Naissance de Wilhelm Sigismund Koelle 🚼"]
    
    birth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
       
+   sixthCapWar["1834 − 1835 : Sixième guerre
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+   
+   seventhCapWar["1846 : Septième guerre 
+   AmaXhosas ⚔ autorités coloniales du Cap"]
+      
    studies["1845 − 1848 : Wilhelm Bleek étudie la théologie ✝ à Bonn
    puis l’hébreu ✡ à Berlin"]
    
-   thesis["1851 : Thèse sur les classes nominales"]
+   subgraph eighthCapWar["1850 − 1853"]
+      eighthCapWarBegining["1850 : Début de la huitième guerre 
+      AmaXhosas ⚔ autorités coloniales du Cap"]
+      
+      thesis["1851 : Thèse sur les classes nominales"]
    
-   southAfrica["1853 : Wilhelm Bleek se rend en Afrique du Sud"]
+      southAfrica["1853 :
+         - Wilhelm Bleek se rend en Afrique du Sud
+         - Fin de la huitième guerre 
+         AmaXhosas ⚔ utorités coloniales du Cap"]
+   end
    
    subgraph 1854
       majorStudy["Wilhelm Sigismund Koelle publie « Polyglotta Africana » 📖"]
@@ -51,9 +86,11 @@ flowchart TB
    
    death["17 Août 1875 : Mort de Wilhelm Bleek 💀"]
    
+   ninethCapWar["1877 − 1879 : Neuvième guerre entre les AmaXhosas et les autorités du Cap"]
+   
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> wSKoellebirth --> birth --> studies --> thesis --> southAfrica --> 1854 --> bantuistik --> death --> wSKoelledeath
+   Khoïsan --> grassland --> amaXhosa --> europeanInvasion --> europeanInvasionNextStep --> boersArrive --> boersConflict --> firstCapWar --> secondCapWar --> thirdCapWar --> fourthCapWar --> fifthCapWar --> wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> studies --> eighthCapWar --> 1854 --> bantuistik --> death --> ninethCapWar --> wSKoelledeath
    
 ```
 
