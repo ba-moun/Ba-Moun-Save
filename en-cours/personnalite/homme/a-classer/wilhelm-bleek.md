@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-29T15:19:19.239Z
+date: 2020-07-29T15:38:20.716Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -12,7 +12,12 @@ editor: markdown
 
 ***Wilhelm Bleek*** est un allemand né le `8` `Mars` `1827` à `Berlin` (`royaume de Prusse`) et mort le `17` `Août` `1875` au `Cap` (`colonie du Cap`). Il est un linguiste et `folkloriste` qui s’est spécialisé dans les langues sud-africaines. Il est le fondateur du `comparatisme linguistique en Afrique`. De plus, lui et `Wilhelm Sigismund Koelle` sont les premiers à regrouper les langues de l’ouest du continent.
 En `1859`, ***Wilhelm Bleek*** établit les bases de la `Bantuistik` (science des langues bantoues) modernes dans le cadre de l’analyse comparée des langues des régions australe et centrale d’Afrique, auxquelles il donne le nom « bantous ».
-L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des langues sud-africaines.[^1][^2][^3]
+L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des langues sud-africaines. De plus, il est l'auteur d'une grammaire du zoulou et d’un système de numérotation pour les système phonétique. Ce système de numérotation est utilisé par les linguistes du paradigme européen pour transcrire clicks et sons caractéristiques du `ǀxam`.[^1][^2][^3]
+
+> **Le saviez-vous ?**
+> 
+> Le `ǀxam` (`ǀxam kaǃkʼe` ou `ǀKham`, prononcé *ǀ͡xam*) est une langue morte parlée par les `ǀXam-ka ǃʼē` jusqu’au XX^ème^ siècle. À l’époque, ce peuple se trouve à l’ouest de l’espace occupé par l’Afrique du Sud.
+{.is-info}
 
 La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^6][^1][^2][^3]
 ```mermaid
@@ -112,7 +117,7 @@ flowchart TB
    
 ```
 
-En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique.
+En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il y étudie les différences entre les langues locales, les `langues bantoues` et `xhosa`.[^3]
 
 [^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 [^2]: [Le Cap](https://fr.wikipedia.org/wiki/Le_Cap). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `16` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Le_Cap
