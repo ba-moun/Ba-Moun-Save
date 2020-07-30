@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-29T15:38:20.716Z
+date: 2020-07-30T08:27:11.222Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -16,10 +16,21 @@ L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des l
 
 > **Le saviez-vous ?**
 > 
-> Le `ǀxam` (`ǀxam kaǃkʼe` ou `ǀKham`, prononcé *ǀ͡xam*) est une langue morte parlée par les `ǀXam-ka ǃʼē` jusqu’au XX^ème^ siècle. À l’époque, ce peuple se trouve à l’ouest de l’espace occupé par l’Afrique du Sud.
+> Le `ǀxam` (prononcé *ˈkɑːm*) est une langue morte qui a été parlée par les `ǀXam-ka ǃʼē` jusqu’au XX^ème^ siècle. À l’époque, ce peuple se trouve à l’ouest de l’espace occupé par l’`Afrique du Sud 🇿🇦`.
+> La plupart des travaux scientifiques européens réalisés sur le `ǀxam` ont été réalisés par ***Wilhelm Bleek***. Les documents portant sur cette langue viennent de vocabulaires et d’histoires racontées par des personnes parlant `|xam`[^6] :
+> 
+> -`|a!kunta`,
+> - `||kabbo` (alias `|uhi-ddoro`),
+> - `≠kasin`,
+> - `Dia!kwain`,
+> - `!kweiten ta ||ken`,
+> - `|han≠kass’o`.
+> 
+> Ces informations sont accessibles dans le [Bleek and Lloyd Collection](http://lloydbleekcollection.cs.uct.ac.za).[^6]
 {.is-info}
 
 La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^6][^1][^2][^3]
+
 ```mermaid
 flowchart TB
    
@@ -125,3 +136,4 @@ En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de ch
 [^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
 [^5]: [KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juin` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/KwaZulu-Natal
 [^6]: [Guerres cafres](https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Janvier` `2020` [consulté le `29` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)
+[^7]: [ǀXam language](https://en.wikipedia.org/wiki/%C7%80Xam_language). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Juin` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/%C7%80Xam_language
