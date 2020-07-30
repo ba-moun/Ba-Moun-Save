@@ -2,7 +2,7 @@
 title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-30T10:48:07.735Z
+date: 2020-07-30T11:00:17.385Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -11,7 +11,14 @@ editor: markdown
 {.is-info}
 
 ***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ».
-Ce peuple a été exterminé par les `Trekboers` au XIX^ème^ siècle. `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. C’est le nom endogène des envahisseurs `Européens` et les ancêtre des `Boers`.
+Ce peuple a été exterminé par les `Trekboers` au XIX^ème^ siècle. `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. C’est le nom endogène des `envahisseurs Européens`. Ce sont les descendants d’`envahisseurs` `néerlandais`, de `protestants allemands` et `huguenots français`.[^1][^2][^9]
+
+> **Le saviez-vous ?**
+> 
+> Les `huguenots` sont des `protestants` du `Royaume de France` et du `Royaume de Navarre`. Ils sont appelés ainsi durant la seconde moitié du XVI^ème^ siècle. Au XVII^ème^ siècle, les `huguenots` sont appelés `religionnaires`.
+{.is-info}
+
+Les `Trekboers` sont à présent les ancêtres des `Boers`.
 Les `Trekboers` ont[^1][^2][^9] :
 
 - volé les terres des `San` pour y mettre leurs propres fermes,
@@ -25,7 +32,7 @@ Les `Trekboers` ont[^1][^2][^9] :
 > Les `Trekboers` ont aussi traqué, tué et enlevé des `quagga`, `ostriches`, `gemsbok`, `hartebeest`, `eland` et `springbok` par milliers.[^1]
 {.is-info}
 
-En réponse à la menace `Trekboers`, les `San` ont formé des gangs et exterminé les envahisseurs Européens avec leurs bétails.[^2]
+En réponse à la menace `Trekboers`, les `San` ont formé des gangs et exterminé les `envahisseurs européens` avec leurs bétails.[^2]
 
 Des informations ont été recensées sur le `|xam` (la langue des ***Ss’wa ka !kui***). Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont créé la collection sont `Lucy Catherine Lloyd`, `Wilhelm Bleek` et `Dorothea Francis Bleek`. Les personnes qui ont fourni les informations sont[^1][^3] :
 
