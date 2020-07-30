@@ -2,7 +2,7 @@
 title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-30T13:12:54.315Z
+date: 2020-07-30T18:27:00.060Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -10,30 +10,7 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ».[^1][^2][^9]
-
-Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle. `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. C’est le nom endogène des `envahisseurs Européens`. Ce sont les descendants d’`envahisseurs` `néerlandais`, de `protestants allemands` et `huguenots français`.[^1][^2][^9]
-
-> **Le saviez-vous ?**
-> 
-> Les `huguenots` sont des `protestants` du `Royaume de France` et du `Royaume de Navarre`. Ils sont appelés ainsi durant la seconde moitié du XVI^ème^ siècle. Au XVII^ème^ siècle, les `huguenots` sont appelés `religionnaires`.
-{.is-info}
-
-Les `Trekboers` sont à présent les ancêtres des `Grensboere`, alias `Boers`. `Boers` signifie paysans `néerlandais`.
-Les `Trekboers` ont[^1][^2][^9] :
-
-- volé les terres des `San` pour y mettre leurs propres fermes,
-- chassé le gibier des `San` pour se nourrir et pour le « sport »,
-- traqué, tué et enlevé les `San`,
-- mis au travail forcé les `San`,
-- affamé volontairement les `San`.
-
-> **Le saviez-vous ?**
-> 
-> Les `Trekboers` ont aussi traqué, tué et enlevé des `quagga`, `ostriches`, `gemsbok`, `hartebeest`, `eland` et `springbok` par milliers.[^1]
-{.is-info}
-
-En réponse à la menace `Trekboers`, les `San` ont formé des gangs et exterminé les `envahisseurs européens` avec leurs bétails.[^2]
+***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
 
 Des informations ont été recensées sur le `|xam` (la langue des ***Ss’wa ka !kui***). Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont créé la collection sont `Lucy Catherine Lloyd`, `Wilhelm Bleek` et `Dorothea Francis Bleek`. Les personnes qui ont fourni les informations sont[^1][^3] :
 
@@ -135,6 +112,38 @@ flowchart TB
    
 ```
 
+# Les assaillants Trekboers
+
+Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
+
+- volé les terres des `San` pour y mettre leurs propres fermes,
+- chassé le gibier des `San` pour se nourrir et pour le « sport »,
+- traqué, tué et enlevé les `San`,
+- mis au travail forcé les `San`,
+- affamé volontairement les `San`.
+
+En réponse à la menace `Trekboers`, les `San` ont formé des gangs et exterminé les `envahisseurs européens` avec leurs bétails.[^2]
+
+> **Le saviez-vous ?**
+> 
+> Les `Trekboers` ont aussi traqué, tué et enlevé des `quagga`, `ostriches`, `gemsbok`, `hartebeest`, `eland` et `springbok` par milliers.[^1]
+{.is-info}
+
+`Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`.[^1][^2][^9]
+
+> **Le saviez-vous ?**
+> 
+> Les `huguenots` sont des `protestants` du `Royaume de France` et du `Royaume de Navarre`. Ils sont appelés ainsi durant la seconde moitié du XVI^ème^ siècle.
+> Au XVII^ème^ siècle, les `huguenots` sont appelés `religionnaires`.[^10]
+{.is-info}
+
+Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades.
+Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] :
+
+- des `Grensboere`, alias `Boers` qui signifie paysans `néerlandais`,
+- de la population de `Buysplaas` alias `Buysville`,
+- des `Afrikaners`.
+
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 [^2]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
 [^3]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
@@ -144,3 +153,4 @@ flowchart TB
 [^7]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 [^8]: [Le Cap](https://fr.wikipedia.org/wiki/Le_Cap). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `16` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Le_Cap
 [^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
+[^10]: [Huguenot](https://fr.wikipedia.org/wiki/Huguenot). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Huguenot
