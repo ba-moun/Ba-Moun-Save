@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T09:51:31.788Z
+date: 2020-07-30T09:52:55.708Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -54,26 +54,26 @@ flowchart TB
    boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les Boers"]
    
    firstCapWar["1779-1778 : Première des neuf guerres
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
    secondCapWar["1793 : Deuxième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
    europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais commencent à se disputer le sud de l’Afrique"]
    
    thirdCapWar["1803 : Troisième guerre
-      AmaXhosas ⚔ autorités coloniales du Cap"]
+      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
 
    europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leurs colonies aux Britaniques"]
 
    fourthCapWar["1811 − 1812 : Quatrième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
    subgraph mfecane["1818 − 1825 : Mfecane"]
       mfecaneBegin["1818 : Chaka Zoulou étend son empire sur l’Est de l’espace occupé par l’Afrique du Sud"]
       
       fifthCapWar["1818 − 1819 : Cinquième guerre
-         AmaXhosas ⚔ autorités coloniales du Cap"]
+         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
          
       mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
    end
@@ -83,26 +83,26 @@ flowchart TB
    birth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
       
    sixthCapWar["1834 − 1835 : Sixième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
    
    
    seventhCapWar["1846 : Septième guerre 
-   AmaXhosas ⚔ autorités coloniales du Cap"]
+   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
       
    studies["1845 − 1848 : Wilhelm Bleek étudie la théologie ✝ à Bonn
    puis l’hébreu ✡ à Berlin"]
    
    subgraph eighthCapWar["1850 − 1853"]
       eighthCapWarBegining["1850 : Début de la huitième guerre 
-      AmaXhosas ⚔ autorités coloniales du Cap"]
+      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
       
       thesis["1851 : Thèse sur les classes nominales"]
    
       southAfrica["1853 :
          - Wilhelm Bleek se rend en Afrique du Sud
          - Fin de la huitième guerre 
-         AmaXhosas ⚔ utorités coloniales du Cap"]
+         AmaXhosas ⚔ utorités coloniales du Cap (Européens)"]
    end
    
    subgraph 1854
@@ -113,7 +113,7 @@ flowchart TB
    
    death["17 Août 1875 : Mort de Wilhelm Bleek 💀"]
    
-   ninethCapWar["1877 − 1879 : Neuvième guerre entre les AmaXhosas et les autorités du Cap"]
+   ninethCapWar["1877 − 1879 : Neuvième guerre entre les AmaXhosas et les autorités du Cap (Européens)"]
    
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
