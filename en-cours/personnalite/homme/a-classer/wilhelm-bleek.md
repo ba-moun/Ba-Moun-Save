@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T10:01:48.122Z
+date: 2020-07-30T10:16:55.103Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -114,8 +114,9 @@ flowchart TB
    
    death["17 Août 1875 : Mort de Wilhelm Bleek 💀"]
    
-   ninethCapWar["1877 − 1879 : Neuvième guerre entre les AmaXhosas et les autorités du Cap (Européens)"]
-   
+   ninethCapWar["1877 − 1879 : Neuvième guerre entre
+      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
+
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
    Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
