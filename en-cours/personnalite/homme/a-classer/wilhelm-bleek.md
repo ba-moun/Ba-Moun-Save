@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T10:23:05.755Z
+date: 2020-07-30T10:23:35.501Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -81,9 +81,9 @@ flowchart TB
       mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
    end
    
-   wSKoellebirth["~1820 : Naissance de Wilhelm Sigismund Koelle 🚼"]
+   wSKoellebirth["~1820 : Naissance de Wilhelm Sigismund Koelle"]
    
-   birth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
+   birth["8 Mars 1827 : Naissance de Wilhelm Bleek 🚼"]
       
    sixthCapWar["1834 − 1835 : Sixième guerre
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
