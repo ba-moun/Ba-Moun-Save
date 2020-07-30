@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T08:27:11.222Z
+date: 2020-07-30T09:51:31.788Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -26,7 +26,7 @@ L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des l
 > - `!kweiten ta ||ken`,
 > - `|han≠kass’o`.
 > 
-> Ces informations sont accessibles dans le [Bleek and Lloyd Collection](http://lloydbleekcollection.cs.uct.ac.za).[^6]
+> Ces informations sont accessibles dans le [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^6]
 {.is-info}
 
 La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^6][^1][^2][^3]
@@ -35,23 +35,23 @@ La frise chronologique suivante présente des faits historiques liés à ***Wilh
 flowchart TB
    
    Khoïsan["-40 000 : Les khoïsan deviennent le premiers habitants
-   de l’ouest de l’espace occupé par l’Afrique du Sud"]
+   du sud-sud-oust du continent"]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
    (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-   (l’Est de l’Afrique du Sud)"]
+   (l’Est de l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
-   de l’espace occupé par l’Afrique du Sud"]
+   de l’espace occupé par l’Afrique du Sud 🇿🇦"]
    
    europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
    
    europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
    
-   boersArrive["1770 : Premier contact entre les boers (franco-néerlandais) et
+   boersArrive["1770 : Premier contact entre les Boers (franco-néerlandais) et
    les peuples originaires des hauts plateaux de l’ouest"]
    
-   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les boers"]
+   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les Boers"]
    
    firstCapWar["1779-1778 : Première des neuf guerres
    AmaXhosas ⚔ autorités coloniales du Cap"]
