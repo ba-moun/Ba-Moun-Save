@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T09:52:55.708Z
+date: 2020-07-30T10:01:48.122Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -29,7 +29,7 @@ L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des l
 > Ces informations sont accessibles dans le [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^6]
 {.is-info}
 
-La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^6][^1][^2][^3]
+La frise chronologique suivante présente des faits historiques liés à ***Wilhelm Bleek***.[^4][^5][^8][^6][^1][^2][^3]
 
 ```mermaid
 flowchart TB
@@ -46,8 +46,11 @@ flowchart TB
    
    europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
    
-   europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
-   
+   subgraph 17thCentury["XVIIème siècle"]
+      boersExpantion["~1600 : Début de l’expansion des Trekboers (ancêtre des Boers) dans le sud du continent"]
+      
+      europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
+   end   
    boersArrive["1770 : Premier contact entre les Boers (franco-néerlandais) et
    les peuples originaires des hauts plateaux de l’ouest"]
    
@@ -85,8 +88,6 @@ flowchart TB
    sixthCapWar["1834 − 1835 : Sixième guerre
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
-   
-   
    seventhCapWar["1846 : Septième guerre 
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
       
@@ -118,7 +119,7 @@ flowchart TB
    wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
       
    Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
-   europeanInvasionNextStep --> boersArrive --> boersConflict --> 
+   17thCentury --> boersArrive --> boersConflict --> 
    firstCapWar --> secondCapWar --> 
    europeanFightInSouthAfricaBegin --> thirdCapWar --> 
    europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecane --> 
@@ -137,3 +138,4 @@ En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de ch
 [^5]: [KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juin` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/KwaZulu-Natal
 [^6]: [Guerres cafres](https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Janvier` `2020` [consulté le `29` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)
 [^7]: [ǀXam language](https://en.wikipedia.org/wiki/%C7%80Xam_language). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Juin` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/%C7%80Xam_language
+[^8]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
