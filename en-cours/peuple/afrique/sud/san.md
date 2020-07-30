@@ -2,7 +2,7 @@
 title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-30T11:00:17.385Z
+date: 2020-07-30T13:12:54.315Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -10,15 +10,16 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ».
-Ce peuple a été exterminé par les `Trekboers` au XIX^ème^ siècle. `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. C’est le nom endogène des `envahisseurs Européens`. Ce sont les descendants d’`envahisseurs` `néerlandais`, de `protestants allemands` et `huguenots français`.[^1][^2][^9]
+***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ».[^1][^2][^9]
+
+Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle. `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. C’est le nom endogène des `envahisseurs Européens`. Ce sont les descendants d’`envahisseurs` `néerlandais`, de `protestants allemands` et `huguenots français`.[^1][^2][^9]
 
 > **Le saviez-vous ?**
 > 
 > Les `huguenots` sont des `protestants` du `Royaume de France` et du `Royaume de Navarre`. Ils sont appelés ainsi durant la seconde moitié du XVI^ème^ siècle. Au XVII^ème^ siècle, les `huguenots` sont appelés `religionnaires`.
 {.is-info}
 
-Les `Trekboers` sont à présent les ancêtres des `Boers`.
+Les `Trekboers` sont à présent les ancêtres des `Grensboere`, alias `Boers`. `Boers` signifie paysans `néerlandais`.
 Les `Trekboers` ont[^1][^2][^9] :
 
 - volé les terres des `San` pour y mettre leurs propres fermes,
