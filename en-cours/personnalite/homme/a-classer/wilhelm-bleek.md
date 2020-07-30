@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-07-30T10:16:55.103Z
+date: 2020-07-30T10:23:05.755Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -98,7 +98,7 @@ flowchart TB
       eighthCapWarBegining["1850 : Début de la huitième guerre 
       AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
       
-      thesis["1851 : Thèse sur les classes nominales"]
+      thesis["1851 : Wilhelm Bleek passe sa thèse sur les classes nominales"]
    
       southAfrica["1853 :
          - Wilhelm Bleek se rend en Afrique du Sud
