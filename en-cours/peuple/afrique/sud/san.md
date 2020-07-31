@@ -1,8 +1,8 @@
 ---
-title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
+title: Ss’wa ka !kui (San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-30T18:27:00.060Z
+date: 2020-07-31T08:06:05.563Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
