@@ -2,10 +2,16 @@
 title: Créer ou éditer une page
 description: Comment créer ou éditer une page
 published: true
-date: 2020-07-15T20:12:54.659Z
+date: 2020-07-31T09:21:58.259Z
 tags: guide, guide d'édition, manuel, manuel d'édition, manued le création de page, manuel de scribe, guide du scribe, 𓏜 sua, 𓏞𓏜 ohu
 editor: markdown
 ---
+
+> **Attention !**
+> 
+> Si vous vous authentifiez pour la première fois, vous faites automatiquement partie du clan **[𓏜 Sua](fr/faq#les-clans)**. Ce groupe peut uniquement écrire dans l'arborescence du dossier `/en-cours`. Par conséquent, si vous souhaitez modifier une page qui ne se trouve pas dans cette arborescence, vous devez copier cette page dans l'arborescence `/en-cours`. Une fois que les modifications seront apportées puis validées, une personne du clan des **[𓏞𓏜 Ohu](fr/faq#les-clans)** pourra remplacer l'ancienne page par votre proposition de correction.
+{.is-warning}
+
 
 Vous trouverez sur cette page comment créer ou modifier une page.
 
