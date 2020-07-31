@@ -2,7 +2,7 @@
 title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-31T19:06:14.426Z
+date: 2020-07-31T20:34:57.891Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -33,7 +33,7 @@ La frise ci-dessous retrace des faits historiques liés aux ***Ss’wa ka !kui**
 ```mermaid
 flowchart TB
    
-   Khoïsan["-40 000 : Les khoïsan (ancêtre des Ss’wa ka !kui) deviennent le premiers habitants
+   Khoïsan["-40 000 : Les khoïsan (ancêtre des Ss’wa ka !kui) deviennent les premiers habitants
    du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
@@ -54,7 +54,7 @@ flowchart TB
    boersArrive["1770 : Premier contact entre les Boers (franco-néerlandais) et
    les peuples originaires des hauts plateaux de l’ouest"]
    
-   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les Boers"]
+   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les envahisseurs Trekboers"]
    
    firstCapWar["1779-1778 : Première des neuf guerres
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
@@ -72,16 +72,14 @@ flowchart TB
    fourthCapWar["1811 − 1812 : Quatrième guerre
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    
-   subgraph mfecane["1818 − 1825 : Mfecane"]
-      mfecaneBegin["1818 : Chaka Zoulou étend son empire sur l’Est de l’espace occupé par l’Afrique du Sud"]
+   mfecaneBegin["1818 : Chaka Zoulou étend son empire sur l’Est de l’espace occupé par l’Afrique du Sud"]
       
-      fifthCapWar["1818 − 1819 : Cinquième guerre
-         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
+   fifthCapWar["1818 − 1819 : Cinquième guerre
+      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
          
-      mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
-   end
+   mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
       
-   birth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
+   wilhelmBleekbirth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
       
    sixthCapWar["1834 − 1835 : Sixième guerre
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
@@ -89,8 +87,10 @@ flowchart TB
    seventhCapWar["1846 : Septième guerre 
    AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
          
-   subgraph eighthCapWar["1850 − 1853"]
-      eighthCapWarBegining["1850 : Début de la huitième guerre 
+   subgraph 1850["~1850"]
+      hanKassOBirth["Naissance de |han≠kass’o"]
+      
+      eighthCapWarBegining["Début de la huitième guerre 
       AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
          
       southAfrica["1853 :
@@ -99,23 +99,48 @@ flowchart TB
          AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
    end
    
-   subgraph 1854
-      majorStudy["1854 : Wilhelm Sigismund Koelle publie « Polyglotta Africana » 📖"]
+   hanKassOImprisonned["~1869 : |han≠kass’o est emprisonné pour vol de bétail avec ||kabbo (son beau-père) et Witbooy Touren (son beau-frère)"]
+   
+   hanKassOInBCS["1870 : |han≠kass’o est emprisonné à Breakwater Convict Station"]
+   
+   hanKassOExile["1871 : |han≠kass’o et sa femme Suobba-||kein sont exilés à Bushmanland"]
+   
+   kabboDeath["1876 : Mort de ||kabbo, le père de "]
+   
+   subgraph 1877
+      ninethCapWarBegin["Début de la neuvième guerre entre
+         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
+         
+     huHunWithFriends["Avril 1877 : À Vanwyksvlei, Suobba-||kein et |han≠kass’o confient leurs plus grand fils !hu !hun à des amis pour qu’ils puissent se rendre à chez les Lloyd, au Cap."]
+     
+     suobbaKeinNBabyDeath["Décembre 1877 : Suobba-||kein succombe suite à des coup grave qu’elle a reçue d’un policier. Le bébé n’a pas survécu"]
+   end
+   
+   hanKassOInformatorBegin["10 Janvier 1878 : |han≠kass’o arrive à Mowbray et commence
+      à fournir divers informations sur les Ss’wa ka !kui aux
+      familles Lloyd et Bleek"]
+  
+   subgraph 1879
+      ninethCapWarEnd["1879 : Neuvième guerre entre
+         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
+
+      hanKassOInformationEnd["Décembre 1879 : |han≠kass’o cesse de
+         donner des informations sur son peuple pour retrouver
+         son fils qui est forcé de travailler dans une ferme"]
+         
    end
       
-   ninethCapWar["1877 − 1879 : Neuvième guerre entre
-      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   
-   wSKoelledeath["1902 : Mort de Wilhelm Sigismund Koelle"]
+   bushmanlandBantoustan["1964 : Création officiel du bantoustan nommé Bushmanland"]
       
    Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
    17thCentury --> boersArrive --> boersConflict --> 
    firstCapWar --> secondCapWar --> 
    europeanFightInSouthAfricaBegin --> thirdCapWar --> 
-   europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecane --> 
-   wSKoellebirth --> birth --> sixthCapWar --> seventhCapWar --> 
-   studies --> eighthCapWar --> 1854 --> bantuistik --> death --> 
-   ninethCapWar --> wSKoelledeath
+   europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecaneBegin --> fifthCapWar
+   wilhelmBleekbirth --> sixthCapWar -->
+   seventhCapWar --> 1850 -->
+   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile -->
+   kabboDeath --> 1877 --> hanKassOInformatorBegin --> 1879 --> bushmanlandBantoustan
    
 ```
 
@@ -123,17 +148,26 @@ flowchart TB
 
 Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
 
-- volé les terres des `San` pour y mettre leurs propres fermes,
-- chassé le gibier des `San` pour se nourrir et pour le « sport »,
+- volé les terres `San (pour y mettre leurs propres fermes),
+- chassé du gibier des `San` (pour pratiquer du « sport » ou s’alimenter),
 - traqué, tué et enlevé les `San`,
 - mis au travail forcé les `San`,
 - affamé volontairement les `San`.
 
-En réponse à la menace `Trekboers`, les `San` ont formé des gangs et exterminé les `envahisseurs européens` avec leurs bétails.[^2]
+En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des `envahisseurs européens` avec leurs bétails.[^2]
 
 > **Le saviez-vous ?**
 > 
-> Les `Trekboers` ont aussi traqué, tué et enlevé des `quagga`, `ostriches`, `gemsbok`, `hartebeest`, `eland` et `springbok` par milliers.[^1]
+> Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport »[^1] :
+> 
+> - le couagga,
+> - les autruches, 
+> - l’oryx gazelle,
+> - les bubales,
+> - éland,
+> - springbok.
+> 
+> Certaines espèces comme le couagga sont à présent éteintes.
 {.is-info}
 
 `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`.[^1][^2][^9]
@@ -147,7 +181,7 @@ En réponse à la menace `Trekboers`, les `San` ont formé des gangs et extermin
 Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades.
 Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] :
 
-- des `Grensboere`, alias `Boers` qui signifie paysans `néerlandais`,
+- des `Grensboere`, alias `Boers` (paysans `néerlandais`),
 - de la population de `Buysplaas` alias `Buysville`,
 - des `Afrikaners`.
 
