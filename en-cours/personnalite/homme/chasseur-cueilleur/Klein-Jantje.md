@@ -2,7 +2,7 @@
 title: Suobba-||kein et |han≠kass’o
 description: Présentation de |han≠kass’o et de sa femme Suobba-||kein
 published: true
-date: 2020-07-31T13:59:28.888Z
+date: 2020-07-31T14:11:00.151Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, ss’wa ka !kui, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein
 editor: markdown
 ---
@@ -38,9 +38,10 @@ Durant son séjour, ***|han≠kass’o*** a rêvé de parler dans sa propre lang
 
 Durant ce séjour, ***|han≠kass’o***[^1] :
 
-- révèle les idées, les croyances et la richesse des divers pratiques des `Ss’wa ka !kui`
-- contribue à nombre de récis et de cahiers dont 32 sont au nom de `Lloyd`
-- partage des histoires et des informations sur le `|xam`, ce qui permet de réaliser à la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).
+- communique les idées et les croyances de son peuple (les `Ss’wa ka !kui`),
+- partage la richesse des divers pratiques de son peuple,
+- transmet des informations sur la langue `|xam`,
+- contribue au second plus grand nombre de récis et de cahiers du [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za), dont 32 sont au nom de `Lloyd`.
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 [^2]: `Harriet Jane Deacon`. PREFACE. In [A HISTORY OF THE BREAKWATER PRISON FROM 1859 TO 1905](https://open.uct.ac.za/bitstream/handle/11427/21141/thesis_hum_1989_deacon_harriet.pdf?sequence=1&isAllowed=y). Submitted to the Faculty of Arts, University of Cape Town, in partial fulfillment of the requirements of an Honours Degree in African Studies (Social Anthropology). `1989`. p. 3. [consulté le `30` `Juillet` `2020`]. Disponible sur : https://open.uct.ac.za/bitstream/handle/11427/21141/thesis_hum_1989_deacon_harriet.pdf?sequence=1&isAllowed=y
