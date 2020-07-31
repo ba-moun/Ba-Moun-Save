@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-31T11:41:30.559Z
+date: 2020-07-31T13:03:02.074Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -14,7 +14,7 @@ editor: markdown
 > Un des membres de la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> prendra plaisir à vous répondre. ;)
 {.is-info}
 
-Cette page resence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+Cette page recence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 # Utilisation de l'encyclopédie ?
 
