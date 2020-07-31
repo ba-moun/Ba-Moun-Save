@@ -1,8 +1,8 @@
 ---
-title: Ss’wa ka !kui (San des plaines, Flat Bushman ou Bochiman des plaines)
+title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
 description: Présentation des Ss’wa ka !kui
 published: true
-date: 2020-07-31T08:06:05.563Z
+date: 2020-07-31T19:06:14.426Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -12,7 +12,14 @@ editor: markdown
 
 ***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
 
-Des informations ont été recensées sur le `|xam` (la langue des ***Ss’wa ka !kui***). Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont créé la collection sont `Lucy Catherine Lloyd`, `Wilhelm Bleek` et `Dorothea Francis Bleek`. Les personnes qui ont fourni les informations sont[^1][^3] :
+Plusiers informations ont été recensées sur les ***Ss’wa ka !kui*** par les familles `Lloyd` et `Bleek`[^1][^3] :
+
+- leur lague (le `|xam`),
+- leur philosophie,
+- leur croyance,
+- leur pratique.
+
+Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont fourni les informations sont[^1][^3] :
 
 - `|a!kunta`,
 - `||kabbo` (alias `|uhi-ddoro`),
