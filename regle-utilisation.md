@@ -2,10 +2,15 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-25T20:45:13.667Z
+date: 2020-07-31T11:49:49.800Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
+
+> Vous souhaitez poser des questions, faire des propositions ou simplement échanger sur les règles d'utilisation ?
+> 
+> C'est possible dans la zone de commentaire qui se trouve tout en bas de la page.
+{.is-info}
 
 Cette page recense les règles d'utilisation de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Vous devez respecter ces règles pour utiliser cette encyclopédie collaborative. Ces règles dirigent votre utilisation et vos accès à la plateforme. En utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>, vous comprenez et acceptez ces règles.
 
