@@ -2,12 +2,16 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-31T11:38:52.476Z
+date: 2020-07-31T11:41:30.559Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
 
-> Vous ne trouvez pas de réponse à votre question ? Tout va bien ! Il vous suffit de poser votre question dans la zone de commentaire qui se trouve tout en bas de cette page. L'un des membres de la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> prendra plaisir à vous répondre. :)
+> Vous ne trouvez pas de réponse à votre question ?
+> 
+> Tout va bien ! Il vous suffit de la poser dans la zone de commentaire qui se trouve tout en bas de cette page. :)
+> 
+> Un des membres de la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> prendra plaisir à vous répondre. ;)
 {.is-info}
 
 Cette page resence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
