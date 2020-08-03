@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-03T09:08:56.687Z
+date: 2020-08-03T09:10:44.011Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -149,9 +149,8 @@ flowchart TB
 
 # Travail mémoriel
 
-<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/han≠kass’o/han≠kass’o-alias-klein-jantje-looking-right_public-domain.jpg"> <figcaption>|han≠kass’o</figcaption></figure>
-
 À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` sont exilés à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/han≠kass’o/han≠kass’o-alias-klein-jantje-looking-right_public-domain.jpg"> <figcaption>|han≠kass’o</figcaption></figure>
 Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus exilés à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur jeune garçon `!hu !hun` reste à Vanwyksvlei avec des amis.
 Plus tard, un policier frappe sévèrement `Suobba-||kein`. Cette agression aboutit à la mort du bébé. `Suobba-||kein` a été battue si sévèrement qu’elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a une trentaine d’année.
 `Lucy Lloyd` a essayé sans succès de faire venir `!hu !hun`, le dernier fils de ***|han≠kass’o***. En `Décembre` `1879`, ***|han≠kass’o*** retourne donc à Bushmanland où son fils a un contrat qui l’oblige à travailler dans une ferme. `Lucy C. Lloyd` et sa famille ont regretté le départ de ***|han≠kass’o***. Il faut dire que ***|han≠kass’o*** a été leur meilleur narrateur. De plus, il a aidé les familles `Bleek` et `Lloyd` dans certains travaux comme les tâches ménagères.[^1]
