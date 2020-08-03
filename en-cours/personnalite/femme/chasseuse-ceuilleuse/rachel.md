@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-03T13:22:30.176Z
+date: 2020-08-03T13:55:38.099Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -17,11 +17,9 @@ editor: markdown
 
 ***!kweiten ta ||ken*** a divulgué des informations de `Décembre` `1874` à `Janvier` `1875`. N’appréciant pas son séjour à `Cap`, ***!kweiten ta ||ken*** quitte Mowbray le `13` `Janvier` `1875` avec son mari `≠kasin` et ses enfants. Elle quitte son frère `Dia!kwain` qui reste dans le quartier.[^1]
 
-***!kweiten ta ||ken*** a contribué à l’élaboration de deux cahiers portant sur des histoires et d’autres informations sur.[^1]
-
 > ***Le saviez-vous ?***[^1]
 > 
-> Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle portent entre autre sur les jeunes filles, les activités féminines et l’utilisation d’hématite rouge pour peindre les jeunes hommes.
+> Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Deux cahiers de la collection portent sur les sujets abordés par **!kweiten ta ||ke***. Il y a par exemple des sujets sur les jeunes filles, les activités féminines et des rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge qui a été utilisé pour peindre les jeunes hommes.
 {.is-info}
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
