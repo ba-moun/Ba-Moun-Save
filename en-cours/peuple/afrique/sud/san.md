@@ -1,8 +1,8 @@
 ---
-title: Ss’wa ka !kui (alias San des plaines, Flat Bushman ou Bochiman des plaines)
-description: Présentation des Ss’wa ka !kui
+title: Ss’wa ka !kui, !nussa !e
+description: Présentation des Ss’wa ka !kui et des !nussa !e
 published: true
-date: 2020-07-31T20:34:57.891Z
+date: 2020-08-03T09:35:02.358Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -10,9 +10,11 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Ss’wa ka !kui*** est le nom endogène des ***San des plaines***. ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
+***Ss’wa ka !kui*** et ***!nussa !e*** sont les noms endogènes des ***peuples San des plaines***.[^1][^2][^9]
 
-Plusiers informations ont été recensées sur les ***Ss’wa ka !kui*** par les familles `Lloyd` et `Bleek`[^1][^3] :
+***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
+
+Plusiers informations ont été recensées sur ces peuples par les familles `Lloyd` et `Bleek`[^1][^3] :
 
 - leur lague (le `|xam`),
 - leur philosophie,
