@@ -2,7 +2,7 @@
 title: San (Ss’wa ka !kui, !nussa !e)
 description: Présentation des San
 published: true
-date: 2020-08-04T08:59:57.902Z
+date: 2020-08-04T09:12:52.738Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -87,10 +87,16 @@ flowchart TB
    
    kweitenTaKenInMowbray["13 Juin 1874 : !kweiten ta ||ken est à Mowbray avec Dia!kwain (son frère), ≠kassin (son mari) et deux de ses enfants (l’un de 6ans et l’autre de 2 ans)"]
 
-   kweitenTaKenOlderSons["25 Octobre 1874 : Les deux grands fils de !kweiten ta ||ken rejoignent le reste de la famille à Mowbray"]
+   kTKOlderSons["25 Oct. 1874 : Les deux grands fils de !kweiten ta ||ken
+      rejoignent le reste de la famille à Mowbray"]
    
-   kweitenTaKenInformatorBegin["12/1874 − 01/1875 : !kweiten ta ||ken divulgue aux familles Bleek et Lloyd des informations sur les !nussa !e (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
-
+   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken divulgue aux familles Bleek et Lloyd
+      des informations sur les !nussa !e
+      (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
+      
+   kTKLittleFamilyLeaveMowbray["13 Jan. 1875 : !kweiten ta ||ken, ses enfants et son mari ≠kassin
+      quittent Mowbray pour Bushmaland"]
+      
    kabboDeath["1876 : Mort de ||kabbo, le père de "]
    
    subgraph 1877
@@ -125,7 +131,7 @@ flowchart TB
    europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecaneBegin --> fifthCapWar
    wilhelmBleekbirth --> sixthCapWar -->
    seventhCapWar --> 1850 -->
-   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kweitenTaKenOlderSons --> kweitenTaKenInformatorBegin
+   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator --> kTKLittleFamilyLeaveMowbray -->
    kabboDeath --> 1877 --> hanKassOInformatorBegin --> 1879 --> bushmanlandBantoustan
    
 ```
