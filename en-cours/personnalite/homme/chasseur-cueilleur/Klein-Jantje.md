@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-04T09:38:38.770Z
+date: 2020-08-04T16:32:20.439Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -13,7 +13,14 @@ editor: markdown
 {.is-info}
 
 ***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). À l’inverse, son père est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
-Pendant deux années, ***|han≠kass’o*** est emprisonné pour un « vol de bétail avec son beau-père et son beau-frère ». En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. N’ayant pas été choisi comme informateur à l’époque, en `1871`, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2]
+De `1869` à `1871`, ***|han≠kass’o*** est emprisonné pour un « vol de bétail avec son beau-père et son beau-frère ».[^1][^2]
+
+> **Le saviez-vous ?**
+> 
+> À l’époque de ***|han≠kass’o***, les ``
+{.is-info}
+
+En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. N’ayant pas été choisi comme informateur à l’époque, en `1871`, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2]
 
 > **Le saviez-vous ?**[^10][^1][^2]
 > 
@@ -22,8 +29,10 @@ Pendant deux années, ***|han≠kass’o*** est emprisonné pour un « vol de 
 > - Bushmanland, au nord de Cap : zone [la plus] aride d’Afrique du Sud. Elle est cituée au nord de Cap. Le sol y est infertile et les eaux hautement salées.
 > - Bushmanland, le `bantoustan` : bantoustan créé en `1964` pour parquer les `San` pendant l’`apparteid`.
 >
-> ***|han≠kass’o*** a été envoyé dans le Bushmanland situé au nord de Cap. Étant donné l’hostilité de l’endroit, ***|han≠kass’o*** et sa femme `Suobba-||kein` sont exilés et voués à une peine de mort lente et dans la souffrance.
+> ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
 {.is-info}
+
+La liste suivante relate d’événements historiques liés à ***|han≠kass’o***.[^3][^5][^6][^7][^8][^4][^2]
 
 ```mermaid
 flowchart TB
@@ -104,7 +113,7 @@ flowchart TB
    
    hanKassOInBCS["1870 : |han≠kass’o est emprisonné à Breakwater Convict Station"]
    
-   hanKassOExile["1871 : |han≠kass’o et sa femme Suobba-||kein sont exilés à Bushmanland"]
+   hanKassOInBushmanland["1871 : |han≠kass’o et sa femme Suobba-||kein sont à Bushmanland"]
    
    kabboDeath["1876 : Mort de ||kabbo, le père de Suobba-||kein"]
    
@@ -142,16 +151,16 @@ flowchart TB
    europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecaneBegin --> fifthCapWar --> mfecaneEnd -->
    wilhelmBleekbirth --> sixthCapWar -->
    seventhCapWar --> 1850 -->
-   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile -->
+   hanKassOImprisonned --> hanKassOInBCS --> hanKassOInBushmanland -->
    kabboDeath --> 1877 --> hanKassOInformatorBegin --> 1879
    
 ```
 
 # Travail mémoriel
 
-À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` sont exilés à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
+À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
 <figure class="image image-style-align-right"><img src="/images/personnalite/kemit/han≠kass’o/han≠kass’o-alias-klein-jantje-looking-right_public-domain.jpg"> <figcaption>|han≠kass’o</figcaption></figure>
-Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus exilés à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur jeune garçon `!hu !hun` reste à Vanwyksvlei avec des amis.
+Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur jeune garçon `!hu !hun` reste à Vanwyksvlei avec des amis.
 Plus tard, un policier frappe sévèrement `Suobba-||kein`. Cette agression aboutit à la mort du bébé. `Suobba-||kein` a été battue si sévèrement qu’elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a une trentaine d’année.
 `Lucy Lloyd` a essayé sans succès de faire venir `!hu !hun`, le dernier fils de ***|han≠kass’o***. En `Décembre` `1879`, ***|han≠kass’o*** retourne donc à Bushmanland où son fils a un contrat qui l’oblige à travailler dans une ferme. `Lucy C. Lloyd` et sa famille ont regretté le départ de ***|han≠kass’o***. Il faut dire que ***|han≠kass’o*** a été leur meilleur narrateur. De plus, il a aidé les familles `Bleek` et `Lloyd` dans certains travaux comme les tâches ménagères.[^1]
 
@@ -165,5 +174,19 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 - contribue au second plus grand nombre de récis et de cahiers du [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za), dont 32 sont au nom de `Lucy C. Lloyd`.
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
+
 [^2]: `Harriet Jane Deacon`. PREFACE. In [A HISTORY OF THE BREAKWATER PRISON FROM 1859 TO 1905](https://open.uct.ac.za/bitstream/handle/11427/21141/thesis_hum_1989_deacon_harriet.pdf?sequence=1&isAllowed=y). Submitted to the Faculty of Arts, University of Cape Town, in partial fulfillment of the requirements of an Honours Degree in African Studies (Social Anthropology). `1989`. p. 3. [consulté le `30` `Juillet` `2020`]. Disponible sur : https://open.uct.ac.za/bitstream/handle/11427/21141/thesis_hum_1989_deacon_harriet.pdf?sequence=1&isAllowed=y
+
+[^3]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
+
+[^4]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
+
+[^5]: [Le Cap](https://fr.wikipedia.org/wiki/Le_Cap). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `16` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Le_Cap
+
+[^6]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
+
+[^7]: [KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juin` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/KwaZulu-Natal
+
+[^8]: [Guerres cafres](https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Janvier` `2020` [consulté le `29` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Guerres_cafres#Les_trois_premi%C3%A8res_guerres_cafres_(1780,_1793,_1803)
+
 [^10]: [Bushmanland, Northern Cape](https://en.wikipedia.org/wiki/Bushmanland,_Northern_Cape). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/Bushmanland,_Northern_Cape
