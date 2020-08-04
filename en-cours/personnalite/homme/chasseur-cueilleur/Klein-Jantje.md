@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-03T09:10:44.011Z
+date: 2020-08-04T09:38:38.770Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***|han≠kass’o*** fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). À l’inverse, son père est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
+***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). À l’inverse, son père est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
 Pendant deux années, ***|han≠kass’o*** est emprisonné pour un « vol de bétail avec son beau-père et son beau-frère ». En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. N’ayant pas été choisi comme informateur à l’époque, en `1871`, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2]
 
 > **Le saviez-vous ?**[^10][^1][^2]
