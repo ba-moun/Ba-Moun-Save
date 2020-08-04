@@ -2,14 +2,14 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-04T09:39:23.252Z
+date: 2020-08-04T18:15:36.115Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
 
-***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkop qui sont situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
+***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkope, situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
-La frise suivante relate de faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
+La frise suivante relate des faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
 ```mermaid
 flowchart TB
@@ -51,12 +51,12 @@ flowchart TB
       
    kweitenTaKenInMowbray["13 Juin 1874 : !kweiten ta ||ken est à Mowbray
       avec Dia!kwain (son frère), ≠kassin (son mari)
-      et deux de ses enfants (l’un de 6ans et l’autre de 2 ans)"]
+      et deux de ses enfants (âgés de six ans et deux ans)"]
                
    kTKOlderSons["25 Oct. 1874 : Les deux grands fils de !kweiten ta ||ken
       rejoignent le reste de la famille à Mowbray"]
    
-   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken divulgue aux familles Bleek et Lloyd
+   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken rpartage avec les familles Bleek et Lloyd
       des informations sur les !nussa !e
       (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
       
@@ -73,20 +73,20 @@ flowchart TB
 
 # Travail mémoriel
 
-Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est accompagnée de `Dia!kwain`, de `≠kassin` et de ses deux enfants agés de 6 et 2 ans. C’est la deuxième fois que `Dia!kwain` et `≠kassin` se rendent à Mowbray. Le `25` `Octobre` `1874`, les deux grands fils de ***!kweiten ta ||ken*** rejoignent la famille à `Mowbray`. Ils viennent de `Wellington`. À ce moment là, les familles `Lloyd` et `Bleek` ont quelques difficultés financières pour loger et nourrir tout le monde. Néanmoins, `Lucy Catherine Lloyd` est ravie étant donné qu’elle peut interroger ***!kweiten ta ||ken*** qui lui divulgue des informations sur[^1] :
+Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est accompagnée de `Dia!kwain`, de `≠kassin` et de ses deux enfants agés de six et deux ans. C’est la deuxième fois que `Dia!kwain` et `≠kassin` se rendent à Mowbray. Le `25` `Octobre` `1874`, les deux grands fils de ***!kweiten ta ||ken*** rejoignent la famille à `Mowbray`. Ils viennent de `Wellington`. À ce moment là, les familles `Lloyd` et `Bleek` ont quelques difficultés financières pour loger et nourrir tout le monde. Néanmoins, `Lucy Catherine Lloyd` est ravie de pouvoir interroger ***!kweiten ta ||ken*** qui partage avec elle des informations sur[^1] :
 
 - le `|xam` (plus exactement la variante de Katkop d’après `Wilhelm Bleek`),
 - les coutumes féminines,
 - les rituels féminins,
 - les expériences féminines.
 
-De `Décembre` `1874` à `Janvier` `1875`, ***!kweiten ta ||ken*** divulgue des informations.
+De `Décembre` `1874` à `Janvier` `1875`, ***!kweiten ta ||ken*** transmet des informations.
 N’appréciant pas son séjour à `Cap`, le `13` `Janvier` `1875`, ***!kweiten ta ||ken*** quitte Mowbray pour Bushmanland. Elle est accompagnée de son mari `≠kasin` et de ses enfants. Son frère `Dia!kwain` reste dans le quartier de Mowbray.[^1]
 
 > ***Le saviez-vous ?***[^1]
 > 
 > Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Deux cahiers de la collection portent sur les sujets abordés par ***!kweiten ta ||ken***.
-> Il y a par exemple des informations sur les jeunes filles, les activités féminines et les rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peupele a utilisé pour peindre les jeunes hommes.
+> On y trouve des informations sur les jeunes filles, les activités féminines et les rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peupele a utilisé pour peindre les jeunes hommes.
 {.is-info}
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
