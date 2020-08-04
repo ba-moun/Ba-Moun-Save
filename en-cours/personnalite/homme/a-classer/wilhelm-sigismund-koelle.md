@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-07-28T13:40:47.619Z
+date: 2020-08-04T17:23:55.553Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
@@ -12,14 +12,14 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Wilhelm Sigismund Koelle*** est né dans les années `1820` et mort le `18` `février` `1902`. En `1847`, il est evoyé en `Sierra Leone` en tant que missionnaire allemand. Il y réalise un regroupement des langues ouest-africaines, avec `Wilhelm Bleek`.[^1][^2][^5]
+***Wilhelm Sigismund Koelle*** est né dans les années `1820` et mort le `18` `février` `1902`. En `1847`, il est envoyé en `Sierra Leone` en tant que missionnaire allemand. Il y réalise un travail de regroupement des langues ouest-africaines, avec `Wilhelm Bleek`.[^1][^2][^5]
 
 > **Le saviez-vous ?**
 > De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
 {.is-info}
 
 Alors qu’il enseigne à `l’Université de Fourah Bay`, ***W.S. Koelle*** collecte moult informations sur les langues Africaines.
-Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier `Grammar of the Bórnu Or Kānurī Language` en `1854`.[^5][^4][^1][^2]
+Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier l'ouvrage `Grammar of the Bórnu Or Kānurī Language` en `1854`.[^5][^4][^1][^2]
 
 Ci-dessous une frise chronologique retraçant des événements historiques liées à ***Wilhelm Sigismund Koelle***.
 
@@ -48,7 +48,7 @@ flowchart TB
    
 ```
 
-`Polyglotta Africana` est l’œuvre majeure de ***W.S. Koelle***. Puplié en `1854`, cet ouvrage débute les études poussées des langues africaines, par les `Européens`.[^4][^1][^2]
+`Polyglotta Africana` est l’œuvre majeure de ***W.S. Koelle***. Publiée en `1854`, cet ouvrage marque le début des études approfondies des langues africaines, par les `Européens`.[^4][^1][^2]
 
 <figure class="image image_resized" style="width: 50%;">
    <img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg">
