@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-04T09:12:57.942Z
+date: 2020-08-04T09:19:40.051Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -61,7 +61,7 @@ flowchart TB
       (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
       
    kTKLittleFamilyLeaveMowbray["13 Jan. 1875 : !kweiten ta ||ken, ses enfants et son mari ≠kassin
-      quittent Mowbray pour Bushmaland"]
+      quittent Mowbray pour « Bushmanland »"]
    
    Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
    17thCentury --> boersArrive --> boersConflict --> 
