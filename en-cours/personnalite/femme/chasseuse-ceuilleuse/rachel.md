@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-04T09:23:57.663Z
+date: 2020-08-04T09:28:29.280Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -76,16 +76,18 @@ flowchart TB
 
 Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est accompagnée de `Dia!kwain`, de `≠kassin` et de ses deux enfants agés de 6 et 2 ans. C’est la deuxième fois que `Dia!kwain` et `≠kassin` se rendent à Mowbray. Le `25` `Octobre` `1874`, les deux grands fils de ***!kweiten ta ||ken*** rejoignent la famille à `Mowbray`. Ils viennent de `Wellington`. À ce moment là, les familles `Lloyd` et `Bleek` ont quelques difficultés financières pour loger et nourrir tout le monde. Néanmoins, `Lucy Catherine Lloyd` est ravie étant donné qu’elle peut interroger ***!kweiten ta ||ken*** qui lui divulgue des informations sur[^1] :
 
-- le `|xam` (une variante de Katkop d’après `Wilhelm Bleek`),
+- le `|xam` (plus exactement la variante de Katkop d’après `Wilhelm Bleek`),
 - les coutumes féminines,
 - les rituels féminins,
 - les expériences féminines.
 
-***!kweiten ta ||ken*** a divulgué des informations de `Décembre` `1874` à `Janvier` `1875`. N’appréciant pas son séjour à `Cap`, le `13` `Janvier` `1875`, ***!kweiten ta ||ken*** quitte Mowbray pour Bushmanland. Elle est accompagnée de son mari `≠kasin` et de ses enfants. Son frère `Dia!kwain` reste dans le quartier de Mowbray.[^1]
+De `Décembre` `1874` à `Janvier` `1875`, ***!kweiten ta ||ken*** divulgue des informations.
+N’appréciant pas son séjour à `Cap`, le `13` `Janvier` `1875`, ***!kweiten ta ||ken*** quitte Mowbray pour Bushmanland. Elle est accompagnée de son mari `≠kasin` et de ses enfants. Son frère `Dia!kwain` reste dans le quartier de Mowbray.[^1]
 
 > ***Le saviez-vous ?***[^1]
 > 
-> Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Deux cahiers de la collection portent sur les sujets abordés par **!kweiten ta ||ken***. Il y a par exemple des sujets sur les jeunes filles, les activités féminines et des rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peupele a utilisé pour peindre les jeunes hommes.
+> Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Deux cahiers de la collection portent sur les sujets abordés par ***!kweiten ta ||ken***.
+> Il y a par exemple des informations sur les jeunes filles, les activités féminines et les rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peupele a utilisé pour peindre les jeunes hommes.
 {.is-info}
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
