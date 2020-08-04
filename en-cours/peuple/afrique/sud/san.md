@@ -1,36 +1,14 @@
 ---
-title: Ss’wa ka !kui, !nussa !e
-description: Présentation des Ss’wa ka !kui et des !nussa !e
+title: San (Ss’wa ka !kui, !nussa !e)
+description: Présentation des San
 published: true
-date: 2020-08-03T09:35:02.358Z
+date: 2020-08-04T08:59:57.902Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
-
-***Ss’wa ka !kui*** et ***!nussa !e*** sont les noms endogènes des ***peuples San des plaines***.[^1][^2][^9]
-
-***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
-
-Plusiers informations ont été recensées sur ces peuples par les familles `Lloyd` et `Bleek`[^1][^3] :
-
-- leur lague (le `|xam`),
-- leur philosophie,
-- leur croyance,
-- leur pratique.
-
-Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont fourni les informations sont[^1][^3] :
-
-- `|a!kunta`,
-- `||kabbo` (alias `|uhi-ddoro`),
-- `≠kasin`,
-- `Dia!kwain`,
-- `!kweiten ta ||ken`,
-- `|han≠kass’o`.
-
-La frise ci-dessous retrace des faits historiques liés aux ***Ss’wa ka !kui***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
 ```mermaid
 flowchart TB
@@ -107,6 +85,12 @@ flowchart TB
    
    hanKassOExile["1871 : |han≠kass’o et sa femme Suobba-||kein sont exilés à Bushmanland"]
    
+   kweitenTaKenInMowbray["13 Juin 1874 : !kweiten ta ||ken est à Mowbray avec Dia!kwain (son frère), ≠kassin (son mari) et deux de ses enfants (l’un de 6ans et l’autre de 2 ans)"]
+
+   kweitenTaKenOlderSons["25 Octobre 1874 : Les deux grands fils de !kweiten ta ||ken rejoignent le reste de la famille à Mowbray"]
+   
+   kweitenTaKenInformatorBegin["12/1874 − 01/1875 : !kweiten ta ||ken divulgue aux familles Bleek et Lloyd des informations sur les !nussa !e (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
+
    kabboDeath["1876 : Mort de ||kabbo, le père de "]
    
    subgraph 1877
@@ -141,12 +125,36 @@ flowchart TB
    europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecaneBegin --> fifthCapWar
    wilhelmBleekbirth --> sixthCapWar -->
    seventhCapWar --> 1850 -->
-   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile -->
+   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kweitenTaKenOlderSons --> kweitenTaKenInformatorBegin
    kabboDeath --> 1877 --> hanKassOInformatorBegin --> 1879 --> bushmanlandBantoustan
    
 ```
 
-# Les assaillants Trekboers
+# Les Sans des plaines
+
+***Ss’wa ka !kui*** et ***!nussa !e*** sont les noms endogènes des ***peuples San des plaines***.[^1][^2][^9]
+
+***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
+
+Plusiers informations ont été recensées sur ces peuples par les familles `Lloyd` et `Bleek`[^1][^3] :
+
+- leur lague (le `|xam`),
+- leur philosophie,
+- leur croyance,
+- leur pratique.
+
+Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za). Les personnes qui ont fourni les informations sont[^1][^3] :
+
+- `|a!kunta`,
+- `||kabbo` (alias `|uhi-ddoro`),
+- `≠kasin`,
+- `Dia!kwain`,
+- `!kweiten ta ||ken`,
+- `|han≠kass’o`.
+
+La frise ci-dessous retrace des faits historiques liés aux ***Ss’wa ka !kui***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
+
+# Les envahisseurs Trekboers
 
 Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
 
