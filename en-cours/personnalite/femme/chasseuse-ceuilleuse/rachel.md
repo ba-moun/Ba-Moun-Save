@@ -2,12 +2,12 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-04T09:37:13.906Z
+date: 2020-08-04T09:39:23.252Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
 
-***!kweiten ta ||ken*** (alias Rachel) est une `!nussa !e`. Elle est originaire des montagnes de Katkop qui sont situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
+***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkop qui sont situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
 La frise suivante relate de faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
