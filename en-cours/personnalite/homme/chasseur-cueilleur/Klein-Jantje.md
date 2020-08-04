@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-04T16:46:59.796Z
+date: 2020-08-04T17:14:53.770Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -36,8 +36,7 @@ La liste suivante relate d’événements historiques liés à ***|han≠kass’
 
 ```mermaid
 flowchart TB
-   
-   Khoïsan["-40 000 : Les ancêtres des Ss’wa ka !kui deviennent les premiers habitants
+   khoisanArrive["-40 000 : Les ancêtres des Ss’wa ka !kui deviennent les premiers habitants
    du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
@@ -100,11 +99,12 @@ flowchart TB
       donner des informations sur son peuple
       pour retrouver son fils qui est forcé de travailler dans une ferme"]
       
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
-   17thCentury --> boersConflict --> euFightInZABegin -->
-   euFightInZAEnd --> wilhelmBleekbirth --> 1850 -->
-   hKOImprisonned --> hanKassOInBCS --> hanKassOInBushmanland -->
-   kabboDeath --> 1877 --> hKOInformBegin --> hKOInformEnd
+   khoisanArrive --> grassland --> amaXhosa -->
+   europeanInvasion --> 17thCentury --> boersConflict -->
+   euFightInZABegin --> euFightInZAEnd --> wilhelmBleekbirth -->
+   1850 --> hKOImprisonned --> hanKassOInBCS -->
+   hanKassOInBushmanland --> kabboDeath --> 1877 -->
+   hKOInformBegin --> hKOInformEnd
    
 ```
 
