@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-08-04T17:16:00.256Z
+date: 2020-08-04T18:53:09.917Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -29,127 +29,45 @@ La frise suivante relate d’événements historiques liés aux ***Trekboers***.
 
 ```mermaid
 flowchart TB
-   
-   Khoïsan["-40 000 : Les khoïsan (ancêtre des Ss’wa ka !kui) deviennent les premiers habitants
-   du sud-sud-ouest du continent."]
+   khoisanArrive["-40 000 : Les Khoïsan deviennent les premiers habitants
+      du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
-   (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-   (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+      (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
+      (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
-   de l’espace occupé par l’Afrique du Sud 🇿🇦"]
+      de l’espace occupé par l’Afrique du Sud 🇿🇦"]
    
    europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
    
    subgraph 17thCentury["XVIIème siècle"]
-      boersExpantion["~1600 : Début de l’expansion des Trekboers (ancêtre des Boers) dans le sud du continent"]
+      boersExpantion["~1600 : Début de l’expansion des Trekboers
+         (ancêtre des Boers) dans le sud du continent"]
       
       europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
    end
    
    boersArrive["1770 : Premier contact entre les Boers (franco-néerlandais) et
-   les peuples originaires des hauts plateaux de l’ouest"]
+      les peuples originaires des hauts plateaux de l’ouest"]
    
-   boersConflict["1779 : Début des relations conflictuelles entre les autochtones et les envahisseurs Trekboers"]
-   
-   firstCapWar["1779-1778 : Première des neuf guerres
-   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   
-   secondCapWar["1793 : Deuxième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   
-   europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais commencent à se disputer le sud de l’Afrique"]
-   
-   thirdCapWar["1803 : Troisième guerre
-      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-
-   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie du sud du continent aux Britaniques"]
-
-   fourthCapWar["1811 − 1812 : Quatrième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   
-   mfecaneBegin["1818 : Chaka Zoulou étend son empire sur l’Est de l’espace occupé par l’Afrique du Sud"]
-      
-   fifthCapWar["1818 − 1819 : Cinquième guerre
-      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
+   boersConflict["1779 : Début des relations conflictuelles entre
+      les autochtones et les envahisseurs Trekboers"]
          
+   europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais
+      commencent à se disputer le sud de l’Afrique"]
+   
+   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie du sud du continent aux Britaniques"]
+   
+   mfecaneBegin["1818 : Chaka Zoulou étend son empire
+      sur l’Est de l’espace occupé par l’Afrique du Sud"]
+               
    mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
       
-   wilhelmBleekbirth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
-      
-   sixthCapWar["1834 − 1835 : Sixième guerre
-   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   
-   seventhCapWar["1846 : Septième guerre 
-   AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-         
-   subgraph 1850["~1850"]
-      hanKassOBirth["Naissance de |han≠kass’o"]
-      
-      eighthCapWarBegining["Début de la huitième guerre 
-      AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-         
-      southAfrica["1853 :
-         - Wilhelm Bleek se rend en Afrique du Sud
-         - Fin de la huitième guerre 
-         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-   end
-   
-   hanKassOImprisonned["~1869 : |han≠kass’o est emprisonné pour vol de bétail avec ||kabbo (son beau-père) et Witbooy Touren (son beau-frère)"]
-   
-   hanKassOInBCS["1870 : |han≠kass’o est emprisonné à Breakwater Convict Station"]
-   
-   hanKassOExile["1871 : |han≠kass’o et sa femme Suobba-||kein sont exilés à Bushmanland"]
-   
-   kweitenTaKenInMowbray["13 Juin 1874 : !kweiten ta ||ken est à Mowbray avec Dia!kwain (son frère), ≠kassin (son mari) et deux de ses enfants (l’un de 6ans et l’autre de 2 ans)"]
-
-   kTKOlderSons["25 Oct. 1874 : Les deux grands fils de !kweiten ta ||ken
-      rejoignent le reste de la famille à Mowbray"]
-   
-   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken divulgue aux familles Bleek et Lloyd
-      des informations sur les !nussa !e
-      (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
-      
-   kTKLittleFamilyLeaveMowbray["13 Jan. 1875 : !kweiten ta ||ken, ses enfants et son mari ≠kassin
-      quittent Mowbray pour Bushmaland"]
-      
-   kabboDeath["1876 : Mort de ||kabbo, le père de "]
-   
-   subgraph 1877
-      ninethCapWarBegin["Début de la neuvième guerre entre
-         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-         
-     huHunWithFriends["Avril 1877 : À Vanwyksvlei, Suobba-||kein et |han≠kass’o confient leurs plus grand fils !hu !hun à des amis pour qu’ils puissent se rendre à chez les Lloyd, au Cap."]
-     
-     suobbaKeinNBabyDeath["Décembre 1877 : Suobba-||kein succombe suite à des coup grave qu’elle a reçue d’un policier. Le bébé n’a pas survécu"]
-   end
-   
-   hanKassOInformatorBegin["10 Janvier 1878 : |han≠kass’o arrive à Mowbray et commence
-      à fournir divers informations sur les Ss’wa ka !kui aux
-      familles Lloyd et Bleek"]
-  
-   subgraph 1879
-      ninethCapWarEnd["1879 : Neuvième guerre entre
-         AmaXhosas ⚔ autorités coloniales du Cap (Européens)"]
-
-      hanKassOInformationEnd["Décembre 1879 : |han≠kass’o cesse de
-         donner des informations sur son peuple pour retrouver
-         son fils qui est forcé de travailler dans une ferme"]
-         
-   end
-      
-   bushmanlandBantoustan["1964 : Création officiel du bantoustan nommé Bushmanland"]
-      
-   Khoïsan --> grassland --> amaXhosa --> europeanInvasion -->
-   17thCentury --> boersArrive --> boersConflict --> 
-   firstCapWar --> secondCapWar --> 
-   europeanFightInSouthAfricaBegin --> thirdCapWar --> 
-   europeanFightInSouthAfricaEnd --> fourthCapWar --> mfecaneBegin --> fifthCapWar
-   wilhelmBleekbirth --> sixthCapWar -->
-   seventhCapWar --> 1850 -->
-   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator --> kTKLittleFamilyLeaveMowbray -->
-   kabboDeath --> 1877 --> hanKassOInformatorBegin --> 1879 --> bushmanlandBantoustan
+   khoisanArrive --> grassland --> amaXhosa -->
+   europeanInvasion --> 17thCentury --> boersArrive -->
+   boersConflict --> europeanFightInSouthAfricaBegin -->
+   europeanFightInSouthAfricaEnd --> mfecaneBegin --> mfecaneEnd
    
 ```
 
