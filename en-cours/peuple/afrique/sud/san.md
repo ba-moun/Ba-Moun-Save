@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-04T17:15:56.872Z
+date: 2020-08-04T18:55:04.149Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -16,7 +16,7 @@ La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[
 
 ```mermaid
 flowchart TB
-   khoisanArrive["-40 000 : Les ancêtres des Ss’wa ka !kui deviennent les premiers habitants
+   khoisanArrive["-40 000 : Les ancêtres Khoïsan deviennent les premiers habitants
    du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
