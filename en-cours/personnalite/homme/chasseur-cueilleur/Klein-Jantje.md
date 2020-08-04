@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-04T17:14:53.770Z
+date: 2020-08-04T17:50:11.500Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -12,12 +12,13 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). À l’inverse, son père est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
+***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »), un peuple éteint. À l’inverse, son père est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
 De `1869` à `1871`, ***|han≠kass’o*** est emprisonné pour un « vol de bétail avec son beau-père et son beau-frère ».[^1][^2]
 
 > **Le saviez-vous ?**
 > 
-> À l’époque de ***|han≠kass’o***, les ``
+> À l’époque de ***|han≠kass’o***, les `Trekboers` ont décimé les `Ss’wa ka !kui` au point qu’ils sont en voit de disparition.
+> À présent, les `Ss’wa ka !kui` n’existent plus et leur langue (le `|xam`) est une langue morte.[^5]
 {.is-info}
 
 En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. N’ayant pas été choisi comme informateur à l’époque, en `1871`, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2]
@@ -132,6 +133,8 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 [^3]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 
 [^4]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
+
+[^5]: [ǀXam language](https://en.wikipedia.org/wiki/%C7%80Xam_language). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Juin` `2020` [consulté le `04` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/%C7%80Xam_language
 
 [^6]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
 
