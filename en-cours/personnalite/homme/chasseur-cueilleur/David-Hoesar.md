@@ -2,10 +2,12 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-04T18:55:16.465Z
+date: 2020-08-05T08:29:48.737Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
+
+![dia!kwain_public-domain.jpg](/images/personnalite/kemit/diakwain/dia!kwain_public-domain.jpg){.align-abstopright}
 
 ***Dia!kwain*** (alias ***Hussar*** ou ***Huzar***) est un `!nussa !e`. Il est originaire des montagnes Katkop (nord de Calvinia) et parle ce que les `Lloyd` et les `Bleek` identifient comme le `|xam` de `Katkop`.[^1]
 
