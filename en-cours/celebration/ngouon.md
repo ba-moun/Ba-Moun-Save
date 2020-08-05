@@ -2,19 +2,20 @@
 title: Ngouon
 description: Présentation du Ngouon
 published: true
-date: 2020-07-25T22:06:28.443Z
+date: 2020-08-05T11:54:42.590Z
 tags: événement, bamoun, ngouon, fête, célébration, cameroun, cameroun 🇨🇲, tradition, fête traditionnelle, fête traditionnelle bamoun
 editor: markdown
 ---
 
 *Ngouon* est le nom d’une fête traditionnelle *Bamoun* constituée de `fantasias`.[^7][^1][^4]
 
-À l’origine, le *Ngouon* est une cérémonie biannuelle `Tikars` (ancêtres des `Bamoun`). À l’époque, cet événement est placé sous l’autorité des cheffes et des chefs de la région. Elle est l'occasion de régler les litiges fonciers et assurer la cohésion des divers groupes sociaux du territoire.[^7] La sagesse des participants est primordiale.
+À l’origine, le *Ngouon* est une cérémonie annuelle `Tikars` (ancêtres des `Bamoun`). À l’époque, cet événement est placé sous l’autorité des chef.fe.s de la région. Elle est l'occasion de régler les litiges fonciers et assurer la cohésion des divers groupes sociaux du territoire. La sagesse des participants est primordiale.[^7]
 
-Pour les `Bamoun`, *Ngouon* est un événement biannuel important. Cette cérémonie est une preuve du désir de paix, de dialogue, d’unité et de démocratie.
+Pour les `Bamoun`, *Ngouon* est à présent un événement biannuel important. Cette cérémonie est une preuve du désir de paix, de dialogue, d’unité et de démocratie.
 Les `Lamibé`, les `Fons` et les `Fôs` (chefs des traditions du Nord, du Nord-Ouest et de l’Ouest) font partie des invités de l’événement.[^7]
 
 > **Le saviez-vous ?[^7]**
+> 
 > Les `Lamibé` représentent les chefs des traditions du Nord.
 > Les `Fons` représentent les chefs des traditions du Nord-Ouest.
 > Les `Fôs` représentent les chefs des traditions de l’Ouest.
