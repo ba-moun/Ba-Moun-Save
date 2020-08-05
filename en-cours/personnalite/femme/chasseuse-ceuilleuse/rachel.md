@@ -2,10 +2,12 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-04T18:15:36.115Z
+date: 2020-08-05T08:21:41.552Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
+
+![!kweiten-ta-ken.jpg](/images/personnalite/kemit/kweiten-ta-ken/!kweiten-ta-ken.jpg){.align-abstopright}
 
 ***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkope, situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
@@ -72,6 +74,8 @@ flowchart TB
 ```
 
 # Travail mémoriel
+
+<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/kweiten-ta-ken/!kweiten-ta-ken.jpg"> <figcaption>Portrait de<br/><i><b>!kweiten ta ||ken</b></i></figcaption></figure>
 
 Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est accompagnée de `Dia!kwain`, de `≠kassin` et de ses deux enfants agés de six et deux ans. C’est la deuxième fois que `Dia!kwain` et `≠kassin` se rendent à Mowbray. Le `25` `Octobre` `1874`, les deux grands fils de ***!kweiten ta ||ken*** rejoignent la famille à `Mowbray`. Ils viennent de `Wellington`. À ce moment là, les familles `Lloyd` et `Bleek` ont quelques difficultés financières pour loger et nourrir tout le monde. Néanmoins, `Lucy Catherine Lloyd` est ravie de pouvoir interroger ***!kweiten ta ||ken*** qui partage avec elle des informations sur[^1] :
 
