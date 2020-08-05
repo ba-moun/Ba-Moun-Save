@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-31T11:49:49.800Z
+date: 2020-08-05T10:56:47.962Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -35,7 +35,7 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - tenir un discours haineux ou toute autre forme de discours de ce type,
    - promouvoir le harcèlement d'une personne ou d'un groupe de personnes.
    - harceler, intimider ou attaquer qui que ce soit,
-   - jurer, tenir de propos racistes ou sexistes.
+   - jurer, tenir des propos racistes ou sexistes.
 
 - Le spam :
    - promouvoir un produit ou un service sans rapport avec la discussion,
@@ -53,12 +53,12 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
    - alimenter ou démarrer un conflit,
    - créer un compte dédié à l'irrespect des règles de commentaire,
    - poster délibérément des messages hostiles, insultants,
-   - effectuer des modification de message sans respecter les règles,
+   - effectuer des modifications de message sans respecter les règles,
    - pester contre les décisions des [**𓀰 Nkonsonkonson**](/fr/faq#les-clans).
 
 - Partage de contenu inapproprié :
-   - partager des photos porno,
-   - partager des vidéos porno,
+   - partager des photos à caractère pornographique,
+   - partager des vidéos à caractère pornographique,
    - partager des photos violentes,
    - partager des vidéos violentes.
 
@@ -81,4 +81,5 @@ Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-mo
 
 ## Plus d'informations
 
-Cliquez [ici](https://www.ba-moun.com/kriye-ba-moun) pour toute question. Un mail sera envoyé aux [**𓎟 Abe Dua**](/fr/faq#les-clans). Après tout, les [**𓀰 Nkonsonkonson**](/fr/faq#les-clans) peuvent être injustes ou faire des erreurs.
+Vous avez des questions ? Vous voulez faire une réclamation suite à un blocage ou une censure qui s'est produite sur votre encyclopédie ?
+Remplissez et soumettez-nous [ce formulaire](https://www.ba-moun.com/kriye-ba-moun). Il sera transmis aux [**𓎟 Abe Dua**](/fr/faq#les-clans).
