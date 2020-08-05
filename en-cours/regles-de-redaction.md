@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-07-15T19:56:56.575Z
+date: 2020-08-05T10:50:08.983Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe
 editor: markdown
 ---
@@ -34,7 +34,7 @@ Pour assurer la compréhension des écrits, il est conseillé d'écrire :
 
 Il vous est demandé d'écrire des phrases simples. Évitez autant que possible les propositions qui et que.
 
-> **Muvais exemple**
+> **Mauvais exemple**
 > Imhotep, qui porte une tunique brodée de fil d’or, prend la figue posée sur la table que son père venait d’acheter et qui était mûre.
 {.is-danger}
 
