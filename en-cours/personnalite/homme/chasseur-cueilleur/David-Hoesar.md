@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-07T15:36:33.231Z
+date: 2020-08-07T15:41:00.609Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
