@@ -2,12 +2,15 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-05T08:29:48.737Z
+date: 2020-08-07T15:36:33.231Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
 
 ![dia!kwain_public-domain.jpg](/images/personnalite/kemit/diakwain/dia!kwain_public-domain.jpg){.align-abstopright}
+
+> Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
+{.is-info}
 
 ***Dia!kwain*** (alias ***Hussar*** ou ***Huzar***) est un `!nussa !e`. Il est originaire des montagnes Katkop (nord de Calvinia) et parle ce que les `Lloyd` et les `Bleek` identifient comme le `|xam` de `Katkop`.[^1]
 
@@ -16,10 +19,10 @@ editor: markdown
 > Le `|xam` est une langue `kémit` parlée par les `Khoïsan`.
 {.is-info}
 
-***Dia!kwain*** est emprisonné pour 
-***Dia!kwain*** effectue deux séjours auprès des familles `Bleek` et `Lloyd`. Le premier commence le `25` `Décembre` `1873` et se termine en `Mars` `1874`. Le second …
+Vers ses 25 ans, ***Dia!kwain*** est jugé pour l’assassinat d’un fermier qui a menacé de tuer sa famille. Il est donc condamné à cinq ans de prison à la `Breakwater Convict Station` avec son beau-frère `≠kasin`. Le numéro de ***Dia!kwain*** est le 4434.
+Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoint `≠kasin` à `Mowbray`.[^1]
 
-Dia!kwain was imprisoned for culpable homicide at the Breakwater Convict Station (his prisoner number was 4434) and served four years of a five-year sentence along with his brother-in-law ≠kasin whom he joined at Mowbray in 1873. At the time he arrived there he appeared to be in his late twenties (his prison record stated he was 25). The details of the incident that led to Dia!kwain’s and ≠kasin’s imprisonment are not clear but it appears that Dia!kwain shot a farmer who had threatened to kill his family. The judge gave Dia!kwain a relatively light sentence of five years for culpable homicide, believing him to have acted in self-defense.
+***Dia!kwain*** effectue deux séjours auprès des familles `Bleek` et `Lloyd`. Le premier commence le `25` `Décembre` `1873` et se termine en `Mars` `1874`.[^1]
 
 Dia!kwain contributed over 2000 pages of narrative to Bleek and Lloyd, as well as several drawings. His father was trained as a ‘sorcerer’ or ‘magician’ and was said to have made paintings on skin and engravings.
 
