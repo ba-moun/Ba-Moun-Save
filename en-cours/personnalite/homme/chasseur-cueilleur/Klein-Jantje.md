@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-05T08:23:08.885Z
+date: 2020-08-07T15:55:59.647Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -13,24 +13,6 @@ editor: markdown
 {.is-info}
 
 ***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »), un peuple éteint. Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
-De `1869` à `1871`, ***|han≠kass’o*** est emprisonné ainsi que son beau-père et son beau-frère, pour « vol de bétail » ».[^1][^2]
-
-> **Le saviez-vous ?**
-> 
-> À l’époque de ***|han≠kass’o***, les `Trekoers`ont décimé les `Ss’wa ka !kui`. De nos jours, les `Ss’wa ka !kui` n’existent plus et leur langue (le `|xam`) est une langue morte.[^5]
-{.is-info}
-
-En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. En `1871`, avant d'être choisi comme informateur, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2] 
-
-> **Le saviez-vous ?**[^10][^1][^2]
-> 
-> Il existe deux **Bushmanland** (une région et un bantoustan).
->
-> - Bushmanland, au nord de Cap : région [la plus] aride d’Afrique du Sud. Elle est située au nord de Cap. Le sol y est infertile et les eaux hautement salées.
-> - Bushmanland: le `bantoustan` créé en `1964` pour parquer les `San` pendant l’`appartheid`.
->
-> ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
-{.is-info}
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
@@ -107,6 +89,27 @@ flowchart TB
    hKOInformBegin --> hKOInformEnd
    
 ```
+
+# Emprisonnement
+
+De `1869` à `1871`, ***|han≠kass’o*** est emprisonné ainsi que son beau-père et son beau-frère, pour « vol de bétail » ».[^1][^2]
+
+> **Le saviez-vous ?**
+> 
+> À l’époque de ***|han≠kass’o***, les `Trekoers`ont décimé les `Ss’wa ka !kui`. De nos jours, les `Ss’wa ka !kui` n’existent plus et leur langue (le `|xam`) est une langue morte.[^5]
+{.is-info}
+
+En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict Station`. Son numéro de prisonnier est 4630. En `1871`, avant d'être choisi comme informateur, ***|han≠kass’o*** est expulsé à Bushmanland avec sa femme `Suobba-||kein`.[^1][^2] 
+
+> **Le saviez-vous ?**[^10][^1][^2]
+> 
+> Il existe deux **Bushmanland** (une région et un bantoustan).
+>
+> - Bushmanland, au nord de Cap : région [la plus] aride d’Afrique du Sud. Elle est située au nord de Cap. Le sol y est infertile et les eaux hautement salées.
+> - Bushmanland: le `bantoustan` créé en `1964` pour parquer les `San` pendant l’`appartheid`.
+>
+> ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
+{.is-info}
 
 # Travail mémoriel
 
