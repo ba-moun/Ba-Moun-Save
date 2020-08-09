@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-08-09T17:04:39.531Z
+date: 2020-08-09T17:06:20.797Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -153,11 +153,11 @@ Après vous être identifié, vous bénéficierez automatiquement des droits d'�
 
 # Utilité du compte utilisateur
 
-Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Ainsi, toute personne nuisant à cette encyclopédie pourra perdre ses droits d'écriture.
+Il est nécessaire d'assurer la qualité des informations de <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Il est donc demandé aux personnes souhaitant partager leur savoir de s'identifier. Ainsi, toute personne nuisant à cette encyclopédie pourra perdre ses droits d'écriture.
 
 # Les clans
 
-Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> fait partie d'un de ces groupes. Cette répartition par groupe calque les civilisations négro-africaines.
+Il existe cinq principaux groupes dans l'encyclopédie. Toute personne utilisant <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> fait partie d'un de ces groupes. Cette répartition par groupe calque les civilisations négro-africaines.
 
 Cliquez sur le nom d'un groupe pour avoir sa description.
 
@@ -228,8 +228,8 @@ Toute modification et/ou ajout de page est effectué dans une zone dédiée aux 
 
 # Comment m'identifier
 
-Cliquez sur le *Menu utilisateur* situé tout en haut à droite (voir première image de cette page). Si ce n'est pas le cas, vous serez invité.e à vous identifier. Vous pouvez utiliser votre compte Google, Facebook ou <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+Cliquez sur le *Menu utilisateur* situé tout en haut à droite (voir première image de cette page). Si ce n'est pas le cas, vous serez invité.e à vous identifier. Vous pouvez utiliser votre compte Google, Facebook ou <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 # Le calendrier utilisé
 
-Les dates indiquées sont celles du calendrier Kamit. L'an 2020 du calendrier grégorien est à cheval entre 6256 et 6257. L'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> se base sur l'application Web [ounout](http://ounout.net/?page_id=704)
+Les dates indiquées sont celles du calendrier Kamit. L'an 2020 du calendrier grégorien est à cheval entre 6256 et 6257. L'encyclopédie <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> se base sur l'application Web [ounout](http://ounout.net/?page_id=704)
