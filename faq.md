@@ -2,7 +2,7 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-07-31T13:03:02.074Z
+date: 2020-08-09T17:04:39.531Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
 ---
@@ -11,10 +11,10 @@ editor: markdown
 > 
 > Tout va bien ! Il vous suffit de la poser dans la zone de commentaire qui se trouve tout en bas de cette page. :)
 > 
-> Un des membres de la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> prendra plaisir à vous répondre. ;)
+> Un des membres de la communauté <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a> prendra plaisir à vous répondre. ;)
 {.is-info}
 
-Cette page recence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+Cette page recence les questions les plus fréquemment posées par la communauté de <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 # Utilisation de l'encyclopédie ?
 
@@ -52,7 +52,7 @@ Ci-dessous l'interface Web de l'encyclopédie que vous pouvez voir à l'aide d'u
 * Auteurs : Liste des auteurs et la date de dernière modification de la page.
 * Réseaux sociaux : Permet de partager, d'imprimer et d'ajouter dans vos favoris la page ouverte.
 * Éditer / agir sur une page : Accès rapide au menu d'édition et à d'autres actions sur la page ouverte.
-* Commentaire : Permet d'échanger de manière interactive avec la communauté <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
+* Commentaire : Permet d'échanger de manière interactive avec la communauté <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>.
 
 > Certaines pages ne disposent pas d'espace commentaire.
 {.is-info}
