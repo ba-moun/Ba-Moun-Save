@@ -2,7 +2,7 @@
 title: Règles d'utilisation
 description: Règles d'utilisation de l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-08-05T10:56:47.962Z
+date: 2020-08-09T17:03:52.576Z
 tags: guide, règles, guide d'utilisation, règles d'utilisation
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 > C'est possible dans la zone de commentaire qui se trouve tout en bas de la page.
 {.is-info}
 
-Cette page recense les règles d'utilisation de <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Vous devez respecter ces règles pour utiliser cette encyclopédie collaborative. Ces règles dirigent votre utilisation et vos accès à la plateforme. En utilisant <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>, vous comprenez et acceptez ces règles.
+Cette page recense les règles d'utilisation de <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Vous devez respecter ces règles pour utiliser cette encyclopédie collaborative. Ces règles dirigent votre utilisation et vos accès à la plateforme. En utilisant <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>, vous comprenez et acceptez ces règles.
 
 # Commentaires
 
@@ -29,7 +29,7 @@ Ci-dessous quelques potentiels risques encourus.
 
 ## Règles de bonne conduite
 
-Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-moun.com" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Cette liste peut être amenée à changer en fonction de la communauté.
+Ci-dessous les choses proscrites sur l'encyclopédie <a href="https://save.ba-moun.com/fr/home" style="font-family:'Yatra One', PT-Serif, serif;color: gold" >Ba-Moun𓅝Save</a>. Cette liste peut être amenée à changer en fonction de la communauté.
 
 - Les remarques offensantes :
    - tenir un discours haineux ou toute autre forme de discours de ce type,
