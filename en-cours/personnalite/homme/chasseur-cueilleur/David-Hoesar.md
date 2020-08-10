@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-07T16:23:44.934Z
+date: 2020-08-10T13:05:18.247Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -39,7 +39,7 @@ Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoi
 ***Dia!kwain*** permet aux `Bleek` et aux `Lloyd` de recenser plus de deux mille pages de récits et de dessins portant sur les `!nussa !e`.[^1]
 
 ***Dia!kwain*** effectue deux séjours auprès des familles `Bleek` et `Lloyd`. Le premier commence le `25` `Décembre` `1873` et se termine en `Mars` `1874`. Son second séjour commence le `13` `Juin` `1874`. Il accompagne sa sœur `!kweiten ta ||ken`, son beau-frère `≠kasin` et les deux plus jeuns enfants de ce couple.
-Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famille quitte le quartier pour aller à `Bushmanland`.[^1]
+Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famille quitte le quartier pour aller à « `Bushmanland` ».[^1]
 
 > **Le saviez-vous ?**[^10][^1][^2]
 > 
@@ -51,7 +51,12 @@ Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famill
 > ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
 {.is-info}
 
-He remained at Mowbray after Bleek’s death in August 1875 and eventually left on the 7th March 1876 for Calvinia. He was anxious to visit relations and hear news of his children. Dia!kwain worked in Calvinia for a while in the employ of  Dr H Meyer and later went into the country to visit one of his sisters, leaving some of his wages in Dr Meyer’s care. Dia!kwain intended to pass back through back through Calvinia and then return to Mowbray, but he never collected his pay and was not heard from again despite Dr Meyer’s enquiries as to his whereabouts. According to Jan Plat (who left Calvinia with Dia!kwain), interviewed by Lloyd in January 1884 (see page 6046ev), he had heard that Dia!kwain accompanied a farmer called ‘Louw’ (whose sheep he had been keeping) to Kenhardt and then the Free State, possibly in search of his sons who Dia!kwain thought might be in that region. It is also possible, according to a story Janette Deacon unearthed, that Dia!kwain was killed by friends of the farmer he shot, in an act of retaliation.
+Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia`. Il est impatient de voir ses parents et de rencontrer ses enfants.
+***Dia!kwain*** a travaillé un certain temps à `Calvinia` pour le Dr H Meyer. Au bout d’un moment, il finit par rendre visite à l’une de ses sœurs, laissant temporairement une partie de son salaire au Dr Meyer. Il avait l’intention de revenir à Calvinia pour se rendre ensuite à Mowbray. Cela étant, nous n’avons plus aucune trace de lui. Deux rumeurs planent au-dessus da sa disparition[^1].
+
+- Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`, dont ***Dia!kwain*** a déjà gardé ses moutons. Ils seraient allés à `Kenhardt`
+
+According to Jan Plat (who left Calvinia with Dia!kwain), interviewed by Lloyd in January 1884 (see page 6046ev), he had heard that Dia!kwain accompanied a farmer called ‘Louw’ (whose sheep he had been keeping) to Kenhardt and then the Free State, possibly in search of his sons who Dia!kwain thought might be in that region. It is also possible, according to a story Janette Deacon unearthed, that Dia!kwain was killed by friends of the farmer he shot, in an act of retaliation.
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
