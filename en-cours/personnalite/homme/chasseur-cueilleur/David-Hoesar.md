@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T13:51:31.824Z
+date: 2020-08-10T13:53:18.200Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -22,7 +22,9 @@ editor: markdown
 </figure>
 
 ***Dia!kwain*** (alias ***Hussar*** ou ***Huzar***) est un `!nussa !e`. Il est originaire des montagnes Katkop (nord de Calvinia) et parle ce que les `Lloyd` et les `Bleek` identifient comme le `|xam` de `Katkop`.
-***Dia!kwain*** est le frère de `!kweiten ta ||ken`, l’informatrice des familles `Bleek` et `Llloyd`. Leur père est réputé pour ses peintures corporelles et ses gravures. Il a été initié à la sorcellerie et à la magie ancestrale négro-africaine.[^1]
+***Dia!kwain*** est le frère de `!kweiten ta ||ken`, l’informatrice des familles `Bleek` et `Llloyd`.
+Le père de ***Dia!kwain*** est réputé pour ses peintures corporelles et ses gravures. Il a été initié à la sorcellerie et à la magie ancestrale négro-africaine.[^1]
+
 L’image ci-contre est un `!khwa ka xoro` (taureau d’eau). Cet animal aquatique mystique peut être capturé par les sorciers. Ces derniers l’emmènent ensuite là où ils veulent pour y faire tomber la pluie.[^3]
 
 > **Le saviez-vous ?**
