@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-07T15:55:59.647Z
+date: 2020-08-10T19:02:00.037Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -12,7 +12,9 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »), un peuple éteint. Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.
+<figure class="image image-style-align-right image_resized" style="width: 30%;"><img src="/images/art/drawing/!nussa-!e-han≠kass'o-drawing_public-domain.png"> <figcaption>Dessin au crayon ou à l’aquarelle par <i><b>|han≠kass’o</b></i></figcaption></figure>
+
+***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.[^3][^6][^4][^2]
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
@@ -139,5 +141,7 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 [^4]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
 
 [^6]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
+
+[^7]: [ǀXam language](https://en.wikipedia.org/wiki/%C7%80Xam_language). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Juin` `2020` [consulté le `10` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/%C7%80Xam_language
 
 [^10]: [Bushmanland, Northern Cape](https://en.wikipedia.org/wiki/Bushmanland,_Northern_Cape). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/Bushmanland,_Northern_Cape
