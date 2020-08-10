@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-04T18:55:04.149Z
+date: 2020-08-10T14:06:59.995Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -10,7 +10,19 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
+<figure class="image image-style-align-right image_resized" style="width: 33%;">
+   <img src="/images/art/drawing/!nussa-!e_kwa-kkwara-aityi_public-domain.jpg">
+   <figcaption>
+      Kwa kkwara |aityi<br/>
+      dessiné au crayon bleu<br/>
+      <i>Dia!kwain</i> (Mars 1875)
+   </figcaption>
+</figure>
+
 ***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans.
+
+L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.[^11]
+`Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1]
 
 La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^1][^2][^3][^4][^6][^7][^9]
 
@@ -188,3 +200,5 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 [^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
 
 [^10]: [Huguenot](https://fr.wikipedia.org/wiki/Huguenot). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Huguenot
+
+[^3]: [Drawings, Image: UCTLB_D_Di007](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html
