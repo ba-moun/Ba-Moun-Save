@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T14:21:33.495Z
+date: 2020-08-10T14:38:07.595Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -13,7 +13,7 @@ editor: markdown
 {.is-info}
 
 <figure class="image image-style-align-right image_resized" style="width: 33%;">
-   <img src="/images/art/drawing/!nussa-!e_!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_!khwa-ka-xoro-aka-water-bull-from-dia!kwain_public-domain.jpg">
    <figcaption>
       !khwa ka xoro<br/>
       dessiné au crayon bleu<br/> 
@@ -33,9 +33,9 @@ L’image ci-contre est un `!khwa ka xoro` (taureau d’eau). Cet animal aquatiq
 {.is-info}
 
 <figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_!khau-gwai-aka-kochel-man_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
    <figcaption>
-      !khau gwai dessiné au crayon ou au charbon par <i>Dia!kwain</i> (Mars 1875)
+      !khau gwai (Kochel man en Afrikaans) dessiné au crayon ou au charbon par <i>Dia!kwain</i> (Mars 1875)
    </figcaption>
 </figure>
 
@@ -45,11 +45,10 @@ L’image ci-contre est un `!khwa ka xoro` (taureau d’eau). Cet animal aquatiq
 Vers ses 25 ans, ***Dia!kwain*** est jugé pour l’assassinat d’un fermier qui a menacé de tuer sa famille. Il est donc condamné à cinq ans de prison à la `Breakwater Convict Station` avec son beau-frère `≠kasin`. Le numéro de ***Dia!kwain*** est le 4434.
 Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoint `≠kasin` à `Mowbray`.[^1]
 
-
 <figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_3-!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_!khwai-aityi-from-dia!kwain_public-domain.jpg">
    <figcaption>
-      Trois !khwa ka xoro (taureaux d’eau) coloriés au crayon par <i>Dia!kwain</i> (Mai 1875)
+      !khwai |aityi (femelle oryx gazelle) dessinée au crayon par <i>Dia!kwain</i> (Avril 1875)
    </figcaption>
 </figure>
 
