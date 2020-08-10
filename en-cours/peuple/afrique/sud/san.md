@@ -2,10 +2,12 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T14:38:39.836Z
+date: 2020-08-10T23:04:48.036Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
+
+![khoisan_cc-by.jpg](/images/population/khoisan/khoisan_cc-by.jpg){.align-abstopright}
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
