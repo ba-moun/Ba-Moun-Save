@@ -2,14 +2,26 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-05T08:21:41.552Z
+date: 2020-08-10T15:47:59.614Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
 
 ![!kweiten-ta-ken.jpg](/images/personnalite/kemit/kweiten-ta-ken/!kweiten-ta-ken.jpg){.align-abstopright}
 
-***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkope, situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
+> Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
+{.is-info}
+
+***!kweiten ta ||ken*** (alias ***Rachel***) est une `!nussa !e`. Elle est originaire des montagnes de Katkope qui sont situées au nord de Calvinia (`Afrique du Sud 🇿🇦`). Elle est la sœur de `Dia!kwain` et la femme de `≠kasin`. Ces deux derniers sont connus pour avoir divulgué des informations sur les `!nussa !e` aux familles `Bleek` et `Lloyd`. Son histoire est racontée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
+
+Ci-dessous un dessin de `Dia!kwain` qui représente une `Whai |aityi` (femelle `gazelle à poche`).
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_whai-aityi-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      Whai |aityi (femelle gazelle à poche) coloriée au crayon ou au charbon par <i>Dia!kwain</i> (Mars 1875)
+   </figcaption>
+</figure>
 
 La frise suivante relate des faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
