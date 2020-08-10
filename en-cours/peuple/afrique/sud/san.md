@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T14:31:24.866Z
+date: 2020-08-10T14:38:39.836Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 {.is-info}
 
 <figure class="image image-style-align-right image_resized" style="width: 33%;">
-   <img src="/images/art/drawing/!nussa-!e_kwa-kkwara-aityi_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_kwa-kkwara-aityi-from-dia!kwain_public-domain.jpg">
    <figcaption>
       Kwa kkwara |aityi<br/>
       dessiné au crayon bleu<br/>
@@ -119,7 +119,7 @@ flowchart TB
 # Les Sans des plaines
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
-   <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
    <figcaption>
       !khau |aityi (Kochel man en Afrikaans)<br/>
       dessiné au charbon ou au crayon<br/>
@@ -148,7 +148,7 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 - `|han≠kass’o`.
 
 <figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_3-!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_3-!khwa-ka-xoro-aka-water-bull-from-dia!kwain_public-domain.jpg">
    <figcaption>
       Trois !khwa ka xoro (taureaux d’eau) coloriés au crayon par <i>Dia!kwain</i> (Mai 1875)
    </figcaption>
