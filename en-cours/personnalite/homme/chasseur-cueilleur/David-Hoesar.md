@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T14:38:07.595Z
+date: 2020-08-10T14:44:35.263Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -82,6 +82,13 @@ Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia
 
 - Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`. ***Dia!kwain*** s’est déjà occupé des moutons de cet homme. Par la suite, ils sont allés à `Kenhardt` puis à `Free State`. Peut-être que ***Dia!kwain*** retrouve son fils qu’il pense être dans cette région…
 - Selon `Janette Deacon`, ***Dia!kwain*** a été tué par les amis du fermier qu’il a lui-même tué par légitime défense quelques années plus tôt.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_!ga-and-toi-aityi-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      Un !ga (amphibien) et une Toi |aityi (femelle autruche) dessinés au crayon ou au charbon par <i>Dia!kwain</i> (Mai 1875)
+   </figcaption>
+</figure>
 
 La frise suivante relate des faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
