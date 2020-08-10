@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T21:40:00.298Z
+date: 2020-08-10T21:53:21.921Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -118,7 +118,7 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 {.is-info}
 
 <figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_ttoi-gwai-han≠kass’o_public-domain.jpg">
+   <img src="/images/art/drawing/!nussa-!e_ttoi-gwai-from-han≠kass’o_public-domain.jpg">
    <figcaption>
      Ttoi gwai (autruche mâle) dessinée au crayon par <i><b>|han≠kass’o</b></i> (4 Octobre 1878)
    </figcaption>
@@ -127,13 +127,17 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 
 # Travail mémoriel
 
-À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
-
 <figure class="image image-style-align-right"><img src="/images/personnalite/kemit/han≠kass’o/han≠kass’o-alias-klein-jantje-looking-right_public-domain.jpg"> <figcaption>Portrait de <br/><i><b>|han≠kass’o</b></i></figcaption></figure>
 
+À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
+
 Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur autre enfant `!hu !hun` reste à Vanwyksvlei avec des amis.
-Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle,a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.
-`Lucy Lloyd` a essayé sans succès de faire venir `!hu !hun`, le dernier fils de ***|han≠kass’o***. En `Décembre` `1879`, ***|han≠kass’o*** retourne donc à Bushmanland où son fils a un contrat qui l’oblige à travailler dans une ferme. `Lucy C. Lloyd` et sa famille ont regretté le départ de ***|han≠kass’o***. Il faut dire que ***|han≠kass’o*** a été leur meilleur narrateur. De plus, il a aidé les familles `Bleek` et `Lloyd` dans certains travaux comme les tâches ménagères.[^1]
+Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle,a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.[^1]
+
+<figure class="image image-style-align-left image_resized" style="width: 30%;"><img src="/images/art/drawing/!nussa-!e_xerru-from-han≠kass’o_public-domain.jpg"></figure>
+
+`Lucy Lloyd` a essayé sans succès de faire venir `!hu !hun`, le dernier fils de ***|han≠kass’o***. En `Décembre` `1879`, ***|han≠kass’o*** retourne donc à Bushmanland où son fils a un contrat qui l’oblige à travailler dans une ferme. `Lucy C. Lloyd` et sa famille ont regretté le départ de ***|han≠kass’o***. Il faut dire que ***|han≠kass’o*** a été leur meilleur narrateur. De plus, il a aidé les familles `Bleek` et `Lloyd` dans certains travaux comme les tâches ménagères.
+Ci-contre, l’un des dessins réalisés par ***han≠kass’o*** et enregistré dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Cette illustration représente, de haut en bas, un `xerru` (lycaon) mâle et femelle. Ils ont été dessinés par ***|han≠kass’o*** au crayon le `9` `Janvier` `1878`.[^1]
 
 Durant son séjour, ***|han≠kass’o*** rêve de parler dans sa propre langue avec son peuple. `Lucy C. Lloyd` a donc tenté de répondre à cette requête. Elle fait venir une autre personne supplémentaire afin de mettre en scène une « famille de personnes parlant `|xam` ». Malheureusement, c’est une personne `!Ora` qui a été <u>envoyée</u> à la place.[^1]
 
@@ -143,6 +147,8 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 - partage la richesse des divers pratiques de son peuple,
 - transmet des informations sur la langue `|xam`,
 - contribue au second plus grand nombre de récits et de cahiers du [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za), dont 32 sont au nom de `Lucy C. Lloyd`.
+
+
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
