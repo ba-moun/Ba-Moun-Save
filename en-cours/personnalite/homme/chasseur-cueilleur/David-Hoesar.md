@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T13:49:15.402Z
+date: 2020-08-10T13:50:53.611Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -16,7 +16,7 @@ editor: markdown
    <img src="/images/art/drawing/!nussa-!e_!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
    <figcaption>
       !khwa ka xoro<br/>
-      dessiné au stylo ou au crayon bleu<br/>
+      dessiné au crayon bleu<br/>
       <i>Dia!kwain</i> (Mai 1875)
    </figcaption>
 </figure>
