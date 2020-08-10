@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T19:02:00.037Z
+date: 2020-08-10T21:20:57.602Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -14,7 +14,11 @@ editor: markdown
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;"><img src="/images/art/drawing/!nussa-!e-han≠kass'o-drawing_public-domain.png"> <figcaption>Dessin au crayon ou à l’aquarelle par <i><b>|han≠kass’o</b></i></figcaption></figure>
 
-***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.[^3][^6][^4][^2]
+***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.[^2][^3][^4][^6]
+
+***|han≠kass’o*** fait parti des informateurs qui ont permis aux `Lloyd` et aux `Bleek` de réaliser leur [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
+
+L’image ci-contre est une des illustration réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^5]
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
@@ -139,6 +143,8 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 [^3]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 
 [^4]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
+
+[^5]: [Drawings, Image: Iziko_SAMLB_D!h024](http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D!h024.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D!h024.html
 
 [^6]: [Wilhelm Heinrich Immanuel Bleek](https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Wilhelm_Heinrich_Immanuel_Bleek
 
