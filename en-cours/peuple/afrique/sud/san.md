@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T23:04:48.036Z
+date: 2020-08-10T23:19:36.086Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -21,10 +21,20 @@ editor: markdown
    </figcaption>
 </figure>
 
-***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans.
+***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans. Ce peuple est aussi appelé péjorativement `bushman` par les `envahisseurs européens`.
 
 L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.[^11]
 `Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1]
+
+La photo ci-dessous représente un rassemble de ***Khoïsans***.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/population/khoisan/khoisan-people_cc-by.jpg">
+   <figcaption>
+     Rassemble de <b><i>Khoïsans</i></b>
+   </figcaption>
+</figure>
+
 
 La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^1][^2][^3][^4][^6][^7][^9]
 
@@ -157,6 +167,13 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 </figure>
 
 # Les envahisseurs Trekboers
+
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
+   <figcaption>
+      Trois <i><b>Khoïsans</b></i> qui discutent
+   </figcaption>
+</figure>
 
 Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
 
