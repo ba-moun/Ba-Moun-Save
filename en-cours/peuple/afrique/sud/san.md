@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T14:27:53.982Z
+date: 2020-08-10T14:31:24.866Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -118,10 +118,10 @@ flowchart TB
 
 # Les Sans des plaines
 
-<figure class="image image-style-align-right image_resized" style="width: 33%;">
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man_public-domain.jpg">
    <figcaption>
-      !khau |aityi<br/>
+      !khau |aityi (Kochel man en Afrikaans)<br/>
       dessiné au charbon ou au crayon<br/>
       <i>Dia!kwain</i> (Mars 1875)
    </figcaption>
