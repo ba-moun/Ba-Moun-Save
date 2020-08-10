@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T22:19:27.431Z
+date: 2020-08-10T22:28:24.730Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -117,7 +117,7 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 > ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
 {.is-info}
 
-<figure class="image" >
+<figure class="image" style="width: 100%;">
    <img src="/images/art/drawing/ss’wa-ka-!kui_ttoi-gwai-from-han≠kass’o_public-domain.jpg">
    <figcaption>
      Ttoi gwai (autruche mâle) dessinée au crayon par <i><b>|han≠kass’o</b></i> (4 Octobre 1878)
