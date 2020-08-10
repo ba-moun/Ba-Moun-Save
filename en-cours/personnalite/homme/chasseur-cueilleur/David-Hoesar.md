@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T13:53:18.200Z
+date: 2020-08-10T14:08:20.930Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -33,6 +33,15 @@ L’image ci-contre est un `!khwa ka xoro` (taureau d’eau). Cet animal aquatiq
 {.is-info}
 
 # Emprisonnement
+
+<figure class="image image-style-align-right image_resized" style="width: 33%;">
+   <img src="/images/art/drawing/!nussa-!e_!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
+   <figcaption>
+      !khwa ka xoro<br/>
+      dessiné au crayon bleu<br/> 
+      <i>Dia!kwain</i> (Mai 1875)
+   </figcaption>
+</figure>
 
 Vers ses 25 ans, ***Dia!kwain*** est jugé pour l’assassinat d’un fermier qui a menacé de tuer sa famille. Il est donc condamné à cinq ans de prison à la `Breakwater Convict Station` avec son beau-frère `≠kasin`. Le numéro de ***Dia!kwain*** est le 4434.
 Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoint `≠kasin` à `Mowbray`.[^1]
