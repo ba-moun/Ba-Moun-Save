@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T14:06:59.995Z
+date: 2020-08-10T14:27:53.982Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -118,6 +118,15 @@ flowchart TB
 
 # Les Sans des plaines
 
+<figure class="image image-style-align-right image_resized" style="width: 33%;">
+   <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man_public-domain.jpg">
+   <figcaption>
+      !khau |aityi<br/>
+      dessiné au charbon ou au crayon<br/>
+      <i>Dia!kwain</i> (Mars 1875)
+   </figcaption>
+</figure>
+
 ***Ss’wa ka !kui*** et ***!nussa !e*** sont les noms endogènes des ***peuples San des plaines***.[^1][^2][^9]
 
 ***Ss’wa ka !kui*** se traduit en français par : « celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Les ***Ss’wa ka !kui*** ont été exterminés par les `Trekboers` au XIX^ème^ siècle.[^1][^2][^9]
@@ -138,7 +147,12 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 - `!kweiten ta ||ken`,
 - `|han≠kass’o`.
 
-La frise ci-dessous retrace des faits historiques liés aux ***Ss’wa ka !kui***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_3-!khwa-ka-xoro-aka-water-bull_public-domain.jpg">
+   <figcaption>
+      Trois !khwa ka xoro (taureaux d’eau) coloriés au crayon par <i>Dia!kwain</i> (Mai 1875)
+   </figcaption>
+</figure>
 
 # Les envahisseurs Trekboers
 
