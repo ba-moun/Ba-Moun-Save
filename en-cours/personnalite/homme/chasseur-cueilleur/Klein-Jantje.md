@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T22:04:22.790Z
+date: 2020-08-10T22:19:27.431Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -12,13 +12,13 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-<figure class="image image-style-align-right image_resized" style="width: 30%;"><img src="/images/art/drawing/ss’wa-ka-!kui_han≠kass'o-drawing_public-domain.png"> <figcaption>Dessin au crayon ou à l’aquarelle par <i><b>|han≠kass’o</b></i></figcaption></figure>
+<figure class="image image-style-align-right image_resized" style="width: 30%;"><img src="/images/art/drawing/ss’wa-ka-!kui_xerru-from-han≠kass’o_public-domain.jpg"></figure>
 
 ***|han≠kass’o*** (alias ***Klein Jantje***) fait partie des `Ss’wa ka !kui` (traduction : « ceux qui appartiennent aux `|xam` et qui vivent dans les plaines »). Son père, quant à lui, est un `!kaugen ss'o` (`San` des montagnes). Son beau-père est `||kabbo` et son beau-frère  est `Witbooy Touren`.[^2][^3][^4][^6]
 
 ***|han≠kass’o*** fait parti des informateurs qui ont permis aux `Lloyd` et aux `Bleek` de réaliser leur [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
-L’image ci-contre est une des illustration réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^5]
+L’image ci-contre est une des illustration réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle représente, de haut en bas, des `xerru` (lycaon) mâle et femelle dessinnés au crayon par ***|han≠kass’o***.[^5]
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
@@ -117,7 +117,7 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 > ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
 {.is-info}
 
-<figure class="image image_resized" style="width: 100%;">
+<figure class="image" >
    <img src="/images/art/drawing/ss’wa-ka-!kui_ttoi-gwai-from-han≠kass’o_public-domain.jpg">
    <figcaption>
      Ttoi gwai (autruche mâle) dessinée au crayon par <i><b>|han≠kass’o</b></i> (4 Octobre 1878)
@@ -134,10 +134,10 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur autre enfant `!hu !hun` reste à Vanwyksvlei avec des amis.
 Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle,a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.[^1]
 
-<figure class="image image-style-align-left image_resized" style="width: 30%;"><img src="/images/art/drawing/ss’wa-ka-!kui_xerru-from-han≠kass’o_public-domain.jpg"></figure>
+<figure class="image image-style-align-left image_resized" style="width: 30%;"><img src="/images/art/drawing/ss’wa-ka-!kui_han≠kass'o-drawing_public-domain.png"></figure>
 
 `Lucy Lloyd` a essayé sans succès de faire venir `!hu !hun`, le dernier fils de ***|han≠kass’o***. En `Décembre` `1879`, ***|han≠kass’o*** retourne donc à Bushmanland où son fils a un contrat qui l’oblige à travailler dans une ferme. `Lucy C. Lloyd` et sa famille ont regretté le départ de ***|han≠kass’o***. Il faut dire que ***|han≠kass’o*** a été leur meilleur narrateur. De plus, il a aidé les familles `Bleek` et `Lloyd` dans certains travaux comme les tâches ménagères.
-Ci-contre, l’un des dessins réalisés par ***han≠kass’o*** et enregistré dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Cette illustration représente, de haut en bas, un `xerru` (lycaon) mâle et femelle. Ils ont été dessinés par ***|han≠kass’o*** au crayon le `9` `Janvier` `1878`.[^1]
+Ci-contre, l’un des dessins réalisés par ***han≠kass’o*** et enregistré dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Cette illustration a été réalisée par ***|han≠kass’o*** à l’aquarelle le `24` `Avril` `1879`.[^1]
 
 Durant son séjour, ***|han≠kass’o*** rêve de parler dans sa propre langue avec son peuple. `Lucy C. Lloyd` a donc tenté de répondre à cette requête. Elle fait venir une autre personne supplémentaire afin de mettre en scène une « famille de personnes parlant `|xam` ». Malheureusement, c’est une personne `!Ora` qui a été <u>envoyée</u> à la place.[^1]
 
@@ -148,7 +148,7 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 - transmet des informations sur la langue `|xam`,
 - contribue au second plus grand nombre de récits et de cahiers du [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za), dont 32 sont au nom de `Lucy C. Lloyd`.
 
-<figure class="image image_resized" style="width: 100%;">
+<figure class="image" style="width: 100%;">
    <img src="/images/art/drawing/ss’wa-ka-!kui_wai-and-ßkhui-from-han≠kass’o_public-domain.jpg">
    <figcaption>
      Wai gwai et aiti (mâle et femelle springbok), ßkhui (quagga) réalisé à l’aquarelle par <i><b>|han≠kass’o</b></i> (16 Février 1879)
