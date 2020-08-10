@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-10T16:54:44.139Z
+date: 2020-08-10T16:59:10.257Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -87,7 +87,7 @@ flowchart TB
 
 # Travail mémoriel
 
-<figure class="image image-style-align-right"><img src="/images/personnalite/kemit/kweiten-ta-ken/!kweiten-ta-ken.jpg"> <figcaption>Portrait de<br/><i><b>!kweiten ta ||ken</b></i></figcaption></figure>
+<figure class="image image-style-align-right image_resized"><img src="/images/personnalite/kemit/kweiten-ta-ken/!kweiten-ta-ken.jpg"> <figcaption>Portrait de<br/><i><b>!kweiten ta ||ken</b></i></figcaption></figure>
 
 Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est accompagnée de `Dia!kwain`, de `≠kassin` et de ses deux enfants agés de six et deux ans. C’est la deuxième fois que `Dia!kwain` et `≠kassin` se rendent à Mowbray. Le `25` `Octobre` `1874`, les deux grands fils de ***!kweiten ta ||ken*** rejoignent la famille à `Mowbray`. Ils viennent de `Wellington`. À ce moment là, les familles `Lloyd` et `Bleek` ont quelques difficultés financières pour loger et nourrir tout le monde. Néanmoins, `Lucy Catherine Lloyd` est ravie de pouvoir interroger ***!kweiten ta ||ken*** qui partage avec elle des informations sur[^1] :
 
