@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T13:05:18.247Z
+date: 2020-08-10T13:24:28.905Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -51,12 +51,10 @@ Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famill
 > ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
 {.is-info}
 
-Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia`. Il est impatient de voir ses parents et de rencontrer ses enfants.
-***Dia!kwain*** a travaillé un certain temps à `Calvinia` pour le Dr H Meyer. Au bout d’un moment, il finit par rendre visite à l’une de ses sœurs, laissant temporairement une partie de son salaire au Dr Meyer. Il avait l’intention de revenir à Calvinia pour se rendre ensuite à Mowbray. Cela étant, nous n’avons plus aucune trace de lui. Deux rumeurs planent au-dessus da sa disparition[^1].
+Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia`. Il y travaille pour le `Dr H Meyer` pendant un certain temps. Pendant son séjour, il a hâte de rendre visite à ses parents et de prendre des nouvelles de ses enfants. Au bout d’un moment, il finit par rendre visite à l’une de ses sœurs, laissant temporairement une partie de son salaire au `Dr Meyer`. Il quitte `Calvinia` dans l’idée d’y revenir avant d’aller à `Mowbray`. Néanmoins, jusqu’à ce jour, nous n’avons plus aucune trace de lui. Deux rumeurs planent au-dessus da sa disparition.[^1]
 
-- Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`, dont ***Dia!kwain*** a déjà gardé ses moutons. Ils seraient allés à `Kenhardt`
-
-According to Jan Plat (who left Calvinia with Dia!kwain), interviewed by Lloyd in January 1884 (see page 6046ev), he had heard that Dia!kwain accompanied a farmer called ‘Louw’ (whose sheep he had been keeping) to Kenhardt and then the Free State, possibly in search of his sons who Dia!kwain thought might be in that region. It is also possible, according to a story Janette Deacon unearthed, that Dia!kwain was killed by friends of the farmer he shot, in an act of retaliation.
+- Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`. ***Dia!kwain*** s’est déjà occupé des moutons de cet homme. Par la suite, ils sont allés à `Kenhardt` puis à `Free State`. Peut-être que ***Dia!kwain*** retrouve son fils qu’il pense être dans cette région…
+- Selon `Janette Deacon`, ***Dia!kwain*** a été tué par les amis du fermier qu’il a lui-même tué par légitime défense quelques années plus tôt.
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
