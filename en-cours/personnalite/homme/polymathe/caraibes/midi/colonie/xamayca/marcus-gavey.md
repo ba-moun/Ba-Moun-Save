@@ -2,7 +2,7 @@
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
 published: true
-date: 2020-07-26T15:27:39.963Z
+date: 2020-08-10T14:09:58.881Z
 tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
 editor: markdown
 ---
@@ -156,7 +156,7 @@ Ayant grandi à Saint Ann's (`Xamayca` 🇯🇲), *Marcus GARVEY* y effectue ses
 
 <figure class="image image-style-align-right"><img src="/images/money/jamaica/jamaican-pound/penny-jamaicain_public-domain.jpg"> <figcaption>Un penny jamaicain, monnaie contemporaine de <i>Marcus GARVEY</i></figcaption></figure>
 
-Tout d'abord, il obtient un poste de typographe dans l'imprimerie d'`Alfred E. Burrowes`. Cette imprimerie se trouve à `Saint Ann's Bay`, `Xamayca` (la Jamaïque 🇯🇲). Ce poste permet à *Marcus GARVEY* d'entrer dans le monde de l'imprimerie.
+Tout d'abord, il obtient un poste de typographe dans l'imprimerie d'Alfred E. Burrowes. Cette imprimerie se trouve à `Saint Ann's Bay`, `Xamayca` (la Jamaïque 🇯🇲). Ce poste permet à *Marcus GARVEY* d'entrer dans le monde de l'imprimerie.
 Ce travail lui permet d'approfondir ses connaissances. Il en profite pour lire les impressions portant sur de grandes figures de la Caraïbe[^1] :
 
 - le `général Cudjo`,
