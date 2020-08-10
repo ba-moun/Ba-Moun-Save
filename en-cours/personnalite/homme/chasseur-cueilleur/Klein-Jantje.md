@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T21:53:21.921Z
+date: 2020-08-10T22:01:08.522Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -148,7 +148,12 @@ Durant ce séjour, ***|han≠kass’o***[^1] :
 - transmet des informations sur la langue `|xam`,
 - contribue au second plus grand nombre de récits et de cahiers du [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za), dont 32 sont au nom de `Lucy C. Lloyd`.
 
-
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_wai-and-ßkhui-from-han≠kass’o_public-domain.jpg">
+   <figcaption>
+     Wai gwai et aiti (mâle et femelle springbok), ßkhui (quagga) réalisé à l’aquarelle par <i><b>|han≠kass’o</b></i> (16 Février 1879)
+   </figcaption>
+</figure>
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
