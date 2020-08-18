@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-11T07:35:14.038Z
+date: 2020-08-18T08:10:17.339Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -18,16 +18,16 @@ editor: markdown
    </figcaption>
 </figure>
 
-Le ***!khwai*** est un bovidé dont l’habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (`désert du Kalahari` en `Tswana`). Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
+Le ***!khwai*** est un bovidé dont l’habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
-- grands traits noirs sur ses flancs,
-- pattes et tête claires,
-- hauteur allant jusqu’à 1,25 m,
-- des cornes longues fines et droites
-- mâles identifiables par :
-	- leur poid pouvant atteindre les 240 kg,
+- de grands traits noirs sur les flancs,
+- des pattes et une tête claires,
+- une hauteur allant jusqu’à 1,25 m,
+- des cornes longues, fines et droites
+- des mâles identifiables par :
+	- leurs poids pouvant atteindre les 240 kg,
   - leurs scrotums apparants,
-- femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
+- des femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
 
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.[^3]
 
@@ -35,8 +35,10 @@ Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tê
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
 </figure>
 
-L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o` dans le but de réaliser les mémoires de son peuple décimé par les `Trekboers`.
-`|han≠kass’o` est un `!nussa !e` (peuple `San`). Les informations qu’il a divulgué aux familles `Bleek` et `Lloyd` sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
+L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur la science de son peuple. Ces informations sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
+
+> **Le saviez-vous ?**
+> Les `Ss’wa ka !kui` font partie des `Sans` exterminés par les `Trekboers`. Ces derniers sont des envahisseurs `huguenots`, `protestants allemands` et `néerlandais`.
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
