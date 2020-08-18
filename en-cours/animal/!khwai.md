@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-18T10:08:29.310Z
+date: 2020-08-18T10:27:20.668Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -18,7 +18,8 @@ editor: markdown
    </figcaption>
 </figure>
 
-Le ***!khwai*** est un bovidé dont l’habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
+Le ***!khwai*** est un bovidé dont l’habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
+Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
 - de grands traits noirs sur les flancs,
 - des pattes et une tête claires,
@@ -35,12 +36,13 @@ Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tê
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
 </figure>
 
-L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur la science de son peuple. Ces informations sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
+L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur les sciences de son peuple. Ces informations se trouvent dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
 
 > **Le saviez-vous ?**[^8][^9]
-> Les `Ss’wa ka !kui` font partie des `Sans` (chasseurs-cueilleurs du sud ouest du continent) qui ont été exterminés par les `Trekboers`. Ces derniers sont des `huguenots`, `protestants allemands` et `néerlandais` qui ont envahit le sud du continent.
 > 
-> Les `Trekboers` ont participés à l’extermination des `Sans` par :
+> Les `Ss’wa ka !kui` font partie des `Sans`, les chasseurs-cueilleurs du sud ouest du continent. Les `Ss’wa ka !kui` ont été exterminés par les `Trekboers` (communauté de `huguenots`, de `protestants allemands` et de `néerlandais`).
+> Les `Trekboers` ont envahit le sud du continent et participé à l’extermination des `Sans` par :
+> 
 > - la traque et l’assasinat de `Sans`
 > - la mise en travail forcé de `Sans`
 > - la mise en famine de `Sans` par le vol de leurs terres et la chasse de leurs gibiers.
