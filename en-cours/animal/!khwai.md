@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-18T08:10:17.339Z
+date: 2020-08-18T10:08:29.310Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -37,8 +37,24 @@ Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tê
 
 L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur la science de son peuple. Ces informations sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
 
-> **Le saviez-vous ?**
-> Les `Ss’wa ka !kui` font partie des `Sans` exterminés par les `Trekboers`. Ces derniers sont des envahisseurs `huguenots`, `protestants allemands` et `néerlandais`.
+> **Le saviez-vous ?**[^8][^9]
+> Les `Ss’wa ka !kui` font partie des `Sans` (chasseurs-cueilleurs du sud ouest du continent) qui ont été exterminés par les `Trekboers`. Ces derniers sont des `huguenots`, `protestants allemands` et `néerlandais` qui ont envahit le sud du continent.
+> 
+> Les `Trekboers` ont participés à l’extermination des `Sans` par :
+> - la traque et l’assasinat de `Sans`
+> - la mise en travail forcé de `Sans`
+> - la mise en famine de `Sans` par le vol de leurs terres et la chasse de leurs gibiers.
+>
+> Voici le gibier que les `Trekboers` ont chassés pour se nourrir et pour le plaisir de chasser (« le sport ») :
+> - le couagga,
+> - les autruches, 
+> - l’oryx gazelle,
+> - les bubales,
+> - éland,
+> - springbok.
+> 
+> Certaines espèces comme le couagga sont à présent éteintes.
+`Trekboers`
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
@@ -53,3 +69,7 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 [^6]: [Drawings, Image: UCTLB_W_h002](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html
 
 [^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
+
+[^8]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
+
+[^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
