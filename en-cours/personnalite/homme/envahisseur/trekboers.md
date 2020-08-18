@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-08-04T18:53:09.917Z
+date: 2020-08-18T09:33:42.445Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -118,3 +118,5 @@ En réponse à la menace ***Trekboer***, les `San` ont formé des gangs qui les 
 [^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
 
 [^10]: [Huguenot](https://fr.wikipedia.org/wiki/Huguenot). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Huguenot
+
+[^11]: [DESTINS DE CHASSEURS/CUEILLEURS(1) .LE CHANT DES BUSHMEN /XAM.](https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html). In [REGARD ELOIGNE](https://agoras.typepad.fr/) [en ligne]. [REGARD ELOIGNE](https://agoras.typepad.fr/), mis à jour le `04` `Juin` `2012` [consulté le `18` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html
