@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-10T23:19:36.086Z
+date: 2020-08-18T09:26:57.732Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -31,7 +31,7 @@ La photo ci-dessous représente un rassemble de ***Khoïsans***.
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/population/khoisan/khoisan-people_cc-by.jpg">
    <figcaption>
-     Rassemble de <b><i>Khoïsans</i></b>
+     Rassemble de <b><i>Khoïsans</i> entrain de manger un œuf d’authruche</b>
    </figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/art/drawing/!nussa-!e_3-!khwa-ka-xoro-aka-water-bull-from-dia!kwain_public-domain.jpg">
    <figcaption>
-      Trois !khwa ka xoro (taureaux d’eau) coloriés au crayon par <i>Dia!kwain</i> (Mai 1875)
+      Trois !khwa ka xoro (taureaux d’eau) dessinés au crayon par <i>Dia!kwain</i> (Mai 1875)
    </figcaption>
 </figure>
 
