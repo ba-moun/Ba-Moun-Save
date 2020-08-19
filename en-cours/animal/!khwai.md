@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T19:49:52.499Z
+date: 2020-08-19T19:59:27.299Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -35,7 +35,8 @@ Le ***!khwai*** est naturellement adapté à endurer et résister le climat chau
 De plus, c’est un animal intelligent qui sait qu’il doit se mettre à l’ombre des arbres pour éviter d’avoir trop chaud. Il puit lui arriver de coucher son flan contre le sable frais qui est à l’ombre, dans le but de se rafraichir.
 Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.[^3]
 
-Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.[^3]
+Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
+Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.[^3]
 
 <figure class="image image-style-align-left image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
