@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T20:01:03.052Z
+date: 2020-08-19T20:11:39.174Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -62,13 +62,13 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 
 Il arrive que des personnes chassent le ***!khwai*** pour le sport.[^3]
 
-# Techniques de survie
+# Techniques de survie[^3]
 
 Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent. Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 De plus, c’est un animal intelligent qui sait qu’il doit se mettre à l’ombre des arbres pour éviter d’avoir trop chaud. Il puit lui arriver de coucher son flan contre le sable frais qui est à l’ombre, dans le but de se rafraichir.
-Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.[^3]
+Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.
 
-Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.[^3]
+Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
