@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T19:59:27.299Z
+date: 2020-08-19T20:01:03.052Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -19,7 +19,7 @@ editor: markdown
 </figure>
 
 Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
-
+Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
 Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
 - de grands traits noirs sur les flancs,
@@ -30,13 +30,6 @@ Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 	- leurs poids pouvant atteindre les 240 kg,
   - leurs scrotums apparants,
 - des femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
-
-Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent. Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
-De plus, c’est un animal intelligent qui sait qu’il doit se mettre à l’ombre des arbres pour éviter d’avoir trop chaud. Il puit lui arriver de coucher son flan contre le sable frais qui est à l’ombre, dans le but de se rafraichir.
-Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.[^3]
-
-Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
-Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.[^3]
 
 <figure class="image image-style-align-left image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
@@ -68,6 +61,14 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 {.is-info}
 
 Il arrive que des personnes chassent le ***!khwai*** pour le sport.[^3]
+
+# Techniques de survie
+
+Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent. Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
+De plus, c’est un animal intelligent qui sait qu’il doit se mettre à l’ombre des arbres pour éviter d’avoir trop chaud. Il puit lui arriver de coucher son flan contre le sable frais qui est à l’ombre, dans le but de se rafraichir.
+Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.[^3]
+
+Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.[^3]
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
