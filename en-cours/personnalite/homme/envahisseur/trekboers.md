@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-08-19T11:17:45.448Z
+date: 2020-08-19T20:06:18.205Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -71,11 +71,11 @@ flowchart TB
    
 ```
 
-# Histoire de leur invasion
+# Histoire de leur invasion[^11][^4][^9][^1][^2]
 
 En `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
 Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
-Les ***Trekboers*** sont connus pour avoir[^11][^4][^9][^1][^2] :
+Les ***Trekboers*** sont connus pour avoir :
 
 - volé les terres `San (pour y mettre leurs propres fermes),
 - chassé du gibier des `San` (pour pratiquer du « sport » ou s’alimenter),
@@ -83,11 +83,11 @@ Les ***Trekboers*** sont connus pour avoir[^11][^4][^9][^1][^2] :
 - mis au travail forcé les `San`,
 - affamé volontairement les `San`.
 
-En réponse à la menace ***Trekboer***, les `San` ont formé des gangs qui les ont tués avec leurs bétails.[^2]
+En réponse à la menace ***Trekboer***, les `San` ont formé des gangs qui les ont tués avec leurs bétails.
 
 > **Le saviez-vous ?**
 > 
-> Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport »[^2] :
+> Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport » :
 > 
 > - le couagga,
 > - les autruches, 
