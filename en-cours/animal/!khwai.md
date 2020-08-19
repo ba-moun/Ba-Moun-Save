@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T12:40:03.315Z
+date: 2020-08-19T12:48:36.461Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -40,7 +40,9 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 
 > **Le saviez-vous ?**[^8][^9][^10]
 > 
-> Les `Ss’wa ka !kui` font partie des `Sans`, les chasseurs-cueilleurs du sud ouest du continent. Les `Ss’wa ka !kui` ont été exterminés par les `Trekboers` (communauté de `huguenots`, de `protestants allemands` et de `néerlandais`).
+> Les `Ss’wa ka !kui` font partie des `Sans`, les chasseurs-cueilleurs du sud ouest du continent. Ce mot signifie «  celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Par définition, les `Ss’wa ka !kui` sont donc des `Sans` des plaines.
+> Ce peuple a été exterminé par les `Trekboers` (communauté d’envahisseurs `huguenots [français]`, `protestants allemands` et `néerlandais`).
+> 
 > Les `Trekboers` ont envahit le sud du continent et participé à l’extermination des `Sans` par :
 > 
 > - la traque et l’assasinat de `Sans`
@@ -50,11 +52,11 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 > Ci-dessous le gibier que les `Trekboers` ont chassés pour se nourrir et pour le plaisir de chasser (« le sport ») :
 > 
 > - le couagga,
-> - les autruches, 
+> - l’autruche, 
 > - l’oryx gazelle,
-> - les bubales,
-> - éland,
-> - springbok.
+> - le bubale,
+> - l’éland,
+> - le springbok.
 > 
 > Il s’avère que certaines espèces comme le couagga sont à présent éteintes.
 {.is-info}
