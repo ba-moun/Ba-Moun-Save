@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-08-19T12:56:45.747Z
+date: 2020-08-19T13:22:32.771Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -10,8 +10,11 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Wilhelm Bleek*** est un allemand né le `8` `Mars` `1827` à `Berlin` (`royaume de Prusse`) et mort le `17` `Août` `1875` au `Cap` (`colonie du Cap`). Il est un linguiste et `folkloriste` qui s’est spécialisé dans les langues sud-africaines. Il est le fondateur du `comparatisme linguistique en Afrique`. De plus, lui et `Wilhelm Sigismund Koelle` sont les premiers à regrouper les langues de l’ouest du continent.
-En `1859`, ***Wilhelm Bleek*** établit les bases de la `Bantuistik` (science des langues bantoues) modernes dans le cadre de l’analyse comparée des langues des régions australe et centrale d’Afrique, auxquelles il donne le nom « bantous ».
+***Wilhelm Bleek*** est un allemand né le `8` `Mars` `1827` à `Berlin` (`royaume de Prusse`) et mort le `17` `Août` `1875` au `Cap` (`colonie du Cap`).
+À l’origine, il s’installe au sud du continent dans l’idée d’interroger des `Sans` captifs pour apprendre et décrire leurs langues. En définitive, grâce aux informations qu’il a obtenu de plusieurs `Sans`, `Wilhelm Bleek` s’occtroit un titre. Il devient de linguiste et `folkloriste` spécialisé dans les langues sud-africaines.
+Il est le fondateur du `comparatisme linguistique en Afrique`.
+Avec `Wilhelm Sigismund Koelle`, `Wilhelm Bleek` est le premier `leucoderme Européen` à regrouper les langues de l’ouest du continent.
+En `1859`, ***Wilhelm Bleek*** établit les bases de la `Bantuistik moderne` (science des langues bantoues). Cela s’est fait par une analyse comparée des langues des régions australe et centrale d’Afrique, auxquelles il donne le nom « bantou ».
 L’œuvre majeure de ***Wilhelm Bleek*** porte sur la grammaire comparée des langues sud-africaines. De plus, il est l'auteur d'une grammaire du zoulou et d’un système de numérotation pour les système phonétique. Ce système de numérotation est utilisé par les linguistes du paradigme européen pour transcrire clicks et sons caractéristiques du `ǀxam`.[^1][^2][^3]
 
 > **Le saviez-vous ?**
@@ -130,7 +133,11 @@ flowchart TB
    
 ```
 
-En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il y étudie les différences entre les langues locales, les `langues bantoues` et `xhosa`. Il s’installe à `Cape Town` avec sa femme `Jemima`. Sa sœur `Lucy Catherine Lloyd` le rejoindra plus tard. Cette dernière accompagnera `W. Bleek` dans ses travaux. À deux, ils mettent au point la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^8][^3]
+En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il s’installe à `Cape Town` avec sa femme `Jemima`. Sa sœur `Lucy Catherine Lloyd` le rejoindra plus tard. Cette dernière accompagnera `W. Bleek` dans ses travaux. À deux, ils mettent au point la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^8][^3]
+
+Au sud du continent, `Wilhelm Bleek` espère interroger des `Sans` captifs pour apprendre et décrire leurs langues. Néanmoins, ces prisonniers ne sont pas coopératifs.[^8]
+
+but they were uncooperative and conditions were not ideal for establishing a rapport. Louis Anything, magistrate of Namaqualand in the Cape and the first campaigner for |xam human rights, introduced Bleek to three captives brought in from the northern Cape for trial. It was from these men that Bleek compiled his first list of |xam words. Bleek was an intellectual and published scholar whose reputation had earned him the respect of the governor, who agreed to release |xam prisoners from work on the Cape Town breakwater into Bleek's custody for the purposes of research. In 1870, the first member of the Tooren Gang was relocated to Bleek's home where the process of teaching and learning the |xam language began.
 
 [^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 
