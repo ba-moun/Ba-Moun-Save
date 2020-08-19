@@ -2,7 +2,7 @@
 title: Dia!kwain
 description: Présentation de Dia!kwain
 published: true
-date: 2020-08-10T14:44:35.263Z
+date: 2020-08-19T20:10:58.189Z
 tags: bleek, wilhelm bleek, bochiman, san, |xam, san des plaines, khoïsan, bochiman des plaines, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, breakwater convict station, lucy c. lloyd, lucy lloyd, narrateur, !kweiten ta ||ken, !nussa !e, dia!kwain, david, hoesar, hussar, huzar, katkop, montagne de katkop, famille lloyd, prisonnier, prisonnier de la breakwater convict station, ≠kasin
 editor: markdown
 ---
@@ -31,64 +31,6 @@ L’image ci-contre est un `!khwa ka xoro` (taureau d’eau). Cet animal aquatiq
 >
 > Le `|xam` est une langue `kémit` parlée par les `Khoïsan`.
 {.is-info}
-
-<figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
-   <figcaption>
-      !khau gwai (Kochel man en Afrikaans) dessiné au crayon ou au charbon par <i>Dia!kwain</i> (Mars 1875)
-   </figcaption>
-</figure>
-
-
-# Emprisonnement
-
-Vers ses 25 ans, ***Dia!kwain*** est jugé pour l’assassinat d’un fermier qui a menacé de tuer sa famille. Il est donc condamné à cinq ans de prison à la `Breakwater Convict Station` avec son beau-frère `≠kasin`. Le numéro de ***Dia!kwain*** est le 4434.
-Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoint `≠kasin` à `Mowbray`.[^1]
-
-<figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_!khwai-aityi-from-dia!kwain_public-domain.jpg">
-   <figcaption>
-      !khwai |aityi (femelle oryx gazelle) dessinée au crayon par <i>Dia!kwain</i> (Avril 1875)
-   </figcaption>
-</figure>
-
-# Travail de mémoire
-
-<figure class="image image-style-align-right image_resized" style="width: 33%;">
-   <img src="/images/art/drawing/!nussa-!e_kwa-_kkwara-gwai-from-dia!kwain_public-domain.jpg">
-   <figcaption>
-      Oiseau kwa-kkwara gwai<br/>
-      dessiné au charbon ou au crayon<br/>
-      <i>Dia!kwain</i> (Mars 1875)
-   </figcaption>
-</figure>
-
-***Dia!kwain*** permet aux `Bleek` et aux `Lloyd` de recenser plus de deux mille pages de récits et de dessins portant sur les `!nussa !e`.[^1]
-
-***Dia!kwain*** effectue deux séjours auprès des familles `Bleek` et `Lloyd`. Le premier commence le `25` `Décembre` `1873` et se termine en `Mars` `1874`. Son second séjour commence le `13` `Juin` `1874`. Il accompagne sa sœur `!kweiten ta ||ken`, son beau-frère `≠kasin` et les deux plus jeuns enfants de ce couple.
-Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famille quitte le quartier pour aller à « `Bushmanland` ».[^1]
-
-> **Le saviez-vous ?**[^10][^1][^2]
-> 
-> Il existe deux **Bushmanland** (une région et un bantoustan).
->
-> - Bushmanland, au nord de Cap : région [la plus] aride d’Afrique du Sud. Elle est située au nord de Cap. Le sol y est infertile et les eaux hautement salées.
-> - Bushmanland: le `bantoustan` créé en `1964` pour parquer les `San` pendant l’`appartheid`.
->
-> ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
-{.is-info}
-
-Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia`. Il y travaille pour le `Dr H Meyer` pendant un certain temps. Pendant son séjour, il a hâte de rendre visite à ses parents et de prendre des nouvelles de ses enfants. Au bout d’un moment, il finit par rendre visite à l’une de ses sœurs, laissant temporairement une partie de son salaire au `Dr Meyer`. Il quitte `Calvinia` dans l’idée d’y revenir avant d’aller à `Mowbray`. Néanmoins, jusqu’à ce jour, nous n’avons plus aucune trace de lui. Deux rumeurs planent au-dessus da sa disparition.[^1]
-
-- Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`. ***Dia!kwain*** s’est déjà occupé des moutons de cet homme. Par la suite, ils sont allés à `Kenhardt` puis à `Free State`. Peut-être que ***Dia!kwain*** retrouve son fils qu’il pense être dans cette région…
-- Selon `Janette Deacon`, ***Dia!kwain*** a été tué par les amis du fermier qu’il a lui-même tué par légitime défense quelques années plus tôt.
-
-<figure class="image image_resized" style="width: 100%;">
-   <img src="/images/art/drawing/!nussa-!e_!ga-and-toi-aityi-from-dia!kwain_public-domain.jpg">
-   <figcaption>
-      Un !ga (amphibien) et une Toi |aityi (femelle autruche) dessinés au crayon ou au charbon par <i>Dia!kwain</i> (Mai 1875)
-   </figcaption>
-</figure>
 
 La frise suivante relate des faits historiques liés à ***!kweiten ta ||ken***.[^4][^5][^6][^3][^7][^8][^9][^1][^2]
 
@@ -151,6 +93,64 @@ flowchart TB
    kTKOlderSons --> kTKInformator --> kTKLittleFamilyLeaveMowbray
    
 ```
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      !khau gwai (Kochel man en Afrikaans) dessiné au crayon ou au charbon par <i>Dia!kwain</i> (Mars 1875)
+   </figcaption>
+</figure>
+
+
+# Emprisonnement[^1]
+
+Vers ses 25 ans, ***Dia!kwain*** est jugé pour l’assassinat d’un fermier qui a menacé de tuer sa famille. Il est donc condamné à cinq ans de prison à la `Breakwater Convict Station` avec son beau-frère `≠kasin`. Le numéro de ***Dia!kwain*** est le 4434.
+Sur les cinq ans de prison, ***Dia!kwain*** en purge quatre. En `1873`, il rejoint `≠kasin` à `Mowbray`.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_!khwai-aityi-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      !khwai |aityi (femelle oryx gazelle) dessinée au crayon par <i>Dia!kwain</i> (Avril 1875)
+   </figcaption>
+</figure>
+
+# Travail de mémoire[^2][^10][^1]
+
+<figure class="image image-style-align-right image_resized" style="width: 33%;">
+   <img src="/images/art/drawing/!nussa-!e_kwa-_kkwara-gwai-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      Oiseau kwa-kkwara gwai<br/>
+      dessiné au charbon ou au crayon<br/>
+      <i>Dia!kwain</i> (Mars 1875)
+   </figcaption>
+</figure>
+
+***Dia!kwain*** permet aux `Bleek` et aux `Lloyd` de recenser plus de deux mille pages de récits et de dessins portant sur les `!nussa !e`.
+
+***Dia!kwain*** effectue deux séjours auprès des familles `Bleek` et `Lloyd`. Le premier commence le `25` `Décembre` `1873` et se termine en `Mars` `1874`. Son second séjour commence le `13` `Juin` `1874`. Il accompagne sa sœur `!kweiten ta ||ken`, son beau-frère `≠kasin` et les deux plus jeuns enfants de ce couple.
+Le `13` `Janvier` `1875`, ***Dia!kwain*** reste à `Mowbray` alors que sa famille quitte le quartier pour aller à « `Bushmanland` ».
+
+> **Le saviez-vous ?**
+> 
+> Il existe deux **Bushmanland** (une région et un bantoustan).
+>
+> - Bushmanland, au nord de Cap : région [la plus] aride d’Afrique du Sud. Elle est située au nord de Cap. Le sol y est infertile et les eaux hautement salées.
+> - Bushmanland: le `bantoustan` créé en `1964` pour parquer les `San` pendant l’`appartheid`.
+>
+> ***|han≠kass’o*** se rend dans le Bushmanland situé au nord de Cap.
+{.is-info}
+
+Le `7` `Mars` `1876`, ***Dia!kwain*** quitte Mowbray pour se rendre à `Calvinia`. Il y travaille pour le `Dr H Meyer` pendant un certain temps. Pendant son séjour, il a hâte de rendre visite à ses parents et de prendre des nouvelles de ses enfants. Au bout d’un moment, il finit par rendre visite à l’une de ses sœurs, laissant temporairement une partie de son salaire au `Dr Meyer`. Il quitte `Calvinia` dans l’idée d’y revenir avant d’aller à `Mowbray`. Néanmoins, jusqu’à ce jour, nous n’avons plus aucune trace de lui. Deux rumeurs planent au-dessus da sa disparition.
+
+- Selon `Jan Plat`, après être sorti de `Calvinia` avec Dia!kwain, ce dernier a accompagné un fermier nommé `Louw`. ***Dia!kwain*** s’est déjà occupé des moutons de cet homme. Par la suite, ils sont allés à `Kenhardt` puis à `Free State`. Peut-être que ***Dia!kwain*** retrouve son fils qu’il pense être dans cette région…
+- Selon `Janette Deacon`, ***Dia!kwain*** a été tué par les amis du fermier qu’il a lui-même tué par légitime défense quelques années plus tôt.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/art/drawing/!nussa-!e_!ga-and-toi-aityi-from-dia!kwain_public-domain.jpg">
+   <figcaption>
+      Un !ga (amphibien) et une Toi |aityi (femelle autruche) dessinés au crayon ou au charbon par <i>Dia!kwain</i> (Mai 1875)
+   </figcaption>
+</figure>
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
