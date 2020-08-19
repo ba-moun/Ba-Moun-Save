@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-08-19T13:22:32.771Z
+date: 2020-08-19T13:22:59.130Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -135,7 +135,7 @@ flowchart TB
 
 En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il s’installe à `Cape Town` avec sa femme `Jemima`. Sa sœur `Lucy Catherine Lloyd` le rejoindra plus tard. Cette dernière accompagnera `W. Bleek` dans ses travaux. À deux, ils mettent au point la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^8][^3]
 
-Au sud du continent, `Wilhelm Bleek` espère interroger des `Sans` captifs pour apprendre et décrire leurs langues. Néanmoins, ces prisonniers ne sont pas coopératifs.[^8]
+Au sud du continent, `Wilhelm Bleek` espère interroger des `Sans` captifs pour apprendre et décrire leurs langues. Néanmoins, ces captifs ne sont pas coopératifs.[^8]
 
 but they were uncooperative and conditions were not ideal for establishing a rapport. Louis Anything, magistrate of Namaqualand in the Cape and the first campaigner for |xam human rights, introduced Bleek to three captives brought in from the northern Cape for trial. It was from these men that Bleek compiled his first list of |xam words. Bleek was an intellectual and published scholar whose reputation had earned him the respect of the governor, who agreed to release |xam prisoners from work on the Cape Town breakwater into Bleek's custody for the purposes of research. In 1870, the first member of the Tooren Gang was relocated to Bleek's home where the process of teaching and learning the |xam language began.
 
