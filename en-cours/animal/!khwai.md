@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T11:17:11.958Z
+date: 2020-08-19T12:40:03.315Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
    </figcaption>
 </figure>
 
-Le ***!khwai*** est un bovidé dont l’habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
+Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
 Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
 - de grands traits noirs sur les flancs,
@@ -36,7 +36,7 @@ Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tê
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
 </figure>
 
-L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur les sciences de son peuple. Ces informations se trouvent dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
+L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`.  Ce dernier est un `Ss’wa ka !kui`. Il a participé au recensement d’informations dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Les informations partagées dans cette collection portent entre autre sur les sciences des `Ss’wa ka !kui`.[^6][^7][^10]
 
 > **Le saviez-vous ?**[^8][^9][^10]
 > 
