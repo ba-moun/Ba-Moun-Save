@@ -2,7 +2,7 @@
 title: Wilhelm Bleek
 description: Présentation de Wilhelm Bleek
 published: true
-date: 2020-08-13T08:03:20.190Z
+date: 2020-08-19T12:56:45.747Z
 tags: wilhelm, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, bleek, wilhelm bleek, blanc, linguiste, missionnaire
 editor: markdown
 ---
@@ -130,7 +130,7 @@ flowchart TB
    
 ```
 
-En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il y étudie les différences entre les langues locales, les `langues bantoues` et `xhosa`.[^3]
+En `1853`, ***Wilhelm Bleek*** va en `Afrique du Sud` et y occupe le poste de chercheur en linguistique. Il y étudie les différences entre les langues locales, les `langues bantoues` et `xhosa`. Il s’installe à `Cape Town` avec sa femme `Jemima`. Sa sœur `Lucy Catherine Lloyd` le rejoindra plus tard. Cette dernière accompagnera `W. Bleek` dans ses travaux. À deux, ils mettent au point la [Lloyd and Bleek Collection](http://lloydbleekcollection.cs.uct.ac.za).[^8][^3]
 
 [^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 
