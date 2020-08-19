@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-18T10:27:20.668Z
+date: 2020-08-19T11:17:11.958Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -38,16 +38,17 @@ Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tê
 
 L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui` qui a participé au recensement d’informations sur les sciences de son peuple. Ces informations se trouvent dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^6][^7]
 
-> **Le saviez-vous ?**[^8][^9]
+> **Le saviez-vous ?**[^8][^9][^10]
 > 
 > Les `Ss’wa ka !kui` font partie des `Sans`, les chasseurs-cueilleurs du sud ouest du continent. Les `Ss’wa ka !kui` ont été exterminés par les `Trekboers` (communauté de `huguenots`, de `protestants allemands` et de `néerlandais`).
 > Les `Trekboers` ont envahit le sud du continent et participé à l’extermination des `Sans` par :
 > 
 > - la traque et l’assasinat de `Sans`
 > - la mise en travail forcé de `Sans`
-> - la mise en famine de `Sans` par le vol de leurs terres et la chasse de leurs gibiers.
->
-> Voici le gibier que les `Trekboers` ont chassés pour se nourrir et pour le plaisir de chasser (« le sport ») :
+> - la mise en famine de `Sans` par le vol de leurs terres et la chasse volontairement intensive de gibiers.
+> 
+> Ci-dessous le gibier que les `Trekboers` ont chassés pour se nourrir et pour le plaisir de chasser (« le sport ») :
+> 
 > - le couagga,
 > - les autruches, 
 > - l’oryx gazelle,
@@ -55,8 +56,8 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 > - éland,
 > - springbok.
 > 
-> Certaines espèces comme le couagga sont à présent éteintes.
-`Trekboers`
+> Il s’avère que certaines espèces comme le couagga sont à présent éteintes.
+{.is-info}
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
@@ -75,3 +76,5 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 [^8]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
 
 [^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
+
+[^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
