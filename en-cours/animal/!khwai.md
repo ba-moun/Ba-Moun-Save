@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T12:48:36.461Z
+date: 2020-08-19T19:30:35.894Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -60,6 +60,8 @@ L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle pa
 > 
 > Il s’avère que certaines espèces comme le couagga sont à présent éteintes.
 {.is-info}
+
+Il arrive que des personnes chassent le ***!khwai*** pour le sport.[^3]
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
