@@ -2,14 +2,15 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-19T20:11:39.174Z
+date: 2020-08-20T09:52:08.073Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
 
 ![!nussa-!e_kwa-!khwai-from-dia!kwain_public-domain.jpg](/images/art/drawing/!nussa-!e_kwa-!khwai-from-dia!kwain_public-domain.jpg){.align-abstopright}
 
-***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
+> Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
+{.is-info}
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/animals/gemsbok/male-gemsbok-kgalagadi-from-gossipguy_cc-by-sa.png">
@@ -17,6 +18,8 @@ editor: markdown
      Mâle <i><b>!khwai</b></i>
    </figcaption>
 </figure>
+
+***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
 Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
@@ -31,44 +34,43 @@ Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
   - leurs scrotums apparants,
 - des femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
 
-<figure class="image image-style-align-left image_resized" style="width: 50%;">
+Le ***!khwai*** peut être chassé pour concerver ses cornes en trophé.
+Cette tradition vient des `Trekboers`. Ces derniers sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle.
+Pendant cette expansion , les `Trekboers` ont chassé le gibier par moment pour se nourir et par d’autres moments pour l’amour du sport. volontairement chassé de manière intensive le gibier qu’il trouvaient.[^3]
+
+L’illustration ci-dessous représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui`. Il a participé au recensement d’informations dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Les informations partagées dans cette collection portent entre autre sur les sciences des `Ss’wa ka !kui`.[^6][^7][^10]
+
+<figure class="image image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
 </figure>
 
-L’illustration ci-contre représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`.  Ce dernier est un `Ss’wa ka !kui`. Il a participé au recensement d’informations dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Les informations partagées dans cette collection portent entre autre sur les sciences des `Ss’wa ka !kui`.[^6][^7][^10]
-
-> **Le saviez-vous ?**[^8][^9][^10]
-> 
-> Les `Ss’wa ka !kui` font partie des `Sans`, les chasseurs-cueilleurs du sud ouest du continent. Ce mot signifie «  celui qui appartient au groupe de `|xam` et qui vit dans les plaines ». Par définition, les `Ss’wa ka !kui` sont donc des `Sans` des plaines.
-> Ce peuple a été exterminé par les `Trekboers` (communauté d’envahisseurs `huguenots [français]`, `protestants allemands` et `néerlandais`).
-> 
-> Les `Trekboers` ont envahit le sud du continent et participé à l’extermination des `Sans` par :
-> 
-> - la traque et l’assasinat de `Sans`
-> - la mise en travail forcé de `Sans`
-> - la mise en famine de `Sans` par le vol de leurs terres et la chasse volontairement intensive de gibiers.
-> 
-> Ci-dessous le gibier que les `Trekboers` ont chassés pour se nourrir et pour le plaisir de chasser (« le sport ») :
-> 
-> - le couagga,
-> - l’autruche, 
-> - l’oryx gazelle,
-> - le bubale,
-> - l’éland,
-> - le springbok.
-> 
-> Il s’avère que certaines espèces comme le couagga sont à présent éteintes.
-{.is-info}
-
-Il arrive que des personnes chassent le ***!khwai*** pour le sport.[^3]
-
 # Techniques de survie[^3]
 
-Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent. Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
-De plus, c’est un animal intelligent qui sait qu’il doit se mettre à l’ombre des arbres pour éviter d’avoir trop chaud. Il puit lui arriver de coucher son flan contre le sable frais qui est à l’ombre, dans le but de se rafraichir.
-Si jamais le ***!khwai*** est obligé de pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Il se positionne la plus infime partie de son corps possible sous les rayons du soleil. Par la même occasion, il trouve un moyen de placer la plus grande partie possible de son coprs dans la brise. Cela revient à ce qu’il se rafraichisse pendant qu’une petite partie de son corps chauffe au soleil.
+Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent.
 
-Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l’humidité maintenus dans les végétaux. De plus, de cette façon, l’animal dépense moins d’énergie et liquide qu’en pleine journée. C’est pratique pour éviter d’avoir à se dépenser pendant les périodes les plus chaudes de la journée.
+Ci-desosus quelques capacités dont dispose le ***!khwai*** pour se protéger des pics de chaleur pouvant atteindre les 40°C.[^11]
+
+## Onglets{.tabset}
+
+### Intellecte
+
+Le ***!khwai*** pâture principalement en pleine nuit. Il profite ainsi de l’humidité maintenue dans les végétaux. De plus, l’animal dépense moins d’énergie et de liquide qu’en pleine journée.
+
+Néanmoins, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. Ainsi, il se rafraichit plus qu’il ne réchauffe.
+
+Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable. Le sable frais situé à l’ombre lui permet de se rafraichir.
+
+### Physiologie
+
+#### La carotid rete
+
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamaus d’une telle température, le ***!khwai*** dispose d’une `carotid rete`. La `carotid rete` est une toile de vaisseaux sanguins qui fonctionnent comme un radiateur.
+
+Warm blood from the heart to the brain passes through this network of vessels. Veins that carry blood already cooled through evaporation (in the nasal area) surround the network. Heat is exchanged in this process and thus lowering the temperature of the blood to the brain. It is a very efficient way to protect the body and simultaneously avoid too much sweating (which has the result of fluid loss). 
+
+#### Jeûne à l’eau
+
+Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
@@ -84,8 +86,8 @@ Le ***!khwai*** pâturent principalement en pleine nuit. Il profite ainsi de l�
 
 [^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
-[^8]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
-
-[^9]: [Trekboers](https://fr.wikipedia.org/wiki/Trekboer). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `17` `Novembre` `2019` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Trekboer
-
 [^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
+
+[^11]: [Quand partir en Namibie ?](https://www.partir.com/Namibie/quand-partir.html). In Parti.com [en ligne]. Partir.com, [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.partir.com/Namibie/quand-partir.html
+
+[^12]: [Mammifère (Caractéristiques > Physiologie)](https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `14` `Août` `2020` [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie
