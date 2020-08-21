@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-20T09:52:08.073Z
+date: 2020-08-21T06:47:39.030Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -64,7 +64,9 @@ Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arri
 
 #### La carotid rete
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamaus d’une telle température, le ***!khwai*** dispose d’une `carotid rete`. La `carotid rete` est une toile de vaisseaux sanguins qui fonctionnent comme un radiateur.
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, le ***!khwai*** dispose d’une `carotid rete`.
+
+Le sang chaud sort du cœur pour arriver au cerveau en passant par la `carotid rete`. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la `carotid rete`. C’est à ce moment qu’il y a un échange de température. Les veines de la `carotid rete` récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La `carotid rete` est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La `carotid rete` permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
 
 Warm blood from the heart to the brain passes through this network of vessels. Veins that carry blood already cooled through evaporation (in the nasal area) surround the network. Heat is exchanged in this process and thus lowering the temperature of the blood to the brain. It is a very efficient way to protect the body and simultaneously avoid too much sweating (which has the result of fluid loss). 
 
