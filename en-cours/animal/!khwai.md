@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T07:36:01.116Z
+date: 2020-08-21T08:13:04.309Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -33,16 +33,6 @@ Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 	- leurs poids pouvant atteindre les 240 kg,
   - leurs scrotums apparants,
 - des femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
-
-Le ***!khwai*** peut être chassé pour concerver ses cornes en trophé.
-Cette tradition vient des `Trekboers`. Ces derniers sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle.
-Pendant cette expansion , les `Trekboers` ont chassé le gibier par moment pour se nourir et par d’autres moments pour l’amour du sport. volontairement chassé de manière intensive le gibier qu’il trouvaient.[^3]
-
-L’illustration ci-dessous représente un ***!khwai*** peint à l’aquarelle par `|han≠kass’o`. Ce dernier est un `Ss’wa ka !kui`. Il a participé au recensement d’informations dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Les informations partagées dans cette collection portent entre autre sur les sciences des `Ss’wa ka !kui`.[^6][^7][^10]
-
-<figure class="image image_resized" style="width: 50%;">
-   <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
-</figure>
 
 # Techniques de survie[^3]
 
@@ -83,7 +73,33 @@ Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
 L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
 
+# Prédateurs[^6][^7][^10][^3]
 
+<figure class="image image_resized image-style-align-right" style="width: 50%;">
+   <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
+  <figcaption>
+     <i><b>!khwai</b></i> femelle et mâle (de gauche à droite)<br/> peints par |han≠kass’o le 28 February 1879
+   </figcaption>
+</figure>
+
+Le ***!khwai*** fait parti des gibiers chassés par les `Sans` (chasseurs-ceuilleurs du sud-ouest du continent) pour s’alimenter.
+
+Le ***!khwai*** est aussi chassé pour le sport.
+Cette tradition a été amemée par les `Trekboers`.
+À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophé.
+
+Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle.Pendant leur expansion, les `Trekboers` ont chassé le gibier par moment pour se nourir et par d’autres moments pour l’amour du sport. Cette chasse volontairement intensive a causé le génocide de certains peuples `Sans`.
+
+> **Le saviez-vous ?**[^9]
+>
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/animals/quagga/quagga-female-in-london-zoo_public-domain.jpg"><figcaption>Femelle couagga<br/>en captivité dans le zoo de Londres</figcaption></figure>
+>
+> Le couagga fait partie des gibiers chassés intensivement par les `Trekboers`.
+> 
+> L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
+> 
+> Cela revient à environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
+{.is-info}
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
@@ -100,6 +116,8 @@ L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il pr
 [^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
 [^8]: [L'écophysio, c'est chaud!](http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud). In [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?) [en ligne]. [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?), publié le `13` `Novembre` `2017` [consulté le `21` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud
+
+[^9]: [Equus quagga quagga](https://fr.wikipedia.org/wiki/Couagga). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `24` `Avril` `2020` [consulté le `21` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Couagga
 
 [^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
 
