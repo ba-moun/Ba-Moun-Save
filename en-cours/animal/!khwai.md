@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T08:13:04.309Z
+date: 2020-08-21T08:16:11.999Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -42,6 +42,10 @@ Ci-desosus quelques capacités dont dispose le ***!khwai*** pour se protéger de
 
 ## Onglets{.tabset}
 
+### Environnement
+
+L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
+
 ### Intellecte
 
 Le ***!khwai*** pâture principalement en pleine nuit. Il profite ainsi de l’humidité maintenue dans les végétaux. De plus, l’animal dépense moins d’énergie et de liquide qu’en pleine journée.
@@ -69,10 +73,6 @@ Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!
 
 Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
-### Environnement
-
-L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
-
 # Prédateurs[^6][^7][^10][^3]
 
 <figure class="image image_resized image-style-align-right" style="width: 50%;">
@@ -92,10 +92,11 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 
 > **Le saviez-vous ?**[^9]
 >
-> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/animals/quagga/quagga-female-in-london-zoo_public-domain.jpg"><figcaption>Femelle couagga<br/>en captivité dans le zoo de Londres</figcaption></figure>
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/animals/quagga/quagga-female-in-london-zoo_public-domain.jpg"></figure>
 >
 > Le couagga fait partie des gibiers chassés intensivement par les `Trekboers`.
 > 
+> Ci-contre une femelle cougga en captivité au `zoo de Londres`.
 > L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 > 
 > Cela revient à environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
