@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T06:58:23.947Z
+date: 2020-08-21T07:09:30.022Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -60,6 +60,7 @@ Néanmoins, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une
 
 Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable. Le sable frais situé à l’ombre lui permet de se rafraichir.
 
+
 ### Physiologie
 
 #### La carotid rete
@@ -67,6 +68,10 @@ Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arri
 Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, le ***!khwai*** dispose d’une `carotid rete`.
 
 Le sang chaud sort du cœur pour arriver au cerveau en passant par la `carotid rete`. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la `carotid rete`. C’est à ce moment qu’il y a un échange de température. Les veines de la `carotid rete` récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La `carotid rete` est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La `carotid rete` permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
+
+#### L’halètement
+
+Pour se refroidir lors d’un combat ou lors d’une fuite, le ***!khwai*** peut être amené à haleter pour se refroidir le corps. Néanmoins, cette technique lui fait perdre du liquide. Par conséquent, il n’utilise cette technique qu’en cas d’urgence.
 
 #### Jeûne à l’eau
 
