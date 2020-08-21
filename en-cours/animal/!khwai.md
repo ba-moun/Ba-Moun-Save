@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T07:20:10.550Z
+date: 2020-08-21T07:28:29.755Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -65,13 +65,13 @@ Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arri
 
 #### La carotid rete
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, le ***!khwai*** dispose d’une `carotid rete`.
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, le ***!khwai*** dispose d’une carotid rete.
 
-Le sang chaud sort du cœur pour arriver au cerveau en passant par la `carotid rete`. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la `carotid rete`. C’est à ce moment qu’il y a un échange de température. Les veines de la `carotid rete` récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La `carotid rete` est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La `carotid rete` permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
+Le sang chaud sort du cœur pour arriver au cerveau en passant par la carotid rete. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la carotid rete. C’est à ce moment qu’il y a un échange de température. Les veines de la carotid rete récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
 
 #### L’halètement
 
-Pour halèter, un ***!khwai*** garde sa gueule ouverte tout en respirant rapidement et superficiellement. Cette technique lui permet d’accélérer l’évaporation de l’eau présente sur la langue et des voies respiratoires supérieures. Cela a pour effet de réguler la température de l’animal.
+Pour halèter, un ***!khwai*** garde sa gueule ouverte tout étant en polypnée (respiration rapidement et superficielle). Cette technique lui permet d’accélérer l’évaporation de l’eau présente sur la langue et des voies respiratoires supérieures. Cela a pour effet de réguler la température de l’animal.
 
 Néanmoins, cette technique lui fait perdre du liquide précieux pour sa survie. Par conséquent, le ***!khwai*** halète uniquement en cas d’urgence, par exemple lors d’un combat ou lors d’une fuite.
 
