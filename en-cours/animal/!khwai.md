@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T07:29:32.012Z
+date: 2020-08-21T07:34:39.311Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -69,11 +69,11 @@ Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanm
 
 Le sang chaud sort du cœur pour arriver au cerveau en passant par la carotid rete. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la carotid rete. C’est à ce moment qu’il y a un échange de température. Les veines de la carotid rete récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
 
-#### L’halètement
+#### L’halètement[^8]
 
-Pour halèter, un ***!khwai*** garde sa gueule ouverte tout étant en polypnée (respiration rapidement et superficielle). Cette technique lui permet d’accélérer l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée. Cela a pour effet de réguler la température de l’animal.
+Pour halèter, un ***!khwai*** garde sa gueule ouverte tout étant en polypnée (respiration rapide et superficielle). Cette technique lui permet d’accélérer l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée. Cela a pour effet de réguler la température de l’animal.
 
-Néanmoins, cette technique lui fait perdre du liquide précieux pour sa survie. Par conséquent, le ***!khwai*** halète uniquement en cas d’urgence, par exemple lors d’un combat ou lors d’une fuite.
+Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!khwai***. Par conséquent, il n’halète qu’en cas d’urgence, par exemple lors d’un combat ou d’une fuite.
 
 #### Jeûne à l’eau
 
@@ -96,6 +96,8 @@ L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il pr
 [^6]: [Drawings, Image: UCTLB_W_h002](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html
 
 [^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
+
+[^8]: [L'écophysio, c'est chaud!](http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud). In [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?) [en ligne]. [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?), publié le `13` `Novembre` `2017` [consulté le `21` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud
 
 [^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
 
