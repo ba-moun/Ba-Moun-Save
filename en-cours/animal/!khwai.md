@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T07:28:29.755Z
+date: 2020-08-21T07:29:32.012Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -71,7 +71,7 @@ Le sang chaud sort du cœur pour arriver au cerveau en passant par la carotid re
 
 #### L’halètement
 
-Pour halèter, un ***!khwai*** garde sa gueule ouverte tout étant en polypnée (respiration rapidement et superficielle). Cette technique lui permet d’accélérer l’évaporation de l’eau présente sur la langue et des voies respiratoires supérieures. Cela a pour effet de réguler la température de l’animal.
+Pour halèter, un ***!khwai*** garde sa gueule ouverte tout étant en polypnée (respiration rapidement et superficielle). Cette technique lui permet d’accélérer l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée. Cela a pour effet de réguler la température de l’animal.
 
 Néanmoins, cette technique lui fait perdre du liquide précieux pour sa survie. Par conséquent, le ***!khwai*** halète uniquement en cas d’urgence, par exemple lors d’un combat ou lors d’une fuite.
 
