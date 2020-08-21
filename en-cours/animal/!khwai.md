@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T07:09:30.022Z
+date: 2020-08-21T07:20:10.550Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella
 editor: markdown
 ---
@@ -71,7 +71,9 @@ Le sang chaud sort du cœur pour arriver au cerveau en passant par la `carotid r
 
 #### L’halètement
 
-Pour se refroidir lors d’un combat ou lors d’une fuite, le ***!khwai*** peut être amené à haleter pour se refroidir le corps. Néanmoins, cette technique lui fait perdre du liquide. Par conséquent, il n’utilise cette technique qu’en cas d’urgence.
+Pour halèter, un ***!khwai*** garde sa gueule ouverte tout en respirant rapidement et superficiellement. Cette technique lui permet d’accélérer l’évaporation de l’eau présente sur la langue et des voies respiratoires supérieures. Cela a pour effet de réguler la température de l’animal.
+
+Néanmoins, cette technique lui fait perdre du liquide précieux pour sa survie. Par conséquent, le ***!khwai*** halète uniquement en cas d’urgence, par exemple lors d’un combat ou lors d’une fuite.
 
 #### Jeûne à l’eau
 
