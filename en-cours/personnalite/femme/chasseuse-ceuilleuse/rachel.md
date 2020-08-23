@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-23T13:32:42.345Z
+date: 2020-08-23T13:33:23.662Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -65,7 +65,7 @@ flowchart TB
       
    kweitenTaKenInMowbray["13 Juin 1874 : !kweiten ta ||ken est à Mowbray
       avec Dia!kwain (son frère), ≠kassin (son mari)
-      et deux de ses enfants (âgés de six ans et deux ans)"]
+      et deux de ses enfants (âgés de six et deux ans)"]
                
    kTKOlderSons["25 Oct. 1874 : Les deux grands fils de !kweiten ta ||ken
       rejoignent le reste de la famille à Mowbray"]
