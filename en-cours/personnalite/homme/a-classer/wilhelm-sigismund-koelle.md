@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-08-23T12:21:52.743Z
+date: 2020-08-23T13:10:20.011Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 ***Wilhelm Sigismund Koelle*** est né dans les années `1820` et mort le `18` `février` `1902`. En `1847`, il est envoyé en `Sierra Leone` en tant que missionnaire allemand. Il y réalise un travail de regroupement des langues ouest-africaines, avec `Wilhelm Bleek`.[^1][^2][^5]
 
 > **Le saviez-vous ?**
-> De `1808` à `1961`, la `Sierra Leone` est un protectorat Britanique.[^3][^2]
+> De `1808` à `1961`, la `Sierra Leone` est un protectorat Britannique.[^3][^2]
 {.is-info}
 
 Alors qu’il enseigne à `l’Université de Fourah Bay`, ***W.S. Koelle*** collecte moult informations sur les langues Africaines.
