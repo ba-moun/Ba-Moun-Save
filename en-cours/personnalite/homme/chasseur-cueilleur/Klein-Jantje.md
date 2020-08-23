@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-10T22:30:18.914Z
+date: 2020-08-23T12:38:26.869Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
 
 ***|han≠kass’o*** fait parti des informateurs qui ont permis aux `Lloyd` et aux `Bleek` de réaliser leur [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
-L’image ci-contre est une des illustration réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle représente, de haut en bas, des `xerru` (lycaon) mâle et femelle dessinnés au crayon par ***|han≠kass’o***.[^5]
+L’image ci-contre est une des illustrations réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle représente, de haut en bas, des `xerru` (lycaon) mâle et femelle dessinnés au crayon par ***|han≠kass’o***.[^5]
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
@@ -85,7 +85,7 @@ flowchart TB
   
    hKOInformEnd["Décembre 1879 : |han≠kass’o cesse de
       donner des informations sur son peuple
-      afin rejoindre son fils qui est forcé de travailler dans une ferme"]
+      afin de rejoindre son fils qui est forcé de travailler dans une ferme"]
       
    khoisanArrive --> grassland --> amaXhosa -->
    europeanInvasion --> 17thCentury --> boersConflict -->
@@ -132,7 +132,7 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
 
 Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur autre enfant `!hu !hun` reste à Vanwyksvlei avec des amis.
-Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle,a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.[^1]
+Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle, a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.[^1]
 
 <figure class="image image-style-align-left image_resized" style="width: 30%;"><img src="/images/art/drawing/ss’wa-ka-!kui_han≠kass'o-drawing_public-domain.png"></figure>
 
