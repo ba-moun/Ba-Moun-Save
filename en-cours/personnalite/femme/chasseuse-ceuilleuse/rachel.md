@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-23T13:26:39.788Z
+date: 2020-08-23T13:30:04.576Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -53,7 +53,7 @@ flowchart TB
    boersConflict["1779 : Début des relations conflictuelles entre
       les autochtones et les envahisseurs Trekboers"]
       
-   europeanFightInZABegin["1795 : Les Britaniques et les Néerlandais
+   europeanFightInZABegin["1795 : Les Britanniques et les Néerlandais
       commencent à se disputer le sud de l’Afrique"]
    
 
