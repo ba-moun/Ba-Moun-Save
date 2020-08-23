@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-10T16:59:10.257Z
+date: 2020-08-23T13:26:39.788Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -33,7 +33,7 @@ flowchart TB
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
       (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-      (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+      (équivaut à l’Est de l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
       de l’espace occupé par l’Afrique du Sud 🇿🇦"]
