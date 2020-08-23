@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-08-04T17:28:47.116Z
+date: 2020-08-23T12:21:52.743Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
@@ -66,5 +66,5 @@ flowchart TB
 [^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
 [^2]: [Sigismund Koelle](https://en.wikipedia.org/wiki/Sigismund_Koelle). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `22` `Mars` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sigismund_Koelle
 [^3]: [Sierra Leone Colony and Protectorate](https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `18` `Juillet` `2020` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Sierra_Leone_Colony_and_Protectorate
-[^4]: [Ali Eisami](https://en.wikipedia.org/wiki/Ali_Eisami). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Décembre` `2019` [consulté le `28` `Juillet` `2020`]. Dispnible sur : https://en.wikipedia.org/wiki/Ali_Eisami
+[^4]: [Ali Eisami](https://en.wikipedia.org/wiki/Ali_Eisami). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Décembre` `2019` [consulté le `28` `Juillet` `2020`]. Disponible sur : https://en.wikipedia.org/wiki/Ali_Eisami
 [^5]: ***Wilhelm Sigismund Koelle*** ET `Ali Eisami Gazirmabe`. [Grammar of the Bórnu Or Kānurī Language](https://books.google.fr/books?id=JiFKAAAAcAAJ&pg=PR8&redir_esc=y#v=onepage&q&f=false). `LONDON CHURCH MISSONIARY HOUSE, SALISBURY SQUARE`, `1854`. 326 p.
