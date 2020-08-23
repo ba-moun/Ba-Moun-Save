@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-23T12:41:33.809Z
+date: 2020-08-23T12:50:54.941Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -129,7 +129,7 @@ En `1870`, ***|han≠kass’o*** se retrouve dans la prison `Breakwater Convict 
 
 <figure class="image image-style-align-right"><img src="/images/personnalite/kemit/han≠kass’o/han≠kass’o-alias-klein-jantje-looking-right_public-domain.jpg"> <figcaption>Portrait de <br/><i><b>|han≠kass’o</b></i></figcaption></figure>
 
-À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Jan.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
+À sa sortie de prison en `1871`, ***|han≠kass’o*** accompagné de sa femme `Suobba-||kein` vont à Bushmanland. Néanmoins, après la mort de son beau-père `||kabbo` en `1876`, ***|han≠kass’o*** est utilisé comme informateur pour remplacer `||kabbo`. Ainsi, de `Janv.` `1878` à `Déc.` `1879`, ***|han≠kass’o*** fournit des informations linguistiques et historiques à `L.C. Lloyd` et aux `Bleek`.
 
 Par conséquent, ***|han≠kass’o*** et sa femme `Suobba-||kein` ne sont plus à Bushmanland. En `Avril` `1877`, ils se rendent donc chez les Lloyd (Cap) en passant par Vanwyksvlei (près de Kenhardt) avec leur bébé. Leur autre enfant `!hu !hun` reste à Vanwyksvlei avec des amis.
 Alors que la famille fait route vers Cap, un policier frappe sévèrement `Suobba-||kein`. Leur bébé décède au cours de l'aggression. `Suobba-||kein` , quant à elle, a été si sévèrement battue qu’elle ne peut pas reprendre la route. Elle et son mari sont contraints de rester à Beaufort West. En `Décembre` `1877`, `Suobba-||kein` succombe à son tour. Le `10` `Janvier` `1878`, ***|han≠kass’o*** arrive seul à Mowbray ; il a alors une trentaine d’année.[^1]
