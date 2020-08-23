@@ -2,7 +2,7 @@
 title: |han≠kass’o
 description: Présentation de |han≠kass’o
 published: true
-date: 2020-08-23T12:38:26.869Z
+date: 2020-08-23T12:41:33.809Z
 tags: wilhelm, bleek, wilhelm bleek, |han≠kass’o, klein jantje, klein, jantje, flat bushman, bushman, bochiman, san, |xam, !kaugen ss'o, ||kabbo, petit fils de ||kabbo, khoïsan, lucy, catherine, lloyd, l.c. lloyd, lucy catherine lloyd, famille bleek, dorothea francis bleek, d.f. bleek, dorothea, francis, suobba-||kein, witbooy touren, witbooy, touren, breakwater convict station, bushmanland, lucy c. lloyd, lucy lloyd, lloyd and bleek collection, collection, narrateur, chasseur-cueilleur, w. bleek, ss'wa ka !kui
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
 
 ***|han≠kass’o*** fait parti des informateurs qui ont permis aux `Lloyd` et aux `Bleek` de réaliser leur [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^1]
 
-L’image ci-contre est une des illustrations réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle représente, de haut en bas, des `xerru` (lycaon) mâle et femelle dessinnés au crayon par ***|han≠kass’o***.[^5]
+L’image ci-contre est une des illustrations réalisées par ***|han≠kass’o*** et sauvegardée dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Elle représente, de haut en bas, des `xerru` (lycaon) mâle et femelle dessinés au crayon par ***|han≠kass’o***.[^5]
 
 La liste suivante relate des événements historiques liés à ***|han≠kass’o***.[^3][^6][^4][^2]
 
