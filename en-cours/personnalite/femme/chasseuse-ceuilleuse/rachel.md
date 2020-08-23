@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-23T13:33:23.662Z
+date: 2020-08-23T13:35:05.588Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -70,7 +70,7 @@ flowchart TB
    kTKOlderSons["25 Oct. 1874 : Les deux grands fils de !kweiten ta ||ken
       rejoignent le reste de la famille à Mowbray"]
    
-   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken rpartage avec les familles Bleek et Lloyd
+   kTKInformator["Déc. 1874 − Jan. 1875 : !kweiten ta ||ken  partage avec les familles Bleek et Lloyd
       des informations sur les !nussa !e
       (|xam coutumes féminines, rituels féminins, expériences féminines,…)"]
       
