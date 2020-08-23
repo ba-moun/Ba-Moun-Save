@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-08-23T13:21:56.972Z
+date: 2020-08-23T13:24:10.633Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
