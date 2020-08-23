@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2020-08-23T13:36:22.785Z
+date: 2020-08-23T13:40:19.083Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 ---
@@ -101,7 +101,7 @@ N’appréciant pas son séjour à `Cap`, le `13` `Janvier` `1875`, ***!kweiten 
 > ***Le saviez-vous ?***[^1]
 > 
 > Les informations divulguées par ***!kweiten ta ||ken*** sont dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za). Deux cahiers de la collection portent sur les sujets abordés par ***!kweiten ta ||ken***.
-> On y trouve des informations sur les jeunes filles, les activités féminines et les rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peupele a utilisé pour peindre les jeunes hommes.
+> On y trouve des informations sur les jeunes filles, les activités féminines et les rituels `!nussa !e`. Parmi ces rituels, ***!kweiten ta ||ken*** parle de l’hématite rouge que son peuple a utilisé pour peindre les jeunes hommes.
 {.is-info}
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
