@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2020-08-23T13:11:46.566Z
+date: 2020-08-23T13:13:54.663Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 Alors qu’il enseigne à `l’Université de Fourah Bay`, ***W.S. Koelle*** collecte moult informations sur les langues Africaines.
 Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismund Koelle*** étudie la grammaire `kanuri`. Cela lui permet de publier l'ouvrage `Grammar of the Bórnu Or Kānurī Language` en `1854`.[^5][^4][^1][^2]
 
-Ci-dessous une frise chronologique retraçant des événements historiques liées à ***Wilhelm Sigismund Koelle***.
+Ci-dessous une frise chronologique retraçant des événements historiques liés à ***Wilhelm Sigismund Koelle***.
 
 ```mermaid
 flowchart TB
