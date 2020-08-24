@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-24T06:28:22.888Z
+date: 2020-08-24T09:05:01.038Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -69,7 +69,7 @@ Le ***!khwai*** halète en gardant sa gueule ouverte tout étant en étant en po
 
 Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!khwai***. Par conséquent, l’animal n’halète qu’en cas d’urgence, par exemple lors d’un combat ou d’une fuite.
 
-#### Cornets nasaux et `Carotid rete mirabile`[^13][^14]
+#### Cornets nasaux et `Carotid rete mirabile`[^13]
 
 Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le museau de l’animal. Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
@@ -152,5 +152,3 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 [^12]: [Mammifère (Caractéristiques > Physiologie)](https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `14` `Août` `2020` [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie
 
 [^13]: [Rete mirabile](https://fr.wikipedia.org/wiki/Rete_mirabile). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Avril` `2018` [consulté le `24` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Rete_mirabile
-
-[^14]: [Baby, it’s cold outside](http://www.sheldrakecenter.org/tag/woodpecker/). In [SHELDRAKE environmental center](http://www.sheldrakecenter.org/) [en ligne]. [SHELDRAKE environmental center](http://www.sheldrakecenter.org/), `23` `Février` `2017` [consulté le `24` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : http://www.sheldrakecenter.org/tag/woodpecker/
