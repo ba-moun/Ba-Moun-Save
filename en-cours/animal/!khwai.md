@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-24T04:51:26.822Z
+date: 2020-08-24T05:31:16.802Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -57,28 +57,30 @@ Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arri
 
 ### Physiologie[^8]
 
-#### La `carotid rete mirabile`[^13]
+#### `Carotid rete mirabile` et cornets nasaux[^13]
 
 La `carotid rete mirabile` vient du `latin` et peut se traduire par « filet cérébrale incroyable ».
-C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
+C’est un système d’artères et de veines se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
 À l’emplacement de la `carotid rete mirabile` :
 
 - soit les veines enveloppent les artères,
 - soit les veines et les artères se traversent mutuellement.
 
 D’un côté il y a le sang chaud contenu dans les artères et irrigant la tête.
-De l’autre côté il y a du sang refroidi et contenu dans les veines. Le refroidissement du sang contenu dans les veines est dû au 
 
-Ce système permet au ***!khwai*** de refroidir sa température et tout particulièrement son hypotalamus en refroidissant son sang.
+De l’autre côté il y a du sang refroidi et contenu dans les veines. Ce refroidissement se réalise comme suit :
 
-Les veines passent passe par les cornets nasaux du ***!khwai***. 
+1. L’air inhalé par l’animal s’egouffre dans les cavités nasales.
+2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
+3. Une évaporation et une radiation thermique (échange de chaleur) s’effectuent entre l’air et les musqueuses du cornet nasal.
+4. Le refroidissement des muqueuses engendre le refroidissement des veines qui s’y trouvent.
 
-ceux-ci sont essentiellement traversés par un système veineux. Chez les moutons, les gazelles et d’autres ruminants vivant dans des conditions désertiques, les très nombreuses veinules qui traversent leurs cornets transportera du sang qui se retrouve refroidi car en contact avec les cornets nasaux eux même refroidis par l'évaporation locale.
-le sang contenu dans les veines passe par le sang chaud des artères (donc qui sort du cœur) croise celui des veines
+Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
+Le sang refroidi indirectement par l’air quitte le museau pour atteindre la `carotid rete mirabile`. Les veines situées dans la `carotide rete mirabile` récupèrent donc l’excès de chaleur des artères avant que le sang n’ateigne le cerveau.
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, l’animal dispose d’un radiateur naturel : la `carotid rete mirabile`.
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa `carotid rete mirabile`. Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
 
-Le sang chaud sort du cœur pour arriver au cerveau en passant par la carotid rete. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la carotid rete. C’est à ce moment qu’il y a un échange de température. Les veines de la carotid rete récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
+ La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
 
 #### L’halètement
 
