@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-21T10:18:16.077Z
+date: 2020-08-24T04:51:26.822Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -55,15 +55,32 @@ Néanmoins, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une
 Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable. Le sable frais situé à l’ombre lui permet de se rafraichir.
 
 
-### Physiologie
+### Physiologie[^8]
 
-#### La carotid rete
+#### La `carotid rete mirabile`[^13]
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, le ***!khwai*** dispose d’une carotid rete.
+La `carotid rete mirabile` vient du `latin` et peut se traduire par « filet cérébrale incroyable ».
+C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
+À l’emplacement de la `carotid rete mirabile` :
+
+- soit les veines enveloppent les artères,
+- soit les veines et les artères se traversent mutuellement.
+
+D’un côté il y a le sang chaud contenu dans les artères et irrigant la tête.
+De l’autre côté il y a du sang refroidi et contenu dans les veines. Le refroidissement du sang contenu dans les veines est dû au 
+
+Ce système permet au ***!khwai*** de refroidir sa température et tout particulièrement son hypotalamus en refroidissant son sang.
+
+Les veines passent passe par les cornets nasaux du ***!khwai***. 
+
+ceux-ci sont essentiellement traversés par un système veineux. Chez les moutons, les gazelles et d’autres ruminants vivant dans des conditions désertiques, les très nombreuses veinules qui traversent leurs cornets transportera du sang qui se retrouve refroidi car en contact avec les cornets nasaux eux même refroidis par l'évaporation locale.
+le sang contenu dans les veines passe par le sang chaud des artères (donc qui sort du cœur) croise celui des veines
+
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C. Pour protéger son hypothalamus d’une telle température, l’animal dispose d’un radiateur naturel : la `carotid rete mirabile`.
 
 Le sang chaud sort du cœur pour arriver au cerveau en passant par la carotid rete. Grâce au système d’évaporation qui se situe dans la zone nasale, les veines contienent un sang plus froid. Ce sang plus froid entoure la carotid rete. C’est à ce moment qu’il y a un échange de température. Les veines de la carotid rete récupèrent l’excès de chaleur avant qu’elle n’ateigne le cerveau. La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
 
-#### L’halètement[^8]
+#### L’halètement
 
 L’halètement est une des techniques utilisées par le ***!khwai*** pour réguler sa température corporelle.
 
@@ -127,3 +144,5 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 [^11]: [Quand partir en Namibie ?](https://www.partir.com/Namibie/quand-partir.html). In Parti.com [en ligne]. Partir.com, [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.partir.com/Namibie/quand-partir.html
 
 [^12]: [Mammifère (Caractéristiques > Physiologie)](https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `14` `Août` `2020` [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie
+
+[^13]: [Rete mirabile](https://fr.wikipedia.org/wiki/Rete_mirabile). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Avril` `2018` [consulté le `24` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Rete_mirabile
