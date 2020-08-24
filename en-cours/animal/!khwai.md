@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-24T05:31:16.802Z
+date: 2020-08-24T06:16:12.057Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -57,32 +57,11 @@ Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arri
 
 ### Physiologie[^8]
 
-#### `Carotid rete mirabile` et cornets nasaux[^13]
+#### Jeûne à l’eau
 
-La `carotid rete mirabile` vient du `latin` et peut se traduire par « filet cérébrale incroyable ».
-C’est un système d’artères et de veines se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
-À l’emplacement de la `carotid rete mirabile` :
+Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
-- soit les veines enveloppent les artères,
-- soit les veines et les artères se traversent mutuellement.
-
-D’un côté il y a le sang chaud contenu dans les artères et irrigant la tête.
-
-De l’autre côté il y a du sang refroidi et contenu dans les veines. Ce refroidissement se réalise comme suit :
-
-1. L’air inhalé par l’animal s’egouffre dans les cavités nasales.
-2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
-3. Une évaporation et une radiation thermique (échange de chaleur) s’effectuent entre l’air et les musqueuses du cornet nasal.
-4. Le refroidissement des muqueuses engendre le refroidissement des veines qui s’y trouvent.
-
-Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
-Le sang refroidi indirectement par l’air quitte le museau pour atteindre la `carotid rete mirabile`. Les veines situées dans la `carotide rete mirabile` récupèrent donc l’excès de chaleur des artères avant que le sang n’ateigne le cerveau.
-
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa `carotid rete mirabile`. Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
-
- La carotid rete est donc un réseau d’artères et de veines qui fonctionne comme un radiateur. La carotid rete permet donc au ***!khwai*** de protéger son corps tout en l’évitant de perdre trop de liquide en transpirant.
-
-#### L’halètement
+#### Halètement
 
 L’halètement est une des techniques utilisées par le ***!khwai*** pour réguler sa température corporelle.
 
@@ -90,9 +69,34 @@ Le ***!khwai*** halète en gardant sa gueule ouverte tout étant en étant en po
 
 Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!khwai***. Par conséquent, l’animal n’halète qu’en cas d’urgence, par exemple lors d’un combat ou d’une fuite.
 
-#### Le jeûne à l’eau
+#### Cornets nasaux et `Carotid rete mirabile`[^13]
 
-Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
+Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le museau de l’animal. Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
+
+1. L’air inhalé par l’animal s’egouffre dans les cavités nasales.
+2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
+3. Une évaporation et une radiation thermique (échange de chaleur) s’effectuent entre l’air et les musqueuses du cornet nasal.
+4. Le refroidissement des muqueuses engendre le refroidissement des veines qui s’y trouvent.
+
+Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
+
+Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
+
+À l’emplacement de la `carotid rete mirabile` :
+
+- soit les veines enveloppent les artères,
+- soit les veines et les artères se traversent mutuellement.
+
+> Cela varie en fonction de la documentation.
+{.is-info}
+
+Quoi qu’il en soit, il y a d’un côté le sang chaud contenu dans les artères, qui sort du cœur et se dirige vers la tête. De l’autre côté il y a du sang refroidi indirectement par l’air enchevêtré dans les cornets nasaux.
+Par conséquent, la `carotid rete mirabile` fournit une convection thermique entre le sang refroidi des veines et le sang chaud des artères.
+
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
+En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
+
+ Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
 
 # Prédateurs[^6][^7][^10][^3]
 
