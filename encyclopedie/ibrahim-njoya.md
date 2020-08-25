@@ -2,20 +2,14 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-07-25T21:58:18.027Z
+date: 2020-08-25T11:34:21.996Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
 
-![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya_public-domain.jpg){.align-abstopright}
+![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg){.align-abstopright}
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
-   <img src="/images/monument/palais-des-sultants-bamoun_cc-by-sa.jpg">
-   <figcaption>
-      Palais des sultans Bamoun<br/>
-      Construit sous le règne de Ibrahim Njoya
-   </figcaption>
-</figure>
+![ibrahim-njoya_public-domain.jpg](/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya_public-domain.jpg){.align-right}
 
 Le *roi Ibrahim Njoya* (ou *Sultan Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933` (`calendrier grégorien`). Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
 
@@ -52,8 +46,9 @@ flowchart TB
         
    careOrder["Destitution du Roi Ibrahim Njoya par les envahisseurs Français"]
         
-   treaty["5 Avril 1931 (55 ans) : MARCHAND (représentant de l'état français) signe un traité ordonnant l’exil du
-   Roi Ibrahim Njoya par les chefs de six conscriptions coloniales"]
+   treaty["5 Avril 1931 (55 ans) : MARCHAND (représentant de l'état français)
+   signe un traité ordonnant l’exil du Roi Ibrahim Njoya
+   par les chefs de six conscriptions coloniales"]
    
    death["30 Mai 1933 (57 ans) : le Roi Ibrahim Njoya rejoint les ancêtres"]
    
@@ -68,6 +63,14 @@ En `1915` (`calendrier grégorien`), le *Sultan Ibrahim NJOYA* souhaite renforce
 # Monuments
 
 Durant son règne, le *Sultan Ibrahim Njoya* construit le `palais des sultans Bamoun`. Celui-ci se trouve à Foumban, au Cameroun 🇨🇲. Le palais est classé patrimoine mondial par l'UNESCO.[^1]
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/monument/palais-des-sultants-bamun/palais-des-sultants-bamoun-by-ba-moun_cc-by-sa.jpg">
+   <figcaption>
+      Dessin au crayon du palais des sultans Bamoun construit sous le règne de Ibrahim Njoya<br/>
+      Par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
+   </figcaption>
+</figure>
 
 # Sciences
 
@@ -95,31 +98,31 @@ Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` devi
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/writing/bamun/bamum-syllabary.png">
    <figcaption>
-      Shu-mom (écriture syllabique)
+      Shu-mom (écriture syllabique des Bamoun)
    </figcaption>
 </figure>
 
 Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`. Une opposition `Bamoun` prend place contre l'invasion des Français dans le royaume.
-Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` a fait face à une `guerre civile` puis à la `première guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
+Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` a fait face à une `guerre civile` puis à la première `guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
 Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le traité de paix en complotant contre le *Sultan Ibrahim Njoya*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
 
-* interdisent l'enseignement du `shu-mom` ;
+* interdisent l'enseignement du shu-mom ;
 * interdisent le `Ngouon` (fête `Bamoun`) ;
 * divisent le royaume en chefferies supérieures ;
-* construisent une route principale passant à l'intérieur du `palais du *Sultan Ibrahim Njoya*`.
+* construisent une route principale passant à l'intérieur du palais du ***Sultan Ibrahim Njoya***.
 
-Par peur d'une révolte populaire et pour démanteler le pouvoir du *Sultan Ibrahim Njoya*, les envahisseurs français manigancent une destitution. Ils enrôlent donc des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir. La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la légion d’honneur.[^2]
+Par peur d'une révolte populaire et pour démanteler le pouvoir du ***Sultan Ibrahim Njoya***, les envahisseurs français manigancent une destitution. Ils enrôlent donc des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir. La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la légion d’honneur.[^2]
 
-Voici la liste des « reproches » faits au *Sultan Ibrahim Njoya* par les `Français` pour soutenir le démantèlement du `royaume`.[^2]
+Voici la liste des « reproches » faits au ***Sultan Ibrahim Njoya*** par les `Français` pour soutenir le démantèlement du `royaume`.[^2]
 
-1. Le *Sultan Ibrahim Njoya* a plusieurs épouses (plus de six cent) et trop d'enfants.
-2. Le *Sultan Ibrahim Njoya* vit dans un grand palais.
-3. Le *Sultan Ibrahim Njoya* asservit son peuple.
-4. Le *Sultan Ibrahim Njoya* possède toutes les terres et cultures du royaume.
-5. Le *Sultan Ibrahim Njoya* possède le droit de mort et de vie sur les `Bamoun`.
-6. Le *Sultan Ibrahim Njoya* refuse d'être auxilliaire de l'administration française.
+1. Le ***Sultan Ibrahim Njoya*** a plusieurs épouses (plus de six cent) et trop d'enfants.
+2. Le ***Sultan Ibrahim Njoya*** vit dans un grand palais.
+3. Le ***Sultan Ibrahim Njoya*** asservit son peuple.
+4. Le ***Sultan Ibrahim Njoya*** possède toutes les terres et cultures du royaume.
+5. Le ***Sultan Ibrahim Njoya*** possède le droit de mort et de vie sur les `Bamoun`.
+6. Le ***Sultan Ibrahim Njoya*** refuse d'être auxilliaire de l'administration française.
 
 Voici quelques faits historiques qui mettent en exergue le manque de cohérence entre ces accusations et la justice appliquée dans la « `métropole` ».
 
@@ -127,22 +130,22 @@ Voici quelques faits historiques qui mettent en exergue le manque de cohérence 
 2. Le président de la république française réside à l'Élysée, soit dans 11 179 m², ce qui est un grand palais.[^4]
 3. Les `Kamyout` vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'`abolition officielle du Yovodah`.[^5]
 4. La `France` prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit.[^6]
-5. Le *Sultan Ibrahim Njoya* a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. Néanmoins, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
+5. Le ***Sultan Ibrahim Njoya*** a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. Néanmoins, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
 6. Pour assurer son égémonie, la `France` oblige tous les royaumes et tous les empires présents sur ses « `colonies` » à être annexés. Le `royaume Bamoun` en est l'exemple.
 
-La destitution du *Sultan Ibrahim Njoya* se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs armes à feux.[^2]
+La destitution du ***Sultan Ibrahim Njoya*** se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs armes à feux.[^2]
 
-Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du *Sultan ibrahim Njoya*. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
+Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du ***Sultan ibrahim Njoya***. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
 
-> * Article 1 : Le nommé *NJOYA* ex-sultant de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
+> * Article 1 : Le nommé ***NJOYA*** ex-sultant de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
 > * Article 2 : Les chefs des six conscriptions […] de `Yaoundé` sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 > 
 > <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
 
 # Fin du règne
 
-Lors de son exil forcé, le *Sultan Ibrahim NJOYA* tisse des liens avec les habitants de `Yaoundé`.
-Ainsi, le *Sultan*[^2] :
+Lors de son exil forcé, le ***Sultan Ibrahim NJOYA*** tisse des liens avec les habitants de `Yaoundé`.
+Ainsi, le ***Sultan***[^2] :
 
 - les accueille dans sa demeure,
 - leur donne à manger,
@@ -152,17 +155,18 @@ Ainsi, le *Sultan*[^2] :
 - peint avec eux,
 - …
 
-En remerciement, les habitants aident le *Sultan Ibrahim Njoya* dans ses travaux de construction.[^2]
+En remerciement, les habitants aident le ***Sultan Ibrahim Njoya*** dans ses travaux de construction.[^2]
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
-   <img src="/images/personnalite/kemit/ibrahim-njoya/roi-ibrahim-njoya-en-tenue-traditionnelle_public-domain.jpg">
+   <img src="/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya-by-ba-moun_cc-by-sa.png">
    <figcaption>
-      Le roi Ibrahim Njoya<br/>
-      en tenue traditionnelle
+      Portrait en pied au crayon<br/>
+      du <i><b>roi Ibrahim Njoya</i></b> en tenue traditionnelle<br/>
+      Par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
 
-Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le *Sultan Ibrahim Njoya* est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
+Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le ***Sultan Ibrahim Njoya*** est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
 Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Il s'isole, s'enferme dans sa chambre et n'accepte que la compagnie de sa femme. Progressivement, sa santé se détériore  et des problèmes de respiration apparaissent et il est hospitalisé 🏥. De retour chez lui, à la tombée de la nuit, le *Sultan* est mourant.
 Le `30` `Mai` `1933` (`calendrier grégorien`), vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
