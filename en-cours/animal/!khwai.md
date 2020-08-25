@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T12:18:42.884Z
+date: 2020-08-25T12:21:26.178Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -37,10 +37,6 @@ La reproduction du ***!khwai*** se fait toute l’année. La gestation prend ent
 
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
 Voici quelques caractéristiques du ***!khwai***[^3][^4] :
-
-| Partie du corps | Caractéristiques               |
-|-----------------|--------------------------------|
-| Flanc           | Présence de grands traits noirs|
 
 - de grands traits noirs sur les flancs,
 - de nature silencieuse mais pouvant pousser des cris ressemblant à des grognements,
