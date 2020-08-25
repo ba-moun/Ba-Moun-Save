@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T11:04:04.303Z
+date: 2020-08-25T11:39:19.235Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/animals/gemsbok/male-gemsbok-kgalagadi-from-gossipguy_cc-by-sa.png">
    <figcaption>
-     Mâle <i><b>!khwai</b></i>
+      Mâle <i><b>!khwai</b></i><br/>
    </figcaption>
 </figure>
 
@@ -81,7 +81,8 @@ Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le musea
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/nasal-concha/cornets-nasaux-by-ba-moun_cc-by-sa.png">
    <figcaption>
-     Crâne d’animal vu de face
+     Crâne d’animal vu de face<br/>
+     Dessiné au crayon par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
 
@@ -103,7 +104,8 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/coupe-transversale-tete-antilope-pour-vu-de-carotid-rete-mirabile-by-ba-moun_cc-by-sa.png">
    <figcaption>
-     Vu transversale de la tête d’un <i><b>!khwai</b></i>
+     Vu transversale de la tête d’un <i><b>!khwai</b></i><br/>
+     Dessiné au crayon par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
 
@@ -113,8 +115,9 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
    <figcaption>
-      Dessin d’une carotid rete mirabile
-   </figcaption>
+      Dessin d’une carotid rete mirabile<br/>
+      Dessiné et colorié aux crayonx par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
+</figcaption>
 </figure>
 
 Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
