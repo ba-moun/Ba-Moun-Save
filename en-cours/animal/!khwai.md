@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T11:51:46.526Z
+date: 2020-08-25T11:54:58.425Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -23,12 +23,14 @@ editor: markdown
 ***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
 Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
-La reproduction se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle arrive aux alentours des deux ans. 
+La reproduction se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle arrive aux alentours des deux ans. Enfin, dans son habitat naturel, la durée de vie du ***!khwai*** est de 15 ans.
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
 Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
 - de grands traits noirs sur les flancs,
+- de nature silencieuse mais pouvant pousser des cris ressemblant à des grognements,
 - des pattes et une tête claires,
+- une vitesse allant jusqu’à 65 km/h,
 - une hauteur au garrot allant jusqu’à 1,25 m,
 - une longueur allant jusqu’à 1,90 m et une queue pouvant atteindre les 90 cm,
 - des cornes fines et droites pouvant atteindre les 85 cm,
@@ -120,7 +122,7 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 </figcaption>
 </figure>
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.[^4]
 En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
 
  Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
