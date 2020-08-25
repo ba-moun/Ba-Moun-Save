@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T10:35:03.278Z
+date: 2020-08-25T11:04:04.303Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -76,7 +76,16 @@ Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!
 
 #### Cornets nasaux et `Carotid rete mirabile`[^13]
 
-Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le museau de l’animal. Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
+Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le museau de l’animal.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/biology/nasal-concha/cornets-nasaux-by-ba-moun_cc-by-sa.png">
+   <figcaption>
+     Crâne d’animal vu de face
+   </figcaption>
+</figure>
+
+Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
 1. L’air inhalé par l’animal s’egouffre dans les cavités nasales.
 2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
@@ -87,16 +96,26 @@ Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud d
 
 Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
 
-À l’emplacement de la `carotid rete mirabile` :
+À l’emplacement de la `carotid rete mirabile`, les artères traversent les veines.
+D’un côté, le sang chaud contenu dans les artères sort du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
+De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêtré dans les cornets nasaux. Ce sang traverse la `carotid rete mirabile` puis arrive dans la `veine jugulaire`.
 
-- soit les veines enveloppent les artères,
-- soit les veines et les artères se traversent mutuellement.
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/biology/carotid-rete-mirabile/coupe-transversale-tete-antilope-pour-vu-de-carotid-rete-mirabile-by-ba-moun_cc-by-sa.png">
+   <figcaption>
+     Vu transversale de la tête d’un <i><b>!khwai</b></i>
+   </figcaption>
+</figure>
 
-> Cela varie en fonction de la documentation.
-{.is-info}
 
-Quoi qu’il en soit, il y a d’un côté le sang chaud contenu dans les artères, qui sort du cœur et se dirige vers la tête. De l’autre côté il y a du sang refroidi indirectement par l’air enchevêtré dans les cornets nasaux.
-Par conséquent, la `carotid rete mirabile` fournit une convection thermique entre le sang refroidi des veines et le sang chaud des artères.
+En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, il se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet donc au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
+
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
+   <figcaption>
+      Dessin d’une carotid rete mirabile
+   </figcaption>
+</figure>
 
 Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
 En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
