@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T12:14:18.767Z
+date: 2020-08-25T12:18:42.884Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -22,12 +22,25 @@ editor: markdown
 
 ***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
-Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé de sable et parsemé d’arbres, de buissons de plantes et d'herbes.[^1][^2][^3][^4]
+Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
+
+- de sable,
+- d’arbres,
+- de buissons,
+- de plantes,
+- d’herbes,
+- de steppes,
+- de zones rocheuses,
+- de dunes de sables s’élevant jusqu'à 1 200 mètres d'altitudes.
 
 La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle arrive aux alentours des deux ans. Enfin, dans son habitat naturel, la durée de vie du ***!khwai*** est de 15 ans.[^4]
 
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
 Voici quelques caractéristiques du ***!khwai***[^3][^4] :
+
+| Partie du corps | Caractéristiques               |
+|-----------------|--------------------------------|
+| Flanc           | Présence de grands traits noirs|
 
 - de grands traits noirs sur les flancs,
 - de nature silencieuse mais pouvant pousser des cris ressemblant à des grognements,
