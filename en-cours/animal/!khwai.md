@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T11:39:19.235Z
+date: 2020-08-25T11:51:46.526Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -15,29 +15,29 @@ editor: markdown
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/animals/gemsbok/male-gemsbok-kgalagadi-from-gossipguy_cc-by-sa.png">
    <figcaption>
-      Mâle <i><b>!khwai</b></i><br/>
+      Photo d’un mâle <i><b>!khwai</b></i><br/>
+      Par : Gossipguy
    </figcaption>
 </figure>
 
 ***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
 Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
+La reproduction se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle arrive aux alentours des deux ans. 
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
-Voici quelques caractéristiques du ***!khwai***.[^3][^1][^2][^4]
-
-¦ etsiura ¦ etirusa¦
-¦---------¦--------¦
-¦ test    ¦  test  ¦
+Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
 
 - de grands traits noirs sur les flancs,
 - des pattes et une tête claires,
-- une hauteur allant jusqu’à 1,25 m,
-- une longueur allant jusqu’à 1,90m,
-- des cornes longues, fines et droites
+- une hauteur au garrot allant jusqu’à 1,25 m,
+- une longueur allant jusqu’à 1,90 m et une queue pouvant atteindre les 90 cm,
+- des cornes fines et droites pouvant atteindre les 85 cm,
 - des mâles identifiables par :
-	- leurs poids pouvant atteindre les 240 kg,
-  - leurs scrotums apparants,
-- des femelles avec des cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles,
+ 	 - leurs poids pouvant atteindre les 240 kg
+   - leurs scrotums apparants,
+- des femelles identifiables par :
+   - leurs cornes habituellement un peu plus longues, plus pointues et plus fines que celles des mâles
+   - un poid pouvant atteindre les 190 kg
 
 # Techniques de survie[^3]
 
