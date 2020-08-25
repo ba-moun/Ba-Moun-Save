@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T10:31:08.612Z
+date: 2020-08-25T10:35:03.278Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -23,11 +23,16 @@ editor: markdown
 
 Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`).
 Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
-Voici quelques caractéristiques du ***!khwai***[^3][^1][^2][^4] :
+Voici quelques caractéristiques du ***!khwai***.[^3][^1][^2][^4]
+
+¦ etsiura ¦ etirusa¦
+¦---------¦--------¦
+¦ test    ¦  test  ¦
 
 - de grands traits noirs sur les flancs,
 - des pattes et une tête claires,
 - une hauteur allant jusqu’à 1,25 m,
+- une longueur allant jusqu’à 1,90m,
 - des cornes longues, fines et droites
 - des mâles identifiables par :
 	- leurs poids pouvant atteindre les 240 kg,
