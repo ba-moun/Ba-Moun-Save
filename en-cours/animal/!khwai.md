@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T12:21:26.178Z
+date: 2020-08-25T20:03:35.734Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -22,7 +22,7 @@ editor: markdown
 
 ***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
-Le ***!khwai*** est un bovidé. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
+Le ***!khwai*** est un bovidé qui se nourrit de graminés, de melons tsama et de tubercules. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
 
 - de sable,
 - d’arbres,
