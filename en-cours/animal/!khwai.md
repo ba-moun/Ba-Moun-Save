@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T11:54:58.425Z
+date: 2020-08-25T12:06:05.746Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -53,16 +53,19 @@ Ci-desosus quelques capacités dont dispose le ***!khwai*** pour se protéger de
 
 L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
 
-### Intellecte
+### Intellecte[^4]
 
-Le ***!khwai*** pâture principalement en pleine nuit. Il profite ainsi de l’humidité maintenue dans les végétaux. De plus, l’animal dépense moins d’énergie et de liquide qu’en pleine journée.
+Le ***!khwai*** agit de sorte à écomoniser son énergie et son fluide corporel.
 
+Par exemple, il s’active principalement la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de dépenser le moins possible quand il fait le plus chaud. Il pert ainsi le moins d’énergie et de liquide possible. I
+
+De plus, le ***!khwai*** patûre généralement à l’ombre. Il profite ainsi de l’humidité maintenue dans les végétaux.
 Néanmoins, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. Ainsi, il se rafraichit plus qu’il ne réchauffe.
 
-Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable. Le sable frais situé à l’ombre lui permet de se rafraichir.
+Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable frais. Ainsi, le sable frais situé à l’ombre lui permet de se rafraichir plus rapidement étant donné qu’il rafraichit une plus grande surface de son corps.
 
 
-### Physiologie[^8]
+### Physiologie[^8][^4]
 
 #### Jeûne à l’eau
 
@@ -122,7 +125,7 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 </figcaption>
 </figure>
 
-Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.[^4]
+Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
 En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
 
  Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
