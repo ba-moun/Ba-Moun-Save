@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-25T20:03:35.734Z
+date: 2020-08-26T08:14:45.463Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -22,7 +22,8 @@ editor: markdown
 
 ***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
 
-Le ***!khwai*** est un bovidé qui se nourrit de graminés, de melons tsama et de tubercules. Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
+Le ***!khwai*** est un bovidé qui se nourrit de graminés, de melons tsama et de tubercules.
+Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
 
 - de sable,
 - d’arbres,
@@ -33,10 +34,13 @@ Le ***!khwai*** est un bovidé qui se nourrit de graminés, de melons tsama et d
 - de zones rocheuses,
 - de dunes de sables s’élevant jusqu'à 1 200 mètres d'altitudes.
 
-La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle arrive aux alentours des deux ans. Enfin, dans son habitat naturel, la durée de vie du ***!khwai*** est de 15 ans.[^4]
+La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle de la progéniture arrive aux alentours des deux ans. Dans son habitat naturel, le ***!khwai*** décède environ vers ses 15 ans.[^4]
 
-Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes les unes aux autre.
-Voici quelques caractéristiques du ***!khwai***[^3][^4] :
+Le ***!khwai*** vit par troupeau de six à quarante constitués de femmelles avec leurs progénitures. Les mâles jeunes sont séparés du troupeau. Les femelles occupent des domaines d’environ 1 000 km^2^ tandis que les mâles occupent une surface d’environ 50 km^2^. Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes à celles de l’autre. Qui plus est, l’un peut tenter de piquer l’autre avec les pointes de ses cornes.[^3][^4]
+
+# Physionomie[^3][^4]
+
+Voici quelques caractéristiques du ***!khwai*** :
 
 - de grands traits noirs sur les flancs,
 - de nature silencieuse mais pouvant pousser des cris ressemblant à des grognements,
@@ -52,6 +56,7 @@ Voici quelques caractéristiques du ***!khwai***[^3][^4] :
 - des femelles identifiables par :
    - leurs cornes habituellement un peu plus longues, plus pointues, plus fines et plus droites que celles des mâles
    - un poid pouvant atteindre les 190 kg
+   - les dessins blancs et noirs qui ornent sa tête.
 
 # Techniques de survie[^3]
 
@@ -63,16 +68,17 @@ Ci-desosus quelques capacités dont dispose le ***!khwai*** pour se protéger de
 
 ### Environnement
 
-L’environnement du ***!khwai*** est plus froid la nuit. Par conséquent, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
+L’environnement du ***!khwai*** est plus froid la nuit. Dès lors, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
 
 ### Intellecte[^4]
 
-Le ***!khwai*** agit de sorte à écomoniser son énergie et son fluide corporel.
+Le ***!khwai*** se déplace en fonction de la quantité de nourriture présente dans son environnement proche.
+En outre, le ***!khwai*** agit de sorte à écomoniser son énergie et son fluide corporel.
 
-Par exemple, il s’active principalement la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de dépenser le moins possible quand il fait le plus chaud. Il pert ainsi le moins d’énergie et de liquide possible. I
+Par exemple, il s’active principalement la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de dépenser le moins possible quand il fait le plus chaud. Il pert le moins d’énergie et de liquide possible.
 
-De plus, le ***!khwai*** patûre généralement à l’ombre. Il profite ainsi de l’humidité maintenue dans les végétaux.
-Néanmoins, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. Ainsi, il se rafraichit plus qu’il ne réchauffe.
+De plus, le ***!khwai*** patûre généralement à l’ombre. Cela lui permet de profiter de l’humidité maintenue dans les végétaux.
+Cepedant, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. De cette manière, il rafraichit son corps plus qu’il ne le réchauffe.
 
 Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable frais. Ainsi, le sable frais situé à l’ombre lui permet de se rafraichir plus rapidement étant donné qu’il rafraichit une plus grande surface de son corps.
 
@@ -89,7 +95,7 @@ L’halètement est une des techniques utilisées par le ***!khwai*** pour régu
 
 Le ***!khwai*** halète en gardant sa gueule ouverte tout étant en étant en polypnée (respiration rapide et superficielle). Cette technique accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
 
-Néanmoins, la technique fait perdre du liquide précieux pour la survie du ***!khwai***. Par conséquent, l’animal n’halète qu’en cas d’urgence, par exemple lors d’un combat ou d’une fuite.
+Toutefois, cette technique fait perdre du liquide précieux pour la survie du ***!khwai***. C’est pourquoi l’animal n’halète qu’en cas d’urgence (ex. : lors d’un combat ou d’une fuite).
 
 #### Cornets nasaux et `Carotid rete mirabile`[^13]
 
@@ -112,7 +118,7 @@ Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
 Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
 
-Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (donc vers la tête).
+Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (c’est-à-dire vers la tête).
 
 À l’emplacement de la `carotid rete mirabile`, les artères traversent les veines.
 D’un côté, le sang chaud contenu dans les artères sort du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
@@ -127,7 +133,7 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
 </figure>
 
 
-En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, il se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet donc au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
+En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, il se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
 
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
@@ -140,7 +146,7 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
 En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
 
- Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
+Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
 
 # Prédateurs[^6][^7][^10][^3]
 
