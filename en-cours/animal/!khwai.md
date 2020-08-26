@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-26T08:14:45.463Z
+date: 2020-08-26T08:17:40.373Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -127,7 +127,7 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/coupe-transversale-tete-antilope-pour-vu-de-carotid-rete-mirabile-by-ba-moun_cc-by-sa.png">
    <figcaption>
-     Vu transversale de la tête d’un <i><b>!khwai</b></i><br/>
+     Coupe sagittale de la tête d’un <i><b>!khwai</b></i><br/>
      Dessiné au crayon par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
