@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-26T08:17:40.373Z
+date: 2020-08-26T08:20:21.247Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -138,7 +138,7 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
    <figcaption>
-      Dessin d’une carotid rete mirabile<br/>
+      Intérieur d’une carotid rete mirabile<br/>
       Dessiné et colorié aux crayonx par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
 </figcaption>
 </figure>
