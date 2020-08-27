@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-08-26T08:20:21.247Z
+date: 2020-08-27T13:22:15.562Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -148,7 +148,25 @@ En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir
 
 Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de concerver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
 
-# Prédateurs[^6][^7][^10][^3]
+# Prédateurs[^6][^7][^10][^3][^4]
+
+Les prédateurs des jeunes ***!khwai*** sont :
+
+- le lion,
+- la hyène,
+- le ycaon,
+- le léopard,
+- le guépard,
+- l’Homme.
+
+Quand il est attaqué par un animal, le ***!khwai*** pointe ses cornes vers son prédateur et bondit vers lui.
+
+> **Le saviez-vous ?**
+>
+> Généralement, le ***!khwai*** prend la fuite.
+> Néanmoins, en cas contraire, son attaque est si précise et si dévastatrice qu’elle est capable de tuer le prédateur qui le menace.
+> Des félins ont déjà été retrouvés morts après s’être fait percer à coup de corne par un ***!khwai***.
+{.is-info}
 
 <figure class="image image_resized image-style-align-right" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
