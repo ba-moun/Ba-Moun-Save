@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-01T18:54:23.267Z
+date: 2020-09-01T19:01:53.039Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -32,7 +32,7 @@ Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagad
 - d’herbes,
 - de steppes,
 - de zones rocheuses,
-- de dunes de sables s’élevant jusqu'à 1 200 mètres d'altitudes.
+- de dunes de sable s’élevant jusqu'à 1 200 m d'altitude.
 
 La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle de la progéniture arrive aux alentours des deux ans. Dans son habitat naturel, le ***!khwai*** décède environ vers ses 15 ans.[^4]
 
