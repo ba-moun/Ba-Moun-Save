@@ -2,7 +2,7 @@
 title: Whai
 description: Présentation du whai
 published: true
-date: 2020-08-10T17:45:43.661Z
+date: 2020-09-08T09:33:58.641Z
 tags: whai, animal, springbok, euchore, gazelle à poche dorsale, gazelle, antidorcas marsupialis, sud du continent, haut du continent, springbuck, antilope, antilope de la tribu des gazelles, bovidé
 editor: markdown
 ---
@@ -11,12 +11,21 @@ editor: markdown
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/art/drawing/!nussa-!e_whai-aityi-from-dia!kwain_public-domain.jpg"></figure>
 
-***Whai*** est le nom de la ***gazelle à poche dorsale*** en `|xam` (langue des `!nussa !e`). Elle est native du sud ouest du continent.
+***Whai*** est le nom de la ***gazelle à poche dorsale*** en `|xam` (langue des `!nussa !e`). Elle est native des plaines sansa arbres du sud ouest du continent.
 L'équipe d'Afrique du Sud de rugby à XV à la ***Whai*** comme emblème.[^1][^4][^5]
 
 Ci-contre, une représentation du ***whai*** par `Dia!kwain`. Ce dernier est un `!nussa !e` qui a fourni moult informtions sur son peuple aux familles `Bleek` et `Lloyd`. Des milliers de pages de récits et de dessins de `Dia!kwain` sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^2][^3]
 
-Une ***whai*** en bonne santé est reconnaissable par ses bons verticaux. Une ***whai*** est reconnaissable par son pelage tricolore. Elle peut faire jusqu’à 86cm de haut et 150cm de long. La femelle peut peser jusqu’à 40kg et ses cornes atteindre les 30cm. Le mâle quant à lui peut peser jusqu’à 48 kg avec des cornes pouvant atteindre les 50cm.[^4]
+La ***whai*** se déplace en troupeau.
+Une ***whai*** en bonne santé est reconnaissable par ses bons verticaux. Une ***whai*** est reconnaissable par son pelage tricolore. Elle peut faire jusqu’à 86cm de haut et 150cm de long. La femelle peut peser jusqu’à 40kg et ses cornes atteindre les 30cm. Le mâle quant à lui peut peser jusqu’à 48 kg avec des cornes pouvant atteindre les 50cm.
+La ***whai*** est un genre particulier de gazelle à cause des particularités suivantes[^4][^5] :
+
+- la structure de son dos :
+   - une touffe de poils blancs
+ consisting of a patch of white hair that is normally hidden beneath a skin fold but is erected during a special form of jumping known as pronking. The species name marsupialis refers to this concealed organ, which also happens to be lined with sebaceous scent glands.
+
+- 
+
 
 ![whai.jpg](/images/animals/springbok/whai.jpg)
 
