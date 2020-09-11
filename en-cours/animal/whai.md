@@ -2,7 +2,7 @@
 title: Whai
 description: Présentation du whai
 published: true
-date: 2020-09-11T16:17:01.215Z
+date: 2020-09-11T16:44:30.852Z
 tags: whai, animal, springbok, euchore, gazelle à poche dorsale, gazelle, antidorcas marsupialis, sud du continent, haut du continent, springbuck, antilope, antilope de la tribu des gazelles, bovidé
 editor: markdown
 ---
@@ -25,12 +25,12 @@ Le dos de la ***whai*** est composé d’une touffe de poils blancs normalement 
 
 ![whai.jpg](/images/animals/springbok/whai.jpg)
 
-[^1]: [Drawings, Image: Iziko_SAMLB_D_Di001](http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di001.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di001.html
+[^1]: [Drawings, Image: Iziko_SAMLB_D_Di001](http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di001.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di001.html
 
-[^2]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
+[^2]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
-[^3]: [Drawings, Image: Iziko_SAMLB_D_Di002](http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di002.html
+[^3]: [Drawings, Image: Iziko_SAMLB_D_Di002](http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/Iziko_SAMLB_D_Di002.html
 
-[^4]: [Springbok](https://fr.wikipedia.org/wiki/Euchore#cite_note-3). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Euchore#cite_note-3
+[^4]: [Springbok](https://fr.wikipedia.org/wiki/Euchore#cite_note-3). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendrier grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Euchore#cite_note-3
 
-[^5]: [Springbok](https://www.britannica.com/animal/springbok-mammal). In [Encyclopædia Britannica](https://www.britannica.com/) [en ligne]. ©2020 Encyclopædia Britannica, Inc., [consulté le `10` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.britannica.com/animal/springbok-mammal
+[^5]: [Springbok](https://www.britannica.com/animal/springbok-mammal). In [Encyclopædia Britannica](https://www.britannica.com/) [en ligne]. ©2020 Encyclopædia Britannica, Inc., [consulté le `10` `Août` `2020` (`calendrier grégorien`)]. Dispnible sur : https://www.britannica.com/animal/springbok-mammal
