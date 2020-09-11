@@ -2,7 +2,7 @@
 title: Le désert ǃ’Aukarob
 description: Présentation du désert ǃ’Aukarob
 published: true
-date: 2020-09-11T18:47:21.738Z
+date: 2020-09-11T18:56:05.370Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 ![!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg](/images/geography/grassland/’aukarob/!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg){.align-abstopright}
 
 ***ǃ’Aukarob*** est le nom endogène de la ***région du Karoo***. Cette région se situe au sud du continent.
-Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou *veld* aride.[^1][^2][^4][^5][^6]
+Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou *veld* aride.[^1][^2][^4][^5][^6][^7]
 
 > **Le saviez-vous ?**[^3]
 >
@@ -53,3 +53,5 @@ Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 [^5]: [Springbok](https://www.britannica.com/animal/springbok-mammal). In [Encyclopædia Britannica](https://www.britannica.com/) [en ligne]. ©2020 Encyclopædia Britannica, Inc., [consulté le `10` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.britannica.com/animal/springbok-mammal
 
 [^6]: [Désert du Karoo](https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Karoo). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `2` `Octobre` `2019` [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Karoo
+
+[^7]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
