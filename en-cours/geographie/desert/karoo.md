@@ -2,14 +2,14 @@
 title: Le désert ǃ’Aukarob
 description: Présentation du désert ǃ’Aukarob
 published: true
-date: 2020-09-11T18:56:05.370Z
-tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo
+date: 2020-09-11T19:04:05.775Z
+tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana
 editor: markdown
 ---
 
 ![!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg](/images/geography/grassland/’aukarob/!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg){.align-abstopright}
 
-***ǃ’Aukarob*** est le nom endogène de la ***région du Karoo***. Cette région se situe au sud du continent.
+***ǃ’Aukarob*** est le nom donné à la ***région Karoo***, par les autochtones `Xirikuana`. Cette région se situe au sud du continent.
 Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou *veld* aride.[^1][^2][^4][^5][^6][^7]
 
 > **Le saviez-vous ?**[^3]
