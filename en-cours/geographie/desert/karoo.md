@@ -2,7 +2,7 @@
 title: ǃ’Aukarob
 description: Présentation de ǃ’Aukarob
 published: true
-date: 2020-09-11T17:21:30.789Z
+date: 2020-09-11T17:41:38.236Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs
 editor: markdown
 ---
@@ -12,10 +12,12 @@ Ce mot peut se traduire par désert, région sauvage ou veld aride.[^1][^2][^5]
 
 > **Le saviez-vous ?**[^3]
 >
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse-by-ba-moun_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prarie, pampa, <i>veld</i> et brousse</figcaption></figure>
+>
 > *Veld* est un néerlandisme. En `afrikaans`, ce mot signifie « champ ».
 > 
-> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*.
-> En effet, *veld* désigne essentiellement les larges espaces plats et couverts d’herbe et d’arbuste de la campagne du sud du continent. De plus, comme illustré, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
+> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. En effet, ces mots désignent, essentiellement de larges espaces plats couverts d’herbe et d’arbuste qui sont situés en campagne.
+> `Prairie` est dédié à l’Europe, `pampa` à `Tarana`, `brousse`à l’Afrique et `veld` au sud du continent. Comme illustré ci-contre, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
 > 
 > Suite à l’`invasion européenne`, le pastoralisme et la culture de céréales sont pratiqués dans le *veld*.
 {.is-info}
