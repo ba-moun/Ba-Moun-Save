@@ -2,7 +2,7 @@
 title: Le désert ǃ’Aukarob
 description: Présentation du désert ǃ’Aukarob
 published: true
-date: 2020-09-11T19:04:05.775Z
+date: 2020-09-12T09:55:35.159Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana
 editor: markdown
 ---
@@ -14,14 +14,15 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
 
 > **Le saviez-vous ?**[^3]
 >
-> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse-by-ba-moun_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prarie, pampa, <i>veld</i> et brousse</figcaption></figure>
+
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prarie, pampa, <i>veld</i> et brousse</figcaption></figure>
 >
 > *Veld* est un néerlandisme. En `afrikaans`, ce mot signifie « champ ».
 > 
 > À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. En effet, tous ces mots désignent essentiellement de larges espaces plats situés en campagne et couverts d’herbe et d’arbuste.
 > `Prairie` est dédié à l’Europe, `pampa` à `Tarana`, `brousse`à l’Afrique et `veld` au sud du continent. Comme illustré ci-contre, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
 > 
-> Suite à l’`invasion européenne`, le pastoralisme et la culture de céréales sont pratiqués dans le *veld*.
+> Suite à l’invasion européenne, le pastoralisme et la culture de céréales sont pratiqués dans le *veld*.
 {.is-info}
 
 # Formation
@@ -30,15 +31,17 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
    <img src="/images/geography/grassland/’aukarob/karoo-from-en.wiki_cc-by-sa.jpg">
    <figcaption>
       Paysage du !’Aukarob<br/>
-      Par en.wiki. // CC BY SA
+      Par : en.wiki. // Licence : CC BY SA
    </figcaption>
 </figure>
 
-La formation du ***!’Aukarob*** remonte à environ 200M ou 300M d’annnées. À cette époque, une montée des eaux recouvre la zone constituée à l’origine d’une forêt tempérée. 130M d’années avant notre ère, une éruption volcanique recouvre la région de lave basaltique. L’érosion des couches supérieures de grès aboutissent à la formation de collines en forme de cône et surplombées de roches dures. ***!’Aukarob*** devient enfin un maricage avant d’être l’habitat semi-désertique actuel.
+La formation du ***!’Aukarob*** remonte à environ 200M ou 300M d’annnées. À cette époque, une montée des eaux recouvre la zone constituée à l’origine d’une forêt tempérée.
+130M d’années avant notre ère, une éruption volcanique recouvre la région de lave basaltique. L’érosion des couches supérieures de grès aboutissent à la formation de collines en forme de cône et surplombées de roches dures.
+***!’Aukarob*** devient enfin un marécage avant d’être l’habitat semi-désertique actuel.
 Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 
 - une composition d’herbes et de petits arbustes,
-- un emplacement entre le désert et les zones humides,
+- un emplacement entre désert et zone humide (particularité des zones semi-désertiques),
 - une faible préciptation,
 - une séparation nord-sud par des montagnes.
 
