@@ -2,7 +2,7 @@
 title: Xirikuana
 description: Présentation du peuple Xirikuana
 published: true
-date: 2020-09-12T10:44:27.268Z
+date: 2020-09-12T10:45:03.481Z
 tags: kamit, kémit, noir, afrique du sud, sud, afrique du sud 🇿🇦, sud du continent, sud de l’afrique, kora, ǃorakobab, khoemana, korana, ǃora, griqua, xirikuana, peuple xirikuana, peuple, peuple négro-africain, peuple africain, négro-africain, négro-africaine, peuple noir, nègre, peuple nègre, peuple kamit, peuple kémit, kamyout, peuple sud africain, gri, peuple griqua, peuple ǃorakobab, peuple khoemana, peuple korana, peuple ǃora, koraqua, peuple koraqua, peuple kora, xri, peuple xri, xiri, peuple xiri, xirikwa, peuple xirikwa
 editor: markdown
 ---
@@ -13,6 +13,7 @@ editor: markdown
 
 Leur langue, le khoemana, est en voie de disparition. Cette langue peut être nommé des façons suivantes[^1][^7] :
 
+- ***Cape khoe***,
 - ***Koraqua***,
 - ***Khoemana*** (khoe = être humain & mana = langue),
 - ***Korana*** (prononcé */kɒˈrɑːnə/*),
