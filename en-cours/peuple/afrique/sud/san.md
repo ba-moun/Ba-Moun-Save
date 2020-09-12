@@ -1,9 +1,9 @@
 ---
-title: Khoïsan (Ss’wa ka !kui, !nussa !e)
+title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-12T11:07:32.251Z
-tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
+date: 2020-09-12T11:17:33.808Z
+tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
 
@@ -128,6 +128,9 @@ flowchart TB
    
 ```
 
+# Les peuples Khoïsans
+
+## Onglets{.tab
 # Les Sans des plaines
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
@@ -168,12 +171,9 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 
 # Les Xirikuana
 
-***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.[^13][^14]
-
-## Langue
-
+***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.
 La langue des ***Xirikuana*** est en voie de disparition, avec trente locuteurs ou locutrices en 2009 (`calendirer grégorien`).
-Cette langue peut être nommée comme suit[^12][^14] :
+Cette langue peut être nommée comme suit[^12][^13][^14] :
 
 - Cape khoe,
 - Koraqua,
@@ -184,12 +184,7 @@ Cette langue peut être nommée comme suit[^12][^14] :
 - Gri, Xri ou Xiri,
 - Xirikwa.
 
-## Culture
-
-Tout d’abord, il faut savoir que la langue est important pour la transmission et la vie d’une culture. Par conséquent, la mort d’une langue implique l’effondrement d’une culture.
-Étant donné que le khoemana (langue des ***Xirikuana***) est en voie de disparition, il va de soit que la culture de ce peuple est vouée à disparaitre prochainement.[^12]
-
-# Les envahisseurs Trekboers
+# L’extinction des khoisans par les envahisseurs Trekboers
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
@@ -236,6 +231,12 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 - des `Grensboere`, alias `Boers` (paysans `néerlandais`),
 - de la population de `Buysplaas` alias `Buysville`,
 - des `Afrikaners`.
+
+# Culture
+
+Tout d’abord, il faut savoir que la langue est important pour la transmission et la vie d’une culture. Par conséquent, la mort d’une langue implique l’effondrement d’une culture.
+De plus, les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
+Par conséquent, il va de soit que la culture des ***Khoïsan*** est vouée à disparaitre prochainement.[^12]
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
