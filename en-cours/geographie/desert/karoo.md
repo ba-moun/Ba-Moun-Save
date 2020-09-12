@@ -1,9 +1,9 @@
 ---
-title: Le désert ǃ’Aukarob
-description: Présentation du désert ǃ’Aukarob
+title: Le semi-désert ǃ’Aukarob
+description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-09-12T09:56:24.742Z
-tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana
+date: 2020-09-12T09:58:40.522Z
+tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
 ---
 
