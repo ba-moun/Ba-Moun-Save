@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-12T11:28:30.009Z
+date: 2020-09-12T11:36:01.689Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -235,9 +235,14 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 
 # La culture khoïsan
 
-Tout d’abord, il faut savoir que la langue est important pour la transmission et la vie d’une culture. Par conséquent, la mort d’une langue implique l’effondrement d’une culture.
-De plus, les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`). La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les `Trekboers`. La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
-Par conséquent, il va de soit que la culture des ***Khoïsan*** est vouée à disparaitre prochainement.[^12][^2]
+> **Le saviez-vous ?**
+>
+> La langue est importante pour la transmission et la vie de sa / ses cultures associée(s). Par conséquent, la mort d’une langue implique l’effondrement de sa / ses culture(s).
+{.is-info}
+
+Les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
+La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les Trekboers.La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (uniquement 30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
+Par conséquent, il va de soit que la culture des ***Khoïsans*** est vouée à disparaitre prochainement.[^2][^12]
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
