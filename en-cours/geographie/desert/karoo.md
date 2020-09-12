@@ -2,7 +2,7 @@
 title: Le désert ǃ’Aukarob
 description: Présentation du désert ǃ’Aukarob
 published: true
-date: 2020-09-12T09:55:35.159Z
+date: 2020-09-12T09:56:24.742Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana
 editor: markdown
 ---
@@ -14,7 +14,6 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
 
 > **Le saviez-vous ?**[^3]
 >
-
 > <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prarie, pampa, <i>veld</i> et brousse</figcaption></figure>
 >
 > *Veld* est un néerlandisme. En `afrikaans`, ce mot signifie « champ ».
