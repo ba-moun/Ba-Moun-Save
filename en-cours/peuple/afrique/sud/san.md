@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-12T12:03:48.836Z
+date: 2020-09-12T13:10:15.987Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -192,14 +192,16 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 ### Pronostique vital de la culture
 
 > La langue est importante pour la transmission et la vie de sa / ses cultures associée(s). Par conséquent, la mort d’une langue implique l’effondrement de sa / ses culture(s).
-> […]
-> Quand une communauté n’est en capacité de gérer ni la vitesse, ni la nature du changement de sa langue, des changement fondamentaux de son institution sociale peut causer son déclin.[…] La perte de la connaissance transmise de génération en génération par des pratiques institutionnelles qui ont participées à la transmission n’est pas du développement mais de l’appauvrissement.
 > 
 > [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
 Les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
 La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les Trekboers.La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (uniquement 30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
 Par conséquent, il va de soit que la culture des ***Khoïsans*** est vouée à disparaitre prochainement.[^2][^12]
+
+> Quand une communauté n’est en capacité de gérer ni la vitesse, ni la nature du changement de sa langue, des changement fondamentaux de son institution sociale peut causer son déclin.[…] La perte de la connaissance transmise de génération en génération par des pratiques institutionnelles qui ont participées à la transmission n’est pas du développement mais de l’appauvrissement.
+>
+> [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
 ### Langues[^12]
 
