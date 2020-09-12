@@ -2,7 +2,7 @@
 title: Xirikuana
 description: Présentation du peuple Xirikuana
 published: true
-date: 2020-09-12T10:45:03.481Z
+date: 2020-09-12T10:46:22.720Z
 tags: kamit, kémit, noir, afrique du sud, sud, afrique du sud 🇿🇦, sud du continent, sud de l’afrique, kora, ǃorakobab, khoemana, korana, ǃora, griqua, xirikuana, peuple xirikuana, peuple, peuple négro-africain, peuple africain, négro-africain, négro-africaine, peuple noir, nègre, peuple nègre, peuple kamit, peuple kémit, kamyout, peuple sud africain, gri, peuple griqua, peuple ǃorakobab, peuple khoemana, peuple korana, peuple ǃora, koraqua, peuple koraqua, peuple kora, xri, peuple xri, xiri, peuple xiri, xirikwa, peuple xirikwa
 editor: markdown
 ---
@@ -11,16 +11,16 @@ editor: markdown
 
 # Language
 
-Leur langue, le khoemana, est en voie de disparition. Cette langue peut être nommé des façons suivantes[^1][^7] :
+La langue des ***X, le khoemana, est en voie de disparition. Cette langue peut être nommé des façons suivantes[^1][^7] :
 
-- ***Cape khoe***,
-- ***Koraqua***,
-- ***Khoemana*** (khoe = être humain & mana = langue),
-- ***Korana*** (prononcé */kɒˈrɑːnə/*),
-- ***ǃOrakobab***,
-- ***ǃOra*** ou ***Kora***,
-- ***Gri***, ***Xri*** ou ***Xiri***,
-- ***Xirikwa***.
+- Cape khoe,
+- Koraqua,
+- Khoemana (khoe = être humain & mana = langue),
+- Korana (prononcé */kɒˈrɑːnə/*),
+- ǃOrakobab,
+- ǃOra ou Kora,
+- Gri, Xri ou Xiri,
+- Xirikwa.
 
 [^1]: Don Killian. [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf) [e-book]. Requirements for the degree of MASTER OF PHILOSOPHY (Phonetics) of the University of Helsinki, `Mars` `2009`, [consulté le `12` `Septembre` `2020`] (calendrier grégorien). Disponible sur : https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf
 
