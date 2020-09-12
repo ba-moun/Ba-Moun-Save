@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-12T11:17:33.808Z
+date: 2020-09-12T11:28:30.009Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -128,10 +128,26 @@ flowchart TB
    
 ```
 
-# Les peuples Khoïsans
+# Les peuples ***Khoïsans***
 
-## Onglets{.tab
-# Les Sans des plaines
+## Onglets{.tabset}
+
+### Les ***Xirikuana***
+
+***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.
+La langue des ***Xirikuana*** est en voie de disparition, avec trente locuteurs ou locutrices en 2009 (`calendirer grégorien`).
+Cette langue peut être nommée comme suit[^12][^13][^14] :
+
+- Cape khoe,
+- Koraqua,
+- Khoemana (khoe = être humain & mana = langue),
+- Korana (prononcé */kɒˈrɑːnə/*),
+- ǃOrakobab,
+- ǃOra ou Kora,
+- Gri, Xri ou Xiri,
+- Xirikwa.
+
+### Les ***Sans*** des plaines
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
@@ -169,22 +185,7 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
    </figcaption>
 </figure>
 
-# Les Xirikuana
-
-***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.
-La langue des ***Xirikuana*** est en voie de disparition, avec trente locuteurs ou locutrices en 2009 (`calendirer grégorien`).
-Cette langue peut être nommée comme suit[^12][^13][^14] :
-
-- Cape khoe,
-- Koraqua,
-- Khoemana (khoe = être humain & mana = langue),
-- Korana (prononcé */kɒˈrɑːnə/*),
-- ǃOrakobab,
-- ǃOra ou Kora,
-- Gri, Xri ou Xiri,
-- Xirikwa.
-
-# L’extinction des khoisans par les envahisseurs Trekboers
+# Extinction
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
@@ -232,11 +233,11 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 - de la population de `Buysplaas` alias `Buysville`,
 - des `Afrikaners`.
 
-# Culture
+# La culture khoïsan
 
 Tout d’abord, il faut savoir que la langue est important pour la transmission et la vie d’une culture. Par conséquent, la mort d’une langue implique l’effondrement d’une culture.
-De plus, les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
-Par conséquent, il va de soit que la culture des ***Khoïsan*** est vouée à disparaitre prochainement.[^12]
+De plus, les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`). La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les `Trekboers`. La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
+Par conséquent, il va de soit que la culture des ***Khoïsan*** est vouée à disparaitre prochainement.[^12][^2]
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
@@ -264,4 +265,4 @@ Par conséquent, il va de soit que la culture des ***Khoïsan*** est vouée à d
 
 [^13]: [English – Kora index](https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf) [e-book]. [consulté le `11` `Septembre` `2020` (calendrier grégorien)]. Disponible sur : https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf
 
-[^1]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
+[^14]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
