@@ -2,7 +2,7 @@
 title: Khoïsan (Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-08-18T09:26:57.732Z
+date: 2020-09-12T11:07:32.251Z
 tags: ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines
 editor: markdown
 ---
@@ -166,6 +166,29 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
    </figcaption>
 </figure>
 
+# Les Xirikuana
+
+***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.[^13][^14]
+
+## Langue
+
+La langue des ***Xirikuana*** est en voie de disparition, avec trente locuteurs ou locutrices en 2009 (`calendirer grégorien`).
+Cette langue peut être nommée comme suit[^12][^14] :
+
+- Cape khoe,
+- Koraqua,
+- Khoemana (khoe = être humain & mana = langue),
+- Korana (prononcé */kɒˈrɑːnə/*),
+- ǃOrakobab,
+- ǃOra ou Kora,
+- Gri, Xri ou Xiri,
+- Xirikwa.
+
+## Culture
+
+Tout d’abord, il faut savoir que la langue est important pour la transmission et la vie d’une culture. Par conséquent, la mort d’une langue implique l’effondrement d’une culture.
+Étant donné que le khoemana (langue des ***Xirikuana***) est en voie de disparition, il va de soit que la culture de ce peuple est vouée à disparaitre prochainement.[^12]
+
 # Les envahisseurs Trekboers
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
@@ -234,4 +257,10 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 
 [^10]: [Huguenot](https://fr.wikipedia.org/wiki/Huguenot). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Mai` `2020` [consulté le `30` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Huguenot
 
-[^3]: [Drawings, Image: UCTLB_D_Di007](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html
+[^11]: [Drawings, Image: UCTLB_D_Di007](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `10` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di007.html
+
+[^12]: Don Killian. [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf) [e-book]. Requirements for the degree of MASTER OF PHILOSOPHY (Phonetics) of the University of Helsinki, `Mars` `2009`, [consulté le `12` `Septembre` `2020`] (calendrier grégorien). Disponible sur : https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf
+
+[^13]: [English – Kora index](https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf) [e-book]. [consulté le `11` `Septembre` `2020` (calendrier grégorien)]. Disponible sur : https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf
+
+[^1]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
