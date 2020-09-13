@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-13T10:25:16.091Z
+date: 2020-09-13T10:34:00.208Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -206,6 +206,15 @@ Les ***ǂGonakhoe*** sont un mix entre les cultures ***Khoï*** et Xhosa (peuple
 > 
 > [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
+
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/personnalite/kemit/diakwain/dia!kwain_public-domain.jpg
+">
+   <figcaption>
+      !Diakwain, l’un des derniers <i><b>Ss’wa ka !kui</b></i>
+   </figcaption>
+</figure>
+
 L’invasion européenne crée des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur ces populations poussent ces dernières à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs ancestrales.
 
 - Extinction de commmunautés ***Ss’wa ka !kui*** et ***!nussa !e*** par les `Trekboers`.
@@ -214,6 +223,13 @@ L’invasion européenne crée des problèmes identitaires dans les populations 
 - Naissance de peuples hybrides, comme les ***ǂGonakhoe***. Les ***ǂGonakhoe*** sont issus d’un mélange entre les ***Khoï*** et les Xhosa (peuple du sud différent des ***Khoïsans***).
 
 ### Langues[^12]
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
+   <figcaption>
+      Trois <i><b>Khoïsans</b></i> qui discutent
+   </figcaption>
+</figure>
 
 Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues sont soit disparues (D) soit en voie d’extinction (VE).
 
@@ -237,13 +253,6 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
 # L’invasion Trekboers[^16][^4][^9][^1][^2]
-
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
-   <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
-   <figcaption>
-      Trois <i><b>Khoïsans</b></i> qui discutent
-   </figcaption>
-</figure>
 
 En `-40 000`, les `Khoïsans` sont les premiers homo sapiens sapiens du sud-sud-ouest du continent. Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
 
