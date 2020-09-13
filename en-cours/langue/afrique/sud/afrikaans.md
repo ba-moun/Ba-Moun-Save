@@ -2,16 +2,16 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-13T14:05:29.397Z
+date: 2020-09-13T14:06:41.516Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen
 editor: markdown
 ---
 
 ***Afrikaans*** est le nom d’une langue leuco-africaine.
-Cette langue a été crée dans le sud du continent par les `envahisseurs européens`. Elle est issue de l’allemand et du néerlandais. D’ailleurs, en néerlandais, « afrikaans » signifie « africain ».
+Cette langue a été crée dans le sud du continent par les `envahisseurs européens`. Elle est issue du français, de l’allemand et du néerlandais. D’ailleurs, en néerlandais, « afrikaans » signifie « africain ».
 Elle est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par d’autres peuples colonisés comme les `Xrikuana`.[^12][^15]
 
-Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilise comme langue maternelle. À l’inverse, les langues des ***Khoïsans*** sont en voit d’extinction avec une dizaine de locuteurs ou locutrices pour certaines.[^15]
+Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilise comme langue maternelle. À l’inverse, les langues des ***Khoïsans*** sont en voit d’extinction avec, pour certaines, une dizaine de locutrices ou locuteurs.[^15]
 
 [^12]: Don Killian. [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf) [e-book]. Requirements for the degree of MASTER OF PHILOSOPHY (Phonetics) of the University of Helsinki, `Mars` `2009`, [consulté le `12` `Septembre` `2020`] (calendrier grégorien). Disponible sur : https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf
 
