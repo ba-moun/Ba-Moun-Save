@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-13T16:44:45.348Z
+date: 2020-09-13T17:26:14.734Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -23,7 +23,8 @@ Pourquoi le mot « blanc » ?
 
 ## Coloured[^1]
 
-Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. Cette race conceptualise le brassage des peuples :
+Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des *Coloured* représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.
+Cette race conceptualise le brassage des peuples :
 
 - *Européens*,
 - *Hottentotts*,
@@ -50,6 +51,10 @@ Les termes suivants sont indifféremment utilisés pour désignier la race des *
 >
 > À droite, une photo de `1872` qui représente le premier conseil des Basters de Rehoboth. De droite à gauche, vous pouvez-voir Christoffel van Wijk, Hermanus van Wijk, Jacobus Mouton et Paul Diergaardt.
 {.is-info}
+
+## Jaunes
+
+## Noirs
 
 [^1]: [Coloured](https://fr.wikipedia.org/wiki/Coloured). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Coloured
 
