@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-13T08:16:11.924Z
+date: 2020-09-13T09:28:07.364Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -134,8 +134,12 @@ flowchart TB
 
 ### Les ***Xirikuana***
 
+> Quand une communauté n’est en capacité de gérer ni la vitesse, ni la nature du changement de sa langue, des changement fondamentaux de son institution sociale peut causer son déclin.[…] La perte de la connaissance transmise de génération en génération par des pratiques institutionnelles qui ont participées à la transmission n’est pas du développement mais de l’appauvrissement.
+>
+> [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
+
 ***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.
-La langue et la culture ***Xirikuana*** est en voie de disparition. En `2009` (`calendirer grégorien`), il n’existe que trente locuteurs et/ou locutrices. De plus, une majorité de ces personnes parlent une langue dont le lexique et la phonétique sont dégradés.
+En `2009` (`calendirer grégorien`), la langue et la culture ***Xirikuana*** est en voie de disparition. La langue qui prédomine est l’Afrikaans (une langue issue du néerlandais, du français et de l’allemand). Seul dix personnes parlent couramment la langue endogène. Une vingtaine d’autres personnent parlent la langue sans respecter ni le lexique, ni la phonétique de la langue.
 La langue des ***Xirikuana*** peut être nommée comme suit[^12][^13][^14] :
 
 - Cape khoe,
@@ -198,10 +202,6 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
 Les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
 La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les Trekboers.La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (uniquement 30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
 Par conséquent, il va de soit que la culture des ***Khoïsans*** est vouée à disparaitre prochainement.[^2][^12]
-
-> Quand une communauté n’est en capacité de gérer ni la vitesse, ni la nature du changement de sa langue, des changement fondamentaux de son institution sociale peut causer son déclin.[…] La perte de la connaissance transmise de génération en génération par des pratiques institutionnelles qui ont participées à la transmission n’est pas du développement mais de l’appauvrissement.
->
-> [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
 ### Langues[^12]
 
