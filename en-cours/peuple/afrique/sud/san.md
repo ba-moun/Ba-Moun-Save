@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-13T09:28:07.364Z
+date: 2020-09-13T10:16:35.016Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -21,10 +21,10 @@ editor: markdown
    </figcaption>
 </figure>
 
-***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans. Ce peuple est aussi appelé péjorativement `bushman` par les `envahisseurs européens`.
+***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans. Ce peuple regroupe les ***Sans*** et les ***Khoikhoi***. Les ***Sans*** sont des chasseurs-cueilleurs appelés péjorativement ***bochiman*** (***bushmen*** en anglais). Les ***Khoikhoi*** sont des éleveurs ***Hottentots***.[^4][^15]
 
-L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.[^11]
-`Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1]
+L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.
+`Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1][^11]
 
 La photo ci-dessous représente un rassemble de ***Khoïsans***.
 
@@ -34,7 +34,6 @@ La photo ci-dessous représente un rassemble de ***Khoïsans***.
      Rassemble de <b><i>Khoïsans</i> entrain de manger un œuf d’authruche</b>
    </figcaption>
 </figure>
-
 
 La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^1][^2][^3][^4][^6][^7][^9]
 
@@ -120,11 +119,14 @@ flowchart TB
    bushmanlandBantoustan["1964 : Création officiel du bantoustan nommé Bushmanland
       qui a servi à parquer les Khoïsan pendant l’apartheid"]
       
+   khoesanLanguages["2009 : Toutes les langues des Khoïsans sont en voie d’extinction"]
+      
    khoisanArrive --> grassland --> amaXhosa --> europeanInvasion -->
    17thCentury --> boersConflict --> 
    europeanFightInSouthAfricaBegin --> europeanFightInSouthAfricaEnd --> wilhelmBleekbirth --> 1850 -->
-   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator --> kTKLittleFamilyLeaveMowbray -->
-   kabboDeath --> 1877 --> hanKassOInformatorBegin --> hanKassOInformationEnd --> bushmanlandBantoustan
+   hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator -->
+   kTKLittleFamilyLeaveMowbray --> kabboDeath --> 1877 --> hanKassOInformatorBegin --> hanKassOInformationEnd -->
+   bushmanlandBantoustan --> khoesanLanguages
    
 ```
 
@@ -189,19 +191,27 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
    </figcaption>
 </figure>
 
+### Les ***ǂGonakhoe***
+
+L’invasion européenne est à l’origine de l’extinction ou de la marginalisation de peuples. Elle aboutit à des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur les autochtones ont poussés ces derniers à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs.
+Les ***ǂGonakhoe*** sont un mix entre les cultures ***Khoï*** et Xhosa (peuple du sud différent des ***Khoïsans***).[^12]
+
 # La culture khoïsan
 
 ## Onglets{.tabset}
 
-### Pronostique vital de la culture
+### Pronostique vital de la culture[^2][^12]
 
 > La langue est importante pour la transmission et la vie de sa / ses cultures associée(s). Par conséquent, la mort d’une langue implique l’effondrement de sa / ses culture(s).
 > 
 > [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
-Les langues des ***Khoïsan*** sont soient éteintes (ex. : le `|xam`), soit en voie d’extinction (ex. : le `khoemana`).
-La disparition de la langue `|xam` est due à l’extermination des ***Sans*** par les Trekboers.La disparition du `khoemana` est due à la faible quantité de locuteurs ou de locutrices (uniquement 30 personnes en `2009`). De plus, nombre de ces personnes parlent un `khoemana` au lexique et à la phonologie dégradés.
-Par conséquent, il va de soit que la culture des ***Khoïsans*** est vouée à disparaitre prochainement.[^2][^12]
+L’invasion européenne crée des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur ces populations poussent ces dernières à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs ancestrales.
+
+- Extinction de commmunautés ***Ss’wa ka !kui*** et ***!nussa !e*** par les `Trekboers`.
+- Marginalisation de la culture ***Xirikuana***, avec 10 locuteurs ou locutrices qui parlent la langue endogène et le reste qui parle Afrikaans.
+- En 2009, les cultures et les langues ***Khoïsans*** sont en voie d’extinction.
+- Naissance de peuples hybrides, comme les ***ǂGonakhoe***. Les ***ǂGonakhoe*** sont issus d’un mélange entre les ***Khoï*** et les Xhosa (peuple du sud différent des ***Khoïsans***).
 
 ### Langues[^12]
 
@@ -301,3 +311,5 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 [^13]: [English – Kora index](https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf) [e-book]. [consulté le `11` `Septembre` `2020` (calendrier grégorien)]. Disponible sur : https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf
 
 [^14]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
+
+[^15]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
