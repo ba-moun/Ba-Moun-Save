@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-13T16:31:51.575Z
+date: 2020-09-13T16:44:45.348Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -16,15 +16,12 @@ La racialisation est à l’origine de la distinction des peuples en fonction de
 > Les races listées ci-dessous ne respectent en rien le paradigme négro-africain. Elles sont présentées à titre informatif afin de vous inculquer la mentalité des `envahisseurs européens`.
 {.is-warning}
 
-
-## Onglets{.tabset}
-
-### Blancs
+## Blancs
 
 La *race Blanche* désigne les *leucodermes*.
 Pourquoi le mot « blanc » ?
 
-### Coloured[^1]
+## Coloured[^1]
 
 Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. Cette race conceptualise le brassage des peuples :
 
@@ -41,19 +38,17 @@ Les termes suivants sont indifféremment utilisés pour désignier la race des *
 - *Bruinmense* : « gens bruns » en afrikaans,
 - *Kleurlinge* : « gens de couleur » en afrikaans,
 - *Bruin Afrikaners* : « Afrikaners bruns » en afrikaans,
-- *Basters* : signifie bâtards (utilisé, du XVII^ème^ − XVIII^ème^).
+- *Basters* : signifie péjorativement bâtards (utilisé, du XVII^ème^ − XVIII^ème^).
 
 
 > **Le saviez-vous ?**[^2]
 >
 ><figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/population/baasters/1872_baasters-paul-diergaardt-jacobus-mouton-hermanus-van-wijk-and-christoffel-van-wijk_public-domain.jpg"></figure>
 >
-> Basters est à l’origine de l'autoethnonyme `Basters de Rehoboth`.
-> Les `Basters de Rehoboth` (alias `Rehobothers`) sont les descendants de femmes `Kémyout` et d’envahisseurs `Néerlandais` de la `colonie du Cap`.
+> Basters est à l’origine de l'autoethnonyme Basters de Rehoboth, une communauté vivant principalement en `Namibie`.
+> Les `Basters de Rehoboth` (alias `Rehobothers`) sont les descendants de femmes `Kémyout` et d’envahisseurs `Néerlandais` de la `colonie du Cap`. Les Basters de Rehoboth revendiquent fièrement leur désignation malgré le signification péjorative de baster. Par cette dénomination, les `Baasters` revendiquent leur origine et leur histoire. De plus, cela les différencie de la race *Noire*, race à laquelle ils ne veulent pas être asosciés.
 >
-> Cette communauté vie principalement en `Namibie`.
->
-> À droite, une photo de `1872` qui représente le premier conseil des Basters de Rehoboth. De droite à gauche vous pouvez-voir Christoffel van Wijk, Hermanus van Wijk, Jacobus Mouton et Paul Diergaardt.
+> À droite, une photo de `1872` qui représente le premier conseil des Basters de Rehoboth. De droite à gauche, vous pouvez-voir Christoffel van Wijk, Hermanus van Wijk, Jacobus Mouton et Paul Diergaardt.
 {.is-info}
 
 [^1]: [Coloured](https://fr.wikipedia.org/wiki/Coloured). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Coloured
