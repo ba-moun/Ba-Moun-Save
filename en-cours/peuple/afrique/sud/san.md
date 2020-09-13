@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-13T10:16:35.016Z
+date: 2020-09-13T10:25:16.091Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -236,7 +236,7 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
-# L’invasion Trekboers
+# L’invasion Trekboers[^16][^4][^9][^1][^2]
 
 <figure class="image image-style-align-right image_resized" style="width: 30%;">
    <img src="/images/population/khoisan/three-khoisans_cc-by.jpg">
@@ -245,7 +245,10 @@ En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le 
    </figcaption>
 </figure>
 
-Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
+En `-40 000`, les `Khoïsans` sont les premiers homo sapiens sapiens du sud-sud-ouest du continent. Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
+
+`Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
+Les `Trekboers` sont connus pour avoir :
 
 - volé les terres `San (pour y mettre leurs propres fermes),
 - chassé du gibier des `San` (pour pratiquer du « sport » ou s’alimenter),
@@ -253,11 +256,11 @@ Les `Trekboers` sont connus pour avoir[^1][^2][^9] :
 - mis au travail forcé les `San`,
 - affamé volontairement les `San`.
 
-En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des `envahisseurs européens` avec leurs bétails.[^2]
+En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des `envahisseurs européens` avec leurs bétails.
 
 > **Le saviez-vous ?**
 > 
-> Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport »[^1] :
+> Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport » :
 > 
 > - le couagga,
 > - les autruches, 
@@ -269,16 +272,7 @@ En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des
 > Certaines espèces comme le couagga sont à présent éteintes.
 {.is-info}
 
-`Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`.[^1][^2][^9]
-
-> **Le saviez-vous ?**
-> 
-> Les `huguenots` sont des `protestants` du `Royaume de France` et du `Royaume de Navarre`. Ils sont appelés ainsi durant la seconde moitié du XVI^ème^ siècle.
-> Au XVII^ème^ siècle, les `huguenots` sont appelés `religionnaires`.[^10]
-{.is-info}
-
-Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades.
-Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] :
+Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades. Ils sont à présent concidérés comme les ancêtres :
 
 - des `Grensboere`, alias `Boers` (paysans `néerlandais`),
 - de la population de `Buysplaas` alias `Buysville`,
@@ -313,3 +307,5 @@ Les `Trekboers` sont à présent concidérés comme les ancêtres[^1][^2][^9] 
 [^14]: [Khoemana](https://en.wikipedia.org/wiki/Khoemana). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `8` `Mai` `2020` [consulté le `11` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://en.wikipedia.org/wiki/Khoemana
 
 [^15]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
+
+[^16]: [DESTINS DE CHASSEURS/CUEILLEURS(1) .LE CHANT DES BUSHMEN /XAM.](https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html). In [REGARD ELOIGNE](https://agoras.typepad.fr/) [en ligne]. [REGARD ELOIGNE](https://agoras.typepad.fr/), mis à jour le `04` `Juin` `2012` [consulté le `18` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html
