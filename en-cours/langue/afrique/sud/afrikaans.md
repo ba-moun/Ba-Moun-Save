@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-13T14:28:11.231Z
+date: 2020-09-13T14:36:51.558Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen
 editor: markdown
 ---
@@ -19,6 +19,35 @@ Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilisent comme
 - les `métis du Cape`,
 - les `Malais du Cape`,
 - les `Basters de Rehoboth`.
+
+La frise suivante présente de façon succincte l’histoire de la langue ***afrikaans***.[^15]
+
+```mermaid
+flowchart TB
+   khoisanArrive["-40 000 : Les ancêtres Khoïsan deviennent les premiers habitants
+   du sud-sud-ouest du continent."]
+   
+   grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
+   (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
+   (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+   
+   amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
+   de l’espace occupé par l’Afrique du Sud 🇿🇦"]
+   
+   europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
+   
+   subgraph 17thCentury["XVIIème siècle"]
+      boersExpantion["~1600 : Début de l’expansion des Trekboers
+         (ancêtre des Boers) dans le sud du continent"]
+      
+      europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
+   end
+   
+   imposeAfrikaans["1875 : Stephanus Jacobus du Toit et l’Association des vrais Afrikaners défendent et imposent l’afrikaans et l’anglais comme langue officielle de la colonie du Cap"]
+      
+   khoisanArrive --> grassland --> amaXhosa --> europeanInvasion --> 17thCentury --> khoesanLanguages
+   
+```
 
 [^1]: [Peuples de langue afrikaans](https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans
 
