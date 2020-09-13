@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-08-19T20:06:18.205Z
+date: 2020-09-13T10:19:40.318Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -29,7 +29,7 @@ La frise suivante relate d’événements historiques liés aux ***Trekboers***.
 
 ```mermaid
 flowchart TB
-   khoisanArrive["-40 000 : Les Khoïsan deviennent les premiers habitants
+   khoisanArrive["-40 000 : Les Khoïsans deviennent les premiers habitants
       du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
@@ -73,7 +73,7 @@ flowchart TB
 
 # Histoire de leur invasion[^11][^4][^9][^1][^2]
 
-En `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
+En `-40 000`, les `Khoïsans` sont les premiers homo sapiens sapiens du sud-sud-ouest du continent. Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
 Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 Les ***Trekboers*** sont connus pour avoir :
 
