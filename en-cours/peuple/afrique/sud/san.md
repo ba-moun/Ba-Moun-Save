@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-12T13:10:15.987Z
+date: 2020-09-13T08:16:11.924Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -135,8 +135,8 @@ flowchart TB
 ### Les ***Xirikuana***
 
 ***Xirikuana*** est le nom endogène des ***Griqua***. Ce peuple fait partie des `Khoïkhoï`.
-La langue des ***Xirikuana*** est en voie de disparition, avec trente locuteurs ou locutrices en 2009 (`calendirer grégorien`).
-Cette langue peut être nommée comme suit[^12][^13][^14] :
+La langue et la culture ***Xirikuana*** est en voie de disparition. En `2009` (`calendirer grégorien`), il n’existe que trente locuteurs et/ou locutrices. De plus, une majorité de ces personnes parlent une langue dont le lexique et la phonétique sont dégradés.
+La langue des ***Xirikuana*** peut être nommée comme suit[^12][^13][^14] :
 
 - Cape khoe,
 - Koraqua,
