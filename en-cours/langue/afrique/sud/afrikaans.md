@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-13T14:36:51.558Z
+date: 2020-09-13T14:38:42.392Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen
 editor: markdown
 ---
@@ -43,9 +43,15 @@ flowchart TB
       europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
    end
    
+   europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais
+      commencent à se disputer le sud de l’Afrique"]
+   
+   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie du sud du continent aux Britaniques"]
+   
    imposeAfrikaans["1875 : Stephanus Jacobus du Toit et l’Association des vrais Afrikaners défendent et imposent l’afrikaans et l’anglais comme langue officielle de la colonie du Cap"]
       
-   khoisanArrive --> grassland --> amaXhosa --> europeanInvasion --> 17thCentury --> khoesanLanguages
+   khoisanArrive --> grassland --> amaXhosa --> europeanInvasion --> 17thCentury --> europeanFightInSouthAfricaBegin -->
+   europeanFightInSouthAfricaEnd --> khoesanLanguages
    
 ```
 
