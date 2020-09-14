@@ -2,21 +2,31 @@
 title: Yovodah
 description: Définition du terme Yovodah
 published: true
-date: 2020-06-15T11:54:54.967Z
+date: 2020-09-14T14:05:57.594Z
 tags: yovodah, esclavage, terminologie, définition
 editor: markdown
 ---
 
+Yovodah signifie…
+
 # L'impact du Yovodah
+
 ## Les mentalités
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/personnalite/whites/diana-blumberg-baumrind/1965_diana-blumberg-baumrind_public-domain.png">
+   <figcaption>
+      Diana BAUMRID en 1965
+   </figcaption>
+</figure>
+
 Après des siècles de violence et d'ensiegnement basés sur le négatif et l'interdit, les afro-descendants issus du Yovodah se voient contraint de se reconstruire sur plusieurs plans (morale, physique, pécunier, etc.). En effet, sortant d'un passé colonial et esclavagiste, cette partie du peuple [Kamite](/peuple/afrique/nord-est/empire/kmt/kemtiou) s'est vu contrainte d'adopter[^1] :
 * des expressions négatives ;
 * un déni des sentiments profonds ;
 * une perception pessimiste de l'avenir.
 
-![Diana Blumberg Baumrind 2 C 1965](/uploads/personnalite/diana-blumberg-baumrind-2-c-1965.png "Diana Blumberg Baumrind, en 1965"){.align-right}
-
 La psychologue [Diana BAUMRID](https://fr.wikipedia.org/wiki/Diana_Baumrind) démontre que de tels comportements (mêmes involontaires) affectent l'épanouissement des nouvelles générations[^1] :
+
 > « Les parents préconisent l'obéissance et le respect des règles familiales, mais ils accordent peu de place aux dimensions affectives et relationnelles. Ils considèrent que les enfants et les adolescents doivent se plier aux règles qu'on leur impose et adoptent des mesures disciplinaires punitives en cas de transgression. On recourt peu au dialogue, car ces parents sont d'avis que l'enfant doit se conformer aux exigences parentales, sans discuter. »
 
 # Les solutions allant à l'encontre du Yovodah
