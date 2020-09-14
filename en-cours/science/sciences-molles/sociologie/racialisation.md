@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-14T13:53:19.799Z
+date: 2020-09-14T13:59:24.589Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -28,7 +28,7 @@ Pourquoi le mot « blanc » ?
 
 ## Coloured[^1]
 
-Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des *Coloured* représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.
+Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des *Coloured* représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.[^12]
 Cette race conceptualise le brassage des peuples :
 
 - *Européens*,
@@ -64,3 +64,5 @@ Les termes suivants sont indifféremment utilisés pour désignier la race des *
 [^1]: [Coloured](https://fr.wikipedia.org/wiki/Coloured). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Coloured
 
 [^2]: [Basters](https://fr.wikipedia.org/wiki/Basters_de_Rehoboth). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `11` `Juillet` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Basters_de_Rehoboth
+
+[^12]: Statistics South Africa. [Mid-year population estimates](http://www.statssa.gov.za/publications/P0302/P03022019.pdf) [e-book]. Statistics South Africa, `29` `Juillet` `2019` `10`:`00`, [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Disponible sur : http://www.statssa.gov.za/publications/P0302/P03022019.pdf
