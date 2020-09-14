@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-14T13:49:18.217Z
+date: 2020-09-14T13:53:19.799Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -15,6 +15,11 @@ La racialisation est à l’origine de la distinction des peuples en fonction de
 >
 > Les races listées ci-dessous ne respectent en rien le paradigme négro-africain. Elles sont présentées à titre informatif afin de relater d’apporter des informations complémentaires au concept.
 {.is-warning}
+
+## Béké
+
+La *race des Békés* est une *race de Blancs* qui se sont reproduits entre eux.
+Cette race forme une communauté qui domine économiquement les `Département d’Outre-Mer Français`.
 
 ## Blancs
 
