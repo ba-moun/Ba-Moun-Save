@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-13T17:26:14.734Z
+date: 2020-09-14T13:49:18.217Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -13,7 +13,7 @@ La racialisation est à l’origine de la distinction des peuples en fonction de
 
 > **Avant d’aller plus loin**
 >
-> Les races listées ci-dessous ne respectent en rien le paradigme négro-africain. Elles sont présentées à titre informatif afin de vous inculquer la mentalité des `envahisseurs européens`.
+> Les races listées ci-dessous ne respectent en rien le paradigme négro-africain. Elles sont présentées à titre informatif afin de relater d’apporter des informations complémentaires au concept.
 {.is-warning}
 
 ## Blancs
