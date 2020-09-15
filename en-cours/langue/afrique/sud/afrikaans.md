@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-15T10:50:10.208Z
+date: 2020-09-15T11:05:29.785Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -100,9 +100,9 @@ Jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois l
       
 [^1]: [Peuples de langue afrikaans](https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans
 
-[^2]: [Sud-Ouest africain](https://fr.wikipedia.org/wiki/Sud-Ouest_africain). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Sud-Ouest_africain
+[^2]: [Overview of the Namibian Constitution](http://www.lac.org.na/projects/grap/Pdf/Gov1_Overview_of_Namibian_Constitution.pdf) [e-book]. My Democracy Tree Namibia, [consulté le `15` `Septembre` `2020` (`calendrier grégorien`)]. Disponible sur : http://www.lac.org.na/projects/grap/Pdf/Gov1_Overview_of_Namibian_Constitution.pdf
 
-[^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
+[^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (calendirer grégorien)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
 
 [^12]: Don Killian. [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf) [e-book]. Requirements for the degree of MASTER OF PHILOSOPHY (Phonetics) of the University of Helsinki, `Mars` `2009`, [consulté le `12` `Septembre` `2020`] (calendrier grégorien). Disponible sur : https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf
 
