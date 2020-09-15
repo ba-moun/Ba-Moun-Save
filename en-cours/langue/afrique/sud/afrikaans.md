@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-15T10:18:56.364Z
+date: 2020-09-15T10:50:10.208Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 
 ***Afrikaans*** est le nom d’une langue leuco-africaine qui a vu le jour dans le sud du continent.
 « Afrikaans » se traduit par « africain » en `néerlandais`. L’***afrikaans*** vient des Européens qui ont envahit le `sud` du `continent` à partir de `1488`. Ces `envahisseurs` sont des `Néerlandais`, des `Huguenots` et des `protestants Allemands` dénomés `Trekboers`.
-L’***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, aux Pays-Bas. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. De plus, cette langue leuco-africaine est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par des peuples alliénés comme les `Xirikuana`.[^12][^15]
+L’***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, le Pays-Bas. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. De plus, cette langue leuco-africaine est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par des peuples alliénés comme les `Xirikuana`.[^12][^15]
 
 L’***afrikaans*** est la langue nationale de la Namibie et la langue officielle de l’Afrique du Sud. Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilisent comme langue maternelle.
 Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^15] :
@@ -33,12 +33,12 @@ La frise suivante présente de façon succincte l’histoire de la langue ***afr
 
 ```mermaid
 flowchart TB
-   khoisanArrive["-40 000 : Les ancêtres Khoïsan deviennent les premiers habitants
+   khoisanArrive["-40 000 : Les ancêtres des Khoïsans deviennent les premiers habitants
    du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
    (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-   (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+   (équivaut à l’Est de l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
    de l’espace occupé par l’Afrique du Sud 🇿🇦"]
@@ -61,8 +61,8 @@ flowchart TB
    grandTrek["1836 : Grand Trek"]
    
    imposeAfrikaans["1875 : Stephanus Jacobus du Toit et l’Association des vrais Afrikaners
-      défendent et imposent l’afrikaans et l’anglais
-      comme langue officielle de la colonie du Cap."]
+      défendent et imposent l’afrikaans
+      comme langue officielle de la colonie du Cap, en plus de l’anglais."]
    
    afrikaansLanguageNID["1876 : La revue politique « Die Afrikaanse Patriot » (Le Patriote Africain)
       sert à éveiller la conscience nationale des Afrikaners
@@ -77,21 +77,30 @@ flowchart TB
    
 ```
 
-# Valorisation de la langue
+# Valorisation de la langue[^15]
 
 En `1875`, Stephanus Jacobus du Toit travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leurs objectifs est de défendre et d’imposer l’***afrikaans*** comme langue officielle de la colonie du Cap, en plus de l’anglais.
-En `1876`, S.J. du Toit devient le rédacteur en chef de la revue « Die Afrikaanse Pastriot ». Cette revue écrit en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer le complexe d’infériorité de ce peuple. À cette époque, les `Afrikaners` se sentent culturellement inférieurs au `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
-En `1877`, S.J. du Toit publie le « premier livre d’histoire des Afrikaners et écrit en ***afrikaans*** ». Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (l’histoire de notre pays dans la langue de notre peuple). C’est un manifeste politique des `Afrikaners` empreint de mystique. Ce « livre d’histoire » relate de la lutte d’un « petit peuple » élu pour rester fidèle au dessein de Dieu de 1795 aux exécutions de Slagter’s Neck en 1815.[^15]
+
+En `1876`, S.J. du Toit devient le rédacteur en chef de la revue « Die Afrikaanse Pastriot ». Cette revue écrit en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer le complexe d’infériorité de ce peuple. À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
+
+En `1877`, S.J. du Toit publie le premier « livre d’histoire » des Afrikaners écrit en ***afrikaans***. Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (L’Histoire de notre Pays dans la Langue de notre Peuple). C’est un manifeste politique des `Afrikaners` qui est empreint de mystique. Ce livre d’histoire romance la lutte du « petit peuple Afrikaners » élu pour rester fidèle au dessein de Dieu depuis `1795`.
 
 > **Le saviez-vous  ?**[^4]
 >
-> En 1795, les `Britaniques` et les `Néerlandais` entamment un conflit pour l’acquisition de la colonie située au sud du continent.
+> En `1795`, les `Britaniques` et les `Néerlandais` entamment un conflit pour l’acquisition de la `colonie européenne` située au sud de `Katyopa`.
 {.is-info}
 
-Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. La lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques. Enfin, en `1925`, le gouvernement de `James Barry Hertzog` fait de l'afrikaans la langue nationale avec l'anglais (à la place du néerlandais.
-Jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois langues officielles du `Sud-Ouest africain`. Le `Sud-Ouest africain` est devenu la `République de Namibie` en `1990`.
+Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. Leur lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques. Enfin, en `1925`, le gouvernement de `James Barry Hertzog` fait de l'***afrikaans*** la langue nationale avec l'anglais. Dès lors, l’***afrikaans*** remplace le néerlandais
+Jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois langues officielles du `Sud-Ouest africain`.
+
+> ***Le saviez-vous ?***[^2]
+>
+> Le `Sud-Ouest africain` devient définitivement la `République de Namibie` en `1990`.
+{.is-info}
       
 [^1]: [Peuples de langue afrikaans](https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans
+
+[^2]: [Sud-Ouest africain](https://fr.wikipedia.org/wiki/Sud-Ouest_africain). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Sud-Ouest_africain
 
 [^4]: [Afrique du Sud](https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `25` `Juillet` `2020` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Afrique_du_Sud#Histoire
 
