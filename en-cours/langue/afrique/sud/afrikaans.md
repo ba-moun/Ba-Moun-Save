@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-14T14:57:32.699Z
+date: 2020-09-15T09:57:17.003Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -10,18 +10,24 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Afrikaans*** est le nom d’une langue leuco-africaine issue du `Yovodah`. « Afrikaans » se traduit par « africain » en `néerlandais`.
-Cette langue a été crée dans le sud du continent. Elle est issue d’un dialecte hollandais, celui de la Hollande-Méridionale. Cette langue a imigrée sur le continent par l’intermédiaire des `envahisseurs néerlandais`. L’***afrikaans*** a évolué avec les ancêtres des `boers` présents au sud du continent. Étant à l’écart des Pays-Bas, la langue néerlandaise de ces `envahisseurs` s’est transformé jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. L’***afrikaans*** est dérivé de la langue néerlandaise (dialecte hollandais de la Hollande-Méridionale).
-L’***afrikaans*** est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par d’autres peuples colonisés comme les `Xrikuana`.[^12][^15]
+***Afrikaans*** est le nom d’une langue leuco-africaine qui a vu le jour dans le sud du continent.
+« Afrikaans » se traduit par « africain » en `néerlandais`. L’***afrikaans*** vient des Européens qui ont envahit le `sud` du `continent` à partir de `1488`. Ces `envahisseurs` sont des `Néerlandais`, des `Huguenots` et des `protestants Allemands` dénomés `Trekboers`.
+La langue ***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, aux Pays-Bas. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. De plus, cette langue leuco-africaine est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par des peuples alliénés comme les `Xirikuana`.[^12][^15]
 
-L’***afrikaans*** est la langue nationale de la Namibie et la langue officielle de l’Afrique du Sud.
-Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilisent comme langue maternelle. À l’inverse, les langues des ***Khoïsans*** sont en voit d’extinction avec, pour certaines, une dizaine de locutrices ou locuteurs. Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^15] :
+L’***afrikaans*** est la langue nationale de la Namibie et la langue officielle de l’Afrique du Sud. Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilisent comme langue maternelle.
+Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^15] :
 
 - les `Afrikaners`,
 - les `Xiriqua`,
 - les `métis du Cape`,
 - les `Malais du Cape`,
 - les `Basters de Rehoboth`.
+
+> **Le saviez-vous ?**[^12]
+>
+> Les ***Khoïsans*** forment une communauté `kémit` présente depuis 40 000 ans dans le sud du continent.
+> À l’inverse de l’***afrikaans***, les langues endogènes aux ***Khoïsans*** sont en voit d’extinction. Pour certaines, en `2009`, il n’existe qu’une dizaine de locutrices et/ou de locuteurs.
+{.is-info}
 
 La frise suivante présente de façon succincte l’histoire de la langue ***afrikaans***.[^4][^15]
 
@@ -49,18 +55,25 @@ flowchart TB
    europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais
       commencent à se disputer le sud de l’Afrique"]
    
-   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie du sud du continent aux Britaniques"]
+   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie
+      située au sud du continent aux Britaniques"]
    
    grandTrek["1836 : Grand Trek"]
    
-   imposeAfrikaans["1875 : Stephanus Jacobus du Toit et l’Association des vrais Afrikaners défendent et imposent l’afrikaans et l’anglais comme langue officielle de la colonie du Cap"]
+   imposeAfrikaans["1875 : Stephanus Jacobus du Toit et l’Association des vrais Afrikaners
+      défendent et imposent l’afrikaans et l’anglais
+      comme langue officielle de la colonie du Cap."]
    
-   afrikaansLanguageNID["1876 : une revue en afrikaans nommée « Die Afrikaanse Patriot », dont S. J. du Toit devient le rédacteur en chef sert d’outl politique pour éveiller la conscience nationale des Afrikaners et les libérer de leur complexe d'infériorité culturelle face aux Anglais. La défense de la langue se confond à présent avec l'identité afrikaans."]
+   afrikaansLanguageNID["1876 : La revue politique « Die Afrikaanse Patriot » (Le Patriote Africain)
+      sert à éveiller la conscience nationale des Afrikaners
+      et à les libérer de leur complexe d'infériorité culturelle."]
    
-   ["1877 : S. J. Du Toit publie le premier livre d'histoire des Afrikaners écrit en afrikaans : Die Geskiedenis van ons Land in die Taal van ons Volk (« L'histoire de notre pays dans la langue de notre peuple »)."] qui s'apparente à un manifeste politique des Afrikaners empreint de mysticisme. Il relate la lutte d'un petit peuple élu pour rester fidèle au dessein de Dieu, de la révolte de 1795 aux exécutions de Slagter's Neck en 1815, du Grand Trek de 1836, identifié à l'exode d'Égypte, au meurtre de Piet Retief et au triomphe de Blood River."]
+   afrikanersHistoryBook["1877 : S. J. du Toit publie le premier livre d'histoire des Afrikaners :
+      Die Geskiedenis van ons Land in die Taal van ons Volk
+      (L'Histoire de notre Pays dans la Langue de notre Peuple)."]
       
    khoisanArrive --> grassland --> amaXhosa --> europeanInvasion --> 17thCentury --> europeanFightInSouthAfricaBegin -->
-   europeanFightInSouthAfricaEnd --> khoesanLanguages --> afrikaansLanguageNID
+   europeanFightInSouthAfricaEnd --> grandTrek --> imposeAfrikaans --> afrikaansLanguageNID --> afrikanersHistoryBook
    
 ```
 
