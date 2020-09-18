@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-18T14:48:46.530Z
+date: 2020-09-18T14:53:02.298Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -42,6 +42,8 @@ flowchart TB
    khoisanArrive["-40 000 : Les ancêtres Khoïsan deviennent les premiers habitants
    du sud-sud-ouest du continent."]
    
+   thelargestPopulation["-20 400 : Les Khoïsans représentent la population la plus grande du monde."]
+   
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
    (dénommés bantou) atteignent l’actuelle province du KwaZulu-Natal
    (Est de l’Afrique du Sud 🇿🇦)"]
@@ -66,7 +68,8 @@ flowchart TB
    europeanFightInSouthAfricaBegin["1795 : Les Britaniques et les Néerlandais
       commencent à se disputer le sud de l’Afrique"]
    
-   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie du sud du continent aux Britaniques"]
+   europeanFightInSouthAfricaEnd["1806 : Les Néerlandais cèdent leur colonie
+      du sud du continent aux Britaniques"]
          
    wilhelmBleekbirth["8 Mars 1827 : Naissance de Wilhelm Bleek"]
 
@@ -123,7 +126,7 @@ flowchart TB
       
    khoesanLanguages["2009 : Toutes les langues des Khoïsans sont en voie d’extinction"]
       
-   khoisanArrive --> grassland --> amaXhosa --> europeanInvasion -->
+   khoisanArrive --> thelargestPopulation --> grassland --> amaXhosa --> europeanInvasion -->
    17thCentury --> boersConflict --> 
    europeanFightInSouthAfricaBegin --> europeanFightInSouthAfricaEnd --> wilhelmBleekbirth --> 1850 -->
    hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator -->
