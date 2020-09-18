@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-18T14:35:13.900Z
+date: 2020-09-18T14:48:46.530Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -55,7 +55,9 @@ flowchart TB
       boersExpantion["~1600 : Début de l’expansion des Trekboers
          (ancêtre des Boers) dans le sud du continent"]
       
-      europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent"]
+      europeanInvasionNextStep["1652 :
+         - Les Néerlandais arrivent en Afrique australe.
+         - Les Européens s’installent définitivement au sud du continent."]
    end
    
    boersConflict["1779 : Début des relations conflictuelles entre
