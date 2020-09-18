@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-18T16:52:55.676Z
+date: 2020-09-18T16:59:05.726Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -16,14 +16,18 @@ Cette page relate des avancées technologiques réalisées par l’espèce humai
 flowchart TB
    graphicArts["-80 000 : Naissance de l’art graphique et de l’artisanat au sud de Katyopa."]
    
+   technocomplex["-50 000 : Naissance de l’industrie microlithique au sud de Katyopa."]
+   
    graphicArtsInEu["-36 000 : Premières formes d’art graphique en Europe."]
+   
+   technocomplexInEu["-10 000 : Premières industries microlithiques en Europe."]
 
    agriculture["-1500 : Les peuples dits « Bantous » maitrisent l’agriculture."]
    
    metalworkingIndustry["~500 : Les peuples dits « Bantous » arrivent au sud du continent
       et maitrisent la métallurgie."]
       
-   graphicArts --> graphicArtsInEu --> agriculture --> metalworkingIndustry
+   graphicArts --> technocomplex --> graphicArtsInEu --> technocomplexInEu --> agriculture --> metalworkingIndustry
    
 ```
 
