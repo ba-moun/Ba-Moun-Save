@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-13T10:34:00.208Z
+date: 2020-09-18T14:35:13.900Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -43,8 +43,8 @@ flowchart TB
    du sud-sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
-   (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-   (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+   (dénommés bantou) atteignent l’actuelle province du KwaZulu-Natal
+   (Est de l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
    de l’espace occupé par l’Afrique du Sud 🇿🇦"]
