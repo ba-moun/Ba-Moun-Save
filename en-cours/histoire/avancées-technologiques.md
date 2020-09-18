@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-18T16:44:41.623Z
+date: 2020-09-18T16:52:55.676Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -10,13 +10,13 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-Cette page relate des avancées technologiques réalisées par l’espèce humaine.[^1][^15]
+Cette page relate des avancées technologiques réalisées par l’espèce humaine.[^1][^2][^15]
 
 ```mermaid
 flowchart TB
    graphicArts["-80 000 : Naissance de l’art graphique et de l’artisanat au sud de Katyopa."]
    
-   graphicArtsInEu["-30 000 : Premières formes d’art graphique en Europe."]
+   graphicArtsInEu["-36 000 : Premières formes d’art graphique en Europe."]
 
    agriculture["-1500 : Les peuples dits « Bantous » maitrisent l’agriculture."]
    
@@ -27,6 +27,8 @@ flowchart TB
    
 ```
 
-[^1]: Jean Philippe Omotunde. [Manuel d’études des Humanités Classiques Africaines. Editions MENAIBUC. 2007, Volume 1. 157 p. ISBN 978-2-35349-011-0
+[^1]: Jean Philippe Omotunde. Manuel d’études des Humanités Classiques Africaines. Editions MENAIBUC. `2007`, Volume 1. 157 p. ISBN 978-2-35349-011-0
+
+[^2]: [La grotte Chauvet virtuelle, voyage à l’aube de l’art](https://www.rfi.fr/fr/podcasts/20200306-grotte-chauvet-virtuelle-voyage-%C3%A0-laube-lart). In [Radio France International](https://www.rfi.fr/fr) [en ligne]. [Radio France International](https://www.rfi.fr/fr), `06` `Mars` `2020` `07:56`, mis à jour le `06` `Mars` `2020` `12:03` [consulté le `18` `Septembre` `2020`] (`calendrier grégorien`). Dispnible sur : https://www.rfi.fr/fr/podcasts/20200306-grotte-chauvet-virtuelle-voyage-%C3%A0-laube-lart
 
 [^15]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
