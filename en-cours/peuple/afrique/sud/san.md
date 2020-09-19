@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-18T14:53:02.298Z
+date: 2020-09-19T19:27:40.062Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -21,7 +21,8 @@ editor: markdown
    </figcaption>
 </figure>
 
-***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans. Ce peuple regroupe les ***Sans*** et les ***Khoikhoi***. Les ***Sans*** sont des chasseurs-cueilleurs appelés péjorativement ***bochiman*** (***bushmen*** en anglais). Les ***Khoikhoi*** sont des éleveurs ***Hottentots***.[^4][^15]
+***Khoïsan*** est un nom donné à un peuple vieux d’environ 40 000 ans. Ce peuple regroupe les ***Sans*** et les ***Khoikhoi***. Les ***Sans*** sont des chasseurs-cueilleurs appelés péjorativement ***bochiman*** (***bushmen*** en anglais). Ce peuple a survécu au `Yovodah` pratiqué en `Afrique du Sud`, en `Namibie` et au `Botswana`. À présent, les `Sans` vivent dans le `désert du Kaglagadi`, où ils préservent leur culture et leur mode de vie.
+Les ***Khoikhoi*** sont des éleveurs ***Hottentots***.[^4][^15]
 
 L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.
 `Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1][^11]
