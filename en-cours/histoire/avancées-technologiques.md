@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T07:40:21.640Z
+date: 2020-09-19T07:55:03.258Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -77,7 +77,7 @@ flowchart TB
       
    calendar["-4 236 : Naissance du calendrier de 12 mois de 4 semaines
       (trouvé en Nubie)."]
-      
+            
    hieroglyph["-3 400 : Naissance de l’écriture mdw nTr"]
    
    metalworkingIndustry["-2 900 : Naissance de la métallurgie (vestiges trouvés au Niger Oriental)."]
