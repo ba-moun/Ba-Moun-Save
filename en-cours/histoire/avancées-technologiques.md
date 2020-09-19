@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T06:29:04.937Z
+date: 2020-09-19T06:59:51.144Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -18,24 +18,38 @@ flowchart TB
    
    technocomplex["-50 000 : Naissance de l’industrie microlithique au sud de Katyopa."]
    
-   graphicArtsInEu["-36 000 : Premières formes d’art graphique en Europe."]
+   lebomboBone["-37 000 : Naissance de la réflexion mathématique
+      avec l’os de Lebombo (trouvé au Swaziland)"]
+   
+   graphicArtsInEu["-36 000 : Apparition des premières formes d’art graphique en Europe."]
+   
+   ishangoBone["-25 000 : Naissance de la réflexion mathématique avancée
+      avec l’os d’Ishango, (trouvé en RDC)"]
    
    technocomplexInEu["-10 000 :
-      - Premiers outils polis, en Zambie septentrionale
-      - Premières industries microlithiques, en Europe."]
+      - Naissance des premiers outils polis (trouvés en Zambie septentrionale)
+      - Apparition des premières industries microlithiques en Europe."]
    
-   cattleDomestication["-10 000 / -9 000 : Première domestication des bovins, en Basse Nubie."]
+   cattleDomestication["-10 000 / -9 000 : Apparition de la domestication des bovins
+      (vestiges trouvés en Basse Nubie)."]
    
-   ceramicCreationDate["-9 500 : Création de la céramique dans le massif de l’Aïr (Niger)."]
+   ceramicCreationDate["-9 500 : Naissance des premiers objets en céramique
+      (trouvés dans le massif de l’Aïr, au Niger)."]
    
-   firstCities["-9 000 : Premières villes dans la région de Nabta (désert de Nubie)."]
-
-   agriculture["-1500 : Les peuples dits « Bantous » maitrisent l’agriculture."]
-   
-   metalworkingIndustry["~500 : Les peuples dits « Bantous » arrivent au sud du continent
-      et maitrisent la métallurgie."]
+   firstCities["-9 000 : Naissance des premières villes
+      dans la région de Nabta (désert de Nubie)."]
       
-   graphicArts --> technocomplex --> graphicArtsInEu --> technocomplexInEu --> cattleDomestication --> ceramicCreationDate --> agriculture --> metalworkingIndustry
+   astronomicalObservatory["-4 800 : Naissance de l’astronomie et
+      construction d’un observatoire astronomique (trouvé en Nubie)."]
+      
+   calendar["-4 236 : Naissance du calendrier de 12 mois de 4 semaines
+      (trouvé en Nubie)."]
+      
+   hieroglyph["-3 400 : Naissance de l’écriture mdw nTr"]
+   
+   metalworkingIndustry["-2 900 : Naissance de la métallurgie (vestiges trouvés au Niger Oriental)."]
+   
+   graphicArts --> technocomplex --> lebomboBone --> graphicArtsInEu --> ishangoBone --> technocomplexInEu --> cattleDomestication --> ceramicCreationDate --> firstCities --> astronomicalObservatory --> calendar --> hieroglyph --> metalworkingIndustry
    
 ```
 
