@@ -1,8 +1,8 @@
 ---
-title: Avancées sociétales
+title: Avancées sociétales humaines
 description: Présentation des avancées sociétales de l’humanité
 published: true
-date: 2020-09-19T07:07:19.471Z
+date: 2020-09-19T07:22:51.086Z
 tags: avancées sociétales, royauté
 editor: markdown
 ---
