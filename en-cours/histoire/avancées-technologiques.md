@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T06:25:59.566Z
+date: 2020-09-19T06:29:04.937Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -27,6 +27,8 @@ flowchart TB
    cattleDomestication["-10 000 / -9 000 : Première domestication des bovins, en Basse Nubie."]
    
    ceramicCreationDate["-9 500 : Création de la céramique dans le massif de l’Aïr (Niger)."]
+   
+   firstCities["-9 000 : Premières villes dans la région de Nabta (désert de Nubie)."]
 
    agriculture["-1500 : Les peuples dits « Bantous » maitrisent l’agriculture."]
    
