@@ -2,7 +2,7 @@
 title: Avancées sociétales humaines
 description: Présentation des avancées sociétales de l’humanité
 published: true
-date: 2020-09-19T08:46:54.788Z
+date: 2020-09-19T10:04:25.066Z
 tags: avancées sociétales, royauté
 editor: markdown
 ---
@@ -27,18 +27,19 @@ flowchart TB
    smaTawy["-3 200 : Unification de la Haute et de la Basse Égypte (Séma Tawy)
       par le Nésout Bity Narmer (le Roi Scorpion)."]
    
-   wisdomNSacredTexts["-2 800 : Naissance des premiers textes sacrés et
+   wisdomNSacredTexts["-2 800 : Rédaction des premiers textes sacrés et
       des premiers textes de sagesse."]
       
-   kagemni["-2 500 : Naissance du « Traité de savoir vivre » écrit par Kagemni."]
+   kagemni["-2 500 : Rédaction du « Traité de savoir vivre » écrit par Kagemni."]
    
-   iouper["-2 160 / -1 785 : Naissance de « L’Avertissement d’Iouper », où Iouper 
+   iouper["-2 160 / -1 785 : Rédaction de « L’Avertissement d’Iouper »,
+      où Iouper prédit le déclin de l’empire kémitique."]
    
    khety["-2 120 : Naissance de « L’Enseignement pour Mérikaré »
       écrit par le pharaon Khéty à son fils Mérikaré,
       pour assurer la succession du gouvernement."]
    
-   royalty --> firstNagadaPeriod --> secondNagadaPeriod --> thirdNagadaPeriod --> smaTawy --> wisdomNSacredTexts --> kagemni --> khety
+   royalty --> firstNagadaPeriod --> secondNagadaPeriod --> thirdNagadaPeriod --> smaTawy --> wisdomNSacredTexts --> kagemni --> iouper --> khety
    
 ```
 
