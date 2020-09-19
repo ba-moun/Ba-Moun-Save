@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T06:18:48.650Z
+date: 2020-09-19T06:20:36.222Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -20,7 +20,9 @@ flowchart TB
    
    graphicArtsInEu["-36 000 : Premières formes d’art graphique en Europe."]
    
-   technocomplexInEu["-10 000 : Premières industries microlithiques en Europe."]
+   technocomplexInEu["-10 000 :
+      - Premiers outils polis, en Zambie septentrionale
+      - Premières industries microlithiques, en Europe."]
    
    cattleDomestication["-10 000 / -9 000 : Première domestication des bovins, en Basse Nubie."]
 
