@@ -1,8 +1,8 @@
 ---
-title: Avancées technologiques humaines
+title: Avancées technologiques
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T06:59:51.144Z
+date: 2020-09-19T07:01:36.863Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
