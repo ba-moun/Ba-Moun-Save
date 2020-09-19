@@ -2,7 +2,7 @@
 title: Avancées sociétales humaines
 description: Présentation des avancées sociétales de l’humanité
 published: true
-date: 2020-09-19T07:22:51.086Z
+date: 2020-09-19T07:51:43.870Z
 tags: avancées sociétales, royauté
 editor: markdown
 ---
@@ -14,12 +14,20 @@ Cette page relate des avancées avancées sociétales de l’humanité.[^1]
 
 ```mermaid
 flowchart TB
-   royalty["-5 000 : Naissance de la royauté en Nubie"]
+   royalty["-5 200 : Naissance de la royauté kémétique par le règne des
+      premiers rois Nubiens : les « Shemsou Hor » (les Suivants d’Horus), alias Dynastie fondatrice
+      (vestiges trouvés à Nagada, en Nubie)."]
+   
+   firstNagadaPeriod["-5 200 / -3 900 : Période de la civilisation Nagada I, alias période Amratien."]
+   
+   secondNagadaPeriod["-3 900 / -3 300 : Période de la civilisation Nagada II, alias période Gerzéen."]
+   
+   thirdNagadaPeriod["-3 600 / -3 100 : Période de la civilisation Nagada III"]
    
    wisdomNSacredTexts["-2 800 : Naissance des premiers textes sacrés et
       des premiers textes de sagesse."]
    
-   royalty --> wisdomNSacredTexts
+   royalty --> firstNagadaPeriod --> secondNagadaPeriod --> thirdNagadaPeriod --> wisdomNSacredTexts
    
 ```
 
