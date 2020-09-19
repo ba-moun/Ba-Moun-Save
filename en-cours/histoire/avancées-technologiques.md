@@ -1,8 +1,8 @@
 ---
-title: Avancées technologiques
+title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T07:01:36.863Z
+date: 2020-09-19T07:40:21.640Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -12,11 +12,44 @@ editor: markdown
 
 Cette page relate des avancées technologiques réalisées par l’espèce humaine.[^1][^2][^15]
 
+> **Faites bien attention !**
+>
+> Certaines avancées technologiques citées ne viennent pas de l’être humain moderne.
+> Par exemple, la première révolution technologique de l’humanité a eu lieu environ 100 000 ans avant l’apparition de l’être humain moderne.
+{.is-warning}
+
+
 ```mermaid
 flowchart TB
+   firstTechnologicalRevolution["-300 000 : Première révolution technologique, à Katyopa.
+      - Naissance de la meule de pierre.
+      - Naissance de l’utilisation et de la préparation de pigments de couleur."]
+   
+   blade["-280 000 : Naissance de la lame (vestiges trouvés au Kenya)."]
+   
+   assegai["-230 000 : Naissance des pointes en silex ou en os."]
+   
+   homoSapiensSapiens["-200 000 : Naissance du premier être humain
+      (homo sapiens sapiens) à Katyopa."]
+      
+   secondTechnologicalRevolution["-150 000 :
+      - Naissance du ramassage de coquillages.
+      - Naissance des échanges sur longue distance.
+      - Naissance de la pêche."]
+   
+   etching["-140 000 :
+      - Naissance de la gravure.
+      - Naissance de l’exploitation minaire.
+      - Naissance des pointes barbelées."]
+      
+   bladeInEu["-100 000 : Apparition de meules, de couteaux de pierre, de pointes et
+      de l’utilisation de pigments en Europe."]
+
    graphicArts["-80 000 : Naissance de l’art graphique et de l’artisanat au sud de Katyopa."]
    
-   technocomplex["-50 000 : Naissance de l’industrie microlithique au sud de Katyopa."]
+   technocomplex["-50 000 :
+      - Naissance du collier.
+      - Naissance de l’industrie microlithique au sud de Katyopa."]
    
    lebomboBone["-37 000 : Naissance de la réflexion mathématique
       avec l’os de Lebombo (trouvé au Swaziland)"]
@@ -49,7 +82,7 @@ flowchart TB
    
    metalworkingIndustry["-2 900 : Naissance de la métallurgie (vestiges trouvés au Niger Oriental)."]
    
-   graphicArts --> technocomplex --> lebomboBone --> graphicArtsInEu --> ishangoBone --> technocomplexInEu --> cattleDomestication --> ceramicCreationDate --> firstCities --> astronomicalObservatory --> calendar --> hieroglyph --> metalworkingIndustry
+   firstTechnologicalRevolution --> blade --> assegai --> homoSapiensSapiens --> secondTechnologicalRevolution --> etching --> bladeInEu --> graphicArts --> technocomplex --> lebomboBone --> graphicArtsInEu --> ishangoBone --> technocomplexInEu --> cattleDomestication --> ceramicCreationDate --> firstCities --> astronomicalObservatory --> calendar --> hieroglyph --> metalworkingIndustry
    
 ```
 
