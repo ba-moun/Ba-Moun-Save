@@ -2,7 +2,7 @@
 title: Avancées technologiques humaines
 description: Récapitulatif des avancées tecnologiques humaines
 published: true
-date: 2020-09-19T06:20:36.222Z
+date: 2020-09-19T06:25:59.566Z
 tags: avancées, avancées technologiques, avancées technologiques humaines, technologies humaines, humanité, moun
 editor: markdown
 ---
@@ -25,13 +25,15 @@ flowchart TB
       - Premières industries microlithiques, en Europe."]
    
    cattleDomestication["-10 000 / -9 000 : Première domestication des bovins, en Basse Nubie."]
+   
+   ceramicCreationDate["-9 500 : Création de la céramique dans le massif de l’Aïr (Niger)."]
 
    agriculture["-1500 : Les peuples dits « Bantous » maitrisent l’agriculture."]
    
    metalworkingIndustry["~500 : Les peuples dits « Bantous » arrivent au sud du continent
       et maitrisent la métallurgie."]
       
-   graphicArts --> technocomplex --> graphicArtsInEu --> technocomplexInEu --> cattleDomestication --> agriculture --> metalworkingIndustry
+   graphicArts --> technocomplex --> graphicArtsInEu --> technocomplexInEu --> cattleDomestication --> ceramicCreationDate --> agriculture --> metalworkingIndustry
    
 ```
 
