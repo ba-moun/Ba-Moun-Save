@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-19T19:27:40.062Z
+date: 2020-09-20T07:42:00.107Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -136,7 +136,7 @@ flowchart TB
    
 ```
 
-# Les peuples ***Khoïsans***
+# Les différents peuples ***Khoïsans***
 
 ## Onglets{.tabset}
 
@@ -258,9 +258,19 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
-# L’invasion Trekboers[^16][^4][^9][^1][^2]
+# La génétique des ***Khoïsans***
 
-En `-40 000`, les `Khoïsans` sont les premiers homo sapiens sapiens du sud-sud-ouest du continent. Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.
+Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Cela fait de ce peuple l’un des plus anciens humains génétiquement parlant.
+Ces `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciennes de l’abre généalogique génétique du `chromosome Y` de l’être humain.[^15] 
+
+# L’histoire des ***Khoïsans***
+
+## La colonisation ***Khoïsan***
+
+En `-40 000`, les ***Khoïsans*** sont les premiers homo sapiens sapiens du sud-sud-ouest du continent.
+Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.[^4]
+
+## L’invasion Trekboers[^16][^4][^9][^1][^2]
 
 `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 Les `Trekboers` sont connus pour avoir :
