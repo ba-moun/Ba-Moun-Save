@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T13:56:05.488Z
+date: 2020-09-21T14:06:35.975Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -258,6 +258,41 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
+# Génétique des ***Khoïsans***[^17][^15]
+
+La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
+
+## Matrilinéarité[^17]
+
+Dans la « généalogie génétique de l’humanité », les `haplogroupes` `L0` et `L1-6` sont deux branches sœurs. Elles permettent de remonter au plus récent ancêtre matrilinéaire commun (mtDNA). Cet haplogroupe est la racine de cinq autres branches : L0a, L0b, L0d, L0d, L0f et L0k.
+
+À peu près 73% des ***Khoïsans*** appartiennent à la `clade` `L0`. Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
+Par exemple :
+
+- 79% des Namibien (tout particulièrement les ***!Kung***) appartiennent à la `cladeè  `L0`,
+- 83% des sud-africains (tout particulièrement les ***Khoï***) appartiennent à la `clade` `L0`,
+- 100% des Botswanais (tout particulièrement les ***!Kung***) appartiennent à la `clade` `L0`,
+- les ***Ju*** sont reconnus pour appartenir à la `clade` `L0d2c1c`.
+
+> **Le saviez-vous ?**
+>
+> En génétique, il n’est possible de connaître la lignée paternelle qu’avec le chromosome Y.
+> Par conséquent, pour connaître la lignée paternelle d’une personne de sexe féminin, il faut une personne de sexe masculin. Cette personne doit être de la même lignée paternelle.
+Par exemple, il peut s’agir :
+>
+> - du père,
+> - d’un fils du père,
+> - d’un fils du grand-père paternel,
+> - du fils d’un oncle paternel,
+> - etc.
+>
+> À l’inverse, il est possible de connaître la lignée maternelle avec une mitochondrie. Cela vient du fait qu’une progéniture hérite toujours des mitochondries de sa mère.
+> Dès lors, une femme (tout comme un homme) peu faire par elle-même un test ADN pour connaître sa lignée maternelle.
+{.is-info}
+
+## Patrilinéarité
+Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
+
 # Histoire des ***Khoïsans***
 
 ## Onglets{.tabset}
@@ -304,31 +339,6 @@ Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant 
 
 Les `envahisseurs européens` ont spoliés les terres des ***Khoïsans*** du XVII^ème^ au XX^ème^ siècle. Les principaux spoliateurs sont les `Trekboers` et les `autorités coloniales`.
 Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud autorise les ***Khoïsan*** à réclamer leurs terres. Toutefois, ces terres peuvent être réclamées, si elles ont été volées après `1913`. D’après Le Commissaire Adjoint d’Afrique du Sud M. Thami Mdontswa, un réforme constitutionnelle est nécessaire. Cette réforme de la constitution doit permettre aux ***Khoïsans*** d’engager des poursuites pour leurs terres volées avant le `9` `Juin` `1913`.[^15][^2]
-
-# Génétique des ***Khoïsans***[^17][^15]
-
-La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
-
-Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
-
-Dans la « généalogie génétique de l’humanité », les `haplogroupes` `L0` et `L1-6` sont deux branches sœurs. Elles permettent de remonter au plus récent ancêtre matrilinéaire commun (mtDNA). Cet haplogroupe est la racine de cinq autres branches : L0a, L0b, L0d, L0d, L0f et L0k.
-Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`. Par exemple, il existe des ***Ju*** qui portent des mitochondries appartenant à la `clade` `L0d2c1c`. Les ***Ju*** sont des ***Sans***.
-
-> **Le saviez-vous ?**
->
-> En génétique, il n’est possible de connaître la lignée paternelle qu’avec le chromosome Y.
-> Par conséquent, pour connaître la lignée paternelle d’une personne de sexe féminin, il faut une personne de sexe masculin. Cette personne doit être de la même lignée paternelle.
-Par exemple, il peut s’agir :
->
-> - du père,
-> - d’un fils du père,
-> - d’un fils du grand-père paternel,
-> - du fils d’un oncle paternel,
-> - etc.
->
-> À l’inverse, il est possible de connaître la lignée maternelle avec une mitochondrie. Cela vient du fait qu’une progéniture hérite toujours des mitochondries de sa mère.
-> Dès lors, une femme (tout comme un homme) peu faire par elle-même un test ADN pour connaître sa lignée maternelle.
-{.is-info}
 
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
