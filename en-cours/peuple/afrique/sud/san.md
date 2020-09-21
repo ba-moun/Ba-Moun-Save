@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T14:06:35.975Z
+date: 2020-09-21T14:41:59.286Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -262,12 +262,21 @@ En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le 
 
 La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
 
-## Matrilinéarité[^17]
+## Onglets{.tabset}
+
+### Matrilinéarité[^17]
 
 Dans la « généalogie génétique de l’humanité », les `haplogroupes` `L0` et `L1-6` sont deux branches sœurs. Elles permettent de remonter au plus récent ancêtre matrilinéaire commun (mtDNA). Cet haplogroupe est la racine de cinq autres branches : L0a, L0b, L0d, L0d, L0f et L0k.
 
 À peu près 73% des ***Khoïsans*** appartiennent à la `clade` `L0`. Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
-Par exemple :
+
+> **Le saviez-vous ?**
+>
+> Lors de l’invasion européenne, des `leucodermes` et des `kamyout` ont eu une descendance. Cette descendance a été racisée et nommée `Coloured`.
+> Entre 60% et 71% des `Coloured` sont identifiés comme appartenant aux `clades` `L0d`. Cet `haplogroupe` est le même que la plupart de leurs ancêtres ***Khoïsans***.
+{.is-info}
+
+Ci-dessous quelques informations sur la matrilinéarité de quelques peuples ***Koïsans*** :
 
 - 79% des Namibien (tout particulièrement les ***!Kung***) appartiennent à la `cladeè  `L0`,
 - 83% des sud-africains (tout particulièrement les ***Khoï***) appartiennent à la `clade` `L0`,
@@ -290,7 +299,7 @@ Par exemple, il peut s’agir :
 > Dès lors, une femme (tout comme un homme) peu faire par elle-même un test ADN pour connaître sa lignée maternelle.
 {.is-info}
 
-## Patrilinéarité
+### Patrilinéarité
 Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
 
 # Histoire des ***Khoïsans***
