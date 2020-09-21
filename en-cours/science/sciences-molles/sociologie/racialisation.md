@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-21T14:38:44.231Z
+date: 2020-09-21T14:42:23.017Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -44,7 +44,7 @@ Cette race conceptualise le brassage des peuples :
 - *Mozambicains*,
 - *Mauriciens*.
 
-La génétique démontre que la plupart des ***Coloured*** ont une matrilinéarité proche de leurs voisins, les `Khoïsans`. Les ***Coloured*** sont historiquement les descendants de `leucodermes` et de `Kémyout`. Par conséquent, la génétique démontre que la plupart des ***Coloured*** descendent de femmes `Kémyout`.[^17]
+La génétique démontre que 60% à 71% des ***Coloured*** ont une matrilinéarité proche de leurs voisins, les `Khoïsans`. Les ***Coloured*** sont historiquement les descendants de `leucodermes` et de `Kémyout`. Par conséquent, la génétique démontre que la plupart des ***Coloured*** descendent de femmes `Kémyout`.[^17]
 
 Les termes suivants sont indifféremment utilisés pour désigner la race des ***Coloured*** :
 
