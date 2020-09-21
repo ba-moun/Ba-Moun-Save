@@ -2,7 +2,7 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-14T13:59:24.589Z
+date: 2020-09-21T14:22:31.874Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
@@ -28,7 +28,7 @@ Pourquoi le mot « blanc » ?
 
 ## Coloured[^1]
 
-Les *Coloured* forment une race reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des *Coloured* représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.[^12]
+Les ***Coloured*** forment une ***race*** reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des *Coloured* représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.[^12]
 Cette race conceptualise le brassage des peuples :
 
 - *Européens*,
@@ -39,7 +39,9 @@ Cette race conceptualise le brassage des peuples :
 - *Mozambicains*,
 - *Mauriciens*.
 
-Les termes suivants sont indifféremment utilisés pour désignier la race des *Coloured* :
+La génétique démontre que la plupart des ***Coloured*** ont une matrilinéarité proche de leurs voisins, les `Khoïsans`. Les ***Coloured*** sont historiquement les descendants de `leucodermes` et de `Kémyout`. Par conséquent, la génétique démontre que la plupart des ***Coloured*** descendent de femmes `Kémyout`.[^17]
+
+Les termes suivants sont indifféremment utilisés pour désigner la race des ***Coloured*** :
 
 - *Bruinmense* : « gens bruns » en afrikaans,
 - *Kleurlinge* : « gens de couleur » en afrikaans,
@@ -66,3 +68,5 @@ Les termes suivants sont indifféremment utilisés pour désignier la race des *
 [^2]: [Basters](https://fr.wikipedia.org/wiki/Basters_de_Rehoboth). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `11` `Juillet` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Basters_de_Rehoboth
 
 [^12]: Statistics South Africa. [Mid-year population estimates](http://www.statssa.gov.za/publications/P0302/P03022019.pdf) [e-book]. Statistics South Africa, `29` `Juillet` `2019` `10`:`00`, [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Disponible sur : http://www.statssa.gov.za/publications/P0302/P03022019.pdf
+
+[^17]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
