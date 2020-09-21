@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T14:41:59.286Z
+date: 2020-09-21T15:30:18.930Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -202,6 +202,21 @@ La génétique prouve que les ***Ju*** portent les plus anciennes `mitochondries
 L’invasion européenne est à l’origine de l’extinction ou de la marginalisation de peuples. Elle aboutit à des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur les autochtones ont poussés ces derniers à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs.
 Les ***ǂGonakhoe*** sont un mix entre les cultures ***Khoï*** et Xhosa (peuple du sud différent des ***Khoïsans***).[^12]
 
+### Les ***Coloured***[^18]
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/population/baasters/1872_baasters-paul-diergaardt-jacobus-mouton-hermanus-van-wijk-and-christoffel-van-wijk_public-domain.jpg">
+   <figcaption>
+     Photo du 1<sup>er</sup> conseil des Basters de Rehoboth (1872).<br/>
+      De droite à gauche :Christoffel van Wijk, Hermanus van Wijk, Jacobus Mouton et Paul Diergaardt.<br/>
+   </figcaption>
+</figure>
+
+Les ***Coloured*** forment une ***race*** reconnue en `Afrique du Sud`, en `Namibie`, en `Zambie`, au `Botswana` et au `Zimbabwe`. En 2019, la race des ***Coloured*** représente 8,8% de la population sud-africaine, soit 5 176 750 personnes.
+
+Cette `race` représente les descendants des `Kémyout`du sud du continent et des `envahisseurs européens`. La génétique démontre que les ***Coloured*** sont majoritairement issus de femmes `Kémyout` et d’hommes `leucodermes`.[^17]
+
+Certaines communautés ***Coloured*** refusent d’être identifiées comme appartenant à la race `Noire`. Il s’agit par exemple, des ***Baasters***. Les ***Baasters*** sont des descendants de femmes `Kémyout` et d’envahisseurs `Néerlandais`de la `Colonie du Cap`. Ci-contre une illustration représentant des ***Baasters de Rehoboth***.
+
 # Culture khoïsan
 
 ## Onglets{.tabset}
@@ -268,20 +283,11 @@ La génétique démontre que les ***Khoïsans*** font partie des plus anciens `�
 
 Dans la « généalogie génétique de l’humanité », les `haplogroupes` `L0` et `L1-6` sont deux branches sœurs. Elles permettent de remonter au plus récent ancêtre matrilinéaire commun (mtDNA). Cet haplogroupe est la racine de cinq autres branches : L0a, L0b, L0d, L0d, L0f et L0k.
 
-À peu près 73% des ***Khoïsans*** appartiennent à la `clade` `L0`. Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
-
-> **Le saviez-vous ?**
->
-> Lors de l’invasion européenne, des `leucodermes` et des `kamyout` ont eu une descendance. Cette descendance a été racisée et nommée `Coloured`.
-> Entre 60% et 71% des `Coloured` sont identifiés comme appartenant aux `clades` `L0d`. Cet `haplogroupe` est le même que la plupart de leurs ancêtres ***Khoïsans***.
-{.is-info}
-
 Ci-dessous quelques informations sur la matrilinéarité de quelques peuples ***Koïsans*** :
 
 - 79% des Namibien (tout particulièrement les ***!Kung***) appartiennent à la `cladeè  `L0`,
 - 83% des sud-africains (tout particulièrement les ***Khoï***) appartiennent à la `clade` `L0`,
 - 100% des Botswanais (tout particulièrement les ***!Kung***) appartiennent à la `clade` `L0`,
-- les ***Ju*** sont reconnus pour appartenir à la `clade` `L0d2c1c`.
 
 > **Le saviez-vous ?**
 >
@@ -298,6 +304,23 @@ Par exemple, il peut s’agir :
 > À l’inverse, il est possible de connaître la lignée maternelle avec une mitochondrie. Cela vient du fait qu’une progéniture hérite toujours des mitochondries de sa mère.
 > Dès lors, une femme (tout comme un homme) peu faire par elle-même un test ADN pour connaître sa lignée maternelle.
 {.is-info}
+
+#### L’haplogroupe `L0d`
+
+À peu près 73% des ***Khoïsans*** appartiennent à la `clade` `L0`. Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
+D’ailleurs, les ***Ju*** sont reconnus pour appartenir à la `clade` `L0d2c1c`.
+
+> **Le saviez-vous ?**
+>
+> Lors de l’invasion européenne, des `leucodermes` et des `kamyout` ont eu une descendance. Cette descendance a été racisée et nommée `Coloured`.
+> Entre 60% et 71% des `Coloured` sont identifiés comme appartenant aux `clades` `L0d`. Cet `haplogroupe` est le même que la plupart de leurs ancêtres ***Coloured***.
+{.is-info}
+
+#### L’haplogroupe `L0k`
+
+`L0k` est le second `clade` le plus répendu chez les ***Khoïsans***.
+
+À l’inverse de l’haplogroupe `L0d`, des études n’ont pas pu démontrer la présence du `L0k` chez les ***Coloured***.
 
 ### Patrilinéarité
 Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
@@ -382,3 +405,5 @@ Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud au
 [^16]: [DESTINS DE CHASSEURS/CUEILLEURS(1) .LE CHANT DES BUSHMEN /XAM.](https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html). In [REGARD ELOIGNE](https://agoras.typepad.fr/) [en ligne]. [REGARD ELOIGNE](https://agoras.typepad.fr/), mis à jour le `04` `Juin` `2012` [consulté le `18` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html
 
 [^17]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
+
+[^18]: Statistics South Africa. [Mid-year population estimates](http://www.statssa.gov.za/publications/P0302/P03022019.pdf) [e-book]. Statistics South Africa, `29` `Juillet` `2019` `10`:`00`, [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Disponible sur : http://www.statssa.gov.za/publications/P0302/P03022019.pdf
