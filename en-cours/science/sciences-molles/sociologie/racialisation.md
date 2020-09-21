@@ -2,19 +2,24 @@
 title: La racialisation
 description: Présentation de la racialisation
 published: true
-date: 2020-09-21T14:22:31.874Z
+date: 2020-09-21T14:38:44.231Z
 tags: leucoderme, blanc, racialisation, sociologie, rehobothers, coloured, blanche, couleur, gens de couleur, basters de rehoboth, baasters, basters, bruinmense, kleurlinge, bruin afrikaners
 editor: markdown
 ---
 
+> **Avant d’aller plus loin**
+>
+> Le concept de race est ambiguë et subjectif. Par exemple, la liste et la définition des races listées plus bas peuvent varier en fonction des appréciation de chacun.
+> Il ne s’agit donc pas d’une science riguoureuse. 
+>
+> De plus, le concept de race ne respecte en rien le paradigme négro-africain, comme le prône votre encyclopédie <a href="/fr/home" style="font-family:'Yatra One', 'PT-Serif', serif;color: gold" >Ba-Moun𓅝Save</a>.
+>
+> Les informations contenues dans cette page vous sont donc fournies uniquement à titre d’information.
+{.is-warning}
+
 La racialisation est à l’origine de la distinction des peuples en fonction de leur race. Le concept de race est issu du `Yovodah`.
 
 # Races
-
-> **Avant d’aller plus loin**
->
-> Les races listées ci-dessous ne respectent en rien le paradigme négro-africain. Elles sont présentées à titre informatif afin de relater d’apporter des informations complémentaires au concept.
-{.is-warning}
 
 ## Béké
 
