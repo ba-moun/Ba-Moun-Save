@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T12:26:30.446Z
+date: 2020-09-21T12:45:08.297Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -54,14 +54,9 @@ flowchart TB
    
    europeanInvasion["1488 : Les Européens commencent à envahir le sud du continent"]
    
-   subgraph 17thCentury["XVIIème siècle"]
-      boersExpantion["~1600 : Début de l’expansion des Trekboers
-         (ancêtre des Boers) dans le sud du continent"]
-      
-      europeanInvasionNextStep["1652 :
-         - Les Néerlandais arrivent en Afrique australe.
-         - Les Européens s’installent définitivement au sud du continent."]
-   end
+   europeanInvasionNextStep["1652 : Les Européens s’installent définitivement au sud du continent,
+      avec l’invasion néerlandaise.
+      Peu après, les Trekboers commencent à s’étendre dans le sud du continent"]
    
    boersConflict["1779 : Début des relations conflictuelles entre
       les autochtones et les envahisseurs Trekboers"]
@@ -128,13 +123,18 @@ flowchart TB
    khoesanLanguages["2009 : Toutes les langues des Khoïsans sont en voie d’extinction"]
       
    khoisanArrive --> thelargestPopulation --> grassland --> amaXhosa --> europeanInvasion -->
-   17thCentury --> boersConflict --> 
+   europeanInvasionNextStep --> boersConflict --> 
    europeanFightInSouthAfricaBegin --> europeanFightInSouthAfricaEnd --> wilhelmBleekbirth --> 1850 -->
    hanKassOImprisonned --> hanKassOInBCS --> hanKassOExile --> kweitenTaKenInMowbray --> kTKOlderSons --> kTKInformator -->
    kTKLittleFamilyLeaveMowbray --> kabboDeath --> 1877 --> hanKassOInformatorBegin --> hanKassOInformationEnd -->
    bushmanlandBantoustan --> khoesanLanguages
    
 ```
+
+# Territoires
+
+Les `envahisseurs européens` ont spoliés les terres des ***Khoïsans*** du XVII^ème^ au XX^ème^ siècle. Les principaux spoliateurs sont les `Trekboers` et les `autorités coloniales`.
+Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud autorise les ***Khoïsan*** à réclamer leurs terres. Toutefois, ces terres peuvent être réclamées, si elles ont été volées après `1913`. D’après Le Commissaire Adjoint d’Afrique du Sud M. Thami Mdontswa, un réforme constitutionnelle est nécessaire. Cette réforme de la constitution doit permettre aux ***Khoïsans*** d’engager des poursuites pour leurs terres volées avant le `9` `Juin` `1913`.[^15]
 
 # Les différents peuples ***Khoïsans***
 
