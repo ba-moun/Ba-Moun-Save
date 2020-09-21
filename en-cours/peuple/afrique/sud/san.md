@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-20T07:42:00.107Z
+date: 2020-09-21T12:26:30.446Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -258,10 +258,13 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
-# La génétique des ***Khoïsans***
+# Génétique des ***Khoïsans***[^15]
 
-Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Cela fait de ce peuple l’un des plus anciens humains génétiquement parlant.
-Ces `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciennes de l’abre généalogique génétique du `chromosome Y` de l’être humain.[^15] 
+La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
+
+Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
+
+Enfin, une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
 
 # L’histoire des ***Khoïsans***
 
