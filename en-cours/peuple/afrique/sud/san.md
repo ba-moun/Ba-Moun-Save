@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T12:45:08.297Z
+date: 2020-09-21T13:42:24.774Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -131,16 +131,11 @@ flowchart TB
    
 ```
 
-# Territoires
-
-Les `envahisseurs européens` ont spoliés les terres des ***Khoïsans*** du XVII^ème^ au XX^ème^ siècle. Les principaux spoliateurs sont les `Trekboers` et les `autorités coloniales`.
-Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud autorise les ***Khoïsan*** à réclamer leurs terres. Toutefois, ces terres peuvent être réclamées, si elles ont été volées après `1913`. D’après Le Commissaire Adjoint d’Afrique du Sud M. Thami Mdontswa, un réforme constitutionnelle est nécessaire. Cette réforme de la constitution doit permettre aux ***Khoïsans*** d’engager des poursuites pour leurs terres volées avant le `9` `Juin` `1913`.[^15]
-
-# Les différents peuples ***Khoïsans***
+# Peuples ***Khoïsans***
 
 ## Onglets{.tabset}
 
-### Les ***Xirikuana***
+### ***Xirikuana***
 
 > Quand une communauté n’est en capacité de gérer ni la vitesse, ni la nature du changement de sa langue, des changement fondamentaux de son institution sociale peut causer son déclin.[…] La perte de la connaissance transmise de génération en génération par des pratiques institutionnelles qui ont participées à la transmission n’est pas du développement mais de l’appauvrissement.
 >
@@ -159,7 +154,7 @@ La langue des ***Xirikuana*** peut être nommée comme suit[^12][^13][^14] :
 - Gri, Xri ou Xiri,
 - Xirikwa.
 
-### Les ***Sans*** des plaines
+### ***Sans*** des plaines
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_big-!khau-gwai-aka-kochel-man-from-dia!kwain_public-domain.jpg">
@@ -197,12 +192,17 @@ Ces informations se trouvent dans la [Lloyd and Bleek Collection](http://lloydbl
    </figcaption>
 </figure>
 
-### Les ***ǂGonakhoe***
+### ***Ju***
+
+Les ***Ju*** sont des ***Sans***.
+La génétique prouve que les ***Ju*** portent les plus anciennes `mitochondries` du `genre humain`, la `clade``L0d2c1c`.[^17]
+
+### ***ǂGonakhoe***
 
 L’invasion européenne est à l’origine de l’extinction ou de la marginalisation de peuples. Elle aboutit à des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur les autochtones ont poussés ces derniers à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs.
 Les ***ǂGonakhoe*** sont un mix entre les cultures ***Khoï*** et Xhosa (peuple du sud différent des ***Khoïsans***).[^12]
 
-# La culture khoïsan
+# Culture khoïsan
 
 ## Onglets{.tabset}
 
@@ -258,22 +258,16 @@ Ci-desosus une liste non exhaustive de langues khoïsans. Toutes ces langues son
 
 En `2009`, les langues `xũ`, `kxoe` et `nama` font partie des langues ayant le plus de chance de survie.
 
-# Génétique des ***Khoïsans***[^15]
+# Histoire des ***Khoïsans***
 
-La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
+## Onglets{.tabset}
 
-Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
-
-Enfin, une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`.
-
-# L’histoire des ***Khoïsans***
-
-## La colonisation ***Khoïsan***
+### Installation ***Khoïsan***
 
 En `-40 000`, les ***Khoïsans*** sont les premiers homo sapiens sapiens du sud-sud-ouest du continent.
 Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.[^4]
 
-## L’invasion Trekboers[^16][^4][^9][^1][^2]
+### Invasion Trekboers[^16][^4][^9][^1][^2]
 
 `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 Les `Trekboers` sont connus pour avoir :
@@ -306,6 +300,36 @@ Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant 
 - de la population de `Buysplaas` alias `Buysville`,
 - des `Afrikaners`.
 
+# Territoires
+
+Les `envahisseurs européens` ont spoliés les terres des ***Khoïsans*** du XVII^ème^ au XX^ème^ siècle. Les principaux spoliateurs sont les `Trekboers` et les `autorités coloniales`.
+Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud autorise les ***Khoïsan*** à réclamer leurs terres. Toutefois, ces terres peuvent être réclamées, si elles ont été volées après `1913`. D’après Le Commissaire Adjoint d’Afrique du Sud M. Thami Mdontswa, un réforme constitutionnelle est nécessaire. Cette réforme de la constitution doit permettre aux ***Khoïsans*** d’engager des poursuites pour leurs terres volées avant le `9` `Juin` `1913`.[^15][^2]
+
+# Génétique des ***Khoïsans***[^17][^15]
+
+La génétique démontre que les ***Khoïsans*** font partie des plus anciens `êtres humains`.
+
+Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce humaine. Leurs `chromosomes Y` sont répertoriés dans des sous-groupes des `haplogroupes` `A` et `B`. Ces deux `haplogroupes` sont les plus anciens de « l’abre généalogique » du `chromosome Y` humain.
+
+Dans la « généalogie génétique de l’humanité », les `haplogroupes` `L0` et `L1-6` sont deux branches sœurs. Elles permettent de remonter au plus récent ancêtre matrilinéaire commun. Cet haplogroupe est la racine de cinq autres branches : L0a, L0b, L0d, L0d, L0f et L0k.
+Une forte majorité des ***Khoïsans*** portent l’haplogroupe mitochondriale le plus ancien : le `L0d`. Par exemple, il existe des ***Ju*** qui portent des mitochondries appartenant à la `clade` `L0d2c1c`. Les ***Ju*** sont des ***Sans***.
+
+> **Le saviez-vous ?**
+>
+> En génétique, il n’est possible de connaître la lignée paternelle qu’avec le chromosome Y.
+> Par conséquent, pour connaître la lignée paternelle d’une personne de sexe féminin, il faut une personne de sexe masculin. Cette personne doit être de la même lignée paternelle.
+Par exemple, il peut s’agir :
+>
+> - du père,
+> - d’un fils du père,
+> - d’un fils du grand-père paternel,
+> - du fils d’un oncle paternel,
+> - etc.
+>
+> À l’inverse, il est possible de connaître la lignée maternelle avec une mitochondrie. Cela vient du fait qu’une progéniture hérite toujours des mitochondries de sa mère.
+> Dès lors, une femme (tout comme un homme) peu faire par elle-même un test ADN pour connaître sa lignée maternelle.
+{.is-info}
+
 [^1]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
 [^2]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
@@ -337,3 +361,5 @@ Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant 
 [^15]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
 
 [^16]: [DESTINS DE CHASSEURS/CUEILLEURS(1) .LE CHANT DES BUSHMEN /XAM.](https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html). In [REGARD ELOIGNE](https://agoras.typepad.fr/) [en ligne]. [REGARD ELOIGNE](https://agoras.typepad.fr/), mis à jour le `04` `Juin` `2012` [consulté le `18` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://agoras.typepad.fr/regard_eloigne/2012/06/destins-de-chassseurscueilleurs1-le-chant-des-bushmen-xam.html
+
+[^17]: [Khoïsan](https://fr.wikipedia.org/wiki/Kho%C3%AFsan). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `19` `Juin` `2020` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Dispnible sur : https://fr.wikipedia.org/wiki/Kho%C3%AFsan
