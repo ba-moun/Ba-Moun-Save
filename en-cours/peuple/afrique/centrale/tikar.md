@@ -2,14 +2,14 @@
 title: Tikar
 description: Présentation du peuple Tikar
 published: true
-date: 2020-09-22T11:24:35.441Z
+date: 2020-09-22T11:37:48.192Z
 tags: kamit, kémit, peuple, peuple négro-africain, peuple africain, peuple noir, peuple kamit, peuple kémit, tikar, peuple tikar
 editor: markdown
 ---
 
 ![flag-of-cameroon_public-domain.svg](/images/flag/cameroon/flag-of-cameroon_public-domain.svg){.align-abstopright}
 
-***Tikar*** est le nom d’un peuple du `Cameroun`. Outre les afrodescendants de ***Tikar***, le peuple  se trouvent dans les trois principales régions du `Cameroun`.[^2] Toutefois, ce peuple réside essentiellement dans la province du Nord-Ouest du pays, à la frontière du Nigéria. Leur population s’approche des 25 000 individus.[^1]
+***Tikar*** est le nom d’un peuple du `Cameroun` (`Afrique Centrale`). Outre les afrodescendants de ***Tikar***, le peuple  se trouvent dans les trois principales régions du `Cameroun`.[^2] Toutefois, ce peuple réside essentiellement dans la province du Nord-Ouest du pays, à la frontière du Nigéria. Leur population s’approche des 25 000 individus.[^1]
 
 ***Tikar*** est le nom d’un peuple qui approche les 25 000 individus.
 Le peuple vit essentiellement dans la province du Nord-Ouest du pays, à la frontière du Nigéria. Néanmoins, sans prendre en compte les `afro-descendants`, les ***Tikar*** résident dans les régions camerounaises suivantes.[^4][^5][^6][^1][^2]
