@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-23T09:48:28.240Z
+date: 2020-09-23T11:09:40.578Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -355,7 +355,7 @@ En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 - volé les terres ***San*** (pour y mettre leurs propres fermes),
 - chassé le gibier des ***Sans*** (pour pratiquer du « sport » ou s’alimenter),
 - traqué, tué et enlevé des ***Sans***,
-- asservi des ***Sans***,
+- mis au travail forcé des ***Sans***,
 - affamé volontairement des ***Sans***.
 
 > **Le saviez-vous ?**
