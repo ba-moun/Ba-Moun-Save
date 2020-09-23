@@ -2,7 +2,7 @@
 title: Balante
 description: Présentation du peuple Balante
 published: true
-date: 2020-09-23T12:46:24.430Z
+date: 2020-09-23T12:47:31.584Z
 tags: kamit, kémit, noir, peuple, peuple négro-africain, négro-africain, négro-africaine, peuple noir, peuple kamit, peuple kémit, guinée-bissao, peuple de guinée-bissao, balante, peuple balante
 editor: markdown
 ---
@@ -68,4 +68,6 @@ Au XIX^ème^[^4][^1]
 
 [^5]: [Culture Balanta](https://web.archive.org/web/20150414065301/http://www.laaf.me/en/culture/balante.php). Dans [West African Languages and Cultures](https://web.archive.org/web/20150410033649/http://www.laaf.me/en/) [en ligne]. [constulté le `23` `Septembre` `2020` (`calendrier grégorien`)] . https://web.archive.org/web/20150414065301/http://www.laaf.me/en/culture/balante.php
 
-[^6]: [RELIGIÕES](https://feiradeprojetos901.wixsite.com/guinebissau/imprensa). Dans [West African Languages and Cultures](https://web.archive.org/web/20150410033649/http://www.laaf.me/en/) [en ligne]. [constulté le `23` `Septembre` `2020` (`calendrier grégorien`)] . https://feiradeprojetos901.wixsite.com/guinebissau/imprensa
+[^6]: [RELIGIÕES](https://feiradeprojetos901.wixsite.com/guinebissau/imprensa). Dans [INDEPENDENTE DESDE 1973
+GUINÉ BISSAU
+](https://feiradeprojetos901.wixsite.com/guinebissau/) [en ligne]. [constulté le `23` `Septembre` `2020` (`calendrier grégorien`)] . https://feiradeprojetos901.wixsite.com/guinebissau/imprensa
