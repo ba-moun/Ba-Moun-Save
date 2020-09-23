@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-23T09:35:07.852Z
+date: 2020-09-23T09:48:28.240Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -352,13 +352,11 @@ Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s�
 
 En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***. Ces derniers sont connus pour avoir :
 
-- volé les terres `San (pour y mettre leurs propres fermes),
-- chassé du gibier des `San` (pour pratiquer du « sport » ou s’alimenter),
-- traqué, tué et enlevé les `San`,
-- mis au travail forcé les `San`,
-- affamé volontairement les `San`.
-
-En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs permettent de répondre à la menace `Trekboers`. Ces gangs dévastent les bovins des `envahisseurs Trekboers`. Parfois, la réponse `San` est si forte que leurs gangs en arrivent à tuer des `Trekboers`.
+- volé les terres ***San*** (pour y mettre leurs propres fermes),
+- chassé le gibier des ***Sans*** (pour pratiquer du « sport » ou s’alimenter),
+- traqué, tué et enlevé des ***Sans***,
+- asservi des ***Sans***,
+- affamé volontairement des ***Sans***.
 
 > **Le saviez-vous ?**
 > 
@@ -375,8 +373,11 @@ En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs per
 > - springbok.
 > 
 > Ci-contre une femelle cougga en captivité au `zoo de Londres`.
-> L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
+> L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`. Cela revient à 395 ans après l’arrivée des premiers `envahisseurs européens`.
+> *Rappel* : les ***Khoïsans*** (tout du moins leurs ancêtres) et le couagga sont sur le même territoire depuis 40 000 ans.
 {.is-info}
+
+En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs permettent de répondre à la menace `Trekboers`. Ces gangs dévastent les bovins des `envahisseurs Trekboers`. Parfois, la réponse `San` est si forte que leurs gangs en arrivent à tuer des `Trekboers`.
 
 # Territoires ***Khoïsans***
 
