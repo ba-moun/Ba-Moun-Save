@@ -2,7 +2,7 @@
 title: Balante
 description: Présentation du peuple Balante
 published: true
-date: 2020-09-23T12:08:20.145Z
+date: 2020-09-23T12:46:24.430Z
 tags: kamit, kémit, noir, peuple, peuple négro-africain, négro-africain, négro-africaine, peuple noir, peuple kamit, peuple kémit, guinée-bissao, peuple de guinée-bissao, balante, peuple balante
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Balanta*** est le nom d’un peuple. Ce peuple réside en `Guinée-Bissao`, en `Pays Floup` (`Casamance`, `Sénégal`) et en `Gambie`. De tous les communautés de `Guinée-Bissao`, les ***Balantas*** forment la plus grande communauté du pays. Ils représentent 25% de la population.
-Il est possible d’identifier six groupes ***Balantas***. Ces groupes pratiquent l’islam, le catholicisme et/ou la spiritualité ancestrale négro-africaine. Ci-dessous le nom des six groupes ***Balantas***[^1][^2][^4][^5] :
+***Balanta*** est le nom d’un peuple. Ce peuple réside en `Guinée-Bissao`, en `Pays Floup` (`Casamance`, `Sénégal`) et en `Gambie`. De tous les communautés de `Guinée-Bissao`, les ***Balantas*** forment la plus grande communauté du pays. Ils représentent 25% de la population, soit 420 000 individus. Au total, il a été recensé environ 442 000 ***Balantas*** dans le monde.
+Il est possible d’identifier six groupes ***Balantas***. Ci-dessous le nom des six groupes ***Balantas***[^1][^2][^4][^5] :
 
 - les ***Balantas Manés***,
 - les ***Balantas Nagas***,
@@ -39,6 +39,19 @@ La langue du peuple ***Balanta*** se nomme *balante*. Il en existe plusieurs var
 - bulante,
 - frase.
 
+# Spiritualité[^6][^5]
+
+Environ 80% des `Bissaoguinéen` suivent les préceptes des `religions dîtes révélées`. Toutefois, les ***Balantas*** pratiquent généralement la `spiritualité ancestrale kamit`.
+Toutefois, il y a des ***Balantas*** qui l’islam et le christianisme (catholique principalement). De ces deux dernières religions, c’est l’islam la plus pratiquée par les ***Balantas***.
+
+La `spiritualité ancestrale kamit` pratiquée par les ***Balantas*** est `animiste`.
+Leur divinité se nomme `Djon Cago`. Ils considèrent que seul les esprits et les sacrifices peuvent l’atteindre.
+
+# Structure sociétale
+
+Contrairement à d’autres peuples, les ***Balantas*** n’ont pas de représentants (roi, chef, leader, …). L’égalité régit la communauté et les décisions sont prises par un conseil de sages.
+Seul les initiés sont admis au sein des ***Balantas***.[^5]
+ 
 # Histoire des ***Balanta***
 
 À partir du X^ème^ siècle, les ancêtres des ***Balantas*** ont commencés à s’installer en `Guinée-Bissao`. Cette installation s’est faite par petit groupe jusqu’au XIV^ème^ siècle.
@@ -54,3 +67,5 @@ Au XIX^ème^[^4][^1]
 [^4]: [Balantas](https://pt.wikipedia.org/wiki/Balantas). Dans [Wikipédia, l’encyclopédie libre](https://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003, `8` `Août` `2020`, [constulté le `22` `Septembre` `2020`]  (`calendrier grégorien`). https://pt.wikipedia.org/wiki/Balantas
 
 [^5]: [Culture Balanta](https://web.archive.org/web/20150414065301/http://www.laaf.me/en/culture/balante.php). Dans [West African Languages and Cultures](https://web.archive.org/web/20150410033649/http://www.laaf.me/en/) [en ligne]. [constulté le `23` `Septembre` `2020` (`calendrier grégorien`)] . https://web.archive.org/web/20150414065301/http://www.laaf.me/en/culture/balante.php
+
+[^6]: [RELIGIÕES](https://feiradeprojetos901.wixsite.com/guinebissau/imprensa). Dans [West African Languages and Cultures](https://web.archive.org/web/20150410033649/http://www.laaf.me/en/) [en ligne]. [constulté le `23` `Septembre` `2020` (`calendrier grégorien`)] . https://feiradeprojetos901.wixsite.com/guinebissau/imprensa
