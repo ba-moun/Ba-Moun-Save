@@ -2,7 +2,7 @@
 title: Tikar
 description: Présentation du peuple Tikar
 published: true
-date: 2020-09-22T15:23:45.078Z
+date: 2020-09-23T09:04:16.556Z
 tags: kamit, kémit, peuple, peuple négro-africain, peuple africain, peuple noir, peuple kamit, peuple kémit, tikar, peuple tikar
 editor: markdown
 ---
@@ -33,7 +33,7 @@ Les origines antiques sont antérieures aux origines Mboum. Toutefois, les oigin
 
 ### Origines antiques
 
-L’origine antique des ***Tikar*** va jusqu’à la `péninsule arabique` (ou `yéménite`). De là, leurs ancêtres quittent la péninsule et séjournent dans la `vallée de l’Itérou` auprès des `kémyout (« Égyptiens ») de l’antiquité`. Longtemps plus tard, les ancêtres des ***Tikar*** quittent la `vallée de l’Itérou` pour résider sur le `plateau de l’Adamawa`. Enfin, ces derniers se dirigent vers le sud puis fondent le `Royaume Tikar` actuel dans la `Plaine Tikar`.
+L’origine antique des ***Tikar*** va jusqu’à la `péninsule arabique` (ou `yéménite`). De là, leurs ancêtres quittent la péninsule et séjournent dans la `vallée de l’Itérou` auprès des `kémyout (« Égyptiens ») de l’antiquité`. Longtemps plus tard, les ancêtres des ***Tikar*** quittent la `vallée de l’Itérou` pour résider sur le `plateau de l’Adamawa`. Enfin, ces derniers se dirigent vers le sud. Ils fondent le `Royaume Tikar` actuel sur un terrain plat entre 700 et 750  m d’altitude. Sur ces terres se trouve le `fleuve Mbam`. Ces terres se nomment `Tikarie` (alias `Plaine Tikar`).
 
 ### Origines `Mboum`
 
