@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-23T09:23:45.890Z
+date: 2020-09-23T09:35:07.852Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -343,8 +343,14 @@ Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s�
 </figure>
 
 
-`Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
-Les `Trekboers` sont connus pour avoir :
+`Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades. Ici, le mot pasteur renvoit à l’élevage de bovins.
+À présent, les `Trekboers` sont concidérés, entre autre, comme les ancêtres :
+
+- des `Grensboere`, alias `Boers` (paysans `néerlandais`),
+- de la population de `Buysplaas` alias `Buysville`,
+- des `Afrikaners`.
+
+En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***. Ces derniers sont connus pour avoir :
 
 - volé les terres `San (pour y mettre leurs propres fermes),
 - chassé du gibier des `San` (pour pratiquer du « sport » ou s’alimenter),
@@ -352,7 +358,7 @@ Les `Trekboers` sont connus pour avoir :
 - mis au travail forcé les `San`,
 - affamé volontairement les `San`.
 
-En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des `envahisseurs européens` avec leurs bétails.
+En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs permettent de répondre à la menace `Trekboers`. Ces gangs dévastent les bovins des `envahisseurs Trekboers`. Parfois, la réponse `San` est si forte que leurs gangs en arrivent à tuer des `Trekboers`.
 
 > **Le saviez-vous ?**
 > 
@@ -371,12 +377,6 @@ En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des
 > Ci-contre une femelle cougga en captivité au `zoo de Londres`.
 > L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 {.is-info}
-
-Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades. Ils sont à présent concidérés comme les ancêtres :
-
-- des `Grensboere`, alias `Boers` (paysans `néerlandais`),
-- de la population de `Buysplaas` alias `Buysville`,
-- des `Afrikaners`.
 
 # Territoires ***Khoïsans***
 
