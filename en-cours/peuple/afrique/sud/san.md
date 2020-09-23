@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-21T15:30:18.930Z
+date: 2020-09-23T09:23:45.890Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -26,15 +26,6 @@ Les ***Khoikhoi*** sont des éleveurs ***Hottentots***.[^4][^15]
 
 L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.
 `Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1][^11]
-
-La photo ci-dessous représente un rassemble de ***Khoïsans***.
-
-<figure class="image image_resized" style="width: 100%;">
-   <img src="/images/population/khoisan/khoisan-people_cc-by.jpg">
-   <figcaption>
-     Rassemble de <b><i>Khoïsans</i> entrain de manger un œuf d’authruche</b>
-   </figcaption>
-</figure>
 
 La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^1][^2][^3][^4][^6][^7][^9]
 
@@ -334,7 +325,23 @@ Les `chromosomes Y` des ***Khoïsans*** est des plus variés de l’espèce huma
 En `-40 000`, les ***Khoïsans*** sont les premiers homo sapiens sapiens du sud-sud-ouest du continent.
 Par la suite en `500`, les peules originaires des hauts plateaux de l’ouest s’installent au sud du continent.[^4]
 
+<figure class="image image_resized" style="width: 100%;">
+   <img src="/images/population/khoisan/khoisan-people_cc-by.jpg">
+   <figcaption>
+     Rassemble de <b><i>Khoïsans</i> entrain de manger un œuf d’authruche</b>
+   </figcaption>
+</figure>
+
 ### Invasion Trekboers[^16][^4][^9][^1][^2]
+
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/art/aquatint/1804_trekboers-camp-from-samuel-daniel_public-domain.jpg">
+   <figcaption>
+      Trekboers en train de monter leur camp<br/>
+      Aquatinte de Samuel Daniell (~1804)
+   </figcaption>
+</figure>
+
 
 `Trekboers` signifie « Paysans voyageurs » en `Afrikaans`. Ce sont les descendants des `envahisseurs` `néerlandais`, `protestants allemands` et `huguenots français`. Au XVII^ème^ siècle, les ***Trekboers*** commencent à envahir le sud du continent. En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 Les `Trekboers` sont connus pour avoir :
@@ -349,8 +356,11 @@ En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des
 
 > **Le saviez-vous ?**
 > 
+>
 > Voici quelques gibiers que les `Trekboers` ont chassés par milliers pour s’alimenter ou pour le « sport » :
 > 
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/animals/quagga/quagga-female-in-london-zoo_public-domain.jpg"></figure>
+>
 > - le couagga,
 > - les autruches, 
 > - l’oryx gazelle,
@@ -358,7 +368,8 @@ En réponse à la menace `Trekboers`, les `San` ont formé des gangs et tué des
 > - éland,
 > - springbok.
 > 
-> Certaines espèces comme le couagga sont à présent éteintes.
+> Ci-contre une femelle cougga en captivité au `zoo de Londres`.
+> L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 {.is-info}
 
 Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant à la classe socio-économique de pasteurs nomades. Ils sont à présent concidérés comme les ancêtres :
@@ -367,7 +378,7 @@ Jusqu’au XX^ème^ siècle, les `Trekboers` sont identifiés comme appartenant 
 - de la population de `Buysplaas` alias `Buysville`,
 - des `Afrikaners`.
 
-# Territoires
+# Territoires ***Khoïsans***
 
 Les `envahisseurs européens` ont spoliés les terres des ***Khoïsans*** du XVII^ème^ au XX^ème^ siècle. Les principaux spoliateurs sont les `Trekboers` et les `autorités coloniales`.
 Après l’apartheid et jusqu’en `1998`, le gouvernement d’Afrique du Sud autorise les ***Khoïsan*** à réclamer leurs terres. Toutefois, ces terres peuvent être réclamées, si elles ont été volées après `1913`. D’après Le Commissaire Adjoint d’Afrique du Sud M. Thami Mdontswa, un réforme constitutionnelle est nécessaire. Cette réforme de la constitution doit permettre aux ***Khoïsans*** d’engager des poursuites pour leurs terres volées avant le `9` `Juin` `1913`.[^15][^2]
