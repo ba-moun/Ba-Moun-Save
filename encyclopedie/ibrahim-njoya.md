@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-08-25T11:34:21.996Z
+date: 2020-09-24T12:28:05.545Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 ---
@@ -137,7 +137,7 @@ La destitution du ***Sultan Ibrahim Njoya*** se déroule un matin. Lors de son e
 
 Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du ***Sultan ibrahim Njoya***. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
 
-> * Article 1 : Le nommé ***NJOYA*** ex-sultant de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
+> * Article 1 : Le nommé ***NJOYA*** ex-sultan de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
 > * Article 2 : Les chefs des six conscriptions […] de `Yaoundé` sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 > 
 > <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
