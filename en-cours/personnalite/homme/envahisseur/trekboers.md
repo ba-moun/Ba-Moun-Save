@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-09-25T19:19:21.194Z
+date: 2020-09-25T19:22:37.262Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -62,7 +62,7 @@ flowchart TB
    mfecaneBegin["1818 : Chaka Zoulou étend son empire
       sur l’Est de l’espace occupé par l’Afrique du Sud"]
                
-   mfecaneEnd["1825 : Fin de l’expension de l’empire de Chaka Zoulou"]
+   mfecaneEnd["1825 : Fin de l’expansion de l’empire de Chaka Zoulou"]
       
    khoisanArrive --> grassland --> amaXhosa -->
    europeanInvasion --> 17thCentury --> boersArrive -->
