@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:09:36.851Z
+date: 2020-09-25T20:10:52.756Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -68,7 +68,7 @@ Ci-dessous quelques capacités dont dispose le ***!khwai*** pour se protéger de
 
 ### Environnement
 
-L’environnement du ***!khwai*** est plus froid la nuit. Dès lors, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé la journée.
+L’environnement du ***!khwai*** est plus froid la nuit. Dès lors, il profite de ce moment là pour évacuer l’excès de chaleur qu’il a accumulé au cours de la journée.
 
 ### Intellecte[^4]
 
