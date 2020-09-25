@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:16:53.666Z
+date: 2020-09-25T20:18:43.349Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -93,7 +93,7 @@ Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
 L’halètement est une des techniques utilisées par le ***!khwai*** pour réguler sa température corporelle.
 
-Le ***!khwai*** halète en gardant sa gueule ouverte tout étant en étant en polypnée (respiration rapide et superficielle). Cette technique accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
+Le ***!khwai*** halète en gardant sa gueule ouverte tout en étant en polypnée (respiration rapide et superficielle). Cette technique accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
 
 Toutefois, cette technique fait perdre du liquide précieux pour la survie du ***!khwai***. C’est pourquoi l’animal n’halète qu’en cas d’urgence (ex. : lors d’un combat ou d’une fuite).
 
