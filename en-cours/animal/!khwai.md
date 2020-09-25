@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:07:02.219Z
+date: 2020-09-25T20:08:14.745Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -60,7 +60,7 @@ Voici quelques caractéristiques du ***!khwai*** :
 
 # Techniques de survie[^3]
 
-Le ***!khwai*** est naturellement adapté à endurer et résister le climat chaud et désertique du sud ouest du continent.
+Le ***!khwai*** est naturellement adapté à endurer et résister au climat chaud et désertique du sud-ouest du continent.
 
 Ci-desosus quelques capacités dont dispose le ***!khwai*** pour se protéger des pics de chaleur pouvant atteindre les 40°C.[^11]
 
