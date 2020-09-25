@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-15T11:05:29.785Z
+date: 2020-09-25T21:10:59.634Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -14,7 +14,7 @@ editor: markdown
 « Afrikaans » se traduit par « africain » en `néerlandais`. L’***afrikaans*** vient des Européens qui ont envahit le `sud` du `continent` à partir de `1488`. Ces `envahisseurs` sont des `Néerlandais`, des `Huguenots` et des `protestants Allemands` dénomés `Trekboers`.
 L’***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, le Pays-Bas. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. De plus, cette langue leuco-africaine est parlée en Afrique du Sud, en Namibie, au Botswana et au Zimbabwe. Cette langue est parlée par les Afrikaners mais aussi par des peuples alliénés comme les `Xirikuana`.[^12][^15]
 
-L’***afrikaans*** est la langue nationale de la Namibie et la langue officielle de l’Afrique du Sud. Parmi les 15M de personnes parlant l’***afrikaans***, 7,2M l’utilisent comme langue maternelle.
+L’***afrikaans*** est la langue nationale de la Namibie et la langue officielle de l’Afrique du Sud. Parmi les 15M de personnes parlant l’***afrikaans*** 7,2M l’utilisent comme langue maternelle.
 Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^15] :
 
 - les `Afrikaners`,
