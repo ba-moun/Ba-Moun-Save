@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-25T21:18:28.879Z
+date: 2020-09-25T21:20:00.284Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
