@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:49:32.600Z
+date: 2020-09-25T20:51:17.167Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -181,7 +181,7 @@ Le ***!khwai*** est aussi chassé pour le sport.
 Cette tradition a été amenée par les `Trekboers`.
 À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophé.
 
-Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle.Pendant leur expansion, les `Trekboers` ont chassé le gibier par moment pour se nourir et par d’autres moments pour l’amour du sport. Cette chasse volontairement intensive a causé le génocide de certains peuples `Sans`.
+Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle. Pendant leur expansion, les `Trekboers` ont chassé le gibier par moment pour se nourrir et par d’autres moments pour l’amour du sport. Cette chasse volontairement intensive a causé le génocide de certains peuples `Sans`.
 
 > **Le saviez-vous ?**[^9]
 >
