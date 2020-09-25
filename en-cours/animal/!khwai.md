@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:54:19.450Z
+date: 2020-09-25T20:55:50.722Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -195,7 +195,7 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 > Cela revient à environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
 {.is-info}
 
-D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est de préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a faili disparaître à l’instar du `quagga`.
+D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a faili disparaître à l’instar du `quagga`.
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
 
