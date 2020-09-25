@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-09-25T19:18:31.407Z
+date: 2020-09-25T19:19:21.194Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -34,7 +34,7 @@ flowchart TB
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
       (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
-      (équivaut à l’Est l’Afrique du Sud 🇿🇦)"]
+      (équivaut à l’Est de l’Afrique du Sud 🇿🇦)"]
    
    amaXhosa["~900 : Les AmaXhosa s’installent au sud-est
       de l’espace occupé par l’Afrique du Sud 🇿🇦"]
