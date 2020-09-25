@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:43:41.286Z
+date: 2020-09-25T20:44:24.925Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -165,7 +165,7 @@ Quand il est attaqué par un animal, le ***!khwai*** pointe ses cornes vers son 
 >
 > Généralement, le ***!khwai*** prend la fuite.
 > Néanmoins, en cas contraire, son attaque est si précise et si dévastatrice qu’il est capable de tuer le prédateur qui le menace.
-> Des félins ont déjà été retrouvés morts après s’être fait percer à coup de corne par un ***!khwai***.
+> Des félins ont déjà été retrouvés morts après s’être fait percer à coups de corne par un ***!khwai***.
 {.is-info}
 
 <figure class="image image_resized image-style-align-right" style="width: 50%;">
