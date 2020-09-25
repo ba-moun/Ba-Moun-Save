@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-09-25T19:30:56.400Z
+date: 2020-09-25T19:33:25.810Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -93,7 +93,7 @@ En réponse à la menace ***Trekboer***, les `San` ont formé des gangs qui les 
 > - les autruches, 
 > - l’oryx gazelle,
 > - les bubales,
-> - éland,
+> - élans,
 > - springbok.
 > 
 > Certaines espèces comme le couagga sont à présent éteintes.
