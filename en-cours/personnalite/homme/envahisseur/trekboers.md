@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-09-25T19:25:15.142Z
+date: 2020-09-25T19:30:56.400Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
