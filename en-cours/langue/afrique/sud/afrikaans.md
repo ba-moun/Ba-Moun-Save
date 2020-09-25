@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-25T21:10:59.634Z
+date: 2020-09-25T21:12:55.851Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^15] :
 > **Le saviez-vous ?**[^12]
 >
 > Les ***Khoïsans*** forment une communauté `kémit` présente depuis 40 000 ans dans le sud du continent.
-> À l’inverse de l’***afrikaans***, les langues endogènes aux ***Khoïsans*** sont en voit d’extinction. Pour certaines, en `2009`, il n’existe qu’une dizaine de locutrices et/ou de locuteurs.
+> À l’inverse de l’***afrikaans***, les langues endogènes aux ***Khoïsans*** sont en voie d’extinction. Pour certaines, en `2009`, il n’existe qu’une dizaine de locutrices et/ou de locuteurs.
 {.is-info}
 
 La frise suivante présente de façon succincte l’histoire de la langue ***afrikaans***.[^4][^15]
