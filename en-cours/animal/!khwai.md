@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:26:57.264Z
+date: 2020-09-25T20:32:41.849Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -112,7 +112,7 @@ Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le musea
 Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
 1. L’air inhalé par l’animal s’engouffre dans les cavités nasales.
-2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
+2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés.
 3. Une évaporation et une radiation thermique (échange de chaleur) s’effectuent entre l’air et les musqueuses du cornet nasal.
 4. Le refroidissement des muqueuses engendre le refroidissement des veines qui s’y trouvent.
 
@@ -133,7 +133,7 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
 </figure>
 
 
-En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, il se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
+En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, ils se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
 
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
