@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-01T19:01:53.039Z
+date: 2020-09-25T20:00:53.260Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -36,7 +36,7 @@ Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagad
 
 La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle de la progéniture arrive aux alentours des deux ans. Dans son habitat naturel, le ***!khwai*** décède environ vers ses 15 ans.[^4]
 
-Le ***!khwai*** vit par troupeau de six à quarante constitués de femmelles avec leurs progénitures. Les mâles jeunes sont séparés du troupeau. Les femelles occupent des domaines d’environ 1 000 km^2^ tandis que les mâles occupent une surface d’environ 50 km^2^. Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes à celles de l’autre. Qui plus est, l’un peut tenter de piquer l’autre avec les pointes de ses cornes.[^3][^4]
+Le ***!khwai*** vit par troupeau de six à quarante constitués de femelles avec leurs progénitures. Les mâles jeunes sont séparés du troupeau. Les femelles occupent des domaines d’environ 1 000 km^2^ tandis que les mâles occupent une surface d’environ 50 km^2^. Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes à celles de l’autre. Qui plus est, l’un peut tenter de piquer l’autre avec les pointes de ses cornes.[^3][^4]
 
 # Physionomie[^3][^4]
 
