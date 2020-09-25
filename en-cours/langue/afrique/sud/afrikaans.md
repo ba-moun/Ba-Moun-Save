@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-25T21:24:11.520Z
+date: 2020-09-25T21:25:45.108Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -90,7 +90,7 @@ En `1877`, S.J. du Toit publie le premier « livre d’histoire » des Afrik
 > En `1795`, les `Britanniques` et les `Néerlandais` entamment un conflit pour l’acquisition de la `colonie européenne` située au sud de `Katyopa`.
 {.is-info}
 
-Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. Leur lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques. Enfin, en `1925`, le gouvernement de `James Barry Hertzog` fait de l'***afrikaans*** la langue nationale avec l'anglais. Dès lors, l’***afrikaans*** remplace le néerlandais
+Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. Leur lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques. Enfin, en `1925`, le gouvernement de `James Barry Hertzog` fait de l'***afrikaans*** la langue nationale avec l'anglais. Dès lors, l’***afrikaans*** remplace le néerlandais.
 Jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois langues officielles du `Sud-Ouest africain`.
 
 > ***Le saviez-vous ?***[^2]
