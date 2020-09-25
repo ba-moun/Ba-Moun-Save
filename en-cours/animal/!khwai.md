@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:18:43.349Z
+date: 2020-09-25T20:23:03.380Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
