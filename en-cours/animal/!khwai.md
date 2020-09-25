@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:00:53.260Z
+date: 2020-09-25T20:07:02.219Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -55,7 +55,7 @@ Voici quelques caractéristiques du ***!khwai*** :
    - leurs cornes plus écartées que celles des femelles,
 - des femelles identifiables par :
    - leurs cornes habituellement un peu plus longues, plus pointues, plus fines et plus droites que celles des mâles
-   - un poid pouvant atteindre les 190 kg
+   - un poids pouvant atteindre les 190 kg
    - les dessins blancs et noirs qui ornent sa tête.
 
 # Techniques de survie[^3]
