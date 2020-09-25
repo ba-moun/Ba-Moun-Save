@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:10:52.756Z
+date: 2020-09-25T20:12:15.881Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -78,7 +78,7 @@ En outre, le ***!khwai*** agit de sorte à écomoniser son énergie et son fluid
 Par exemple, il s’active principalement la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de dépenser le moins possible quand il fait le plus chaud. Il pert le moins d’énergie et de liquide possible.
 
 De plus, le ***!khwai*** patûre généralement à l’ombre. Cela lui permet de profiter de l’humidité maintenue dans les végétaux.
-Cepedant, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. De cette manière, il rafraichit son corps plus qu’il ne le réchauffe.
+Cependant, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. De cette manière, il rafraichit son corps plus qu’il ne le réchauffe.
 
 Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable frais. Ainsi, le sable frais situé à l’ombre lui permet de se rafraichir plus rapidement étant donné qu’il rafraichit une plus grande surface de son corps.
 
