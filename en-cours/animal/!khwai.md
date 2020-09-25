@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:35:50.735Z
+date: 2020-09-25T20:40:11.431Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -154,7 +154,7 @@ Les prédateurs des jeunes ***!khwai*** sont :
 
 - le lion,
 - la hyène,
-- le ycaon,
+- le lycaon,
 - le léopard,
 - le guépard,
 - l’Homme.
