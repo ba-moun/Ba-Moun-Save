@@ -2,7 +2,7 @@
 title: Trekboers
 description: Présentation des Trekboers
 published: true
-date: 2020-09-13T10:19:40.318Z
+date: 2020-09-25T19:18:31.407Z
 tags: allemand, ss’wa ka !kui, san, khoïsan, trekboers, envahisseur, colonisateur, néerlandais, français, huguenot, protestant, protestant allemand, huguenot français, !nussa !e
 editor: markdown
 ---
@@ -30,7 +30,7 @@ La frise suivante relate d’événements historiques liés aux ***Trekboers***.
 ```mermaid
 flowchart TB
    khoisanArrive["-40 000 : Les Khoïsans deviennent les premiers habitants
-      du sud-sud-ouest du continent."]
+      du sud sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
       (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
