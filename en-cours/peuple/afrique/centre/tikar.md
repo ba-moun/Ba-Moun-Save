@@ -2,7 +2,7 @@
 title: Tikar
 description: Présentation du peuple Tikar
 published: true
-date: 2020-09-25T07:31:30.157Z
+date: 2020-09-25T14:54:22.784Z
 tags: kamit, kémit, peuple, peuple négro-africain, peuple africain, peuple noir, peuple kamit, peuple kémit, tikar, peuple tikar
 editor: markdown
 ---
@@ -26,16 +26,29 @@ Le mot **tikar*** peut venir du `Mboum` « Tinkala-Je ». Cette expression s
 
 # Histoire du royaume[^7]
 
+## Dynastie(s)
+
+Ci-dessous une représentation de quelques reines et rois Tikar.
+
+```mermaid
+flowchart TD
+   fonrifum["Fonrifum, Roi de Rifum"]
+   dikum["Dikum"]
+   
+   fonrifum --> dikum
+```
+
+## Origines
 Il existe deux histoires relatant des origines du `Royaume Tikar`.
 Les origines antiques sont antérieures aux origines Mboum. Toutefois, les oigines Mboum ne réfutent pas les origines antiques du Royaume ***Tikar***.[^7]
 
-## Onglets{.tabset}
+### Onglets{.tabset}
 
-### Origines antiques
+#### Origines antiques
 
 L’origine antique des ***Tikar*** va jusqu’à la `péninsule arabique` (ou `yéménite`). De là, leurs ancêtres quittent la péninsule et séjournent dans la `vallée de l’Itérou` auprès des `kémyout (« Égyptiens ») de l’antiquité`. Longtemps plus tard, les ancêtres des ***Tikar*** quittent la `vallée de l’Itérou` pour résider sur le `plateau de l’Adamawa`. Enfin, ces derniers se dirigent vers le sud. Ils fondent le `Royaume Tikar` actuel sur un terrain plat entre 700 et 750  m d’altitude. Sur ces terres se trouve le `fleuve Mbam`. Ces terres se nomment `Tikarie` (alias `Plaine Tikar`).
 
-### Origines `Mboum`
+#### Origines `Mboum`
 
 > **Rappelez-vous**
 >
@@ -44,7 +57,7 @@ L’origine antique des ***Tikar*** va jusqu’à la `péninsule arabique` (ou `
 {.is-info}
 
 
-Il y a fort longtemps, un prince de la `chefferie Mboum` de `Nganha` est allé voir le maître du `plateau de l’Adamawa` de l’époque. Ce dernier dit au prince « Tinkala-Je ». L’expresison `Mboum` signifie « Va t’en d’ici ». Par cette expression le maître des lieux ordonne l’exile du prince. Cet exile s’accompagne de celui des sœurs, des frères, des notables, des fidèles et des grands guerriers du prince.
+Il y a fort longtemps, un prince `Mboum` de `Nganha` est allé voir le maître du `plateau de l’Adamawa` de l’époque. Ce dernier dit au prince « Tinkala-Je ». L’expresison `Mboum` signifie « Va t’en d’ici ». Par cette expression le maître des lieux ordonne l’exile du prince. Cet exile s’accompagne de celui des sœurs, des frères, des notables, des fidèles et des grands guerriers du prince.
 Acceptant l’exile, ils s’en vont au sud pour s’installer sur de nouvelles terres. De là, le prince affranchit les Tumu (idiome Tikar actuel), les Bamouns et les Bansô. Cela aboutit à la création de solides royaumes, dont le Royaume ***Tikar***.
 
 # Structure sociétale
