@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-23T11:09:40.578Z
+date: 2020-09-25T04:48:38.415Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 ---
@@ -193,7 +193,7 @@ La génétique prouve que les ***Ju*** portent les plus anciennes `mitochondries
 L’invasion européenne est à l’origine de l’extinction ou de la marginalisation de peuples. Elle aboutit à des problèmes identitaires dans les populations colonisées. De plus, l’économie coloniale et les violences physiques sur les autochtones ont poussés ces derniers à abandonner leurs langues, leurs traditions, leurs cultures et leurs valeurs.
 Les ***ǂGonakhoe*** sont un mix entre les cultures ***Khoï*** et Xhosa (peuple du sud différent des ***Khoïsans***).[^12]
 
-### Les ***Coloured***[^18]
+### ***Coloured***[^18]
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/population/baasters/1872_baasters-paul-diergaardt-jacobus-mouton-hermanus-van-wijk-and-christoffel-van-wijk_public-domain.jpg">
    <figcaption>
@@ -377,7 +377,21 @@ En `1779`, les conflits commencent entre les autochtones et les ***Trekboers***.
 > *Rappel* : les ***Khoïsans*** (tout du moins leurs ancêtres) et le couagga sont sur le même territoire depuis 40 000 ans.
 {.is-info}
 
-En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs permettent de répondre à la menace `Trekboers`. Ces gangs dévastent les bovins des `envahisseurs Trekboers`. Parfois, la réponse `San` est si forte que leurs gangs en arrivent à tuer des `Trekboers`.
+En réponse à la menace `Trekboers`, les `Sans` forment des gangs qui leurs permettent de répondre à la menace `Trekboers`. Ces gangs dévastent les bovins que les `envahisseurs Trekboers` ont substitués aux gibiers des `Sans`. Parfois, la réponse `San` est si forte que leurs gangs en arrivent à tuer des `Trekboers`.
+
+En réponse à cela, les `envahisseurs européens` ont emprisonné les `Sans`.
+Parmi les gangs `Sans` emprisonnés, il y a le `Tooren Gang`. Ses membres ont été jugés en `octobre` `1869`. Chacun d’entre eux ont été condamnés à deux années de dur labeur.
+
+> **Le saviez-vous ?**
+>
+> Ces emprisonnements ont été des excuses pour bénéficier d’une main d’œuvre gratuite pour construire le `port de Cape Town`.
+>
+> 1. La première arrestation d’un gang `Sans` s’est déroulée dans `les années 1860`.
+> 2. Cette arrestation coïncide avec l’arrivé du `Prince Alfred` à `Cape Town`. Ce dernier a été de passage pour poser la première pierre du `port de Cape Town` et de la `prison Brekwater`.
+> 3. Les personnes emprisonnées dans la `Breakwater Convict Station` ont dus travailler sur le brise-lame.
+>
+> En bref, les `Sans` ont été capturés pour travailler gratuitement à la fabrication du `port de Cape Town`.
+{.is-info}
 
 # Territoires ***Khoïsans***
 
