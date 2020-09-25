@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:23:03.380Z
+date: 2020-09-25T20:26:57.264Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -111,7 +111,7 @@ Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le musea
 
 Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
-1. L’air inhalé par l’animal s’egouffre dans les cavités nasales.
+1. L’air inhalé par l’animal s’engouffre dans les cavités nasales.
 2. Cet air tourbillonne dans les cornets nasaux et pénètre les lames osseuses qui sont recouvertes de tissus muqueux vascularisés .
 3. Une évaporation et une radiation thermique (échange de chaleur) s’effectuent entre l’air et les musqueuses du cornet nasal.
 4. Le refroidissement des muqueuses engendre le refroidissement des veines qui s’y trouvent.
