@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-25T21:20:00.284Z
+date: 2020-09-25T21:21:12.106Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -79,7 +79,7 @@ flowchart TB
 
 # Valorisation de la langue[^15]
 
-En `1875`, Stephanus Jacobus du Toit travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leurs objectifs est de défendre et d’imposer l’***afrikaans*** comme langue officielle de la colonie du Cap, en plus de l’anglais.
+En `1875`, Stephanus Jacobus du Toit travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leurs objectifs sont de défendre et d’imposer l’***afrikaans*** comme langue officielle de la colonie du Cap, en plus de l’anglais.
 
 En `1876`, S.J. du Toit devient le rédacteur en chef de la revue « Die Afrikaanse Pastriot ». Cette revue écrit en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer le complexe d’infériorité de ce peuple. À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
 
