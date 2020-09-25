@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-25T21:12:55.851Z
+date: 2020-09-25T21:14:27.132Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 ---
@@ -34,7 +34,7 @@ La frise suivante présente de façon succincte l’histoire de la langue ***afr
 ```mermaid
 flowchart TB
    khoisanArrive["-40 000 : Les ancêtres des Khoïsans deviennent les premiers habitants
-   du sud-sud-ouest du continent."]
+   du sud sud-ouest du continent."]
    
    grassland["~500 : Les peuples originaires des hauts plateaux de l’ouest
    (et parlant bantou) atteignent l’actuelle province du KwaZulu-Natal
