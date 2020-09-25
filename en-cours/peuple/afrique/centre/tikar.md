@@ -2,7 +2,7 @@
 title: Tikar
 description: Présentation du peuple Tikar
 published: true
-date: 2020-09-23T09:04:16.556Z
+date: 2020-09-25T07:31:30.157Z
 tags: kamit, kémit, peuple, peuple négro-africain, peuple africain, peuple noir, peuple kamit, peuple kémit, tikar, peuple tikar
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Le peuple vit essentiellement dans la province du Nord-Ouest du pays, à la fron
 
 # Étymologie
 
-Une thèse à vérifier prétend que le mot **tikar*** peut venir du `Mboum` « Tinkala-Je ». Cette expression signifie va t’en d’ici. Elle a été dite par le maître du `plauteau de l’Adamawa` à un prince de la chefferie Mboum de Nganha. De là, ce prince exilé est allé au sud où il a créé la chefferie ***Tikar***.[^7]
+Le mot **tikar*** peut venir du `Mboum` « Tinkala-Je ». Cette expression signifie va t’en d’ici. Elle a été dite par le maître du `plauteau de l’Adamawa` à un prince de la chefferie Mboum de Nganha. De là, ce prince exilé est allé au sud où il a créé la chefferie ***Tikar***.[^7]
 
 # Histoire du royaume[^7]
 
@@ -45,7 +45,7 @@ L’origine antique des ***Tikar*** va jusqu’à la `péninsule arabique` (ou `
 
 
 Il y a fort longtemps, un prince de la `chefferie Mboum` de `Nganha` est allé voir le maître du `plateau de l’Adamawa` de l’époque. Ce dernier dit au prince « Tinkala-Je ». L’expresison `Mboum` signifie « Va t’en d’ici ». Par cette expression le maître des lieux ordonne l’exile du prince. Cet exile s’accompagne de celui des sœurs, des frères, des notables, des fidèles et des grands guerriers du prince.
-Acceptant l’exile, ils s’en vont au sud pour s’installer sur de nouvelles terres. De là, le prince affranchit les Tumu (idiome Tikar actuel), les Bamouns et les Bansô. Cela aboutit à la création de solides royaumes dont le Royaume ***Tikar***.
+Acceptant l’exile, ils s’en vont au sud pour s’installer sur de nouvelles terres. De là, le prince affranchit les Tumu (idiome Tikar actuel), les Bamouns et les Bansô. Cela aboutit à la création de solides royaumes, dont le Royaume ***Tikar***.
 
 # Structure sociétale
 
