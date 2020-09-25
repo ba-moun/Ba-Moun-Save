@@ -2,10 +2,12 @@
 title: Peuple Bamoun
 description: Présentation du peuple Bamoun
 published: true
-date: 2020-09-25T06:58:31.193Z
+date: 2020-09-25T07:07:07.874Z
 tags: bamoun, peuple bamoun, peuple bamun, bamun
 editor: markdown
 ---
+
+![flag-of-cameroon_public-domain.svg](/images/flag/cameroon/flag-of-cameroon_public-domain.svg){.align-abstopright}
 
 Les Bamoun sont originaires de `Kémèt` (`Égypte pharaonique antique`).[^1]
 
