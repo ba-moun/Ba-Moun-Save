@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:51:17.167Z
+date: 2020-09-25T20:54:19.450Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 ---
@@ -189,7 +189,7 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 >
 > Le couagga fait partie des gibiers chassés intensivement par les `Trekboers`.
 > 
-> Ci-contre une femelle cougga en captivité au `zoo de Londres`.
+> Ci-contre une femelle couagga en captivité au `zoo de Londres`.
 > L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 > 
 > Cela revient à environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
