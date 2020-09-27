@@ -2,9 +2,10 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-25T20:58:09.035Z
+date: 2020-09-27T06:47:11.472Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
+dateCreated: 2020-08-10T23:28:24.895Z
 ---
 
 ![!nussa-!e_kwa-!khwai-from-dia!kwain_public-domain.jpg](/images/art/drawing/!nussa-!e_kwa-!khwai-from-dia!kwain_public-domain.jpg){.align-abstopright}
@@ -197,28 +198,28 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 
 D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a failli disparaître à l’instar du `quagga`.
 
-[^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://glosbe.com/tn/en/Kgalagadi
+[^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://glosbe.com/tn/en/Kgalagadi
 
-[^2]: [Désert du Kalahari](https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Kalahari). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `9` `Mai` `2020` [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Kalahari
+[^2]: [Désert du Kalahari](https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Kalahari). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `9` `Mai` `2020` [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/D%C3%A9sert_du_Kalahari
 
-[^3]: [Kalahari Gemsbok Antelope](https://www.kalahari-trophy-hunting.com/gemsbok.html). In [kalahari-trophy-hunting.com](https://www.kalahari-trophy-hunting.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.kalahari-trophy-hunting.com/gemsbok.html
+[^3]: [Kalahari Gemsbok Antelope](https://www.kalahari-trophy-hunting.com/gemsbok.html). In [kalahari-trophy-hunting.com](https://www.kalahari-trophy-hunting.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://www.kalahari-trophy-hunting.com/gemsbok.html
 
-[^4]: [Oryx gazelle](https://fr.wikipedia.org/wiki/Oryx_gazelle). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Oryx_gazelle
+[^4]: [Oryx gazelle](https://fr.wikipedia.org/wiki/Oryx_gazelle). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `7` `Mai` `2019` [consulté le `28` `Juillet` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Oryx_gazelle
 
-[^5]: [Drawings, Image: UCTLB_D_Di009](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di009.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di009.html
+[^5]: [Drawings, Image: UCTLB_D_Di009](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di009.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_D_Di009.html
 
-[^6]: [Drawings, Image: UCTLB_W_h002](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html
+[^6]: [Drawings, Image: UCTLB_W_h002](http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/drawings/UCTLB_W_h002.html
 
-[^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020`]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
+[^7]: [|xam contributors](http://lloydbleekcollection.cs.uct.ac.za/xam.html). In [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za). [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [en ligne]. [The Digital Bleek & Lloyd](http://lloydbleekcollection.cs.uct.ac.za) [consulté le `30` `Juillet` `2020` (`calendrier grégorien`)]. Disponible sur : http://lloydbleekcollection.cs.uct.ac.za/xam.html
 
-[^8]: [L'écophysio, c'est chaud!](http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud). In [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?) [en ligne]. [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?), publié le `13` `Novembre` `2017` [consulté le `21` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud
+[^8]: [L'écophysio, c'est chaud!](http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud). In [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?) [en ligne]. [STRANGE STUFF AND FUNKY THINGS](http://ssaft.com/Blog/dotclear/?), publié le `13` `Novembre` `2017` [consulté le `21` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : http://ssaft.com/Blog/dotclear/?post/2017/11/12/L-ecophysio-c-est-chaud
 
-[^9]: [Equus quagga quagga](https://fr.wikipedia.org/wiki/Couagga). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `24` `Avril` `2020` [consulté le `21` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Couagga
+[^9]: [Equus quagga quagga](https://fr.wikipedia.org/wiki/Couagga). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `24` `Avril` `2020` [consulté le `21` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Couagga
 
-[^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020`]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
+[^10]: [Lloyd and Bleek Collection](https://www.aluka.org/heritage/collection/LBC). In [World Heritage Sites](https://www.aluka.org/heritage). [World Heritage Sites](https://www.aluka.org/heritage) [en ligne]. [World Heritage Sites](https://www.aluka.org/heritage) [consulté le `30` `Juillet` `2020` (`calendrier grégorien`)]. Disponible sur : https://www.aluka.org/heritage/collection/LBC
 
-[^11]: [Quand partir en Namibie ?](https://www.partir.com/Namibie/quand-partir.html). In Parti.com [en ligne]. Partir.com, [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://www.partir.com/Namibie/quand-partir.html
+[^11]: [Quand partir en Namibie ?](https://www.partir.com/Namibie/quand-partir.html). In Parti.com [en ligne]. Partir.com, [consulté le `20` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://www.partir.com/Namibie/quand-partir.html
 
-[^12]: [Mammifère (Caractéristiques > Physiologie)](https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `14` `Août` `2020` [consulté le `20` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie
+[^12]: [Mammifère (Caractéristiques > Physiologie)](https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `14` `Août` `2020` [consulté le `20` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Mammif%C3%A8re#Physiologie
 
-[^13]: [Rete mirabile](https://fr.wikipedia.org/wiki/Rete_mirabile). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Avril` `2018` [consulté le `24` `Août` `2020` (`calendirer grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Rete_mirabile
+[^13]: [Rete mirabile](https://fr.wikipedia.org/wiki/Rete_mirabile). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `29` `Avril` `2018` [consulté le `24` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Rete_mirabile
