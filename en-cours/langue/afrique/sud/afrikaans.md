@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-09-27T07:46:21.934Z
+date: 2020-09-27T07:46:37.391Z
 tags: africain, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus
 editor: markdown
 dateCreated: 2020-09-13T10:01:53.140Z
@@ -10,7 +10,6 @@ dateCreated: 2020-09-13T10:01:53.140Z
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
-
 
 ***Afrikaans*** est le nom d’une langue leuco-africaine qui a vu le jour dans le sud du continent.
 « Afrikaans » se traduit par « africain » en `néerlandais`. L’***afrikaans*** vient des Européens qui ont envahit le `sud` du `continent` à partir de `1488`. Ces `envahisseurs` sont des `Néerlandais`, des `Huguenots` et des `protestants Allemands` dénomés `Trekboers`.
