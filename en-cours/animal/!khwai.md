@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:38:11.664Z
+date: 2020-10-13T14:43:16.939Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -189,7 +189,12 @@ Le ***!khwai*** est aussi chassé pour le sport.
 Cette tradition a été amenée par les `Trekboers`.
 À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophé.
 
-Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle. Pendant leur expansion, les `Trekboers` ont chassé le gibier tantôt pour se nourrir et tantôt pour l’amour de la chasse. Volontairement intensive, ce type de chasse a causé le génocide de certains peuples `Sans`.
+> **Le saviez-vous ?**
+>
+> Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle. Pendant leur expansion, les `Trekboers` ont chassé le gibier tantôt pour se nourrir et tantôt pour l’amour de la chasse. Réalisé de manière intensive, ce dernier type de chasse a causé le génocide de certains peuples `Sans`.
+{.is-info}
+
+D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a failli disparaître à l’instar du `couagga`.
 
 > **Le saviez-vous ?**[^9]
 >
@@ -203,8 +208,6 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 > C'était il y a environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`.
 > Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
 {.is-info}
-
-D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a failli disparaître à l’instar du `quagga`.
 
 [^1]: [Kgalagadi en anglais](https://glosbe.com/tn/en/Kgalagadi). In [Glosbe - le dictionnaire multilingue en ligne](https://glosbe.com/) [en ligne]. [consulté le `11` `Août` `2020` (`calendrier grégorien`)]. Disponible sur : https://glosbe.com/tn/en/Kgalagadi
 
