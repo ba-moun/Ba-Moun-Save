@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:43:16.939Z
+date: 2020-10-13T15:15:32.723Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -120,7 +120,7 @@ Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
 
 Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`.
-La `carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe dans la tête du ***!khwai***, autour de son hypotalamus.
+La `carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébral incroyable ». C’est un système d’artères et de veines qui se situe dans la tête du ***!khwai***, autour de son hypotalamus.
 
 À l’emplacement de la `carotid rete mirabile`, les artères traversent les veines.
 D’un côté, le sang chaud contenu dans les artères et sortant du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
