@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:24:23.902Z
+date: 2020-10-13T14:25:19.623Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -98,7 +98,7 @@ Le ***!khwai*** halète en gardant sa gueule ouverte, en polypnée (respiration 
 Toutefois, cette technique fait perdre du liquide précieux pour la survie du ***!khwai***. Elle accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
  C’est pourquoi l’animal n’halète qu’en cas d’urgence (ex. : lors d’un combat ou d’une fuite).
 
-#### Cornets nasaux et `Carotid rete mirabile`[^13]
+#### Cornets nasaux et `carotid rete mirabile`[^13]
 
 Les cornets nasaux sont des os en forme de spirale qui se trouvent dans le museau de l’animal.
 
@@ -120,7 +120,7 @@ Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
 
 Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`.
-La `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe dans la tête du ***!khwai***, autour de son hypotalamus.
+La `carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe dans la tête du ***!khwai***, autour de son hypotalamus.
 
 À l’emplacement de la `carotid rete mirabile`, les artères traversent les veines.
 D’un côté, le sang chaud contenu dans les artères et sortant du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
