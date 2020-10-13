@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-09-27T06:47:11.472Z
+date: 2020-10-13T14:02:55.614Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -21,9 +21,9 @@ dateCreated: 2020-08-10T23:28:24.895Z
    </figcaption>
 </figure>
 
-***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`).[^5]
+***!khwai*** est le nom de l’oryx gazelle en `|xam` (langue `San`). Cet animal aussi appelé `gemsbock` en `français`.[^5]
 
-Le ***!khwai*** est un bovidé qui se nourrit de graminés, de melons tsama et de tubercules.
+Le ***!khwai*** est un bovidé qui se nourrit de graminées, de melons tsama et de tubercules.
 Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagadi` (désert du Kalahari en `Tswana`). Le ***!khwai*** vit donc dans un [semi-]désert aride composé[^1][^2][^3][^4] :
 
 - de sable,
@@ -37,7 +37,7 @@ Son habitat naturel s’étend des dunes `Namib` aux savanes arides du `Kgalagad
 
 La reproduction du ***!khwai*** se fait toute l’année. La gestation prend entre neuf et dix mois avec une portée d’un unique bébé. Par la suite, la maturité sexuelle de la progéniture arrive aux alentours des deux ans. Dans son habitat naturel, le ***!khwai*** décède environ vers ses 15 ans.[^4]
 
-Le ***!khwai*** vit par troupeau de six à quarante constitués de femelles avec leurs progénitures. Les mâles jeunes sont séparés du troupeau. Les femelles occupent des domaines d’environ 1 000 km^2^ tandis que les mâles occupent une surface d’environ 50 km^2^. Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes à celles de l’autre. Qui plus est, l’un peut tenter de piquer l’autre avec les pointes de ses cornes.[^3][^4]
+Le ***!khwai*** vit par troupeaux de six à quarante membres, constitués de femelles avec leurs progénitures. Les jeunes mâles  sont séparés du troupeau. Les femelles occupent des domaines d’environ 1 000 km^2^ tandis que les mâles occupent une surface d’environ 50 km^2^. Le mâle ***!khwai*** défend son territoire en attaquant les intrus avec sa tête. Quand deux mâles se battent entre eux, ils accrochent leurs cornes à celles de l’autre. Qui plus est, l’un peut tenter de piquer l’autre avec les pointes de ses cornes.[^3][^4]
 
 # Physionomie[^3][^4]
 
@@ -50,14 +50,14 @@ Voici quelques caractéristiques du ***!khwai*** :
 - une hauteur au garrot allant jusqu’à 1,25 m,
 - une longueur allant jusqu’à 1,90 m et une queue pouvant atteindre les 90 cm,
 - des cornes fines et droites pouvant atteindre les 85 cm,
-- des mâles identifiables par :
- 	 - leurs poids pouvant atteindre les 240 kg
-   - leurs scrotums apparants
+- des *mâles* identifiables par :
+ 	 - leurs poids pouvant atteindre les 240 kg,
+   - leurs scrotums apparants,
    - leurs cornes plus écartées que celles des femelles,
-- des femelles identifiables par :
-   - leurs cornes habituellement un peu plus longues, plus pointues, plus fines et plus droites que celles des mâles
-   - un poids pouvant atteindre les 190 kg
-   - les dessins blancs et noirs qui ornent sa tête.
+- des *femelles* identifiables par :
+   - leurs cornes habituellement un peu plus longues, plus pointues, plus fines et plus droites que celles des mâles,
+   - d'un poids pouvant atteindre les 190 kg
+   - des dessins blancs et noirs qui leur ornent la tête.
 
 # Techniques de survie[^3]
 
@@ -76,10 +76,10 @@ L’environnement du ***!khwai*** est plus froid la nuit. Dès lors, il profite 
 Le ***!khwai*** se déplace en fonction de la quantité de nourriture présente dans son environnement proche.
 En outre, le ***!khwai*** agit de sorte à écomoniser son énergie et son fluide corporel.
 
-Par exemple, il s’active principalement la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de dépenser le moins possible quand il fait le plus chaud. Il pert le moins d’énergie et de liquide possible.
+Par exemple, il est principalement actif la nuit, à l’aube ou en fin d’après-midi. Cela permet à l’animal de se dépenser le moins possible quand il fait le plus chaud. Il perd le moins d’énergie et de liquide possible.
 
 De plus, le ***!khwai*** patûre généralement à l’ombre. Cela lui permet de profiter de l’humidité maintenue dans les végétaux.
-Cependant, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son coprs dans la brise. De cette manière, il rafraîchit son corps plus qu’il ne le réchauffe.
+Cependant, s’il veut pâturer sous le soleil, le ***!khwai*** dispose d’une technique lui permettant d’évacuer la chaleur. Pour se faire, il positionne la plus infime partie de son corps sous les rayons du soleil. Par la même occasion, il place la plus grande partie possible de son corps dans la brise. De cette manière, il rafraîchit son corps plus qu’il ne le réchauffe.
 
 Quand le ***!khwai*** ne patûre pas, pour diminuer sa température, il lui arrive de coucher son flan contre le sable frais. Ainsi, le sable frais situé à l’ombre lui permet de se rafraîchir plus rapidement étant donné qu’il rafraîchit une plus grande surface de son corps.
 
@@ -94,9 +94,9 @@ Dès que nécessaire, le ***!khwai*** peut tenir longtemps sans boire.
 
 L’halètement est une des techniques utilisées par le ***!khwai*** pour réguler sa température corporelle.
 
-Le ***!khwai*** halète en gardant sa gueule ouverte tout en étant en polypnée (respiration rapide et superficielle). Cette technique accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
-
-Toutefois, cette technique fait perdre du liquide précieux pour la survie du ***!khwai***. C’est pourquoi l’animal n’halète qu’en cas d’urgence (ex. : lors d’un combat ou d’une fuite).
+Le ***!khwai*** halète en gardant sa gueule ouverte, en polypnée (respiration rapide et superficielle). 
+Toutefois, cette technique fait perdre du liquide précieux pour la survie du ***!khwai***. Elle accélère l’évaporation de l’eau présente dans les voies respiratoires supérieures et sur la langue humidifiée.
+ C’est pourquoi l’animal n’halète qu’en cas d’urgence (ex. : lors d’un combat ou d’une fuite).
 
 #### Cornets nasaux et `Carotid rete mirabile`[^13]
 
@@ -119,10 +119,10 @@ Cet appareil permet au ***!khwai*** de refroidir son sang comme suit :
 
 Grâce à cette perte de chaleur, le ***!khwai*** fait entrer de l’air chaud dans ses poumons tout en refroidissant le sang présent dans son museau.
 
-Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (c’est-à-dire vers la tête).
+Par la suite, le sang refroidi et présent dans les veines quitte le museau pour atteindre la `carotid rete mirabile`. `Carotid rete mirabile` est un nom `latin`. Il peut se traduire par « filet cérébrale incroyable ». C’est un système d’artères et de veines qui se situe autour de l’hypotalamus du ***!khwai*** (situé dans la tête).
 
 À l’emplacement de la `carotid rete mirabile`, les artères traversent les veines.
-D’un côté, le sang chaud contenu dans les artères sort du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
+D’un côté, le sang chaud contenu dans les artères et sortant du cœur, traverse la `carotid rete mirabile` pour arriver au cerveau. 
 De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêtré dans les cornets nasaux. Ce sang traverse la `carotid rete mirabile` puis arrive dans la `veine jugulaire`.
 
 <figure class="image image_resized" style="width: 100%;">
@@ -134,7 +134,7 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
 </figure>
 
 
-En quelques mots : le sang chaud monte par les artères et le sang froid descend vers le cœur. Sur leurs chemins, ils se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse son sang est réchauffé avant d’arriver au cœur.
+En quelques mots : le sang chaud quitte le cœur par les artères et le sang froid descend vers le cœur. Sur leurs chemins, ils se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse le sang froid venant du museau est réchauffé avant d’arriver au cœur.
 
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
@@ -145,7 +145,7 @@ En quelques mots : le sang chaud monte par les artères et le sang froid desce
 </figure>
 
 Les mammifères doivent avoir une température entre 36°C et 39°C.[^12] Néanmoins, le ***!khwai*** peut avoir une température allant jusqu’à 45°C grâce à sa physiologie.
-En effet, puisque la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
+En effet, la `carotid rete mirabile` permet au ***!khwai*** de refroidir son sang avant qu’il n’arrive au cerveau et de le réchauffer avant qu’il n’arrive au cœur.
 
 Cette dernière permet donc au ***!khwai*** de baisser sa température, et tout particulièrement son hypotalamus, en refroidissant son sang (thermorégulation). Pour le ***!khwai***, c’est un système efficace qui lui permet de conserver un maximum de liquide. C’est une chose vitale étant donné l’aridité de son environnement.
 
@@ -165,7 +165,7 @@ Quand il est attaqué par un animal, le ***!khwai*** pointe ses cornes vers son 
 > **Le saviez-vous ?**
 >
 > Généralement, le ***!khwai*** prend la fuite.
-> Néanmoins, en cas contraire, son attaque est si précise et si dévastatrice qu’il est capable de tuer le prédateur qui le menace.
+> Néanmoins, s'il ne fuit pas, son attaque est si précise et si dévastatrice qu’il est capable de tuer le prédateur qui le menace.
 > Des félins ont déjà été retrouvés morts après s’être fait percer à coups de corne par un ***!khwai***.
 {.is-info}
 
@@ -182,7 +182,7 @@ Le ***!khwai*** est aussi chassé pour le sport.
 Cette tradition a été amenée par les `Trekboers`.
 À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophé.
 
-Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle. Pendant leur expansion, les `Trekboers` ont chassé le gibier par moment pour se nourrir et par d’autres moments pour l’amour du sport. Cette chasse volontairement intensive a causé le génocide de certains peuples `Sans`.
+Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants allemands` et `néerlandais`. Ils ont entamé leur expansion sur les terres des peuples du sud (`Xhosa`, `Ss’wa ka !kui`, `!nussa !e`, …) au XVII^ème^ siècle. Pendant leur expansion, les `Trekboers` ont chassé le gibier tantôt pour se nourrir et tantôt pour l’amour de la chasse. Volontairement intensive, elle a causé le génocide de certains peuples `Sans`.
 
 > **Le saviez-vous ?**[^9]
 >
@@ -193,7 +193,7 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 > Ci-contre une femelle couagga en captivité au `zoo de Londres`.
 > L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 > 
-> Cela revient à environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
+> C'était il y a environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
 {.is-info}
 
 D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a failli disparaître à l’instar du `quagga`.
