@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:25:19.623Z
+date: 2020-10-13T14:32:25.256Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -134,7 +134,14 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
    </figcaption>
 </figure>
 
-En quelques mots : le sang chaud quitte le cœur par les artères et le sang froid descend vers le cœur. Sur leurs chemins, ils se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse le sang froid venant du museau est réchauffé avant d’arriver au cœur.
+En d'autres termes :
+
+1. le sang chaud quitte le cœur par les artères et se dirige vers la tête.
+2. Le sang froid quitte le museau par les veines et se dirige vers le cœur.
+3. Ces vaisseaux sanguins se croisent dans la `carotid rete mirabile`.
+4. Dans la `carotid rete mirabile`, une convection thermique se produit entre le sang froid des veines et le sang chaud des artères.
+
+De cette façon, le ***!khwai*** bénéficie d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse, le sang froid de l'animal est réchauffé avant d’arriver au cœur.
 
 <figure class="image image_resized" style="width: 100%;">
    <img src="/images/biology/carotid-rete-mirabile/carotide-rete-mirabile-by-bamoun_cc-by-sa.png">
