@@ -2,7 +2,7 @@
 title: Afrikaans
 description: Présentation de la langue Afrikaans
 published: true
-date: 2020-10-13T13:40:18.160Z
+date: 2020-10-13T13:49:19.193Z
 tags: africain, allemand, néerlandais, français, afrikaans, langue européenne, langue africaine, langue leuco-africaine, langue euro-africaine, euro-africaine, euro-africain, leuco-africain, leuco-africaine, africaine, européenne, européen, stephanus, stephanus jacobus du toit, stephanus jacobus, du toit, jacobus, langue
 editor: markdown
 dateCreated: 2020-09-13T10:01:53.140Z
@@ -43,19 +43,22 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 # Valorisation de la langue[^15]
 
-En `1875`, Stephanus Jacobus du Toit travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leur objectif est de défendre et d’imposer l’***afrikaans*** comme langue officielle de la colonie du Cap, en plus de l’anglais.
+En `1875`, `Stephanus Jacobus du Toit` travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leurs objectifs sont de défendre et d’imposer l’***afrikaans*** comme langue officielle de la `Colonie du Cap`, en plus de l’anglais.
 
-En `1876`, S.J. du Toit devient le rédacteur en chef de la revue « Die Afrikaanse Pastriot ». Cette revue écrit en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer ce peuple de leur complexe d’infériorité. À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
+En `1876`, `S.J. du Toit` devient le rédacteur en chef de la revue « Die Afrikaanse Pastriot ». Cette revue écrit en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer ce peuple de leur complexe d’infériorité. À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
 
-En `1877`, S.J. du Toit publie le premier « livre d’histoire » des Afrikaners écrit en ***afrikaans***. Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (L’Histoire de notre Pays dans la Langue de notre Peuple). C’est un manifeste politique des `Afrikaners` empreint de mystique. Ce livre d’histoire romance la lutte du « petit peuple Afrikaners » élu pour rester fidèle au dessein de Dieu depuis `1795`.
+En `1877`, `S.J. du Toit` publie le premier « livre d’histoire » des Afrikaners écrit en ***afrikaans***. Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (L’Histoire de notre Pays dans la Langue de notre Peuple). C’est un manifeste politique des `Afrikaners` empreint de mystique. Ce livre d’histoire romance la lutte du « petit peuple Afrikaners » élu pour rester fidèle au dessein de Dieu depuis `1795`.
 
 > **Le saviez-vous  ?**[^4]
 >
 > En `1795`, les `Britanniques` et les `Néerlandais` entrent en conflit pour l’acquisition de la `colonie européenne` située au sud de `Katyopa`.
 {.is-info}
 
-Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. Leur lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques. Enfin, en `1925`, le gouvernement de `James Barry Hertzog` fait de l'***afrikaans*** la langue nationale avec l'anglais. Dès lors, l’***afrikaans*** remplace le néerlandais.
-Jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois langues officielles du `Sud-Ouest africain`.
+Dans un premier temps, le néerlandais devient la langue nationale au côté de l’anglais. Néanmoins, le mouvement identitaire afrikaner se concentre sur la promotion de l'***afrikaans***. Leur lutte se concentre sur le droit d'enseigner la langue et de la parler dans les administrations publiques.
+
+En `1925` (14 ans après la mort de `S.J. du Toit`), le projet politique sur la culture afrikaans aboutit. Le gouvernement de `James Barry Hertzog` fait de l'***afrikaans*** la langue nationale avec l'anglais. Dès lors, l’***afrikaans*** remplace le néerlandais.
+
+Enfin, jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les trois langues officielles du `Sud-Ouest africain`.
 
 > ***Le saviez-vous ?***[^2]
 >
