@@ -2,9 +2,10 @@
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-09-12T09:58:40.522Z
+date: 2020-10-13T13:56:45.292Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
+dateCreated: 2020-09-11T17:21:30.789Z
 ---
 
 ![!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg](/images/geography/grassland/’aukarob/!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg){.align-abstopright}
@@ -14,12 +15,13 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
 
 > **Le saviez-vous ?**[^3]
 >
-> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prarie, pampa, <i>veld</i> et brousse</figcaption></figure>
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prairie, pampa, <i>veld</i> et brousse</figcaption></figure>
 >
 > *Veld* est un néerlandisme. En `afrikaans`, ce mot signifie « champ ».
 > 
-> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. En effet, tous ces mots désignent essentiellement de larges espaces plats situés en campagne et couverts d’herbe et d’arbuste.
-> `Prairie` est dédié à l’Europe, `pampa` à `Tarana`, `brousse`à l’Afrique et `veld` au sud du continent. Comme illustré ci-contre, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
+> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. En effet, tous ces mots désignent essentiellement de larges espaces plats situés en campagne et couverts d’herbes et d’arbustes.
+> 
+> `Prairie` est dédié à l’Europe, `pampa` à `Tarana`, `brousse` à l’Afrique et `veld` est spécifiquement dédié au sud du continent. Comme illustré ci-contre, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
 > 
 > Suite à l’invasion européenne, le pastoralisme et la culture de céréales sont pratiqués dans le *veld*.
 {.is-info}
@@ -34,7 +36,7 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
    </figcaption>
 </figure>
 
-La formation du ***!’Aukarob*** remonte à environ 200M ou 300M d’annnées. À cette époque, une montée des eaux recouvre la zone constituée à l’origine d’une forêt tempérée.
+La formation du ***!’Aukarob*** remonte à environ 200M ou 300M d’années. À cette époque, le niveau de l'eau a monté et elle submerge la zone constituée à l’origine d’une forêt tempérée.
 130M d’années avant notre ère, une éruption volcanique recouvre la région de lave basaltique. L’érosion des couches supérieures de grès aboutissent à la formation de collines en forme de cône et surplombées de roches dures.
 ***!’Aukarob*** devient enfin un marécage avant d’être l’habitat semi-désertique actuel.
 Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
@@ -42,7 +44,7 @@ Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 - une composition d’herbes et de petits arbustes,
 - un emplacement entre désert et zone humide (particularité des zones semi-désertiques),
 - une faible préciptation,
-- une séparation nord-sud par des montagnes.
+- une séparation nord-sud faite de montagnes.
 
 [^1]: [Kora: a thorough account of a lost Khoisan language](https://www.timeslive.co.za/sunday-times/books/non-fiction/2019-03-27-kora-a-thorough-account-of-a-lost-khoisan-language/). In [The paper for the people, Sunday Times](https://www.timeslive.co.za/sunday-times).  © 2020 Arena Holdings (Pty) Ltd. All rights reserved, `27` `Mars` `2019` `15`h`40`, [consulté le `11` `Septembre` `2020`] (`calendrier grégorien`). Disponible sur : https://www.timeslive.co.za/sunday-times/books/non-fiction/2019-03-27-kora-a-thorough-account-of-a-lost-khoisan-language/
 
