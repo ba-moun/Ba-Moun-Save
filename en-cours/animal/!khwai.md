@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:36:16.541Z
+date: 2020-10-13T14:36:59.949Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -179,7 +179,7 @@ Quand il est attaqué par un animal, le ***!khwai*** pointe ses cornes vers son 
 <figure class="image image_resized image-style-align-right" style="width: 50%;">
    <img src="/images/art/drawing/!nussa-!e_!khwai-from-han≠kass’o_public-domain.jpg">
   <figcaption>
-     <i><b>!khwai</b></i> femelle et mâle (de gauche à droite)<br/> peints par |han≠kass’o le 28 February 1879
+     <i><b>!khwai</b></i> femelle et mâle (de gauche à droite)<br/> peints par |han≠kass’o le 28 Février 1879
    </figcaption>
 </figure>
 
