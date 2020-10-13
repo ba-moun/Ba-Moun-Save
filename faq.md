@@ -2,9 +2,10 @@
 title: Foire Aux Questions
 description: Questions fréquemment posées sur Ba-Moun𓅝Save
 published: true
-date: 2020-08-09T17:06:20.797Z
+date: 2020-10-13T18:02:05.815Z
 tags: faq, foire aux questions, questions − réponses
 editor: markdown
+dateCreated: 2020-06-13T17:27:32.867Z
 ---
 
 > Vous ne trouvez pas de réponse à votre question ?
@@ -150,6 +151,10 @@ Après vous être identifié, vous bénéficierez automatiquement des droits d'�
 > Le répertoire *en-cours* est visible dans le menu de navigation situé à gauche de la page (voir première illustration de cette page). Si vous ne voyez pas ce dossier, cliquez sur le bouton « Parcourir » qui se situe tout en haut du menu de navigation.
 {.is-info}
 
+> Certaines pages demandent de bénéficier de droits spéciaux pour les éditer.
+> Par exemple, pour éditer cette FAQ, vous devez appartenir au clan **𓀰 Nkonsonkonson**.
+> Si vous n'avez pas les droits requis pour modifier une page, vous pouvez proposer vos corrections dans le champ des commentaires.
+{.is-warning}
 
 # Utilité du compte utilisateur
 
