@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:36:59.949Z
+date: 2020-10-13T14:38:11.664Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -200,7 +200,8 @@ Les `Trekboers` sont des envahisseurs `huguenots (français)`, `protestants alle
 > Ci-contre une femelle couagga en captivité au `zoo de Londres`.
 > L’espèce s’est éteinte le `12` `Août` `1883`, au `zoo d’Amsterdam`.
 > 
-> C'était il y a environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`. Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
+> C'était il y a environ 400 ans après l’invasion des premiers `Européens` au sud du continent, en `1488`.
+> Pour rappel, les `Sans` sont présents sur le même territoire que les couaggas depuis environ 40 000 ans.
 {.is-info}
 
 D'après la `liste rouge de l'UICN3`, l’extinction du ***!khwai*** est une préoccupation mineure, il existe environ 373 000 individus. L’animal a survécu au `Yovodah` grâce aux réserves protégées qui se trouvent dans le `désert du Namib`, dans le `Kgalagadi` et dans la `réserve de Sanbona`. Chassé de manière excessive par les `envahisseurs Européens`, l’espèce a failli disparaître à l’instar du `quagga`.
