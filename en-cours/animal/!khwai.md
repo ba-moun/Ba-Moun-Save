@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T15:36:15.713Z
+date: 2020-10-13T15:43:03.818Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -187,7 +187,7 @@ Le ***!khwai*** fait parti des gibiers chassés par les `Sans` (chasseurs-cueill
 
 Le ***!khwai*** est aussi chassé pour le sport.
 Cette tradition a été amenée par les `Trekboers`.
-À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophé.
+À présent, ce type de chasse sert principalement à récupérer les cornes du ***!khwai*** pour en faire un trophée.
 
 > **Le saviez-vous ?**
 >
