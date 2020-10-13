@@ -2,7 +2,7 @@
 title: !khwai
 description: Présentation du !khwai
 published: true
-date: 2020-10-13T14:15:22.791Z
+date: 2020-10-13T14:24:23.902Z
 tags: animal, bovidé, !khwai, gemsbok, oryx gazelle, oryx gazella, couagga, equus quagga quagga, quagga, equus burchellii quagga, equus quagga, equus, burchellii
 editor: markdown
 dateCreated: 2020-08-10T23:28:24.895Z
@@ -133,7 +133,6 @@ De l’autre côté, il y a le sang refroidi indirectement par l’air enchevêt
      Dessiné au crayon par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
-
 
 En quelques mots : le sang chaud quitte le cœur par les artères et le sang froid descend vers le cœur. Sur leurs chemins, ils se croisent dans la `carotid rete mirabile`. Par conséquent, une convection thermique s’y produit entre le sang refroidi des veines et le sang chaud des artères. Cela permet au ***!khwai*** de bénéficier d’un sang rafraichi avant qu’il n’arrive à son cerveau. À l’inverse le sang froid venant du museau est réchauffé avant d’arriver au cœur.
 
