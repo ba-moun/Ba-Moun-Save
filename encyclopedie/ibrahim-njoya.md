@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-10-13T13:20:02.978Z
+date: 2020-10-14T11:16:58.113Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -60,7 +60,7 @@ Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `ch
 En `1895`, les Bamoun sortent d’une guerre civile. Cette guerre ravage le `royaume Bamoun`.
 Moins de vingt ans plus tard, les `Européens` se font la guerre; c’est la `première guerre tribale européenne`. Ils contraignent les `Kémyout` du continent et de la diaspora à subir cette guerre par la même occasion. C’est un nouveau ravage qui s’abat sur le royaume.
 À cette époque, le `royaume Bamoun` est envahi par les `Allemands`. Par conséquent, des combats armés entre `Allemands` et `Anglais` éclatent sur le territoire Bamoun.
-En `1920`, les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la seconde guerre tribale européenne.[^1][^2]
+En `1920`, les `Allemands` capitulent. Pour les Bamoun, cette année est celle de la fin de la `première guerre tribale européenne`.[^1][^2]
 
 Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` deviennent les nouveaux envahisseurs. L'entente entre le *Roi Ibrahim Njoya* et les `Anglais` est autant « respectueuse et harmonieuse » qu'avec les `Allemands`.[^2]
 
