@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-10-14T11:16:58.113Z
+date: 2020-10-14T17:54:38.936Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -74,7 +74,7 @@ Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` devi
 </figure>
 
 Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`. Une opposition `Bamoun` prend place contre l'invasion des Français dans le royaume.
-Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` a fait face à une `guerre civile` puis à la première `guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
+Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` fait face à une `guerre civile` puis à la première `guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
 Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le traité de paix en complotant contre le *Sultan Ibrahim Njoya*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
@@ -84,7 +84,8 @@ Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le trai
 * divisent le royaume en chefferies supérieures ;
 * construisent une route principale passant à l'intérieur du palais du ***Sultan Ibrahim Njoya***.
 
-Par peur d'une révolte populaire et pour démanteler le pouvoir du ***Sultan Ibrahim Njoya***, les envahisseurs français manigancent une destitution. Ils enrôlent donc des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir. La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la légion d’honneur.[^2]
+Par peur d'une révolte populaire et pour démanteler le pouvoir du ***Sultan Ibrahim Njoya***, les `envahisseurs français` manigancent une destitution. Ils enrôlent des traitres `Bamoun` et d’autres `Kémyout` avides de pouvoir.
+La destitution se concrétise suite à la création d’une liste de « reproches » faits au Sultan et à la signature d’un traité signé par MARCHAND. À l’époque, MARCHAND est `gouverneur des colonies`, `commisaire de la république française du Cameroun` et commandeur de la `légion d’honneur`.[^2]
 
 Voici la liste des « reproches » faits au ***Sultan Ibrahim Njoya*** par les `Français` pour soutenir le démantèlement du `royaume`.[^2]
 
@@ -97,11 +98,11 @@ Voici la liste des « reproches » faits au ***Sultan Ibrahim Njoya*** par l
 
 Voici quelques faits historiques qui mettent en exergue le manque de cohérence entre ces accusations et la justice appliquée dans la « `métropole` ».
 
-1. Le `15` `Déc.` `1904`, les `Français` suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère. Cela montre qu’au moment de l’accusation, faute de légaliser la polygamie, un homme possédant plusieurs femmes n'est pas un problème en `France`.[^3]
+1. Le `15` `Déc.` `1904`, les `Français` suppriment l'interdiction de mariage entre les personnes ayant pratiqué l'adultère. Cela montre qu’au moment de l’accusation, faute de légaliser la polygamie, un homme en relation avec plusieurs femmes n'est pas un problème en `France`.[^3]
 2. Le président de la république française réside à l'Élysée, soit dans 11 179 m², ce qui est un grand palais.[^4]
-3. Les `Kamyout` vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'`abolition officielle du Yovodah`.[^5]
+3. Les `Kamyout` vivent dans une situation d'asservissement dans toutes les colonies françaises, malgré l'abolition officielle du `Yovodah`.[^5]
 4. La `France` prend possession des terres et du travail agricole de toutes ses colonies pour son propre profit.[^6]
-5. Le ***Sultan Ibrahim Njoya*** a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. Néanmoins, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
+5. Le ***Sultan Ibrahim Njoya*** a renoncé à son droit de vie ou de mort sur son peuple lorsqu'il est devenu Sultan, donc avant l'arrivée des `Français`. En outre, au moment des accusations, la peine de mort n'est pas encore abolie en `France`.[^2][^7]
 6. Pour assurer son égémonie, la `France` oblige tous les royaumes et tous les empires présents sur ses « `colonies` » à être annexés. Le `royaume Bamoun` en est l'exemple.
 
 La destitution du ***Sultan Ibrahim Njoya*** se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs armes à feux.[^2]
