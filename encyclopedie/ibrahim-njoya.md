@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-10-14T17:54:38.936Z
+date: 2020-10-14T18:09:50.322Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -107,12 +107,12 @@ Voici quelques faits historiques qui mettent en exergue le manque de cohérence 
 
 La destitution du ***Sultan Ibrahim Njoya*** se déroule un matin. Lors de son embarquement, d'un côté se trouvent les `Bamoun` et de l'autre les `Français`. Les `Bamoun` sont désarmés tandis que les `Français` menacent les `Bamoun` avec leurs armes à feux.[^2]
 
-Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du ***Sultan ibrahim Njoya***. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, l'opposant franco-africain décide d'exiler le roi à `Yaoundé` (`Cameroun`) à la demande de Tanashangana.[^2]
-
 > * Article 1 : Le nommé ***NJOYA*** ex-sultan de `Fumban` sera interné pendant une période de cinq années avec assignation à résidence obligatoire à `Yaoundé`. Ses biens seront placés sous séquestre pendant la durée de l'internement.
 > * Article 2 : Les chefs des six conscriptions […] de `Yaoundé` sont chargés de l'exécution du présent arrêté qui sera enregistré et communiqué partout ou besoin sera et notifié à l'intéressé.
 > 
 > <p style="text-align: right;">Arrêté signé par MARCHAND, 5 Avril 1931</p>
+
+Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la rumeur d'une libération du ***Sultan ibrahim Njoya***. Par peur, les `Français` envisagent d'exiler le Sultan au `Congo` avec la complicité de `Kémyout` corrompus. En définitive, ces opposants franco-africains décident d'exiler le roi à `Yaoundé` (`Cameroun 🇨🇲`) à la demande de Tanashangana.[^2]
 
 # Fin du règne
 
@@ -125,7 +125,7 @@ Ainsi, le ***Sultan***[^2] :
 - leur enseigne le `shu-mom`,
 - dessine avec eux,
 - peint avec eux,
-- …
+- etc.
 
 En remerciement, les habitants aident le ***Sultan Ibrahim Njoya*** dans ses travaux de construction.[^2]
 
@@ -134,17 +134,18 @@ En remerciement, les habitants aident le ***Sultan Ibrahim Njoya*** dans ses tra
    <figcaption>
       Portrait en pied au crayon<br/>
       du <i><b>roi Ibrahim Njoya</i></b> en tenue traditionnelle<br/>
-      Par : <a href="https://www.ba-moun.com" style="font-family: Yatra One;color: gold">Ba-Moun𓅝Save</a>
    </figcaption>
 </figure>
 
 Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le ***Sultan Ibrahim Njoya*** est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
-Un jour, le *Sultan Ibrahim Njoya* apprend que les envahisseurs Français ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`. Il s'isole, s'enferme dans sa chambre et n'accepte que la compagnie de sa femme. Progressivement, sa santé se détériore  et des problèmes de respiration apparaissent et il est hospitalisé 🏥. De retour chez lui, à la tombée de la nuit, le *Sultan* est mourant.
-Le `30` `Mai` `1933`, vers deux heures du matin, le *Sultan Ibrahim Njoya* succombe.[^2][^1]
+Un jour, le ***Sultan Ibrahim Njoya*** apprend que les `envahisseurs Français` ont nommé son frère « Sultan par intérime » et que son ami `Shala Tangana` le surveille pour les `Français`.
+Il s'isole, s'enferme dans sa chambre et n'accepte que la compagnie de sa femme. Progressivement, sa santé se détériore  et des problèmes de respiration apparaissent. Il est hospitalisé 🏥.
+De retour chez lui, à la tombée de la nuit, le ***Sultan*** est mourant.
+Le `30` `Mai` `1933`, vers deux heures du matin, le ***Sultan Ibrahim Njoya*** succombe.[^2][^1]
 
-Dans un premier temps, les `Français` décident d'inhumer feu le *Sultan Ibharim Njoya* à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le *Sultan* près des siens, sur les terres du `royaume Bamoun`. Le `31` `Mai` `1933`, la dépouille du *Sultan Ibrahim Njoya* est ramenée à `Foumban`. Les `Atémengé` voient le *Sultan Ibrahim Njoya*, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolation remplient le cortège.
-Une fois à `Foumban`, les `Français` souhaitent inhumer le *Sultan Ibrahim Njoya* dans la forêt, mais les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du *Sultan Ibrahim NJOYA* repose auprès de ses ancêtres.[^2]
+Dans un premier temps, les `Français` décident d'inhumer feu le ***Sultan Ibharim Njoya*** à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le ***Sultan*** près des siens, sur les terres du `royaume Bamoun`. Le `31` `Mai` `1933`, la dépouille du ***Sultan Ibrahim Njoya*** est ramenée à `Foumban`. Les `Atémengé` voient le ***Sultan Ibrahim Njoya***, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolation remplissent le cortège.
+Une fois à `Foumban`, les `Français` souhaitent inhumer le ***Sultan Ibrahim Njoya*** dans la forêt, mais les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du ***Sultan Ibrahim NJOYA*** repose auprès de ses ancêtres.[^2]
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le `10` `Juin` `2018`]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
 [^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), `27` `févr.` `2017` [consulté le `14` `Juillet` `2018`]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
