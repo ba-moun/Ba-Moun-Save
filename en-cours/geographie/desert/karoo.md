@@ -2,7 +2,7 @@
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-10-13T18:24:05.203Z
+date: 2020-10-15T12:45:44.799Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
 dateCreated: 2020-09-11T17:21:30.789Z
@@ -17,9 +17,11 @@ Le mot `Kora` peut se traduire par désert, région sauvage, pays de la soif ou 
 >
 > <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/geography/grassland/prarie-pampa-veld-brousse_cc-by-sa.png"><figcaption>D’en haut à gauche à en bas à droite :<br/>prairie, pampa, <i>veld</i> et brousse</figcaption></figure>
 >
-> *Veld* est un néerlandisme. En `afrikaans`, ce mot signifie « champ ».
+> *Veld* est un néerlandisme. 
+En `afrikaans`, ce mot signifie « champ ».
 > 
-> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. En effet, tous ces mots désignent essentiellement de larges espaces plats situés en campagne et couverts d’herbes et d’arbustes.
+> À l’instar de ce qui est appelé `brousse` ou `pampa`, les `Européens` différencient les `prairies` des *veld*. 
+En effet, tous ces mots désignent essentiellement de larges espaces plats situés en campagne et couverts d’herbes et d’arbustes.
 > 
 > `Prairie` est dédiée à l’Europe, `pampa` à `Tarana`, `brousse` à l’Afrique et `veld` est spécifiquement dédié au sud du continent. Comme illustré ci-contre, outre leurs géolocalisations, il n’y a pas de différence flagrante entre ces quatre espaces.
 > 
