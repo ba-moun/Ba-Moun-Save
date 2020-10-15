@@ -2,7 +2,7 @@
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-10-15T12:45:44.799Z
+date: 2020-10-15T12:49:48.138Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
 dateCreated: 2020-09-11T17:21:30.789Z
@@ -45,7 +45,7 @@ Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 
 - une composition d’herbes et de petits arbustes,
 - un emplacement entre désert et zone humide (particularité des zones semi-désertiques),
-- une faible préciptation,
+- une faible précipitation,
 - une séparation nord-sud faite de montagnes.
 
 [^1]: [Kora: a thorough account of a lost Khoisan language](https://www.timeslive.co.za/sunday-times/books/non-fiction/2019-03-27-kora-a-thorough-account-of-a-lost-khoisan-language/). In [The paper for the people, Sunday Times](https://www.timeslive.co.za/sunday-times).  © 2020 Arena Holdings (Pty) Ltd. All rights reserved, `27` `Mars` `2019` `15`h`40`, [consulté le `11` `Septembre` `2020`] (`calendrier grégorien`). Disponible sur : https://www.timeslive.co.za/sunday-times/books/non-fiction/2019-03-27-kora-a-thorough-account-of-a-lost-khoisan-language/
