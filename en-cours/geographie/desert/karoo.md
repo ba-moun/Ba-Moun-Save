@@ -2,7 +2,7 @@
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-10-15T12:52:10.528Z
+date: 2020-10-15T12:55:14.639Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
 dateCreated: 2020-09-11T17:21:30.789Z
@@ -39,7 +39,7 @@ En effet, tous ces mots désignent essentiellement de larges espaces plats situ�
 </figure>
 
 La formation du ***!’Aukarob*** remonte à environ 200 millions à 300 millions d’années. À cette époque, le niveau de l'eau monte et submerge la zone constituée à l’origine d’une forêt tempérée.
-Par la suite, en -130 000 000, une éruption volcanique recouvre la région avec de la lave basaltique. L’érosion des couches supérieures de grès aboutit à la formation de collines en forme de cône et surplombées de roches dures.
+Par la suite, en  -130 000 000, une éruption volcanique recouvre la région avec de la lave basaltique. L’érosion des couches supérieures de grès aboutit à la formation de collines en forme de cône et surplombées de roches dures.
 ***!’Aukarob*** devient enfin un marécage avant d’être l’habitat semi-désertique actuel.
 Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 
