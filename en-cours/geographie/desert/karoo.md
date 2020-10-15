@@ -2,7 +2,7 @@
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
 published: true
-date: 2020-10-15T12:49:48.138Z
+date: 2020-10-15T12:52:10.528Z
 tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
 editor: markdown
 dateCreated: 2020-09-11T17:21:30.789Z
@@ -52,7 +52,7 @@ Ci-dessous quelques particularités de la zone[^1][^2][^4][^5][^6] :
 
 [^2]: [English – Kora index](https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf) [e-book]. [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Disponible sur : https://www.sahistory.org.za/sites/default/files/file%20uploads%20/12_du_plessis_chapter_06_b.pdf
 
-[^3]: [Veld](https://fr.wikipedia.org/wiki/Veld). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Octobre` `2017` [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Dispnible sur : https://fr.wikipedia.org/wiki/Veld
+[^3]: [Veld](https://fr.wikipedia.org/wiki/Veld). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Octobre` `2017` [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Veld
 
 [^4]: [Karoo](https://en.wikipedia.org/wiki/Karoo#cite_note-2). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `2` `Octobre` `2019` [consulté le `11` `Septembre` `2020` (`calendrier grégorien`)]. Dispnible sur : https://en.wikipedia.org/wiki/Karoo#cite_note-2
 
