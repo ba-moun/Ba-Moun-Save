@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-10-17T22:12:05.350Z
+date: 2020-10-17T22:15:21.721Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe, frise chronologique, éditeur markdown, markdown
 editor: markdown
 dateCreated: 2020-06-30T21:20:00.795Z
