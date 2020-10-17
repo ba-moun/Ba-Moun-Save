@@ -2,7 +2,7 @@
 title: Règles de rédaction
 description: Règles de rédaction dans l'encyclopédie Ba-Moun𓅝Save
 published: true
-date: 2020-10-13T17:58:20.201Z
+date: 2020-10-17T22:09:42.751Z
 tags: guide, guide d'édition, manuel, manuel d'édition, règles, règles de rédaction, manuel de rédaction, guide de rédaction, règles du scribe, manuel du scribe, frise chronologique, éditeur markdown, markdown
 editor: markdown
 dateCreated: 2020-06-30T21:20:00.795Z
@@ -16,6 +16,22 @@ Cette page contient les conseils de rédaction de l'encyclopédie <a href="/fr/h
 # Règles de bonne conduite
 
 Nous vous invitons à prendre connaissance des [règles de bonne conduite](/fr/regle-utilisation#règles-de-bonne-conduite). Celles-ci s'appliquent au contenu des pages et aux commentaires.
+
+# Type discours
+
+## Onglets{.tabset}
+
+### Texte descriptif
+
+#### Biographie
+
+#### Faits divers
+
+### Texte explicatif
+
+#### Page d'encyclopédie
+
+#### Article de dictionnaire
 
 # La concordence des temps
 
