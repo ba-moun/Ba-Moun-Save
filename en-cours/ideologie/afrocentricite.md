@@ -2,13 +2,14 @@
 title: Afrocentricité
 description: Présentation de l'afrocentricité
 published: true
-date: 2020-11-20T17:14:58.703Z
+date: 2020-11-20T17:17:03.552Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-13T17:26:28.510Z
 ---
 
 L'Afrocentricité est une réponse à un manque de direction idéologique de l'idéal panafricain[^1][^2].
+
 # Présentation de l'Afrocentricité et de l'association Afroncentricity International
 [video](https://www.youtube.com/watch?v=8ZJWVkNKDBg){.youtube}
 
