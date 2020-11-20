@@ -2,7 +2,7 @@
 title: Page de test (éditeur Markdown)
 description: Permet de tester l'éditeur Markdown
 published: true
-date: 2020-11-20T17:27:06.294Z
+date: 2020-11-20T17:28:21.971Z
 tags: page de test, test, éditeur markdown
 editor: markdown
 dateCreated: 2020-07-15T20:07:38.842Z
@@ -23,3 +23,5 @@ Cette page vous permet de tester l'éditeur Markdown. Vous pouvez y apporter les
 Glissez votre souris sur les mots suivants pour savoir ce qu'ils veulent dire :
 * HTML,
 * W3C.
+
+_Texte souligné, sans le point situé à la fin de la phrase_.
