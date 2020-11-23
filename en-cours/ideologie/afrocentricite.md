@@ -2,7 +2,7 @@
 title: Afrocentricité
 description: Présentation de l'afrocentricité
 published: true
-date: 2020-11-23T10:13:23.719Z
+date: 2020-11-23T10:17:22.902Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-13T17:26:28.510Z
@@ -12,7 +12,7 @@ L'Afrocentricité est une réponse à un manque de direction idéologique de l'i
 
 # Présentation de l'Afrocentricité et de l'association Afroncentricity International
 
-[![AFROCENTRICITY INTERNATIONAL (AMA MAZAMA ET MOLEFI ASANTE)](https://i.ytimg.com/an_webp/8ZJWVkNKDBg/mqdefault_6s.webp?du=3000&sqp=CKDa7f0F&rs=AOn4CLB6nJlzspPkP7c2ro7CZgn7yJGERw)](https://www.youtube.com/watch?v=8ZJWVkNKDBg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZJWVkNKDBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Sources -->
 [^1]:[Molefi Kete Asante](http://leremsesh.com/personnalite/molefi-kete-asante), Afrocentricité, livre broché, p6, traduction : [Ama Mazama](http://leremsesh.com/personnalite/ama-mazama), ISBN 978-0-9899548-2-2
