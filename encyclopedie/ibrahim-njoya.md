@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-10-14T18:09:50.322Z
+date: 2020-11-28T11:57:28.216Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -53,7 +53,7 @@ Avant `1895`, le `royaume Bamoun` dispose d’une écriture difficile à maitris
 
 Les `Allemands` sont les premiers envahisseurs européens que rencontre le *Roi Ibrahim Njoya*. Il les acceuille avec respect et les laisse découvrir le `royaume`.
 Les `Bamoun` surprennent les `Allemands` par leur avancée civilisationnelle. Les a priori des `Allemands` se dissipent et le royaume en vient à envisager d'effectuer des échanges avec les Allemands.
-Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `chrétienne` et démantèlent les structures politiques établies du `royaume Bamoun`.[^2][^1]
+Entre `1885` et  `1916`, les envahisseurs allemands introduisent la religion `chrétienne` et démantèlent les structures politiques du `royaume Bamoun`.[^2][^1]
 
 ## Invasion anglaise
 
