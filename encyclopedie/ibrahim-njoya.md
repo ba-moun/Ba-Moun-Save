@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-11-28T11:57:28.216Z
+date: 2020-11-28T15:02:49.877Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -74,7 +74,7 @@ Suite à la défaite des `Allemands` sur le `royaume Bamoun`, les `Anglais` devi
 </figure>
 
 Les `Français` prennent la succession des `Anglais` dans la colonisation du `royaume Bamoun`. Une opposition `Bamoun` prend place contre l'invasion des Français dans le royaume.
-Durant le règne du *Sultan Ibrahim Njoya*, le `royaume Bamoun` fait face à une `guerre civile` puis à la première `guerre tribale européenne`. Par conséquent, pour que son peuple ne subisse pas une nouvelle effusion de sang, le Sultan décide de faire la paix avec les `Français`.
+Pour que son peuple ne subisse pas une nouvelle effusion de sang, le *Sultan Ibrahim Njoya* décide de faire la paix avec les `Français`.
 Peu après cette trève, les `Français` et quelques `Bamoun` trahissent le traité de paix en complotant contre le *Sultan Ibrahim Njoya*.[^2]
 
 À l'aide d'accusations fausses[^2], les Français :
