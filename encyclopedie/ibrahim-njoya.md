@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: true
-date: 2020-11-28T15:02:49.877Z
+date: 2020-11-30T11:29:15.685Z
 tags: afrique, kamit, kémit, kemit, ibrahim, njoya, ibrahim njoya, roi, roi africain, bamoun, roi bamoun, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya, roi ibrahim njoya
 editor: markdown
 dateCreated: 2020-06-13T18:23:09.413Z
@@ -145,7 +145,7 @@ De retour chez lui, à la tombée de la nuit, le ***Sultan*** est mourant.
 Le `30` `Mai` `1933`, vers deux heures du matin, le ***Sultan Ibrahim Njoya*** succombe.[^2][^1]
 
 Dans un premier temps, les `Français` décident d'inhumer feu le ***Sultan Ibharim Njoya*** à `Yaoundé`. Néanmoins, suite à une négociation menée par les `Kémyout`, les `Français` acceptent d'enterrer le ***Sultan*** près des siens, sur les terres du `royaume Bamoun`. Le `31` `Mai` `1933`, la dépouille du ***Sultan Ibrahim Njoya*** est ramenée à `Foumban`. Les `Atémengé` voient le ***Sultan Ibrahim Njoya***, l'homme qui leur a donné de son temps, de son savoir et de son amour, pour la dernière fois. Pleurs et désolation remplissent le cortège.
-Une fois à `Foumban`, les `Français` souhaitent inhumer le ***Sultan Ibrahim Njoya*** dans la forêt, mais les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du ***Sultan Ibrahim NJOYA*** repose auprès de ses ancêtres.[^2]
+Une fois à `Foumban`, les `Français` souhaitent inhumer le ***Sultan Ibrahim Njoya*** dans la forêt, mais les frères du *Sultan* et le `peuple Bamoun` s’y opposent catégoriquement ! Grâce à eux, le corps du ***Sultan Ibrahim NJOYA*** repose auprès de celui de ses ancêtres.[^2]
 
 [^1]: [Ibrahim Njoya](https://fr.wikipedia.org/wiki/Ibrahim_Njoya). In [Wikipédia](https://fr.wikipedia.org/) [en ligne]. Fondation Wikimedia, 2003 [consulté le `10` `Juin` `2018`]. https://fr.wikipedia.org/wiki/Ibrahim_Njoya
 [^2]: [PanAfrican Dream Media](https://www.youtube.com/channel/UCu0a1M4ANVmdvF4Zj7c4HIA). [Ibrahim Njoya le roi des Bamoun](https://www.youtube.com/watch?v=bNeYOM_qFjg) [Vidéo en ligne]. [YouTube](https://www.youtube.com/), `27` `févr.` `2017` [consulté le `14` `Juillet` `2018`]. 1 vidéo, 27min 5s. https://www.youtube.com/watch?v=bNeYOM_qFjg
