@@ -2,7 +2,7 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-07T23:42:14.548Z
+date: 2020-12-07T23:47:26.774Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
@@ -28,7 +28,8 @@ Les ***Kamyout de la Caraïbe*** sont aussi appelés[^4] :
 * ***Afro-Caraibéen.ne.s***,
 * ***Africain.e.s de la Caraïbe***,
 * ***Afro-Antillais***,
-* ***Africains des Antilles***.
+* ***Africains des Antilles***,
+* ***Antillais***.
 
 > **Le saviez-vous ?**
 >
@@ -36,13 +37,13 @@ Les ***Kamyout de la Caraïbe*** sont aussi appelés[^4] :
 > Ce terme `Fon` signifie « le désastre Blanc ». `Yovodah` sous-entend que c'est le moment où les `leucodermes` ont commencé à mettre du désordre dans le monde entier.
 {.is-info}
 
-# Une culture riche
+# Une culture riche[^4]
 
 La déportation a forcé la rencontre de peuples `Kamyout`, dont certains sont géographiquement éloignés à l'origine. Le brassage forcé de leurs cultures respectives a initié le développement d'une culture `Kamit` commune.
 
-De plus, à cette époque, les `Kamyout` déportés et leurs descendants sont asservis par les `envahisseurs Européens`. Au fil du temps, cet condition servile influence la culture de ces `Kamyout` déportés.[^4]
+De plus, à cette époque, les `Kamyout` déportés et leurs descendants sont asservis par les `envahisseurs Européens`. Au fil du temps, cet condition servile influence la culture de ces `Kamyout` déportés.
 
-> **Le saviez-vous ?**[^4]
+> **Le saviez-vous ?**
 >
 >  À l'époque, les principaux envahisseurs de la `Caraïbe` sont :
 > * les `Espagnoles`,
@@ -54,12 +55,22 @@ De plus, à cette époque, les `Kamyout` déportés et leurs descendants sont as
 {.is-info}
 
 Certains `Kamyout` déportés et asservis fuient, résistent, se révoltent ou se soulèvent face à l'opression européenne.
-Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autochtones `Arawaks`. Cette rencontre influence elle aussi la culture d'origine de ces `Kamyout`.[^4]
+Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autochtones `Arawaks`. Cette rencontre influence elle aussi la culture d'origine de ces `Kamyout`.
 
 > **Le saviez-vous ?**
 >
 > Les `Kamyout` qui ont fui la servitude sont appelés des `Maron` (`Maroon` en anglais).
 > `Maron` ou `Maroon` vient du mot `Marun`. C'est le nom d'un peuple `Kamit` en langue `Fon`.
 {.is-info}
+
+# Personnalités[^4]
+
+Ci-dessous une liste non-exhaustive de personnalités appartenant à la commmunauté des ***Kamyout de la Caraïbe*** :
+* `Aimé Césaire`,
+* `Frantz Fanon`,
+* `Usain Bolt`,
+* `Bob Marley`,
+* `Rihanna`,
+* `Wyclef Jean`.
 
 [^4]: [Afro-Caribéens](https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003, màj le `30` `octobre` `2020` [consulté le `07` `Décembre` `2020`]. https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens
