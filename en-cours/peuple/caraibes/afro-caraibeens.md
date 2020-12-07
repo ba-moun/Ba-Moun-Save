@@ -2,15 +2,17 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-07T22:20:37.105Z
+date: 2020-12-07T22:36:05.661Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
 ---
 
-Les ***Kamyout de la Caraïbe*** ou ***Afro-Caraibéen.ne.s*** forment un groupe d'afro-descendants déportés par les `envahisseurs européens` pendant le `Yovodah`.
+Les ***Kamyout de la Caraïbe*** ou ***Afro-Caraibéen.ne.s*** est une communauté d'afro-descendants. Ce sont les descendants des `Kamyout` déportés par les `envahisseurs Européens` lors du `Yovodah`.
 
-# Mutation de la culture Kamit
+# Une culture riche
+
+Lors du `Yovodah`, la déportation a forcé la rencontre de populations `Kamyout`. À l'origine, certains de ces peuples étaient géographiquement éloignés.
 
 Lors de la déportation, certains ***Kamyout de la Caraïbe*** ont fuit l'esclavage imposé par leurs `opresseurs européens`.
 Parfois, ces fuites appelées `maronnage`, ont engendrées des échanges culturels avec les autochtones `Arawaks`.
