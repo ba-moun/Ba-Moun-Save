@@ -2,13 +2,14 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-07T22:48:15.810Z
+date: 2020-12-07T22:53:32.273Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
 ---
 
-Les ***Kamyout de la Caraïbe*** ou ***Afro-Caraibéen.ne.s*** est une communauté d'afro-descendants. Ce sont les descendants des `Kamyout` déportés par les `envahisseurs Européens` lors du `Yovodah`.
+Les ***Kamyout de la Caraïbe*** forment une communauté d'afro-descendants. Ce sont les descendants des `Kamyout` déportés par les `envahisseurs Européens` lors du `Yovodah`.
+Les ***Kamyout de la Caraïbe*** sont aussi appelés  ***Afro-Caraibéen.ne.s*** ou ***Africain.e.s de la Caraïbe***.[^4]
 
 # Une culture riche
 
@@ -23,3 +24,5 @@ Ces rencontres ont elles aussi influencées la culture de ces `Afro-descendants`
 > Les `Kamyout` qui ont fui la servitude sont appelés des `Maron` (`Maroon` en anglais).
 > `Maron` ou `Maroon` vient du mot `Marun`. C'est le nom d'un peuple `Kamit` en langue `Fon`.
 {.is-info}
+
+[^4]: [Afro-Caribéens](https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003, màj le `30` `octobre` `2020` [consulté le `07` `Décembre` `2020`]. https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens
