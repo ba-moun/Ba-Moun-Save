@@ -2,7 +2,7 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-07T23:15:52.426Z
+date: 2020-12-07T23:42:14.548Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
@@ -22,8 +22,7 @@ dateCreated: 2020-12-07T22:17:18.363Z
 
 
 Les ***Kamyout de la Caraïbe*** forment une communauté d'afro-descendants.
-Du XVI^ème^ au XIX^ème^ siècle, les `envahisseurs européens` déportent des millions de `Kémyout` dans la `Caraïbe`. Cette déportation vise à placer les `Kémyout` dans des camps de travail forcé ou des plantations esclavagistes.
-Ce sont les descendants des `Kamyout` déportés par les `envahisseurs Européens` lors du `Yovodah`.
+Du XVI^ème^ au XIX^ème^ siècle, les `envahisseurs européens` déportent des millions de `Kémyout` dans la `Caraïbe`. Ces derniers ont été déportés dans des camps de travail forcé et des plantations esclavagistes.
 
 Les ***Kamyout de la Caraïbe*** sont aussi appelés[^4] :
 * ***Afro-Caraibéen.ne.s***,
@@ -39,11 +38,23 @@ Les ***Kamyout de la Caraïbe*** sont aussi appelés[^4] :
 
 # Une culture riche
 
-Lors du `Yovodah`, la déportation a forcé la rencontre de populations `Kamyout`. À l'origine, certains de ces peuples étaient géographiquement éloignés.
-L'objectif de cette `déportation européenne` a été d'asservir le peuple `Kamit` principalement pour des raisons économiques. Au fil du temps, cet `asservissement européen` a influencé la culture des `Kamyout` déportés.
+La déportation a forcé la rencontre de peuples `Kamyout`, dont certains sont géographiquement éloignés à l'origine. Le brassage forcé de leurs cultures respectives a initié le développement d'une culture `Kamit` commune.
 
-Certains `Kamyout` déportés ont la mise en esclavage imposé par leurs `opresseurs européens`. Lors de leurs fuites, certains `Kamyout` ont eu la chance de rencontrer des autochtones `Arawaks`.
-Ces rencontres ont elles aussi influencées la culture de ces `Afro-descendants`.
+De plus, à cette époque, les `Kamyout` déportés et leurs descendants sont asservis par les `envahisseurs Européens`. Au fil du temps, cet condition servile influence la culture de ces `Kamyout` déportés.[^4]
+
+> **Le saviez-vous ?**[^4]
+>
+>  À l'époque, les principaux envahisseurs de la `Caraïbe` sont :
+> * les `Espagnoles`,
+> * les `Français`,
+> * les `Anglais`
+> * les `Hollandais`.
+>
+> Ils imposent l'esclavage partout où ils passent et s'accaparent les terres des peuples déjà présents. Ils y créent de plantations esclavagistes et de camps de travail forcé.
+{.is-info}
+
+Certains `Kamyout` déportés et asservis fuient, résistent, se révoltent ou se soulèvent face à l'opression européenne.
+Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autochtones `Arawaks`. Cette rencontre influence elle aussi la culture d'origine de ces `Kamyout`.[^4]
 
 > **Le saviez-vous ?**
 >
