@@ -2,7 +2,7 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-07T23:47:26.774Z
+date: 2020-12-08T00:10:25.175Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
@@ -37,7 +37,7 @@ Les ***Kamyout de la Caraïbe*** sont aussi appelés[^4] :
 > Ce terme `Fon` signifie « le désastre Blanc ». `Yovodah` sous-entend que c'est le moment où les `leucodermes` ont commencé à mettre du désordre dans le monde entier.
 {.is-info}
 
-# Une culture riche[^4]
+# Richesse culturelle[^4]
 
 La déportation a forcé la rencontre de peuples `Kamyout`, dont certains sont géographiquement éloignés à l'origine. Le brassage forcé de leurs cultures respectives a initié le développement d'une culture `Kamit` commune.
 
@@ -46,10 +46,10 @@ De plus, à cette époque, les `Kamyout` déportés et leurs descendants sont as
 > **Le saviez-vous ?**
 >
 >  À l'époque, les principaux envahisseurs de la `Caraïbe` sont :
-> * les `Espagnoles`,
-> * les `Français`,
-> * les `Anglais`
-> * les `Hollandais`.
+> * les `Espagnoles 🇪🇸`,
+> * les `Français 🇫🇷`,
+> * les `Anglais 🇬🇧`,
+> * les `Néerlandais 🇳🇱`.
 >
 > Ils imposent l'esclavage partout où ils passent et s'accaparent les terres des peuples déjà présents. Ils y créent de plantations esclavagistes et de camps de travail forcé.
 {.is-info}
@@ -62,6 +62,15 @@ Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autocht
 > Les `Kamyout` qui ont fui la servitude sont appelés des `Maron` (`Maroon` en anglais).
 > `Maron` ou `Maroon` vient du mot `Marun`. C'est le nom d'un peuple `Kamit` en langue `Fon`.
 {.is-info}
+
+Cette mixité culturelle fait des ***Kamyout de la Caraïbe*** un peuple :
+* avec des rites d'origines éparses,
+* dont la culture ancestrale s'étend de `Tarana` à `Katyopa`,
+* dont les croyances et les connaissances viennent de divers horizons.
+
+Toutefois, le `Yovodah` a engendré un déracinement des ***Kamyout de la caraïbe***. Pour preuve, ci-dessous quelques courants de pensée modernes.
+* La `créolité` revendique une culturelle créée dans les cales des bateaux esclavagistes.
+* La `négritude` revendique l'appartenance à la commaunauté `Kamit` (le peuple Noir).
 
 # Personnalités[^4]
 
