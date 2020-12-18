@@ -2,7 +2,7 @@
 title: Culte Ancestrale
 description: Présentation des fondements des cultes ancestraux
 published: true
-date: 2020-12-17T23:21:33.322Z
+date: 2020-12-18T07:28:54.353Z
 tags: culte, culture, culte ancestral, ancêtre
 editor: markdown
 dateCreated: 2020-12-17T23:02:17.727Z
@@ -19,5 +19,6 @@ Toute cheminement individuel dans une spiritualité ancestrale requiert de conna
 
 > Quand tu comprends quels sont tes ancêtres tu peux mieux percevoir ton histoire.
 > Quand tu perçois peux ton histoire, tu peux peux comprendre qui tu es.
+> Quand tu
 >
 > *Manbo Rosmy*
