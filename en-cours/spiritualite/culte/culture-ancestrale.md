@@ -2,7 +2,7 @@
 title: Culte Ancestrale
 description: Présentation des fondements des cultes ancestraux
 published: true
-date: 2020-12-22T16:18:44.281Z
+date: 2020-12-22T16:27:01.745Z
 tags: culte, culture, culte ancestral, ancêtre
 editor: markdown
 dateCreated: 2020-12-17T23:02:17.727Z
@@ -21,4 +21,4 @@ Toute cheminement individuel dans une spiritualité ancestrale requiert de conna
 >
 > <p style="text-align: right;"><i>Manbo Rosmy</i></p>
 
-[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019. Informations supplémentaires. Titre de la collection.
+[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
