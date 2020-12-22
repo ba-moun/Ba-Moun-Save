@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T16:36:56.550Z
+date: 2020-12-22T16:46:55.606Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -17,12 +17,16 @@ La communauté Arawak est constituée de plusieurs peuples autochtones de la Car
 Des alliances et des conflits ont pu exister entre certaines de ces communautés. D'ailleurs, il est reconnu que la migration de certains peuples Arawaks vient de conflits intracommunautaires.
 Les peuples suivants sont reconnus pour faire partie des Arawaks[^1] :
 
-* les Taïnos : majoritairement dans les grandes îles de la Caraïbe (ex. : Cuba, Haïti),
+* les Taïnos : peuple pacifique majoritairement présent dans les grandes îles de la Caraïbe (ex. : actuels `Cuba 🇨🇺`, `République dominicaine 🇩🇴` et `Haïti 🇭🇹`),
 * les Kalinago : majoritairement présents à `Karukera`,
 * les Kalina,
 * les Kariba,
 * les Maya.
 
-Les Arawaks ont pratiqué un culte similaire à celui du `Vodou Haïtien`.[^1]
+Les Arawaks ont pratiqué un culte similaire à celui du `Vodou Haïtien`. Par exemple[^1] :
+* il y a des similarités entre certaines entités `Arawaks` et certaines entités `Vodou` ;
+* tout comme les `Vodouyizan` les `Arawaks` pratiquent le culte du soleil de la forêt ;
+* lors d'un rite `Arawak`, il y a des prières, des danses et des offrandes.
+
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
