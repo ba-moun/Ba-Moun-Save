@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T17:50:48.812Z
+date: 2020-12-22T17:52:38.422Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -38,7 +38,7 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 ***Taïnos*** signifie « ***les hommes bons*** ». Ce peuple ***Arawak*** est majoritairement présent sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `la République dominicaine 🇩🇴` et `Haïti 🇭🇹`.
 Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
 
-Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé 
+Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé cinq régions.
 
 > **Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
