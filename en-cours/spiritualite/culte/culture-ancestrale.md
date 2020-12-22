@@ -2,7 +2,7 @@
 title: Culte Ancestrale
 description: Présentation des fondements des cultes ancestraux
 published: true
-date: 2020-12-22T15:58:16.848Z
+date: 2020-12-22T15:59:15.502Z
 tags: culte, culture, culte ancestral, ancêtre
 editor: markdown
 dateCreated: 2020-12-17T23:02:17.727Z
@@ -16,4 +16,4 @@ Toute cheminement individuel dans une spiritualité ancestrale requiert de conna
 > Quand tu perçois mieux ton histoire, tu peux mieux comprendre qui tu es.
 > Quand tu comprends mieux ton histoire, tu peux mieux comprendre ta spiritualité ancestrale, d'où elle découle et où elle va.
 >
-> <p style="text-align: right;"><i>Manbo Rosmy</i></p>
+> <p style="text-align: right;"><i>Manbo Rosmy</i>, Chimen Ginen</p>
