@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T16:33:38.956Z
+date: 2020-12-22T16:36:56.550Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -22,5 +22,7 @@ Les peuples suivants sont reconnus pour faire partie des Arawaks[^1] :
 * les Kalina,
 * les Kariba,
 * les Maya.
+
+Les Arawaks ont pratiqué un culte similaire à celui du `Vodou Haïtien`.[^1]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
