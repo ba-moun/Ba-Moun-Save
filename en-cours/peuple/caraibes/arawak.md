@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T17:44:37.397Z
+date: 2020-12-22T17:50:48.812Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -23,7 +23,7 @@ Les ***Arawaks*** ont pratiqué un culte similaire à celui du `Vodou Haïtien`.
 * tout comme les `Vodouyizan` les ***Arawaks*** pratiquent le culte du soleil de la forêt ;
 * lors d'un rite ***Arawak***, il y a des prières, des danses et des offrandes.
 
-# Les peuples ***Arawaks***
+# Les divers peuples ***Arawaks***
 
 Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 
