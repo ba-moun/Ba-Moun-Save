@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T17:14:35.529Z
+date: 2020-12-22T17:43:13.227Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -38,13 +38,16 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 Les ***Taïnos*** sont des ***Arawaks*** majoritairement présents sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `la République dominicaine 🇩🇴` et `Haïti 🇭🇹`.
 Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
 
-Ce peuple s'est organisé en région. Dans le cas de l'île `Haïti`
+Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé 
 
-> **Le saviez-vous ?**[^10]
+> **Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
+> C'est en hommage au peuple ***Taïnos*** que les Haïtiens ont appelé l'île `Haïti 🇭🇹`.
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
+
+[^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
 
 [^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
