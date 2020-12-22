@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T16:54:00.561Z
+date: 2020-12-22T17:11:09.190Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -33,9 +33,18 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 * les ***Kariba***,
 * les ***Maya***.
 
-## Les Taïnos
+## Les ***Taïnos***[^1]
 
-Les ***Taïnos*** sont des ***Arawaks*** majoritairement présents sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `République dominicaine 🇩🇴`  `Haïti 🇭🇹`. Les ***Taïnos*** forment un peuple pacifique.
+Les ***Taïnos*** sont des ***Arawaks*** majoritairement présents sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `la République dominicaine 🇩🇴` et `Haïti 🇭🇹`.
+Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
 
+Ce peuple s'est organisé en région. Dans le cas de l'île `Haïti`
+
+> **Le saviez-vous ?**[^10]
+> Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île ***Tohio*** ou Quisqueya
+> Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
+>{.is-info}
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
+
+[^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
