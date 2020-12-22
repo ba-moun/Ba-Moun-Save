@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-22T16:19:16.295Z
+date: 2020-12-22T16:21:22.324Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -14,10 +14,13 @@ dateCreated: 2020-12-22T16:06:01.108Z
 {.is-info}
 
 Les Arawaks sont les autochtones de la Caraïbe. Les peuples suivants sont reconnus pour faire partie des Arawaks[^1] :
+
 * les Kalina,
 * les Kalinago,
 * les Taïnos,
 * les Kariba,
 * les Maya.
+
+Il est reconnu que chaque communauté Arawak possède ses propres pratiques spirituelles.
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019. Informations supplémentaires. Titre de la collection.
