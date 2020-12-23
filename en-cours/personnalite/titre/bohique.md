@@ -2,7 +2,7 @@
 title: Bohique / Bohiti
 description: Présentation des bohiques (alias bohitis)
 published: true
-date: 2020-12-23T16:37:44.848Z
+date: 2020-12-23T16:38:56.728Z
 tags: arawak, peuple arawak, peuple taïnos, taïnos, organisation sociale taïnos, bohique, bohiti, chaman, prêtre, organisation sociale arawak
 editor: markdown
 dateCreated: 2020-12-23T16:35:13.416Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-23T16:35:13.416Z
 ***Bohique*** (ou ***Bohiti***) est le nom des `chamans` (alias `prêtres`) `Taïnos`. Ces `chamans`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit.
 Les ***bohiques*** représentent les croyances religieuses et sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`.
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence.
-Pour se purger les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^1][^3]
+Pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^1][^3]
 
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
