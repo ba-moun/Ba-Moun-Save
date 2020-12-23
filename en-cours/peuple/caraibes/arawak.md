@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T15:44:02.206Z
+date: 2020-12-23T16:07:15.582Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -42,7 +42,7 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 ### Organisation sociale
 
 Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
-Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Kasika`). La société ***Taïnos*** est ainsi constituée de[^1] :
+Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Kasika`). La société ***Taïnos*** est ainsi constituée de[^1][^3] :
 
 * `Naborias` : villageois qui travaillent la terre,
 * `Bohiques` (alias `Bohiti`) : chamans / prêtres,
@@ -63,5 +63,7 @@ Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
 [^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
+
+[^3]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
 
 [^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
