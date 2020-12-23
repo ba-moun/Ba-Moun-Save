@@ -2,15 +2,23 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T15:25:16.206Z
+date: 2020-12-23T15:31:44.573Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
 ---
 
-***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Kasika`).
+***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Kasika`). La société ***Taïnos*** est ainsi constituée de[^1] :
+
+* `Naborias` : villageois qui travaillent la terre,
+* `Bohiques` : chamans / prêtres,
+* `Nitaínos` : nobles,
+* `Cacique` alias `Yucayeque` ou `Guare`,
+* un chef suprême auquel les `Caciques` doivent verser un tribut.
+
 Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** sur leurs propres terres. C’est le début du déclin de la civilisation ***Taïnos***. Les conditions des travaux forcés, leurs assassinats et leurs suicides ont généré moult perte au sein du peuple ***Taïnos***. Les travaux forcés sont liés à la mise sous servitude des ***Taïnos*** par les `envahisseurs européens`. Les assassinats viennent des `envahisseurs européens` qui ont dû faire face à l’inacceptation des ***Taïnos***. Les suicides viennent du refus de vivre sous servitude pour un ***Taïnos***.
 Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacement des pays actuellement nommées[^1] :
+
 * `Cuba 🇨🇺`,
 * `Porto Rico`,
 * `Haïti 🇭🇹`,
