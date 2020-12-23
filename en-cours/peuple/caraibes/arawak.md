@@ -2,8 +2,8 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T16:07:15.582Z
-tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos
+date: 2020-12-23T16:21:47.368Z
+tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
 ---
