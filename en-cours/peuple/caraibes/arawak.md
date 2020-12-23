@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T15:03:48.014Z
+date: 2020-12-23T15:06:25.276Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -42,7 +42,8 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 ### Organisation sociale
 
 Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
-Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé cinq régions régies par un `Kasika` (ou `Kasik`).[^1]
+Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé cinq régions régies par un `Kasika` (ou `Kasik`).
+Parmi les [^1]
 
 > **Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
