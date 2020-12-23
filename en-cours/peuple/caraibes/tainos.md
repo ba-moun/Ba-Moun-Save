@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T16:38:49.317Z
+date: 2020-12-23T16:45:13.224Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -30,12 +30,14 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Les ***bohiques*** représentent les croyances religieuses et sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`.
+Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Les ***bohiques*** représentent les croyances religieuses. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`.
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^1][^3]
 
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
 [^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
+
+[^3]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
 
 [^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
