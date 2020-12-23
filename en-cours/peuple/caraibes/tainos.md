@@ -2,15 +2,19 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T14:56:23.936Z
+date: 2020-12-23T15:18:54.225Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
 ---
 
-***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit d’un peuple pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement).
-Les ***Taïnos*** se sont organisés en région. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Kasika` (ou `Kasik`).
-C’est le nom d’un peuple `Arawak` qui a été majoritairement présent dans les grandes îles de la Caraïbe. Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacement des pays actuellement nommées `Cuba 🇨🇺`, `Porto Rico` et `Haïti 🇭🇹`. [^1]
+***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Kasika` (ou `Kasik`).
+Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** sur leurs propres terres. C’est le début du déclin de la civilisation ***Taïnos***. Les conditions des travaux forcés, leurs assassinats et leurs suicides ont généré moult perte au sein du peuple ***Taïnos***. Les travaux forcés sont liés à la mise sous servitude des ***Taïnos*** par les `envahisseurs européens`. Les assassinats viennent des `envahisseurs européens` qui ont dû faire face à l’inacceptation des ***Taïnos***. Les suicides viennent du refus de vivre sous servitude pour un ***Taïnos***.
+Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacement des pays actuellement nommées[^1] :
+* `Cuba 🇨🇺`,
+* `Porto Rico`,
+* `Haïti 🇭🇹`,
+* `République dominicaine 🇩🇴`.
 
 > ^*^**Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
