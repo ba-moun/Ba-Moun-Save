@@ -2,20 +2,22 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T14:29:21.406Z
+date: 2020-12-23T14:56:23.936Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
 ---
 
-***Taïnos*** signifie « ***les hommes bons*** ». C’est le nom d’un peuple `Arawak` qui a été majoritairement présent dans les grandes îles de la Caraïbe. Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, sur les îles actuellement nommées `Cuba 🇨🇺` et `Haïti 🇭🇹`. Ce peuple pacifique ne travaille que pour subvenir à ses besoins (ex. : nourriture et logement).
-Les ***Taïnos*** se sont organisés en région. Par exemple, sur l'île de `Haïti` chacune des cinq régions régie par un `Kasika` (ou `Kasik`).[^1]
+***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit d’un peuple pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement).
+Les ***Taïnos*** se sont organisés en région. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Kasika` (ou `Kasik`).
+C’est le nom d’un peuple `Arawak` qui a été majoritairement présent dans les grandes îles de la Caraïbe. Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacement des pays actuellement nommées `Cuba 🇨🇺`, `Porto Rico` et `Haïti 🇭🇹`. [^1]
 
-> **Le saviez-vous ?**[^10][^2]
+> ^*^**Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
 > C'est en hommage au peuple ***Taïnos*** que les Haïtiens ont appelé l'île `Haïti 🇭🇹`.
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
+
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
