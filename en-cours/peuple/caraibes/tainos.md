@@ -2,8 +2,8 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T16:45:13.224Z
-tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes
+date: 2020-12-23T20:21:46.199Z
+tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
 ---
