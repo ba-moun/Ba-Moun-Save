@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T15:06:25.276Z
+date: 2020-12-23T15:12:53.044Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -53,7 +53,7 @@ Parmi les [^1]
 
 ### Génocide
 
-Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** sur leurs propres terres. C’est le début du déclin de la cividisation ***Taïnos***. Les travaux forcés, leurs assassinats et leurs suicides ont généré nombre de pertes au sein du peuple ***Taïnos***. Les travaux forcés sont liés à la mise sous servitude des ***Taïnos*** par les `envahisseurs européens`. Les assassinats viennent des `envahisseurs européens` qui ont voulu stoper les rébellions taïnos. Les suicides viennent du refus de vivre sous servitude pour un ***Taïnos***.[^1]
+Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** sur leurs propres terres. C’est le début du déclin de la cividisation ***Taïnos***. Les travaux forcés, leurs assassinats et leurs suicides ont généré nombre de pertes au sein du peuple ***Taïnos***. Les travaux forcés sont liés à la mise sous servitude des ***Taïnos*** par les `envahisseurs européens`. Les assassinats viennent des `envahisseurs européens` qui ont dû faire face à l’inacceptation des ***Taïnos***. Les suicides viennent du refus de vivre sous servitude pour un ***Taïnos***.[^1]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
