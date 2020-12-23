@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T14:15:44.477Z
+date: 2020-12-23T15:03:48.014Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -35,16 +35,24 @@ Les peuples suivants sont reconnus pour faire partie des ***Arawaks***[^1] :
 
 ## Les ***Taïnos***
 
-***Taïnos*** signifie « ***les hommes bons*** ». Ce peuple ***Arawak*** est majoritairement présent sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `la République dominicaine 🇩🇴` et `Haïti 🇭🇹`.
-Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).[^1]
+### Démographie
 
-Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé cinq régions régies par un `Kasika`.[^1]
+***Taïnos*** signifie « ***les hommes bons*** ». Ce peuple ***Arawak*** est majoritairement présent sur les grandes îles de la Caraïbe. Actuellement, certaines de ces îles sont `Cuba 🇨🇺`, `Porto Rico`, `la République dominicaine 🇩🇴` et `Haïti 🇭🇹`.[^1]
+
+### Organisation sociale
+
+Les ***Taïnos*** forment un peuple pacifique. Ils travaillent uniquement pour subvenir à leurs besoins (ex. : nourriture et logement).
+Ce peuple s'est organisé en région. Par exemple, sur l'île `Haïti`, les ***Taïnos*** ont créé cinq régions régies par un `Kasika` (ou `Kasik`).[^1]
 
 > **Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
 > C'est en hommage au peuple ***Taïnos*** que les Haïtiens ont appelé l'île `Haïti 🇭🇹`.
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
+
+### Génocide
+
+Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** sur leurs propres terres. C’est le début du déclin de la cividisation ***Taïnos***. Les travaux forcés, leurs assassinats et leurs suicides ont généré nombre de pertes au sein du peuple ***Taïnos***. Les travaux forcés sont liés à la mise sous servitude des ***Taïnos*** par les `envahisseurs européens`. Les assassinats viennent des `envahisseurs européens` qui ont voulu stoper les rébellions taïnos. Les suicides viennent du refus de vivre sous servitude pour un ***Taïnos***.[^1]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
