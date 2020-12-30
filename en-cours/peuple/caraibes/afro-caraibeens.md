@@ -2,7 +2,7 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-08T00:10:25.175Z
+date: 2020-12-30T22:15:42.201Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
@@ -63,6 +63,11 @@ Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autocht
 > `Maron` ou `Maroon` vient du mot `Marun`. C'est le nom d'un peuple `Kamit` en langue `Fon`.
 {.is-info}
 
+Cette rencontre avec les `Arawaks` a participé à l'enrichissement du savoir-faire des ***Kamyout de la Caraïbe***. Par exemple, les `Arawaks` ont partagé avec les ***Kamyout de la Caraïbe*** leurs techniques de[^1] :
+* vannerie en osier ou en bananier,
+* la poterie (cruche, govi, jarres, etc.),
+* travail de l'or,
+
 Cette mixité culturelle fait des ***Kamyout de la Caraïbe*** un peuple :
 * avec des rites d'origines éparses,
 * dont la culture ancestrale s'étend de `Tarana` à `Katyopa`,
@@ -81,5 +86,7 @@ Ci-dessous une liste non-exhaustive de personnalités appartenant à la commmuna
 * `Bob Marley`,
 * `Rihanna`,
 * `Wyclef Jean`.
+
+[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
 [^4]: [Afro-Caribéens](https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens). In [Wikipedia, l'encyclopédie libre](http://fr.wikipedia.org) [en ligne]. Fondation Wikimedia, 2003, màj le `30` `octobre` `2020` [consulté le `07` `Décembre` `2020`]. https://fr.wikipedia.org/wiki/Afro-Carib%C3%A9ens
