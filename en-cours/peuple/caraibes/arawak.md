@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-30T22:33:22.674Z
+date: 2020-12-30T22:39:11.512Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -56,25 +56,21 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-### Coutumes[^1]
+### Coutume et savoir-faire[^1]
 
 Les `Taïnos` sont connus pour :
 
 * leur utilisation du tabac pour contacter les défunts,
 * leurs tatouages de symboles religieux pour éloigner les mauvais esprits,
 * l'ornement de leurs lèvres et de leurs oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
+* leurs vanneries en osier ou en bananier,
+* leurs poteries (cruche, govi, jarres, etc.),
+* leur travail du bois et de l'or.
 
 > **Le saviez-vous ?**
 >
 > Le `vaudou haïtien` a hérité de certaines coutumes ***Taïnos***. Il peut être cité l'utilisation du tabac et la représentation des `entités mystiques` (ex. vèvè).
 {.is-info}
-
-### Savoir-faire
-
-Ci-dessous quelques savoir-faires ***Taïnos***[^1] :
-* la vannerie en osier ou en bananier,
-* la poterie (cruche, govi, jarres, etc.),
-* le travail du bois et de l'or.
 
 ### Génocide
 
