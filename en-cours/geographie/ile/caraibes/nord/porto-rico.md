@@ -1,8 +1,8 @@
 ---
-title: Port Rico 🇵🇷
-description: Présentation de l'île de Porto Rico 🇵🇷
+title: Port Rico 🇵🇷
+description: Présentation de l'île de Porto Rico 🇵🇷
 published: true
-date: 2020-12-30T22:29:55.947Z
+date: 2020-12-30T22:37:07.663Z
 tags: géographie, île de la caraïbe, île, ressources minières, mines d'or, or, mines d'or caraïbéennes, or des caraïbes, or caraïbéen, mines d'or des caraïbes, porto rico 🇵🇷, or de porto rico 🇵🇷, mines d'or de porto rico 🇵🇷, invasion européenne, invasion espagnole, envahisseurs espagnoles, île de porto rico 🇵🇷
 editor: markdown
 dateCreated: 2020-12-30T22:29:55.947Z
