@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-30T21:46:08.489Z
+date: 2020-12-30T22:33:22.674Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -68,6 +68,13 @@ Les `Taïnos` sont connus pour :
 >
 > Le `vaudou haïtien` a hérité de certaines coutumes ***Taïnos***. Il peut être cité l'utilisation du tabac et la représentation des `entités mystiques` (ex. vèvè).
 {.is-info}
+
+### Savoir-faire
+
+Ci-dessous quelques savoir-faires ***Taïnos***[^1] :
+* la vannerie en osier ou en bananier,
+* la poterie (cruche, govi, jarres, etc.),
+* le travail du bois et de l'or.
 
 ### Génocide
 
