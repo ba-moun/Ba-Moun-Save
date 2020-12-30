@@ -2,7 +2,7 @@
 title: Kamyout de la Caraïbe
 description: Présentation des Kamyout de la Caraibe
 published: true
-date: 2020-12-30T22:15:42.201Z
+date: 2020-12-30T22:32:41.080Z
 tags: africain, peuple, peuple africain, africaine, afro-caraibéen, afro-caraibéenne, africains de la caraïbe, caraïbe, africaines de la caraïbe, kamyout de la caraïbe, africains, africaines, peuple africain de la caraïbe, mixité culturelle, kamit de la caraïbe
 editor: markdown
 dateCreated: 2020-12-07T22:17:18.363Z
@@ -65,8 +65,7 @@ Quand il/elles arrivent à fuire, il peut leur arriver de rencontrer des autocht
 
 Cette rencontre avec les `Arawaks` a participé à l'enrichissement du savoir-faire des ***Kamyout de la Caraïbe***. Par exemple, les `Arawaks` ont partagé avec les ***Kamyout de la Caraïbe*** leurs techniques de[^1] :
 * vannerie en osier ou en bananier,
-* la poterie (cruche, govi, jarres, etc.),
-* travail de l'or,
+* poterie (cruche, govi, jarres, etc.).
 
 Cette mixité culturelle fait des ***Kamyout de la Caraïbe*** un peuple :
 * avec des rites d'origines éparses,
