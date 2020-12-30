@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-30T22:32:59.030Z
+date: 2020-12-30T22:48:02.858Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -30,20 +30,25 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
+# Civilisation[^1]
+
 Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`.
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^3]
-Les `Taïnos` sont connus pour avoir effectué les pratiques suivantes[^1] :
+
+# Coutumes et savoir-faire[^1]
+
+Les `Taïnos` sont connus pour les coutumes suivantes :
 
 * utilisation du tabac pour contacter les défunts,
 * tatouages de symboles religieux pour éloigner les mauvais esprits,
 * ornement des lèvres et des oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
 
-> **Le saviez-vous ?**[^1]
+> **Le saviez-vous ?**
 >
 > Le `Vaudou haïtien` a hérité de certaines coutumes ***Taïnos***. Il peut être cité l'utilisation du tabac et la représentation des `entités mystiques` (ex. vèvè).
 {.is-info}
 
-Ci-dessous quelques savoir-faires ***Taïnos***[^1] :
+Ci-dessous quelques savoir-faires ***Taïnos*** :
 * la vannerie en osier ou en bananier,
 * la poterie (cruche, govi, jarres, etc.),
 * le travail du bois et de l'or.
