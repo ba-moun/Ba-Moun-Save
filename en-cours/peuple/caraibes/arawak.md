@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-23T16:21:47.368Z
+date: 2020-12-30T21:41:03.749Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -55,6 +55,14 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 > C'est en hommage au peuple ***Taïnos*** que les Haïtiens ont appelé l'île `Haïti 🇭🇹`.
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
+
+### Coutumes
+
+Les `Taïnos` sont connus pour[^1] :
+
+* leur utilisation du tabac pour contacter les défunts,
+* leurs tatouages de symboles religieux pour éloigner les mauvais esprits,
+* l'ornement de leurs lèvres et de leurs oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
 
 ### Génocide
 
