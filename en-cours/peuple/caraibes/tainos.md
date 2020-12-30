@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-23T20:30:27.070Z
+date: 2020-12-30T21:39:17.280Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -31,8 +31,12 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 >{.is-info}
 
 Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`.
-Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^1][^3]
+Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^3]
+Les `Taïnos` sont connus pour avoir effectué les pratiques suivantes[^1] :
 
+* utilisation du tabac pour contacter les défunts,
+* tatouages de symboles religieux pour éloigner les mauvais esprits,
+* ornement des lèvres et des oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
