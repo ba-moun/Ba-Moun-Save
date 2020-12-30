@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-30T21:39:17.280Z
+date: 2020-12-30T21:45:09.785Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -37,6 +37,11 @@ Les `Taïnos` sont connus pour avoir effectué les pratiques suivantes[^1] :
 * utilisation du tabac pour contacter les défunts,
 * tatouages de symboles religieux pour éloigner les mauvais esprits,
 * ornement des lèvres et des oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
+
+> **Le saviez-vous ?**[^1]
+>
+> Le `Vaudou haïtien` a hérité de certaines coutumes ***Taïnos***. Il peut être cité l'utilisation du tabac et la représentation des `entités mystiques` (ex. vèvè).
+{.is-info}
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
