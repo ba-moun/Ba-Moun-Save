@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-01-13T15:10:43.709Z
+date: 2021-01-13T15:13:02.863Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -63,6 +63,8 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
 * aux animaux,
 * aux plantes,
 * aux objets inanimés.
+
+Pour symboliser les esprits, les `Taïnos` fabriquent des statues.
 
 Les `Taïnos` sont connus pour :
 
