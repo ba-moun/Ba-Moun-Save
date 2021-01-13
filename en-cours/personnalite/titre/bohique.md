@@ -2,7 +2,7 @@
 title: Bohique / Bohiti
 description: Présentation des bohiques (alias bohitis)
 published: true
-date: 2021-01-13T14:44:25.662Z
+date: 2021-01-13T14:51:15.027Z
 tags: arawak, peuple arawak, peuple taïnos, taïnos, organisation sociale taïnos, bohique, bohiti, chaman, prêtre, organisation sociale arawak
 editor: markdown
 dateCreated: 2020-12-23T16:35:13.416Z
