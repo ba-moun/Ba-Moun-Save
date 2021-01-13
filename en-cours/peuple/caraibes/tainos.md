@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-01-13T15:13:04.386Z
+date: 2021-01-13T15:41:51.537Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -38,13 +38,28 @@ Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le boh
 
 # Culture et savoir-faire[^1]
 
-Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple, leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
-* aux humains,
-* aux animaux,
-* aux plantes,
-* aux objets inanimés.
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
+   <figcaption>
+     Cémi (ou zémi) <b><i>Taïno</i></b>
+   </figcaption>
+</figure>
 
-Pour symboliser les esprits, les `Taïnos` fabriquent des statues.
+Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple :
+* leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
+   * aux humains,
+   * aux animaux,
+   * aux plantes,
+   * aux objets inanimés,
+* à l’instar des fétiches, les forces mystiques sont représentées par des statues nommées `cémi` ou `zémi`.
+
+<figure class="image " style="width: 50%;">
+   <img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg">
+   <figcaption>
+      Fétiche congolais de Nkisi Nkondi<br/>
+      Représentation du pouvoir féminin<br/>
+   </figcaption>
+</figure>
 
 Les ***Taïnos*** sont connus pour les coutumes suivantes :
 
