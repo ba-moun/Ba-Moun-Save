@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2020-12-30T22:48:28.808Z
+date: 2021-01-13T14:28:50.865Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -50,7 +50,7 @@ Les `Taïnos` sont connus pour les coutumes suivantes :
 
 Ci-dessous quelques savoir-faires ***Taïnos*** :
 * la vannerie en osier ou en bananier,
-* la poterie (cruche, govi, jarres, etc.),
+* la poterie en céramique (cruche, jarres, etc.),
 * le travail du bois et de l'or.
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
