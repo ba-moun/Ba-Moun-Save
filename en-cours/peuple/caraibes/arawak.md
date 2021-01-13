@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-01-13T15:13:02.863Z
+date: 2021-01-13T15:41:34.192Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -58,13 +58,28 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 
 ### Culture et savoir-faire[^1]
 
-Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple, leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
-* aux humains,
-* aux animaux,
-* aux plantes,
-* aux objets inanimés.
+<figure class="image image-style-align-right image_resized" style="width: 30%;">
+   <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
+   <figcaption>
+     Cémi (ou zémi) <b><i>Taïno</i></b>
+   </figcaption>
+</figure>
 
-Pour symboliser les esprits, les `Taïnos` fabriquent des statues.
+Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple :
+* leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
+   * aux humains,
+   * aux animaux,
+   * aux plantes,
+   * aux objets inanimés,
+* à l’instar des fétiches, les forces mystiques sont représentées par des statues nommées `cémi` ou `zémi`.
+
+<figure class="image " style="width: 50%;">
+   <img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg">
+   <figcaption>
+      Fétiche congolais de Nkisi Nkondi<br/>
+      Représentation du pouvoir féminin<br/>
+   </figcaption>
+</figure>
 
 Les `Taïnos` sont connus pour :
 
