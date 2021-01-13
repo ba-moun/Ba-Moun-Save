@@ -2,13 +2,13 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2020-12-23T22:07:59.131Z
+date: 2021-01-13T14:53:00.905Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
 ---
 
-Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti^*^) et ceux des `Kamyout` déportés lors du `Yovodah`.[^1]
+Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti^*^) et ceux des `Kamyout` déportés lors du `Yovodah`. Parmi les divinités de cette spiritualité, on trouve `Papa Damballa`, le boa de la conaissance.[^1]
 
 > ^*^**Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
