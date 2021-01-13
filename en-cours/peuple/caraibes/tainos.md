@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-01-13T15:41:51.537Z
+date: 2021-01-13T16:45:45.401Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -38,10 +38,10 @@ Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le boh
 
 # Culture et savoir-faire[^1]
 
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
+<figure class="image image-style-align-right image_resized" style="width: 16%;">
    <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
    <figcaption>
-     Cémi (ou zémi) <b><i>Taïno</i></b>
+     Cémi <b><i>Taïno</i></b>
    </figcaption>
 </figure>
 
@@ -53,13 +53,27 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
    * aux objets inanimés,
 * à l’instar des fétiches, les forces mystiques sont représentées par des statues nommées `cémi` ou `zémi`.
 
-<figure class="image " style="width: 50%;">
-   <img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg">
-   <figcaption>
-      Fétiche congolais de Nkisi Nkondi<br/>
-      Représentation du pouvoir féminin<br/>
-   </figcaption>
-</figure>
+> **Le saviez-vous ?**
+>
+> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg"><figcaption>Fétiche congolais de Nkisi Nkondi<br/>Représentation du pouvoir féminin<br/></figcaption></figure>
+> 
+> Les ***zémi*** peuvent être fabriqués avec :
+> * du coton,
+> * du bois,
+> * de l’argile,
+> * de l’os,
+> * de la pierre,
+> * des coquillages.
+>
+> En outre, les `Taïnos` peuvent prier leurs ***cémies*** dans plusieurs buts[^1] :
+> * implorer l’abondance, 
+> * être épanoui,
+> * avoir de bonnes récoltes,
+> * avoir le bonheur
+> * être divinement protégé.
+>
+> Chaque famille et chaque clan `Taïno` doit vouer un culte à ses ***cémies*** respectifs. Les prières sont directement adressées aux ***zémis***. De plus, les cultes, les rites et les sacrifices sont célébrés en leurs présences.
+{.is-info}
 
 Les ***Taïnos*** sont connus pour les coutumes suivantes :
 
