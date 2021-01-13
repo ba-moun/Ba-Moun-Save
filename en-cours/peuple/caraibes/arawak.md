@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2020-12-30T22:39:11.512Z
+date: 2021-01-13T15:01:22.239Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -47,7 +47,7 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 * `Naborias` : villageois qui travaillent la terre,
 * `Bohiques` (alias `Bohiti`) : chamans / prêtres,
 * `Nitaínos` : nobles,
-* `Cacique` alias `Yucayeque` ou `Guare`,
+* `Cacique` alias `Yucayeque` ou `Guare` : représentant du dieu soleil (le pouvoir solaire),
 * un chef suprême auquel les `Caciques` doivent verser un tribut.
 
 > **Le saviez-vous ?**[^10][^2]
