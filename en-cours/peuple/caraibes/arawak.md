@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-01-13T15:01:22.239Z
+date: 2021-01-13T15:10:43.709Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -56,7 +56,13 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-### Coutume et savoir-faire[^1]
+### Culture et savoir-faire[^1]
+
+Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple, leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
+* aux humains,
+* aux animaux,
+* aux plantes,
+* aux objets inanimés.
 
 Les `Taïnos` sont connus pour :
 
