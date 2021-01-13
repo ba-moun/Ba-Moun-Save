@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-01-13T14:46:10.476Z
+date: 2021-01-13T14:46:41.723Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -32,7 +32,7 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 
 # Civilisation[^1]
 
-Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`. Étymoligiquement `bohique` signifie « représentant du pouvoir solaire ».
+Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`.
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^3]
 Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le bohio) associés à la moitié serpent de la tribu.
 
