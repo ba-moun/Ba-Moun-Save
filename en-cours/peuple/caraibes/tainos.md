@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-01-13T15:08:52.407Z
+date: 2021-01-13T15:11:08.912Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -38,7 +38,7 @@ Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le boh
 
 # Culture et savoir-faire[^1]
 
-Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple, les esprits sont associés respectivement :
+Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple, leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
 * aux humains,
 * aux animaux,
 * aux plantes,
