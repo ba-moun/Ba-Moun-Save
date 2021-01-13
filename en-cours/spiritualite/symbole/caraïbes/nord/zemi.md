@@ -2,7 +2,7 @@
 title: Zémi / Cémie
 description: Présentation des zémis (alias cémies)
 published: true
-date: 2021-01-13T16:17:08.283Z
+date: 2021-01-13T16:17:27.491Z
 tags: spiritualité, caraïbe, arawak, cémie, zémi, taïno, statue, spiritualité taïno, fétiche taïno, fétiche, fétiche arawak, statue arawak, fétiche caraïbe, statue caraïbe
 editor: markdown
 dateCreated: 2021-01-13T15:49:19.954Z
