@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-01-13T14:53:00.905Z
+date: 2021-01-13T16:22:00.553Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -30,7 +30,11 @@ Ci-dessous, des particularités `Taïnos` qui se retrouvent chez les vaudouisant
 > Sur l'île Haïti se trouvent des mines d'or et d'argent.
 >{.is-info}
 
-Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***vèvè*** (peut s'écrire ***veve*** ou ***vévé***). Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai.[^1]
+Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***vèvè*** (peut s'écrire ***veve*** ou ***vévé***). Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai`.[^1]
+
+# Entités mystiques
+
+À l’instar des `Taïnos` avec leurs `cémies`, chaque bitasyon possède ses propres `lwa danti` (alias `ancêtres`, `lwa familiaux` ou `lwa raciaux`).[^1]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
