@@ -1,10 +1,11 @@
 ---
-title: Peuple Bamoun
+title: Bamoun (peuple)
 description: Présentation du peuple Bamoun
 published: true
-date: 2020-09-25T14:54:37.769Z
+date: 2021-01-14T14:29:45.692Z
 tags: bamoun, peuple bamoun, peuple bamun, bamun
 editor: markdown
+dateCreated: 2020-09-25T06:58:31.193Z
 ---
 
 ![flag-of-cameroon_public-domain.svg](/images/flag/cameroon/flag-of-cameroon_public-domain.svg){.align-abstopright}
