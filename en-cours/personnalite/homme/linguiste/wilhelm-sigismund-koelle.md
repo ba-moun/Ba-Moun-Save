@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: true
-date: 2021-01-14T10:41:02.365Z
+date: 2021-01-14T10:41:36.619Z
 tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
 editor: markdown
 dateCreated: 2020-07-27T12:22:24.667Z
@@ -32,7 +32,7 @@ Avec l’aide d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm Sigismun
 
 > **Le saviez-vous ?**[^4]
 >
-> <figure class="image image-style-align-right image_resized" style="width: 32%;"><img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg"></figure>
+> <figure class="image image-style-align-right image_resized" style="width: 25%;"><img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg"></figure>
 >
 > `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`. Il y a été mis en captivité puis asservi.
 > Par la suite, `Ali Eisami Gazirmabe` est libéré par la `Royal Navy`.
