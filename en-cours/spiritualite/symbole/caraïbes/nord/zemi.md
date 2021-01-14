@@ -2,7 +2,7 @@
 title: Zémi / Cémie
 description: Présentation des zémis (alias cémies)
 published: true
-date: 2021-01-13T16:17:27.491Z
+date: 2021-01-14T08:30:47.961Z
 tags: spiritualité, caraïbe, arawak, cémie, zémi, taïno, statue, spiritualité taïno, fétiche taïno, fétiche, fétiche arawak, statue arawak, fétiche caraïbe, statue caraïbe
 editor: markdown
 dateCreated: 2021-01-13T15:49:19.954Z
@@ -18,8 +18,8 @@ Les ***zémi***, alias ***cémies***, sont des statues fabriquées par les `Taï
 * de la pierre
 * des coquillages.
 
-Chaque famille et chaque clan `Taïno` possède ses propres ***cémies***. Pour les `Taïnos`,  les ***cémies*** sont des objets de culte puisque les prières leurs sont directement adressées. De plus, les cultes, les rites et les sacrifices sont célébrés en la présence des ***cémies***.
-En outre, les `Taïnos` peuvent prier leurs ***cémies*** dans plusieurs buts[^1] :
+Chaque famille `Taïno` possède son ***cémie***. Pour les `Taïnos`,  les ***cémies*** sont des objets de culte puisque les prières leurs sont directement adressées. De plus, les cultes, les rites et les sacrifices sont célébrés en la présence des ***cémies***.
+En outre, les `Taïnos` peuvent prier leurs ***cémies*** pour plusieurs raisons[^1] :
 * implorer l’abondance, 
 * être épanoui,
 * avoir de bonnes récoltes,
