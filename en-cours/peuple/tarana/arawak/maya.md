@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-15T14:03:38.599Z
+date: 2021-01-15T14:20:45.620Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -68,6 +68,12 @@ L’emplacement de ce monde souterrain s'appelle `D’zonot` (ou `tzonot`). Ce s
 Les `tzonot` sont des avens taille variable. Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
 Par endroit, dans les profondeurs d’un `tzonot`, on peut observer des haloclines. Dans un `tzonot`, une halocline est une cission entre l’eau de mer et l’eau douce qui se chevauchent. Ces deux eaux forment une ligne avec en dessous l’eau salée et au dessus l’eau douce. Lors d’une plongée sous-marine dans un `tzonot`, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. Les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des `tzonot`.
 Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`.[^2][^5]
+
+> **Le saviez-vous ?**[^6]
+>
+> Pour les Maya, les `tzonot`, sont les portes du monde inférieur. Il s’avère justement que tous les `tzonot` sont reliés entre eux par un réseau sous-terrain principalement remplis d’eau. Cette eau est douce à l’entrée des `tzonot` mais salée dans les profondeurs. La salinité de l’eau vient du fait que les `tzonot`sont connectés à la mer des Caraïbes via ses réseaux sous-terrains.
+> Jusqu’à présent, certaines cénotes sont réservées au culte.
+{.is-info}
 
 ## La monde terrestre
 
