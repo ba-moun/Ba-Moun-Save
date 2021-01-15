@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-15T09:50:56.754Z
+date: 2021-01-15T09:51:56.288Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -55,7 +55,7 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * la `lune` quand elle n’est pas visible
 * `Vénus` quand elle n’est pas visible.
 
-Les entrées dans ce monde souterrain s'appellent `D’zonot`. Ce sont des avens sacrés. En français, le mot D’zonot a été déformé en `cenote`.[^2][^5]
+Les entrées dans ce monde souterrain s'appellent `D’zonot` (ou `tzonot`). Ce sont des avens sacrés. En français, le mot D’zonot a été déformé en `cenote`.[^2][^5]
 
 Les cénotes, tirant leur nom du mot maya « D’zonot », ont une histoire très particulière. En effet, ils offraient à la population Maya la seule source d’eau potable, au beau milieu de la jungle. Ces endroits, si singuliers, étaient considérés comme sacrés. Comme une entrée dans le monde souterrain, où dieux et esprits résident après la mort.
 
