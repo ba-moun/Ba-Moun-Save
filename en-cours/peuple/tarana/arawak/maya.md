@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-14T14:59:05.751Z
+date: 2021-01-15T08:38:12.410Z
 tags: spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -13,13 +13,14 @@ dateCreated: 2021-01-14T14:17:36.463Z
 
 Les Mayas sont un peuple de `Tarana`. Leur spiritualité polythéiste appartient aux `spiritualtiées` dites `mésoaméricaines`.
 Cette spiritualité considère que la création et la destruction sont des phénomènes cycliques. Les rituels et les cérémonies mayas sont liées à ces cycles terrestres et célestes. Un prètre est chargé d’interpréter ces cycles. Ainsi, le prêtre arrive à dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
-Les cycles de création et de destruction sont recensés dans plusieurs calendriers[^4] :
+Les cycles de création et de destruction sont recensés dans plusieurs calendriers[^3][^4] :
 * Tzolk’in : un calendrier sacré de 260 jours,
 * haab : un calendrier sacré de 365 jours,
 * compte long : dans la « mésoamérique », seul les Mayas utilisent ce calendirer,
 * un calendrier lunaire,
 * un calendrier basé sur Vénus,
 
+Les Mayas croient en la réincarnation.
 Certains rituels mayas se retrouvent dans les pratiques des « Maya-descendants » du `Guatemala`.[^4]
 
 La frise chronologique ci-dessous représente les évolutions de la spiritualité et de la religion maya au fil des années[^4]
@@ -39,5 +40,21 @@ Vers 800−900, la civilisation maya classique meurt. La royauté sacrée dispar
 * la `divinité liée à vénus`,
 * les `divinités aztèques`,
 * les `divinités toltèques` (`Quetzalcóatl` → `Kukulkan`, probablement aussi `Itzamna`).
+
+# Vision de l’univers[^3]
+
+Les Mayas considèrent que l’univers est constitué du monde inférieur, de la terre et du ciel.
+
+## Le monde inférieur
+
+Le monde inférieur est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». C’est un monde Après leur mort, les Mayas
+
+Le monde inférieur est le monde souterrain. Il est composées de neuf parties. Neuf « seigneurs de la Nuit » gouvernaient ce monde souterrain. Après leur mort, les Mayas venaient dans ce monde froid et inhospitalier. Les rois après leur mort passaient aussi dans cet endroit mais parvenaient à gagner le ciel grâce à leurs pouvoirs surnaturels. Tous les jours après leur disparition de la vue des hommes le Soleil, la Lune et Vénus séjournaient dans le monde souterrain. C'est là qu'au cours d'une partie de jeu de balle les dieux jumeaux ont triomphé des autres dieux et sont devenus le Soleil et la Lune. Pour les Mayas, l'entrée du monde souterrain étaient située après de Cobán au Guatemala. Ces entrées dans le monde souterrain s'appellent les cenotes.
+
+La terre était le monde visible des hommes. Pour les Mayas la Terre était plate et carrée. Les points cardinaux occupaient les angles du carré. Chaque point cardinal avait une couleur : l'est était rouge, le nord était blanc, l'ouest était noir et le sud était jaune. Le centre de la Terre était vert. Pour les Mayas la terre était le dos d'un gigantesque crocodile vivant dans un marais rempli de lilas d'eau.
+
+Le ciel des mayas était le séjour des hommes qui avaient été bons et vertueux. Ils y menaient une existence paisible et y trouvaient des conditions d'existence très agréables. Le ciel était imaginé comme un serpent à deux têtes (les Mayas utilisaient quasiment le même signe hiéroglyphique pour nommer le ciel et le serpent). Les Mayas croyaient que le ciel était formé de treize couches chacune dirigée par un dieu. Ils pensaient que le ciel était soutenu par des arbres gigantesques installés aux quatre points cardinaux et qui avaient des couleurs différentes. D'autres récits mythologiques montrent que de sont des géants qui soutiennent le ciel. 
+
+[^3]: [Religion maya](https://fr.vikidia.org/wiki/Religion_des_Mayas). In [Vikidia](https://vikidia.org) [en ligne]. [Vikidia](https://vikidia.org), mis à jour le `5` `Mai` `2020` [consulté le `14` `Janvier` `2021` (`calendrier grégorien`)]. Disponible sur : https://fr.vikidia.org/wiki/Religion_des_Mayas
 
 [^4]: [Religion maya](https://fr.wikipedia.org/wiki/Religion_maya). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Novembre` `2020` [consulté le `14` `Janvier` `2021` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Religion_maya
