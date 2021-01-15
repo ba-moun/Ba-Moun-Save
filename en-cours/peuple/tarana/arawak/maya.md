@@ -2,8 +2,8 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-15T08:38:12.410Z
-tags: spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana
+date: 2021-01-15T09:50:56.754Z
+tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
 ---
@@ -38,23 +38,48 @@ Vers 800−900, la civilisation maya classique meurt. La royauté sacrée dispar
 * la `divinité lunaire`,
 * la `divinité de la pluie`,
 * la `divinité liée à vénus`,
-* les `divinités aztèques`,
-* les `divinités toltèques` (`Quetzalcóatl` → `Kukulkan`, probablement aussi `Itzamna`).
+* des `divinités aztèques`,
+* des `divinités toltèques`.
 
 # Vision de l’univers[^3]
 
-Les Mayas considèrent que l’univers est constitué du monde inférieur, de la terre et du ciel.
+Les Mayas considèrent que l’univers est constitué du monde inférieur, de la terre et du ciel.[^1]
 
 ## Le monde inférieur
 
-Le monde inférieur est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». C’est un monde Après leur mort, les Mayas
+Le monde inférieur (ou monde souterrain) est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». Le monde inférieur connu pour être l’endroit où les `dieux jumeaux` ont gagné au jeu de balle contre les autres dieux. Ce `dieux jumeaux` sont le `soleil` et la `lune`.
 
-Le monde inférieur est le monde souterrain. Il est composées de neuf parties. Neuf « seigneurs de la Nuit » gouvernaient ce monde souterrain. Après leur mort, les Mayas venaient dans ce monde froid et inhospitalier. Les rois après leur mort passaient aussi dans cet endroit mais parvenaient à gagner le ciel grâce à leurs pouvoirs surnaturels. Tous les jours après leur disparition de la vue des hommes le Soleil, la Lune et Vénus séjournaient dans le monde souterrain. C'est là qu'au cours d'une partie de jeu de balle les dieux jumeaux ont triomphé des autres dieux et sont devenus le Soleil et la Lune. Pour les Mayas, l'entrée du monde souterrain étaient située après de Cobán au Guatemala. Ces entrées dans le monde souterrain s'appellent les cenotes.
+Le monde souterrain est un monde « froid et inhospitalier ». Les rois y séjournent temporairement étant donné que grâce à leurs pouvoirs mystiques ils arrivent à rejoindre le monde céleste. En plus du roi, le monde souterrain abrite :
+* les défunts,
+* le `soleil` pendant la nuit,
+* la `lune` quand elle n’est pas visible
+* `Vénus` quand elle n’est pas visible.
 
-La terre était le monde visible des hommes. Pour les Mayas la Terre était plate et carrée. Les points cardinaux occupaient les angles du carré. Chaque point cardinal avait une couleur : l'est était rouge, le nord était blanc, l'ouest était noir et le sud était jaune. Le centre de la Terre était vert. Pour les Mayas la terre était le dos d'un gigantesque crocodile vivant dans un marais rempli de lilas d'eau.
+Les entrées dans ce monde souterrain s'appellent `D’zonot`. Ce sont des avens sacrés. En français, le mot D’zonot a été déformé en `cenote`.[^2][^5]
+
+Les cénotes, tirant leur nom du mot maya « D’zonot », ont une histoire très particulière. En effet, ils offraient à la population Maya la seule source d’eau potable, au beau milieu de la jungle. Ces endroits, si singuliers, étaient considérés comme sacrés. Comme une entrée dans le monde souterrain, où dieux et esprits résident après la mort.
+
+## La monde terrestre
+
+Pour les Mayas, la terre représente le monde visible des humains. C’est le dos d’un immense crocodile des marais. Celle-ci est carrée, avec un point cardinal à chaque sommet[^1] :
+* l’est est rouge,
+* le nord est blanc,
+* l’ouest est noir,
+* le sud est jaune,
+* le centre de la terre est vert.
+
+## Le monde céleste
+
+Pour les Mayas, les ancêtres méritants montent au ciel. C’est un lieu calme et agréable
 
 Le ciel des mayas était le séjour des hommes qui avaient été bons et vertueux. Ils y menaient une existence paisible et y trouvaient des conditions d'existence très agréables. Le ciel était imaginé comme un serpent à deux têtes (les Mayas utilisaient quasiment le même signe hiéroglyphique pour nommer le ciel et le serpent). Les Mayas croyaient que le ciel était formé de treize couches chacune dirigée par un dieu. Ils pensaient que le ciel était soutenu par des arbres gigantesques installés aux quatre points cardinaux et qui avaient des couleurs différentes. D'autres récits mythologiques montrent que de sont des géants qui soutiennent le ciel. 
 
-[^3]: [Religion maya](https://fr.vikidia.org/wiki/Religion_des_Mayas). In [Vikidia](https://vikidia.org) [en ligne]. [Vikidia](https://vikidia.org), mis à jour le `5` `Mai` `2020` [consulté le `14` `Janvier` `2021` (`calendrier grégorien`)]. Disponible sur : https://fr.vikidia.org/wiki/Religion_des_Mayas
+[^1]: [Christian Nitschelm](http://www.astrosurf.com/nitschelm/index.html). [La civilisation maya](http://www.astrosurf.com/nitschelm/Civilisation_Maya.html). In [Astrosurf](http://www.astrosurf.com/) [en ligne]. `Mai` `2007`, mise à jour `Mai` `2015` [consulté le `15` `Janvier` `2021`]. Disponible sur : http://www.astrosurf.com/nitschelm/Civilisation_Maya.html
 
-[^4]: [Religion maya](https://fr.wikipedia.org/wiki/Religion_maya). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Novembre` `2020` [consulté le `14` `Janvier` `2021` (`calendrier grégorien`)]. Disponible sur : https://fr.wikipedia.org/wiki/Religion_maya
+[^2]: [Juliette](https://c6bo-plongee-blog.fr/author/juliette/). [Mexique : au cœur des cénotes](https://c6bo-plongee-blog.fr/plongee-decouverte/culture-vie-sous-marine/mexique-cenotes/). In [C6BO](https://c6bo-plongee-blog.fr/) [en ligne]. `4` `Mars` `2020` [consulté le `15` `Janvier` `2021`]. Disponible sur : https://c6bo-plongee-blog.fr/plongee-decouverte/culture-vie-sous-marine/mexique-cenotes/
+
+[^3]: [Religion maya](https://fr.vikidia.org/wiki/Religion_des_Mayas). In [Vikidia](https://vikidia.org) [en ligne]. [Vikidia](https://vikidia.org), mis à jour le `5` `Mai` `2020` [consulté le `14` `Janvier` `2021`]. Disponible sur : https://fr.vikidia.org/wiki/Religion_des_Mayas
+
+[^4]: [Religion maya](https://fr.wikipedia.org/wiki/Religion_maya). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Novembre` `2020` [consulté le `14` `Janvier` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Religion_maya
+
+[^5]: [Corinne Bourbeillon](https://petitesbullesdailleurs.fr/author/cbourbeillon/). [Plonger dans les mystérieux cénotes des Mayas](https://petitesbullesdailleurs.fr/plonger-mexique-yucatan-cenotes-20140921/). In [Petites Bulles d’Ailleurs](https://petitesbullesdailleurs.fr/) [en ligne]. Mis à jour `20` `Décembre` `2019` [consulté le `15` `Janvier` `2021`]. Disponible sur : https://petitesbullesdailleurs.fr/plonger-mexique-yucatan-cenotes-20140921/
