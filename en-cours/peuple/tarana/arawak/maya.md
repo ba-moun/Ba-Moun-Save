@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-15T09:51:56.288Z
+date: 2021-01-15T12:05:56.332Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -47,6 +47,15 @@ Les Mayas considèrent que l’univers est constitué du monde inférieur, de la
 
 ## Le monde inférieur
 
+<figure class="image image-style-align-right image_resized" style="width: 64%;">
+   <img src="/images/geology/tzonot/tzonot_cc-by-sa.png">
+   <figcaption>
+      Un tzonot, l’une des entrées du monde inférieur</br>
+      Licence : CC BY SA
+   </figcaption>
+</figure>
+
+
 Le monde inférieur (ou monde souterrain) est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». Le monde inférieur connu pour être l’endroit où les `dieux jumeaux` ont gagné au jeu de balle contre les autres dieux. Ce `dieux jumeaux` sont le `soleil` et la `lune`.
 
 Le monde souterrain est un monde « froid et inhospitalier ». Les rois y séjournent temporairement étant donné que grâce à leurs pouvoirs mystiques ils arrivent à rejoindre le monde céleste. En plus du roi, le monde souterrain abrite :
@@ -55,9 +64,8 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * la `lune` quand elle n’est pas visible
 * `Vénus` quand elle n’est pas visible.
 
-Les entrées dans ce monde souterrain s'appellent `D’zonot` (ou `tzonot`). Ce sont des avens sacrés. En français, le mot D’zonot a été déformé en `cenote`.[^2][^5]
-
-Les cénotes, tirant leur nom du mot maya « D’zonot », ont une histoire très particulière. En effet, ils offraient à la population Maya la seule source d’eau potable, au beau milieu de la jungle. Ces endroits, si singuliers, étaient considérés comme sacrés. Comme une entrée dans le monde souterrain, où dieux et esprits résident après la mort.
+L’emplacement de ce monde souterrain s'appelle `D’zonot` (ou `tzonot`). Ce sont des avens sacrés situés en pleine forêt, qui contiennent de l’eau douce et où les `divinités` et les `ancêtres` résident. Ces avens se sont formés par l’effondrement de roches calcaires.
+Dans les `langues européennes`, le mot `tzonot` a été déformé en `cenote`.[^2][^5]
 
 ## La monde terrestre
 
@@ -70,9 +78,7 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 
 ## Le monde céleste
 
-Pour les Mayas, les ancêtres méritants montent au ciel. C’est un lieu calme et agréable
-
-Le ciel des mayas était le séjour des hommes qui avaient été bons et vertueux. Ils y menaient une existence paisible et y trouvaient des conditions d'existence très agréables. Le ciel était imaginé comme un serpent à deux têtes (les Mayas utilisaient quasiment le même signe hiéroglyphique pour nommer le ciel et le serpent). Les Mayas croyaient que le ciel était formé de treize couches chacune dirigée par un dieu. Ils pensaient que le ciel était soutenu par des arbres gigantesques installés aux quatre points cardinaux et qui avaient des couleurs différentes. D'autres récits mythologiques montrent que de sont des géants qui soutiennent le ciel. 
+Pour les Mayas, le ciel est la résidence des ancêtres méritants. C’est un lieu calme et agréable symbolisé par un serpent à deux têtes qui est maintenu en l’air par d’énormes pilliers situés sur chaque point cardinal. Ces pilliers sont tantôt d’énomres arbres, tantôt des géants. Enfin, le monde céleste est composé de treize couches gouvernées par une divinité.
 
 [^1]: [Christian Nitschelm](http://www.astrosurf.com/nitschelm/index.html). [La civilisation maya](http://www.astrosurf.com/nitschelm/Civilisation_Maya.html). In [Astrosurf](http://www.astrosurf.com/) [en ligne]. `Mai` `2007`, mise à jour `Mai` `2015` [consulté le `15` `Janvier` `2021`]. Disponible sur : http://www.astrosurf.com/nitschelm/Civilisation_Maya.html
 
