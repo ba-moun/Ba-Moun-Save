@@ -2,7 +2,7 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2021-01-17T14:11:30.514Z
+date: 2021-01-17T14:14:13.956Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
 dateCreated: 2020-07-30T09:07:47.358Z
@@ -220,11 +220,11 @@ Certaines communautés ***Coloured*** refusent d’être identifiées comme appa
 > [Khoemana and the Griqua: Identity at the Heart of Phonological Attrition](https://helda.helsinki.fi//bitstream/handle/10138/229407/Khoemana_and_the_Griqua.pdf), de Don Killian.
 
 
-<figure class="image image-style-align-right image_resized" style="width: 30%;">
+<figure class="image image-style-align-right image_resized" style="width: 25%;">
    <img src="/images/personnalite/kemit/diakwain/dia!kwain_public-domain.jpg
 ">
    <figcaption>
-      !Diakwain, l’un des derniers <i><b>Ss’wa ka !kui</b></i>
+      Dia!kwain, l’un des derniers <i><b>Ss’wa ka !kui</b></i>
    </figcaption>
 </figure>
 
