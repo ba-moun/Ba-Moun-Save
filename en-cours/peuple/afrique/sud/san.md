@@ -2,9 +2,10 @@
 title: Khoïsan (Xirikuana, Ss’wa ka !kui, !nussa !e)
 description: Présentation des Khoïsan
 published: true
-date: 2020-09-25T04:48:38.415Z
+date: 2021-01-17T14:11:30.514Z
 tags: kamit, kémit, noir, noire, afrique du sud, sud, sud-ouest, ss’wa ka !kui, bushman, bochiman, san, san des plaines, afrique du sud 🇿🇦, khoïsan, bochiman des plaines, sud du continent, xirikuana, peuple xirikuana, peuple, peuple négro-africain, négro-africain, peuple noir, peuple kamit, peuple kémit, sud-ouest du continent, peuple en voie d’extinction
 editor: markdown
+dateCreated: 2020-07-30T09:07:47.358Z
 ---
 
 ![khoisan_cc-by.jpg](/images/population/khoisan/khoisan_cc-by.jpg){.align-abstopright}
@@ -27,7 +28,7 @@ Les ***Khoikhoi*** sont des éleveurs ***Hottentots***.[^4][^15]
 L’image ci-contre est un oiseau `Kwa kkwara |aityi`. Cette illustration est faite au crayon bleu par `Dia!kwain` en `Mai` `1875`.
 `Dia!kwain` fait parti des `!nussa !e` (membre des khoïsan des plaines) dont le père est un initié réputé pour ses peintures corporelles et ses gravures. `Dia!kwain` a communiqué des récits et des dessins portant sur son peuple aux familles `Lloyd` et `Bleek`. Ces informations représentent plusieurs milliers de pages de la `collection Bleek and Lloyd`.[^1][^11]
 
-La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^1][^2][^3][^4][^6][^7][^9]
+La frise suivante relate d’événements historiques liés aux ***Khoïsan***.[^2][^3][^6][^7][^9][^4][^1]
 
 ```mermaid
 flowchart TB
