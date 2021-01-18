@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T14:41:26.250Z
+date: 2021-01-18T14:44:34.220Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -65,7 +65,7 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * `Vénus` quand elle n’est pas visible.
 
 L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « cavité remplie d’eau » en langue maya. Pour les Mayas, ce sont des avens sacrés situés en pleine forêt. Chaque `d’zonot` est une entrée dans le monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un `d’zonot` peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du `t’zonot` rentre dans le secret des initiés. Par exemple, des processions mystico-religieuses ont été effectuées dans le `t’zonot` de `Chichén Itzá`.[^7]
-Les `tzonot` sont des avens de taille variable qui contiennent la seule source d’eau douce du `Yucatán`.[^7] Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
+Les `tzonot` sont des avens de taille variable qui contiennent la seule source d’eau douce du `Yucatán`.[^7] Cette eau douce vient principalement de l’eau de pluie. Leur formation remonte à plusieurs millions d’années. À cette époque, les `t’zonot` sont sous le niveau de la mer. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub, dans la mer des Caraïbes. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures. De nos jours, leur ouverture est issue de l’effondrement des roches calcaires.[^6]
 Par endroit, dans les profondeurs d’un `tzonot`, on peut observer des haloclines. Dans un `tzonot`, une halocline est une cission entre l’eau de mer et l’eau douce qui se chevauchent. Ces deux eaux forment une ligne avec en dessous l’eau salée et au dessus l’eau douce. Lors d’une plongée sous-marine dans un `tzonot`, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. Les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des `tzonot`.
 Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`. À présent, ce sont des lieux touristiques.[^2][^5]
 
