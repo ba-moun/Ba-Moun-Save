@@ -2,7 +2,7 @@
 title: !kweiten ta ||ken
 description: Présentation de !kweiten ta ||ken
 published: true
-date: 2021-01-17T15:43:03.115Z
+date: 2021-01-18T20:55:38.765Z
 tags: |xam, lloyd and bleek collection, collection, !kweiten ta ||ken, ta, ||ken, rachel, !kweiten ta
 editor: markdown
 dateCreated: 2020-08-03T10:24:20.848Z
@@ -45,7 +45,7 @@ Le `13` `Juin` `1874`, ***!kweiten ta ||ken***  arrive à Mowbray. Elle est acco
 - les expériences féminines.
 
 De `Décembre` `1874` à `Janvier` `1875`, ***!kweiten ta ||ken*** transmet des informations.
-N’appréciant pas son séjour à `Cap`, le `13` `Janvier` `1875`, ***!kweiten ta ||ken*** quitte Mowbray pour Bushmanland. Elle est accompagnée de son mari `≠kasin` et de ses enfants. Son frère `Dia!kwain` reste dans le quartier de Mowbray.[^1]
+N’appréciant pas son séjour au `Cap`, le `13` `Janvier` `1875`, ***!kweiten ta ||ken*** quitte Mowbray pour Bushmanland. Elle est accompagnée de son mari `≠kasin` et de ses enfants. Son frère `Dia!kwain` reste dans le quartier de Mowbray.[^1]
 
 > ***Le saviez-vous ?***[^1]
 > 
