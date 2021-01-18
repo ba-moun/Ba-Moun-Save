@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T14:34:22.959Z
+date: 2021-01-18T14:41:26.250Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -64,8 +64,8 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * la `lune` quand elle n’est pas visible
 * `Vénus` quand elle n’est pas visible.
 
-L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « cavité remplie d’eau » en langue maya. Pour les Mayas, ce sont des avens sacrés situés en pleine forêt qui contiennent la seule source d’eau douce. Un `d’zonot` est une entrée du monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un `d’zonot` peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du `t’zonot` rentre dans le secret des initiés. Par exemple, des processions mystico-religieuses ont été effectuées dans le `t’zonot` de `Chichén Itzá`.[^7]
-Les `tzonot` sont des avens de taille variable. Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
+L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « cavité remplie d’eau » en langue maya. Pour les Mayas, ce sont des avens sacrés situés en pleine forêt. Chaque `d’zonot` est une entrée dans le monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un `d’zonot` peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du `t’zonot` rentre dans le secret des initiés. Par exemple, des processions mystico-religieuses ont été effectuées dans le `t’zonot` de `Chichén Itzá`.[^7]
+Les `tzonot` sont des avens de taille variable qui contiennent la seule source d’eau douce du `Yucatán`.[^7] Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
 Par endroit, dans les profondeurs d’un `tzonot`, on peut observer des haloclines. Dans un `tzonot`, une halocline est une cission entre l’eau de mer et l’eau douce qui se chevauchent. Ces deux eaux forment une ligne avec en dessous l’eau salée et au dessus l’eau douce. Lors d’une plongée sous-marine dans un `tzonot`, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. Les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des `tzonot`.
 Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`. À présent, ce sont des lieux touristiques.[^2][^5]
 
@@ -86,6 +86,12 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 ## Le monde céleste
 
 Pour les Mayas, le ciel est la résidence des ancêtres méritants. C’est un lieu calme et agréable symbolisé par un serpent à deux têtes qui est maintenu en l’air par d’énormes pilliers situés sur chaque point cardinal. Ces pilliers sont tantôt d’énomres arbres, tantôt des géants. Enfin, le monde céleste est composé de treize couches gouvernées par une divinité.
+
+## Divinités Maya
+
+Les Mayas ont identifiés plusieurs divinités :
+* les dieux jumeaux : le Soleil et la Lune,
+* le dieu Chaac : dieu de la pluie qui demeure dans les `d’zonot`.
 
 [^1]: [Christian Nitschelm](http://www.astrosurf.com/nitschelm/index.html). [La civilisation maya](http://www.astrosurf.com/nitschelm/Civilisation_Maya.html). In [Astrosurf](http://www.astrosurf.com/) [en ligne]. `Mai` `2007`, mise à jour `Mai` `2015` [consulté le `15` `Janvier` `2021`]. Disponible sur : http://www.astrosurf.com/nitschelm/Civilisation_Maya.html
 
