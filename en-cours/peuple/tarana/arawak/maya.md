@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T08:50:13.347Z
+date: 2021-01-18T14:34:22.959Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -64,14 +64,14 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * la `lune` quand elle n’est pas visible
 * `Vénus` quand elle n’est pas visible.
 
-L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « trou d’eau » en langue maya.[^7] Ce sont des avens sacrés situés en pleine forêt, qui contiennent de l’eau douce et où les `divinités` et les `ancêtres` résident. Un certain nombre de `tzonot` ont servis d’autel pour les sacrifices d’humains et d’animaux.
-Les `tzonot` sont des avens taille variable. Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
+L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « cavité remplie d’eau » en langue maya. Pour les Mayas, ce sont des avens sacrés situés en pleine forêt qui contiennent la seule source d’eau douce. Un `d’zonot` est une entrée du monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un `d’zonot` peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du `t’zonot` rentre dans le secret des initiés. Par exemple, des processions mystico-religieuses ont été effectuées dans le `t’zonot` de `Chichén Itzá`.[^7]
+Les `tzonot` sont des avens de taille variable. Leur formation est issue de l’effondrement de roches calcaires. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures.[^6]
 Par endroit, dans les profondeurs d’un `tzonot`, on peut observer des haloclines. Dans un `tzonot`, une halocline est une cission entre l’eau de mer et l’eau douce qui se chevauchent. Ces deux eaux forment une ligne avec en dessous l’eau salée et au dessus l’eau douce. Lors d’une plongée sous-marine dans un `tzonot`, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. Les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des `tzonot`.
 Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`. À présent, ce sont des lieux touristiques.[^2][^5]
 
 > **Le saviez-vous ?**[^6]
 >
-> Pour les Maya, les `tzonot`, sont les portes du monde inférieur. Il s’avère justement que tous les `tzonot` sont reliés entre eux par un réseau sous-terrain principalement remplis d’eau. Cette eau est douce à l’entrée des `tzonot` mais salée dans les profondeurs. La salinité de l’eau vient du fait que les `tzonot`sont connectés à la mer des Caraïbes via ses réseaux sous-terrains.
+> Pour les Maya, les `tzonot`, sont les portes du monde inférieur. Il s’avère justement que tous les `tzonot` sont reliés entre eux par un réseau sous-terrain principalement rempli d’eau. Cette eau est douce à l’entrée des `tzonot` mais salée dans les profondeurs. La salinité de l’eau vient du fait que les `tzonot`sont connectés à la mer des Caraïbes via ses réseaux sous-terrains. L’eau est douce en surface grâce à l’eau de pluie qui s’y dépose.
 {.is-info}
 
 ## La monde terrestre
@@ -98,3 +98,5 @@ Pour les Mayas, le ciel est la résidence des ancêtres méritants. C’est un l
 [^5]: [Corinne Bourbeillon](https://petitesbullesdailleurs.fr/author/cbourbeillon/). [Plonger dans les mystérieux cénotes des Mayas](https://petitesbullesdailleurs.fr/plonger-mexique-yucatan-cenotes-20140921/). In [Petites Bulles d’Ailleurs](https://petitesbullesdailleurs.fr/) [en ligne]. Mis à jour `20` `Décembre` `2019` [consulté le `15` `Janvier` `2021`]. Disponible sur : https://petitesbullesdailleurs.fr/plonger-mexique-yucatan-cenotes-20140921/
 
 [^6]: [Jenn F.](https://pause-voyage.fr/author/jenn/). [Evasion mystique assurée en visitant les cénotes des Mayas du Mexique](https://pause-voyage.fr/evasion-mystique-assuree-en-visitant-les-cenotes-des-mayas-du-mexique/). In [PAUSE VOYAGE](https://pause-voyage.fr/) [en ligne]. Mis à jour `2` `Janvier` `2021` [consulté le `15` `Janvier` `2021`]. Disponible sur : https://pause-voyage.fr/evasion-mystique-assuree-en-visitant-les-cenotes-des-mayas-du-mexique/
+
+[^7]: [Pourquoi les cénotes sont des sources mayas cruciales pour l'eau et le rituel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/). In https://www.greelane.com/fr [en ligne]. `3` `Juillet` `2019` [consulté le `18` `Janvier` `2021`]. Disponible sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/
