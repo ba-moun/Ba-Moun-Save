@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T15:57:52.363Z
+date: 2021-01-18T16:12:57.077Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -89,9 +89,26 @@ Pour les Mayas, le ciel est la résidence des ancêtres méritants. C’est un l
 
 ## Divinités Maya
 
-Les Mayas ont identifiés plusieurs divinités :
-* les dieux jumeaux : le Soleil et la Lune,
-* le dieu Chaac : dieu de la pluie qui demeure dans les `d’zonot`.
+Les Mayas ont identifiés plusieurs divinités.
+
+### Onglets{.tabset}
+
+#### Les dieux jumeaux[^3]
+
+Les dieux jumeaux sont liés au `soleil` et à la `lune`. Ces dieux sont réputés pour avoir gagné au jeu de balle contre les dieux dans le monde inférieur.
+
+#### Chaac[^8][^7]
+
+Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souterrain). Il est associé à :
+* la pluie,
+* le vent,
+* la foudre,
+* la croissance,
+* la germination,
+* l’agriculture,
+* la fertilité.
+
+#### Itzamana
 
 [^1]: [Christian Nitschelm](http://www.astrosurf.com/nitschelm/index.html). [La civilisation maya](http://www.astrosurf.com/nitschelm/Civilisation_Maya.html). In [Astrosurf](http://www.astrosurf.com/) [en ligne]. `Mai` `2007`, mise à jour `Mai` `2015` [consulté le `15` `Janvier` `2021`]. Disponible sur : http://www.astrosurf.com/nitschelm/Civilisation_Maya.html
 
@@ -106,3 +123,5 @@ Les Mayas ont identifiés plusieurs divinités :
 [^6]: [Jenn F.](https://pause-voyage.fr/author/jenn/). [Evasion mystique assurée en visitant les cénotes des Mayas du Mexique](https://pause-voyage.fr/evasion-mystique-assuree-en-visitant-les-cenotes-des-mayas-du-mexique/). In [PAUSE VOYAGE](https://pause-voyage.fr/) [en ligne]. Mis à jour `2` `Janvier` `2021` [consulté le `15` `Janvier` `2021`]. Disponible sur : https://pause-voyage.fr/evasion-mystique-assuree-en-visitant-les-cenotes-des-mayas-du-mexique/
 
 [^7]: [Pourquoi les cénotes sont des sources mayas cruciales pour l'eau et le rituel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/). In https://www.greelane.com/fr [en ligne]. `3` `Juillet` `2019` [consulté le `18` `Janvier` `2021`]. Disponible sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/
+
+[^8]: [Chaac](https://mythologica.fr/maya/chaak.htm). In [LE GRENIER DE CLIO](https://mythologica.fr/) [en ligne]. [consulté le `18` `Janvier` `2021`]. Disponible sur : https://mythologica.fr/maya/chaak.htm
