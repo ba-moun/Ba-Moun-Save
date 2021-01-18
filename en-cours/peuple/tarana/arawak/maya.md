@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T16:13:35.632Z
+date: 2021-01-18T16:21:23.644Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -41,9 +41,9 @@ Vers 800−900, la civilisation maya classique meurt. La royauté sacrée dispar
 * des `divinités aztèques`,
 * des `divinités toltèques`.
 
-# Vision de l’univers[^3]
+# Perception de l’univers[^3]
 
-Les Mayas considèrent que l’univers est constitué du monde inférieur, de la terre et du ciel.[^1]
+Les Mayas considèrent que l’univers est constitué de Xibalba (le monde inférieur), de la terre et du ciel.[^1]
 
 ## Le monde inférieur
 
@@ -93,13 +93,9 @@ Les Mayas ont identifiés plusieurs divinités.
 
 ### Onglets{.tabset}
 
-#### Les dieux jumeaux[^3]
-
-Les dieux jumeaux sont liés au `soleil` et à la `lune`. Ces dieux sont réputés pour avoir gagné au jeu de balle contre les dieux dans le monde inférieur.
-
 #### Chaac[^8][^7]
 
-Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souterrain). Il est associé à :
+Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souterrain). Son nom peut être orthographié Chaac, Chac ou Chaahk. Pour les Mayas et les Toltèques, il est associé à :
 * la pluie,
 * le vent,
 * la foudre,
@@ -110,6 +106,10 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 * la semence du maïs.
 
 #### Itzamana
+
+#### Les dieux jumeaux[^3]
+
+Les dieux jumeaux sont liés au `soleil` et à la `lune`. Ces dieux sont réputés pour avoir gagné au jeu de balle contre les dieux dans le monde inférieur.
 
 [^1]: [Christian Nitschelm](http://www.astrosurf.com/nitschelm/index.html). [La civilisation maya](http://www.astrosurf.com/nitschelm/Civilisation_Maya.html). In [Astrosurf](http://www.astrosurf.com/) [en ligne]. `Mai` `2007`, mise à jour `Mai` `2015` [consulté le `15` `Janvier` `2021`]. Disponible sur : http://www.astrosurf.com/nitschelm/Civilisation_Maya.html
 
@@ -126,3 +126,5 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 [^7]: [Pourquoi les cénotes sont des sources mayas cruciales pour l'eau et le rituel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/). In https://www.greelane.com/fr [en ligne]. `3` `Juillet` `2019` [consulté le `18` `Janvier` `2021`]. Disponible sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/cenotes-sinkholes-to-the-maya-underworld-169385/
 
 [^8]: [Chaac](https://mythologica.fr/maya/chaak.htm). In [LE GRENIER DE CLIO](https://mythologica.fr/) [en ligne]. [consulté le `18` `Janvier` `2021`]. Disponible sur : https://mythologica.fr/maya/chaak.htm
+
+[^9]: [Chac](https://fr.wikipedia.org/wiki/Chac). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `27` `Novembre` `2020` [consulté le `18` `Janvier` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Chac
