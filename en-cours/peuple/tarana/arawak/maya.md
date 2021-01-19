@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-19T13:18:27.156Z
+date: 2021-01-19T13:21:22.464Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -36,7 +36,7 @@ La spiritualité Maya considère que l’univers est constitué du monde inféri
 
 ### Le monde céleste[^4]
 
-Pour les Mayas, le ciel est la résidence des `ancêtres méritants`. Ce monde est composé de treize couches gouvernées par une divinité. C’est un lieu calme et agréable symbolisé par un serpent à deux têtes maintenu en l’air par d’énormes pilliers à chaque point cardinal. Ces pilliers sont d’énormes êtres qui sont tantôt des personnages gigantesques (les `bacab`), tantôt des arbres géants.
+Pour les Mayas, le ciel est la résidence des `ancêtres méritants`. Ce monde est composé de treize couches gouvernées par une divinité. C’est un lieu calme et agréable symbolisé par un serpent bicéphale maintenu en l’air par d’énormes pilliers à chaque point cardinal. Ces pilliers sont d’énormes êtres qui sont tantôt des personnages gigantesques (les `bacab`), tantôt des arbres géants.
 
 #### Les `Bacab`
 
