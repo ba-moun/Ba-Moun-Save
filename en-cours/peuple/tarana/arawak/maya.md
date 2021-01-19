@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-01-18T16:21:23.644Z
+date: 2021-01-19T12:48:51.520Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -11,8 +11,7 @@ dateCreated: 2021-01-14T14:17:36.463Z
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-Les Mayas sont un peuple de `Tarana`. Leur spiritualité polythéiste appartient aux `spiritualtiées` dites `mésoaméricaines`.
-Cette spiritualité considère que la création et la destruction sont des phénomènes cycliques. Les rituels et les cérémonies mayas sont liées à ces cycles terrestres et célestes. Un prètre est chargé d’interpréter ces cycles. Ainsi, le prêtre arrive à dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
+Les Mayas sont un peuple de `Tarana` (alias l’Amérique). Leur spiritualité polythéiste appartient aux `spiritualtiées` dites `mésoaméricaines`. La spiritualité Maya considère que la création et la destruction sont des phénomènes cycliques. Les rituels et les cérémonies mayas sont liées à ces cycles terrestres et célestes. Un prètre est chargé d’interpréter ces cycles. Ainsi, le prêtre arrive à dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
 Les cycles de création et de destruction sont recensés dans plusieurs calendriers[^3][^4] :
 * Tzolk’in : un calendrier sacré de 260 jours,
 * haab : un calendrier sacré de 365 jours,
@@ -43,9 +42,11 @@ Vers 800−900, la civilisation maya classique meurt. La royauté sacrée dispar
 
 # Perception de l’univers[^3]
 
-Les Mayas considèrent que l’univers est constitué de Xibalba (le monde inférieur), de la terre et du ciel.[^1]
+La spiritualité Maya considère que l’univers est constitué du monde inférieur (Xibalba), de la terre et du ciel.[^1]
 
-## Le monde inférieur
+## Onglets{.tabset}
+
+### Xibalba
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;">
    <img src="/images/geology/tzonot/tzonot_cc-by-sa.png">
@@ -74,7 +75,7 @@ Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`.
 > Pour les Maya, les `tzonot`, sont les portes du monde inférieur. Il s’avère justement que tous les `tzonot` sont reliés entre eux par un réseau sous-terrain principalement rempli d’eau. Cette eau est douce à l’entrée des `tzonot` mais salée dans les profondeurs. La salinité de l’eau vient du fait que les `tzonot`sont connectés à la mer des Caraïbes via ses réseaux sous-terrains. L’eau est douce en surface grâce à l’eau de pluie qui s’y dépose.
 {.is-info}
 
-## La monde terrestre
+### La monde terrestre
 
 Pour les Mayas, la terre représente le monde visible des humains. C’est le dos d’un immense crocodile des marais. Celle-ci est carrée, avec un point cardinal à chaque sommet[^1] :
 * l’est est rouge,
@@ -83,17 +84,20 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 * le sud est jaune,
 * le centre de la terre est vert.
 
-## Le monde céleste
+### Le monde céleste
 
 Pour les Mayas, le ciel est la résidence des ancêtres méritants. C’est un lieu calme et agréable symbolisé par un serpent à deux têtes qui est maintenu en l’air par d’énormes pilliers situés sur chaque point cardinal. Ces pilliers sont tantôt d’énomres arbres, tantôt des géants. Enfin, le monde céleste est composé de treize couches gouvernées par une divinité.
 
-## Divinités Maya
+# Divinités Maya
 
-Les Mayas ont identifiés plusieurs divinités.
+La spiritualité Maya identifie moult divinités. Cette particularité vient du fait qu’une même divinité peut être vue sous plusieurs facettes. Par exemple, une même divinité peut être scindée en plusieurs projections différentes en fonction du changement[^4] :
+* de son sexe,
+* de sa tranche d’âge (jeune ou âgée),
+* du monde dans lequel il se trouve (ex. : monde céleste ou monde souterrain).[^4]
 
-### Onglets{.tabset}
+## Onglets{.tabset}
 
-#### Chaac[^8][^7]
+### Chaac[^8][^7]
 
 Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souterrain). Son nom peut être orthographié Chaac, Chac ou Chaahk. Pour les Mayas et les Toltèques, il est associé à :
 * la pluie,
@@ -105,9 +109,9 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 * la germination,
 * la semence du maïs.
 
-#### Itzamana
+### Itzamana
 
-#### Les dieux jumeaux[^3]
+### Les dieux jumeaux[^3]
 
 Les dieux jumeaux sont liés au `soleil` et à la `lune`. Ces dieux sont réputés pour avoir gagné au jeu de balle contre les dieux dans le monde inférieur.
 
