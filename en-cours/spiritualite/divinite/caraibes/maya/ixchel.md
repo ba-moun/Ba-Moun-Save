@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-03T18:09:37.230Z
+date: 2021-02-03T18:12:18.705Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -16,6 +16,8 @@ Cette déesse date de la période dite `classique` et `post-classique` tardive `
 >
 > Les `taïnos` ont adopté cette divinité.
 {.is-info}
+
+`Ixchel` réside tantôt dans le ciel, tantôt dans dans les `xonot` (l’entrée du monde souterrain).
 
 [^1]: [Déesse maya de la lune, fertilité et mort, Ix Chel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/). https://www.greelane.com/fr [en ligne]. `22` `Février` `2019`, [consulté le `03` `Février` `2021`]. Disponibilité sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/
 
