@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-01-13T16:45:45.401Z
+date: 2021-02-03T15:50:58.439Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -90,6 +90,8 @@ Ci-dessous quelques savoir-faires ***Taïnos*** :
 * la vannerie en osier ou en bananier,
 * la poterie en céramique (cruche, jarres, etc.),
 * le travail du bois et de l'or.
+
+La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est à l’origine la déesse maya de la lune. Son sanctuaire se trouve sur l'île de `Cozumel`.[^3]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
