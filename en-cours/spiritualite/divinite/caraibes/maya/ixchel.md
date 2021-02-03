@@ -2,14 +2,15 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-03T17:43:41.796Z
+date: 2021-02-03T18:09:37.230Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
 ---
 
-`Ixchel` (alias `Ix Chel`) est la déesse maya de la lune. Son sanctuaire se trouve sur une île nommée `Cozumel`.[^10]
-La déesse `Ixchel` est liée à la fertilité et à la procréation. Son nom peut se traduire par « la dame arc-en-ciel » ou « celle au visage pâle ».[^1]
+`Ixchel` (alias `Ix Chel`) est la déesse maya de la lune. Son sanctuaire se trouve à `Isla Mujeres` et sur une île nommée `Cozumel` (`Mexique`).[^10]
+La déesse `Ixchel` est liée à la fertilité et à la procréation et à l’amour phisique. Son nom peut se traduire par ***la dame arc-en-ciel*** ou *** celle au visage pâle***. Toutefois, elle peut aussi être appelée la ***déesse I*** ou la ***déesse O***. Elle peut être repéresentée par une femme âgée ou une jeune dame évoquant le plaisir des sens.
+Cette déesse date de la période dite `classique` et `post-classique` tardive `maya`.[^1]
 
 > **Le saviez-vous ?**[^10]
 >
