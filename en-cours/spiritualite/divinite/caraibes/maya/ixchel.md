@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-08T00:50:36.349Z
+date: 2021-02-08T09:25:12.622Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -15,7 +15,13 @@ dateCreated: 2021-02-03T17:27:26.870Z
 > Les `taïnos` ont adopté cette divinité.
 {.is-info}
 
-# Représentations[^1]
+# Histoire[^2]
+
+La déesse ***Ixchel*** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, après qu’un cerf lui aplatisse le ventre, la déesse ***Ixchel*** 
+
+Une fois mariée, Ixchel découvrit sa stérilité et plongea dans un grand désespoir (en fait, la déesse était dénuée d’organes reproducteurs). Un jour, un cerf parut et piétina son ventre, la rendant ainsi apte à porter des enfants, le Bacabs.
+
+# Projections[^1]
 
 La déesse ***Ixchel*** est liée à :
 * la fertilité,
@@ -45,6 +51,11 @@ La ***déesse I*** correspond à l’une des formes de ***Ixchel***.
 Sous cette forme, ***Ixchel*** est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le « `codex de Madrid` », ***Ixchel*** peut apparaitre jeune comme vieille.
 Elle est associée au croissant de lune et au lapin.
 
+> **Le saviez-vous ?**[^3]
+>
+> Les livres `mayas` sont appelés `codex` (`codices`) en français.
+{.is-info}
+
 La ***déesse I*** peut s’appeler :
 * ***Ix Kanab*** = « ***l'enfant de la Dame des mers*** »,
 * ***Ix Tan Dz'onot*** = « ***l'enfant d'elle au milieu du tzonot*** »
@@ -61,8 +72,10 @@ La ***déesse O*** est une femme âgée. Sa puissance est telle qu’elle est as
 
 Étant mariée à `Itzamna`, la ***déesse O*** est l’un des deux dieux créeteurs `mayas`.[^2]
 
-[^1]: [Déesse maya de la lune, fertilité et mort, Ix Chel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/). https://www.greelane.com/fr [en ligne]. `22` `Février` `2019`, [consulté le `03` `Février` `2021`]. Disponibilité sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/
+[^1]: [Déesse maya de la lune, fertilité et mort, Ix Chel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/). https://www.greelane.com/fr [en ligne]. `22` `Février` `2019`, [consulté le `03` `Février` `2021`]. Disponible sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/
 
-[^2]: Ombrelune. [Ixchel: déesse de la Lune (Maya)](https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html). [PORTRAITS DE LUNES](https://portraitsdelunes.blogspot.com/) [en ligne]. `14` `Juin` `2010`, [consulté le `08` `Février` `2021`]. Disponibilité sur : https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html
+[^2]: Ombrelune. [Ixchel: déesse de la Lune (Maya)](https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html). [PORTRAITS DE LUNES](https://portraitsdelunes.blogspot.com/) [en ligne]. `14` `Juin` `2010`, [consulté le `08` `Février` `2021`]. Disponible sur : https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html
+
+[^3]: [Les anciens Mayas avaient-ils des livres?](https://www.greelane.com/fr/sciences-humaines/histoire-et-culture/maya-books-overview-2136169). https://www.greelane.com/fr [en ligne]. `28` `Janvier` `2019`, [consulté le `08` `Février` `2021`]. Disponibile sur : https://www.greelane.com/fr/sciences-humaines/histoire-et-culture/maya-books-overview-2136169
 
 [^10]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
