@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-07T23:10:30.992Z
+date: 2021-02-08T00:35:50.415Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -23,7 +23,14 @@ La déesse ***Ixchel*** est liée à :
 * le mariage
 * l’amour physique.
 
-Son nom peut se traduire par ***la dame arc-en-ciel*** ou ***celle au visage pâle***. Toutefois, elle peut aussi être appelée la ***déesse I*** ou la ***déesse O***.
+***Ixchel*** peut se traduire par ***la dame arc-en-ciel*** ou ***celle au visage pâle***. Toutefois, elle peut aussi être appelée la ***déesse I*** ou la ***déesse O***. En `2019`, les `mayanistes` hésitent entre le fait que la ***déesse I*** et la ***déesse O*** sont :
+* deux entités distinctes,
+* ou une seule et même entité représentant la déesse de la lune.
+
+> **Le saviez-vous ?**
+>
+> Un `mayaniste` est une personne (professionnelle ou non) qui fait des recherches sur les `Mayas`.
+{.is-info}
 
 ## La ***déesse I***
 
@@ -39,7 +46,13 @@ La ***déesse I*** peut s’appeler :
 
 ## La ***déesse O***
 
-Elle peut être repéresentée par une femme âgée ou une jeune dame évoquant le plaisir des sens.
+La ***déesse O*** est une femme âgée. Sa puissance est telle qu’elle est associée à :
+* la naissance du monde,
+* la création du monde,
+* la mort du monde,
+* la destruction du monde.
+
+Étant mariée à `Itzamna`, la ***déesse O*** est l’un des deux dieux créeteurs `mayas`.
 
 [^1]: [Déesse maya de la lune, fertilité et mort, Ix Chel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/). https://www.greelane.com/fr [en ligne]. `22` `Février` `2019`, [consulté le `03` `Février` `2021`]. Disponibilité sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/
 
