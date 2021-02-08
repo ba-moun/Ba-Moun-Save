@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-08T00:45:08.279Z
+date: 2021-02-08T00:50:36.349Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -30,6 +30,13 @@ La déesse ***Ixchel*** est liée à :
 > **Le saviez-vous ?**
 >
 > Un `mayaniste` est une personne (professionnelle ou non) qui fait des recherches sur les `Mayas`.
+{.is-info}
+
+Tantôt ***Ixchel*** est l’épouse de `Itzamna` (le dieu suprême), tantôt celle du dieu soleil `Kinich Ahau`.[^2]
+
+> **Le saviez-vous ?**[^2]
+>
+> Il est possible que `Itzamna` et `Kinich Ahau` soient deux projections d’une même entité.
 {.is-info}
 
 ## La ***déesse I***
