@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-08T00:35:50.415Z
+date: 2021-02-08T00:45:08.279Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -52,8 +52,10 @@ La ***déesse O*** est une femme âgée. Sa puissance est telle qu’elle est as
 * la mort du monde,
 * la destruction du monde.
 
-Étant mariée à `Itzamna`, la ***déesse O*** est l’un des deux dieux créeteurs `mayas`.
+Étant mariée à `Itzamna`, la ***déesse O*** est l’un des deux dieux créeteurs `mayas`.[^2]
 
 [^1]: [Déesse maya de la lune, fertilité et mort, Ix Chel](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/). https://www.greelane.com/fr [en ligne]. `22` `Février` `2019`, [consulté le `03` `Février` `2021`]. Disponibilité sur : https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/sciences-sociales/ix-chel-mayan-goddess-moon-fertility-death-171592/
+
+[^2]: Ombrelune. [Ixchel: déesse de la Lune (Maya)](https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html). [PORTRAITS DE LUNES](https://portraitsdelunes.blogspot.com/) [en ligne]. `14` `Juin` `2010`, [consulté le `08` `Février` `2021`]. Disponibilité sur : https://portraitsdelunes.blogspot.com/2010/06/ixchel-deesse-de-la-lune-maya.html
 
 [^10]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
