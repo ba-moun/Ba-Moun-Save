@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-02-09T10:54:19.003Z
+date: 2021-02-09T10:59:59.345Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -110,22 +110,17 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 ### Ixchel
 
 Cette déesse date des périodes dites `classique` et `post-classique` tardive `maya`.
-`Ixchel` (alias `Ix Chel`, `aixchel` ou `yschel`) est la déesse maya de la lune.
+`Ixchel` (alias `Ix Chel`, `aixchel` ou `yschel`) est la déesse maya de la lune. De plus, les `Taïnos` ont adopté cette divinité.
 Avec trois autres déesses, `Ixchel` a été vénéré sur les îles `Isla de Mujeres` et `Cozumel` (`Mexique`). Les femmes `mayas` allaient en pélerinage à `Cozumel` pour demander de l’aide aux quatre divinités qui s’y trouvent.
-La déesse `Ixchel` réside tantôt dans le ciel, tantôt dans les `tzonot` (l’entrée du monde souterrain). Au début des `invasions européennes`, les `Mayas` qui vouent un culte à la déesse `Ixchel` sont[^13][^10] :
-* les `Mayas Chontal`,
-* les `Mayas Manche Chol`,
-* les `Mayas Yucatec`,
-* les `Mayas Pocomchi`.
-
-> **Le saviez-vous ?**[^10]
->
-> Les `taïnos` ont adopté cette divinité.
-{.is-info}
+La déesse `Ixchel` réside tantôt dans le ciel, tantôt dans les `tzonot`. Au début des `invasions européennes`, les `Mayas` qui vouent un culte à la déesse `Ixchel` sont[^13][^10] :
+* les `Chontal`,
+* les `Manche Chol`,
+* les `Yucatec`,
+* les `Pocomchi`.
 
 #### Histoire[^12]
 
-La déesse ***Ixchel*** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, après qu’un cerf lui aplatisse le ventre, la déesse ***Ixchel*** 
+La déesse ***Ixchel*** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, après qu’un cerf lui aplatisse le ventre, la déesse ***Ixchel*** est devenue fertile.
 
 Une fois mariée, Ixchel découvrit sa stérilité et plongea dans un grand désespoir (en fait, la déesse était dénuée d’organes reproducteurs). Un jour, un cerf parut et piétina son ventre, la rendant ainsi apte à porter des enfants, le Bacabs.
 
