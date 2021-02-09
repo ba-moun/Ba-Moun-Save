@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-02-09T10:28:43.178Z
+date: 2021-02-09T10:54:19.003Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -109,15 +109,10 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 
 ### Ixchel
 
-`Ixchel` est la déesse de la lune. Son sanctuaire se trouve sur une île nommée `Cozumel`.[^10]
-
-> **Le saviez-vous ?**[^10]
->
-> Les `taïnos` ont adopté cette divinité.
-{.is-info}
-
-***Ixchel*** (alias ***Ix Chel***, ***aixchel** ou ***yschel***) est la déesse maya de la lune. Avec trois autres déesses, ***Ixchel*** a été vénéré sur les îles `Isla de Mujeres` et `Cozumel` (`Mexique`). Les femmes `mayas` vont en pélerinage à `Cozumel` pour demander de l’aide aux quatre divinités qui s’y trouvent.
-***Ixchel*** réside tantôt dans le ciel, tantôt dans dans les `tzonot` (l’entrée du monde souterrain). Cette déesse date de la période dite `classique` et `post-classique` tardive `maya`. Au début des `invasions européennes`, les peuples qui vouent toujours un culte à la déesse ***Ixchel*** sont[^13][^10] :
+Cette déesse date des périodes dites `classique` et `post-classique` tardive `maya`.
+`Ixchel` (alias `Ix Chel`, `aixchel` ou `yschel`) est la déesse maya de la lune.
+Avec trois autres déesses, `Ixchel` a été vénéré sur les îles `Isla de Mujeres` et `Cozumel` (`Mexique`). Les femmes `mayas` allaient en pélerinage à `Cozumel` pour demander de l’aide aux quatre divinités qui s’y trouvent.
+La déesse `Ixchel` réside tantôt dans le ciel, tantôt dans les `tzonot` (l’entrée du monde souterrain). Au début des `invasions européennes`, les `Mayas` qui vouent un culte à la déesse `Ixchel` sont[^13][^10] :
 * les `Mayas Chontal`,
 * les `Mayas Manche Chol`,
 * les `Mayas Yucatec`,
