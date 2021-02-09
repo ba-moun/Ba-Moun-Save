@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-02-09T11:08:53.776Z
+date: 2021-02-09T11:09:36.512Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -149,7 +149,7 @@ Tantôt `Ixchel` est l’épouse de `Itzamna` (le dieu suprême), tantôt celle 
 ##### La `déesse I`
 
 La `déesse I` correspond à l’une des formes de `Ixchel`.
-Sous cette forme, `Ixchel` est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le `codex de Madrid`, ***Ixchel*** peut apparaitre jeune comme vieille.
+Sous cette forme, `Ixchel` est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le `codex de Madrid`, `Ixchel` peut apparaitre jeune comme vieille.
 Elle est associée au croissant de lune et au lapin.
 
 > **Le saviez-vous ?**[^11]
