@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-09T10:56:45.073Z
+date: 2021-02-09T11:14:21.406Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -22,9 +22,7 @@ dateCreated: 2021-02-03T17:27:26.870Z
 
 # Histoire[^2]
 
-La déesse ***Ixchel*** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, après qu’un cerf lui aplatisse le ventre, la déesse ***Ixchel*** 
-
-Une fois mariée, Ixchel découvrit sa stérilité et plongea dans un grand désespoir (en fait, la déesse était dénuée d’organes reproducteurs). Un jour, un cerf parut et piétina son ventre, la rendant ainsi apte à porter des enfants, le Bacabs.
+La déesse `Ixchel` a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, un cerf lui applatit le ventre. Dès lors, la déesse `Ixchel` est devenue fertile et capable d’enfenter les `Bacabs`.
 
 # Projections[^1]
 
