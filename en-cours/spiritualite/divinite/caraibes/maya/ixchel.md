@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-09T10:50:18.036Z
+date: 2021-02-09T10:56:45.073Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -17,7 +17,7 @@ dateCreated: 2021-02-03T17:27:26.870Z
 
 > **Le saviez-vous ?**[^10]
 >
-> Les `taïnos` ont adopté cette divinité.
+> Les `Taïnos` ont adopté cette divinité.
 {.is-info}
 
 # Histoire[^2]
