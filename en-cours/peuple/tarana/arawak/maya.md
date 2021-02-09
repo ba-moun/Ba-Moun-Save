@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-02-09T11:09:36.512Z
+date: 2021-02-09T11:13:33.588Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -159,9 +159,9 @@ Elle est associée au croissant de lune et au lapin.
 
 La `déesse I` peut s’appeler :
 * `Ix Kanab` = `l'enfant de la Dame des mers`,
-* `Ix Tan Dz'onot` = `l'enfant d'elle au milieu du tzonot`,
-* `Ixik Uh` = `Madame Lunȅ   (cf. `codex` de Madrid et de Dresde),
-* `Ixik Kab` = `Madame Terre` (cf. `codex` de Madrid et de Dresde) : associée au tissage dans la période post-classique. Sa forme âgée peut être représentée en train de tisser ou de porter une paire d'éléments en forme de corne sur sa tête. Ces cornes représentent probablement des fuseaux.
+* `Ix Tan Dz'onot` = `l'enfant d'elle-même au milieu du tzonot`,
+* `Ixik Uh` = `Madame Lune` (cf. `codex` de Madrid et de Dresde),
+* `Ixik Kab` = `Madame Terre` (cf. `codex` de Madrid et de Dresde) : associée au tissage dans la période post-classique, sa forme âgée est représentée en train de tisser ou couronnée de fuseaux.
 
 ##### La `déesse O`
 
@@ -171,7 +171,7 @@ La `déesse O` est une femme âgée. Sa puissance est telle qu’elle est associ
 * la mort du monde,
 * la destruction du monde.
 
-Étant mariée à `Itzamna`, la ***déesse O*** est l’un des deux dieux créeteurs `mayas`.[^12]
+Étant mariée à `Itzamna`, la `déesse O` est l’une des deux divinités créatrices `mayas`.[^12]
 
 
 ### Les dieux jumeaux[^3]
