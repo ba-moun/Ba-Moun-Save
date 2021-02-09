@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: true
-date: 2021-02-09T10:59:59.345Z
+date: 2021-02-09T11:08:53.776Z
 tags: divinité, spiritualité, tarana, religion, maya, spiritualité maya, religion maya, spiritualité de tarana, religion de tarana, cenote, d’zonote, monde, univers, monde souterrain, monde terrestre, terre, monde céleste, ciel, mort, soleil, dieu, dieu maya, divinité maya, dieu soleil, lune, dieu lune, dieu jumeau, vénus, dieu vénus, dieu aztèque, dieu toltèque, dieu pluie, divinité de la puie, divinité solaire, divinité lunaire, dieu lunaire, dieu solaire, divinité aztèque, divinité toltèque, calendrier sacré, calendrier sacré maya, calendrier maya, tzolk’in, haab, calendrier lunaire, compte long, compte long maya, calendirer
 editor: markdown
 dateCreated: 2021-01-14T14:17:36.463Z
@@ -120,19 +120,17 @@ La déesse `Ixchel` réside tantôt dans le ciel, tantôt dans les `tzonot`. Au 
 
 #### Histoire[^12]
 
-La déesse ***Ixchel*** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, après qu’un cerf lui aplatisse le ventre, la déesse ***Ixchel*** est devenue fertile.
-
-Une fois mariée, Ixchel découvrit sa stérilité et plongea dans un grand désespoir (en fait, la déesse était dénuée d’organes reproducteurs). Un jour, un cerf parut et piétina son ventre, la rendant ainsi apte à porter des enfants, le Bacabs.
+La déesse `Ixchel` a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, un cerf lui applatit le ventre. Dès lors, la déesse `Ixchel` est devenue fertile et capable d’enfenter les `Bacabs`.
 
 #### Projections[^13]
 
-La déesse ***Ixchel*** est liée à :
+La déesse `Ixchel` est liée à :
 * la fertilité,
 * la procréation,
 * le mariage
 * l’amour physique.
 
-***Ixchel*** peut se traduire par ***la dame arc-en-ciel*** ou ***celle au visage pâle***. Toutefois, elle peut aussi être appelée la ***déesse I*** ou la ***déesse O***. En `2019`, les `mayanistes` hésitent entre le fait que la ***déesse I*** et la ***déesse O*** sont :
+`Ixchel` peut se traduire par `la dame arc-en-ciel` ou `celle au visage pâle`. Toutefois, elle peut aussi être appelée la `déesse I` ou la `déesse O`. En `2019`, les `mayanistes` hésitent entre le fait que la `déesse I` et la `déesse O` sont :
 * deux entités distinctes,
 * ou une seule et même entité représentant la déesse de la lune.
 
@@ -141,17 +139,17 @@ La déesse ***Ixchel*** est liée à :
 > Un `mayaniste` est une personne (professionnelle ou non) qui fait des recherches sur les `Mayas`.
 {.is-info}
 
-Tantôt ***Ixchel*** est l’épouse de `Itzamna` (le dieu suprême), tantôt celle du dieu soleil `Kinich Ahau`.[^12]
+Tantôt `Ixchel` est l’épouse de `Itzamna` (le dieu suprême), tantôt celle du dieu soleil `Kinich Ahau`.[^12]
 
 > **Le saviez-vous ?**[^12]
 >
 > Il est possible que `Itzamna` et `Kinich Ahau` soient deux projections d’une même entité.
 {.is-info}
 
-##### La ***déesse I***
+##### La `déesse I`
 
-La ***déesse I*** correspond à l’une des formes de ***Ixchel***.
-Sous cette forme, ***Ixchel*** est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le « `codex de Madrid` », ***Ixchel*** peut apparaitre jeune comme vieille.
+La `déesse I` correspond à l’une des formes de `Ixchel`.
+Sous cette forme, `Ixchel` est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le `codex de Madrid`, ***Ixchel*** peut apparaitre jeune comme vieille.
 Elle est associée au croissant de lune et au lapin.
 
 > **Le saviez-vous ?**[^11]
@@ -159,15 +157,15 @@ Elle est associée au croissant de lune et au lapin.
 > Les livres `mayas` sont appelés `codex` (`codices`) en français.
 {.is-info}
 
-La ***déesse I*** peut s’appeler :
-* ***Ix Kanab*** = « ***l'enfant de la Dame des mers*** »,
-* ***Ix Tan Dz'onot*** = « ***l'enfant d'elle au milieu du tzonot*** »
-* ***Ixik Uh*** = « ***Madame Lune*** »  (cf. « `codex` de Madrid et de Dresde »),
-* ***Ixik Kab*** = « ***Madame Terre*** » (cf. « `codex` de Madrid et de Dresde ») : associée au tissage dans la période post-classique. Sa forme âgée peut être représentée en train de tisser ou de porter une paire d'éléments en forme de corne sur sa tête. Ces cornes représentent probablement des fuseaux.
+La `déesse I` peut s’appeler :
+* `Ix Kanab` = `l'enfant de la Dame des mers`,
+* `Ix Tan Dz'onot` = `l'enfant d'elle au milieu du tzonot`,
+* `Ixik Uh` = `Madame Lunȅ   (cf. `codex` de Madrid et de Dresde),
+* `Ixik Kab` = `Madame Terre` (cf. `codex` de Madrid et de Dresde) : associée au tissage dans la période post-classique. Sa forme âgée peut être représentée en train de tisser ou de porter une paire d'éléments en forme de corne sur sa tête. Ces cornes représentent probablement des fuseaux.
 
-##### La ***déesse O***
+##### La `déesse O`
 
-La ***déesse O*** est une femme âgée. Sa puissance est telle qu’elle est associée à :
+La `déesse O` est une femme âgée. Sa puissance est telle qu’elle est associée à :
 * la naissance du monde,
 * la création du monde,
 * la mort du monde,
