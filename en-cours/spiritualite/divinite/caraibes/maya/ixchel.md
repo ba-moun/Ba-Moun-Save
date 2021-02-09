@@ -2,7 +2,7 @@
 title: Ixchel
 description: Présentation du dieu Ixchel
 published: true
-date: 2021-02-09T11:41:38.923Z
+date: 2021-02-09T13:37:28.312Z
 tags: divinité, maya, divinité maya, lune, divinité lunaire, ixchel, projection divine, divinité de la lune, déesse, déesse maya, déesse ixchel
 editor: markdown
 dateCreated: 2021-02-03T17:27:26.870Z
@@ -81,9 +81,11 @@ La ***déesse O*** est une femme âgée. Sa puissance est telle qu’elle est as
 
 Les `envahisseurs espagnoles` ont rapporté l’existence d’une statue en céramique de taille originale sur l’île `Cozumel`. Cette statue n’est autre que l’Oracle d’Ixchel.
 
-L’Oracle d’Ixchel a été consulté à chaque fondation d’une nouvelle colonie et en temps de guerre.
+L’Oracle d’Ixchel a été consulté par les `Mayas` à chaque fondation d’une nouvelle colonie et en temps de guerre.
 
-Les pèlerins auraient suivi sacbe (les chaussées mayas préparées) d'aussi loin que Tabasco, Xicalango, Champoton et Campeche pour vénérer la déesse. La route de pèlerinage maya a traversé le Yucatan d'ouest en est, reflétant le chemin de la lune à travers le ciel. Les dictionnaires coloniaux rapportent que les pèlerins étaient connus sous le nom de hula et les prêtres étaient Aj K'in. L'Aj K'in posa les questions des pèlerins à la statue et, en échange d'offrandes d' encens copal , de fruits et de sacrifices d'oiseaux et de chiens, rapporta les réponses dans la voix de l'oracle.
+Les pélerinages ont représenté le trajet de la lune dans le ciel. Ainsi, dans ce contexte, les `Mayas` traversaient le Yucatan d’ouest en est. En `maya`, les prêtres se nomment `Aj K'in` et les pélerins `Hula`. Les Aj K'in sont chargés de poser les questions des `Hula` aux statues et d’offrir à ces dernières de l’encens copal.
+
+L'Aj K'in posa les questions des pèlerins à la statue et, en échange d'offrandes d' encens copal , de fruits et de sacrifices d'oiseaux et de chiens, rapporta les réponses dans la voix de l'oracle.
 
 Francisco de Lopez de Gomara ( l'aumônier d' Hernan Cortes ) a décrit le sanctuaire de l'île de Cozumel comme une tour carrée, large à la base et faisant le tour. La moitié supérieure était dressée et en haut se trouvait une niche avec un toit de chaume et quatre ouvertures ou fenêtres. À l'intérieur de cet espace se trouvait une grande image creuse en argile cuite au four fixée au mur avec du plâtre à la chaux: c'était l'image de la déesse de la lune Ix Chel. 
 
