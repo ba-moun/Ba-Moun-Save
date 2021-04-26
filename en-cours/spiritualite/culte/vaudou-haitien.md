@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T16:12:04.852Z
+date: 2021-04-26T16:15:07.031Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -34,7 +34,9 @@ Quelques pratiques spirituelles ancestrales `Taïnos` se retrouvent dans le ***v
 * certaines tenues vestimentaires,
 * mode de vie,
 * manière de se vêtir,
-* la fabrication de poterie (cruche, govi, jarres, etc.).
+* la fabrication de poterie (cruche, govi, jarres, etc.),
+* le traçage des `vèvè`avec de la farine de maïs,
+* l’offrande de maïs grillé aux `Marasa`, de cacahuète grillé ou de piment pour les gédés.
 
 > **Le saviez-vous ?**[^2]
 > Sur l'île Haïti se trouvent des mines d'or et d'argent.
@@ -49,11 +51,6 @@ Les vaudouisant.e.s haïtiens héritent aussi des pratiques culinaires `Taïnos`
 * de la cacahuète,
 * du piment,
 * de la patate douce.
-
-> **Le saviez-vous ?**
->
-> L’utilisation de la farine de maïs pour tracer les `vèvè` est un héritage `Taïnos`.
-{.is-info}
 
 ### Ascendance Kamit
 
