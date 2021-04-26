@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T15:28:23.137Z
+date: 2021-04-26T15:32:57.389Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -47,10 +47,8 @@ Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***v�
 Le ***vaudou haïtien*** hérite de spiritualités distinctes qui se rejoignent sur certains points.
 
 * La comparaison des esprits aux êtres humains, aux animaux, aux plantes ou aux êtres inanimés :
-   * les `cémis` et les `fétiches` sont la représentation d’égrégores, sous forme d’objets scupltés par des êtres humains,
    * l’association des astres (ex. : soleil et lune) à des esprits,
-   * …
-* Enfermer des égrégores dans des objets inanimés conçus par l’être humain.
+* Enfermer des égrégores dans des objets inanimés conçus par l’être humain (`cémis` ou `fétiches`).
 
 # Influences
 
