@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:07:28.742Z
+date: 2021-04-26T13:25:01.202Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -84,7 +84,7 @@ Les ***Taïnos*** sont connus pour les coutumes suivantes :
 
 * utilisation du tabac pour contacter les défunts,
 * tatouages de symboles religieux pour éloigner les mauvais esprits,
-* ornement des lèvres et des oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
+* l'ornement des lèvres, des oreilles, du coup et de la tête avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent,
 
 > **Le saviez-vous ?**
 >
