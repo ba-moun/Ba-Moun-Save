@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-04-26T14:00:49.901Z
+date: 2021-04-26T14:01:13.032Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -118,7 +118,7 @@ Les `Taïnos` sont connus pour :
 Chez les `Taïnos` il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Deux faits permettent de comprendre l’hétérogénéité de cette pratique :
 * ne pas avoir d’enfant est une honte pour les `Taïnos`, il est donc primordial d’en avoir,
 * la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses, donc de plusieurs enfants,
-* les guerres dans la `Caraïbe` engendraient la mort, donc la diminution de la population. Pour pallier cela, les ***Taïnos*** renouvèle sa force vive par l’incitation à la fécondité.
+* les guerres dans la `Caraïbe` engendraient la mort, donc la diminution de la population. Pour pallier cela, les `Taïnos` renouvèle sa force vive par l’incitation à la fécondité.
 
 ### Génocide
 
