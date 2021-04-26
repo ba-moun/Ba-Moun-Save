@@ -2,11 +2,13 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T09:30:32.242Z
+date: 2021-04-26T12:04:00.855Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
 ---
+
+![caciques-de-haïti_domaine-public.png](/images/geography/island/haïti/caciques-de-haïti_domaine-public.png){.align-abstopright}
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
