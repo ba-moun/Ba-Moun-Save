@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T14:41:41.645Z
+date: 2021-04-26T14:45:36.075Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -16,6 +16,13 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
+# Ascendance[^1]
+
+Par l’histoire de son peuple et son emplacement géographique, le vaudou haïtien bénéficie d’une ascendance `Taïnos` et `Kamit`.
+
+## Onglets {.tabset}
+
+### Ascendance Taïnos
 
 Ci-dessous, des pratiques ancestrales `Taïnos` qui se retrouvent chez les vaudouisant.e.s d'Haïti[^1] :
 
@@ -30,6 +37,8 @@ Ci-dessous, des pratiques ancestrales `Taïnos` qui se retrouvent chez les vaudo
 > **Le saviez-vous ?**[^2]
 > Sur l'île Haïti se trouvent des mines d'or et d'argent.
 >{.is-info}
+
+### Ascendance Kamit
 
 Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***vèvè*** (peut s'écrire ***veve*** ou ***vévé***). Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai`.[^1]
 
