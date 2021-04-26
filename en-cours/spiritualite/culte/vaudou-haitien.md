@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-01-13T16:22:00.553Z
+date: 2021-04-26T13:16:51.903Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -20,7 +20,7 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 Ci-dessous, des particularités `Taïnos` qui se retrouvent chez les vaudouisant.e.s d'Haïti[^1] :
 
 * l'utilisation du tabac pour contacter les défunts,
-* les tatouages de symboles permettant d'éloigner les mauvais esprits,
+* le tatouage de symboles religieux,
 * l'ornement des lèvres et des oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent,
 * certaines tenues vestimentaires,
 * mode de vie,
@@ -36,7 +36,11 @@ Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***v�
 
 À l’instar des `Taïnos` avec leurs `cémies`, chaque bitasyon possède ses propres `lwa danti` (alias `ancêtres`, `lwa familiaux` ou `lwa raciaux`).[^1]
 
-[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
+# Organisation[^1]
+
+Les mambo et les hougan sont respectivement les prêtresses et les prêtres du ***vaudou haïtien***. À l’instar des `bohiques` chez les `Taïnos` ou le vaudou du continent, les mambo et les hougan exécutent le culte et les cérémonies religieuses.
+
+[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2^ème^ trimestre 2020.
 
 [^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
 
