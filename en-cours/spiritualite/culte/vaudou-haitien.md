@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T13:24:27.475Z
+date: 2021-04-26T13:26:30.340Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -24,7 +24,8 @@ Ci-dessous, des pratiques ancestrales `Taïnos` qui se retrouvent chez les vaudo
 * l'ornement des lèvres, des oreilles, du coup et de la tête avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent,
 * certaines tenues vestimentaires,
 * mode de vie,
-* manière de se vêtir.
+* manière de se vêtir,
+* la fabrication de poterie (cruche, govi, jarres, etc.).
 
 > **Le saviez-vous ?**[^2]
 > Sur l'île Haïti se trouvent des mines d'or et d'argent.
