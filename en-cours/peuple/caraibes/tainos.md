@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T06:51:32.361Z
+date: 2021-04-26T06:53:05.068Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-23T14:21:37.544Z
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Caciquat`). La société ***Taïnos*** est ainsi constituée de[^1] :
+***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Caciquat`).[^4] La société ***Taïnos*** est ainsi constituée de[^1] :
 
 * `Naborias` : villageois qui travaillent la terre,
 * `Bohiques` : chamans / prêtres,
@@ -101,5 +101,7 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 [^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
 
 [^3]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
+
+[^4]: [Caciquats d'Hispaniola](https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Juin` `2020` [consulté le `26` `Avril` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien
 
 [^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
