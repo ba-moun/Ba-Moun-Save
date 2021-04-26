@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T13:00:56.237Z
+date: 2021-04-26T13:14:55.619Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -23,22 +23,22 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 
 ## Onglets{.tabset}
 
-### Le Caciquat de `Xaragua`
+### Le Caciquat de Xaragua
 
-<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/cacique-jaragua_domaine-public.jpg"><figcaption>Le cacique Xaragua (alias Jaragua)<br/>(domaine public)</figcaption></figure>
+<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-jaragua_domaine-public.jpg"><figcaption>Le cacique Xaragua (alias Jaragua)<br/>(domaine public)</figcaption></figure>
 
 * Autre nom : `Jaragua`,
 * géolocalisation : sud-ouest,
 * cacique (en `1552`) : `Behechio` (homme).
    
-### Le caciquat de `Maguana`
+### Le caciquat de Maguana
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-maguana_domaine-public.jpg"><figcaption>Le cacique Maguana<br/>(domaine public)</figcaption></figure>
 
 * géolocalisation : centre de l’île, avec un accès à une partie du littoral sud,
 * cacique (en `1552`) : `Caonabó` (homme).
 
-### Le Caciquat de `Marién`
+### Le Caciquat de Marién
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-marien_domaine-public.jpg"><figcaption>Le cacique Marién<br />(domaine public)</figcaption></figure>
 
@@ -56,7 +56,7 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 * paysage : région montagneuse constituée de mines d’or et de cuivre,
 * superficie : supérieure à celle du royaume du Portugal, en `1552`.
 
-### Le caciquat de `Maguá`
+### Le caciquat de Maguá
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-magua_domaine-public.jpg"><figcaption>Le cacique Maguá<br/>(domaine public)</figcaption></figure>
 
@@ -72,7 +72,7 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
    * 80 lieues (<400 km) de latitude
    * entre 5,8 et 5,1 lieues (entre 25 et 30 km) de longitude.
 
-### Le caciquat de `Higüey`
+### Le caciquat de Higüey
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-higuey_domaine-public.jpg"><figcaption>Le cacique Higüey<br/>(domaine public)</figcaption></figure>
 
@@ -82,7 +82,7 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 
 Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
 
-[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
+[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2^ème^ trimestre 2020.
 
 [^2]: [Caciquats d'Hispaniola](https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Juin` `2020` [consulté le `26` `Avril` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien
 
