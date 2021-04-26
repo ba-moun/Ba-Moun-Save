@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T14:00:55.757Z
+date: 2021-04-26T14:11:33.829Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -33,10 +33,10 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-# Civilisation[^1][^5]
+# Civilisation[^3][^5][^1]
 
 Les `caciques` sont en charge d’une région. Leur pouvoir est absolu et le poste s’obtient par hérédité. Avec les `nitaïnos`, les `caciques` constituent toute la noblesse ***Taïnos***.[^5]
-À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`.
+À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représentent l’incarnation de `Yukiyú`. Ce sont les représentant du pouvoir solaire (alias dieu du feu).
 Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc.
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.
 Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le bohio) associés à la moitié serpent de la tribu.[^3]
