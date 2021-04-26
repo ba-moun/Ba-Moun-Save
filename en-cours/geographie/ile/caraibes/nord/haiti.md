@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T09:12:03.328Z
+date: 2021-04-26T09:24:56.313Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -18,6 +18,7 @@ Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes
 * Le Caciquat de `Xaragua` :
    * autre nom : `Jaragua` (homme),
    * géolocalisation : sud-ouest de l’île,
+   * cacique (en `1552`) : `Behechio` (homme).
 * Le caciquat de `Maguana` :
    * géolocalisation : centre de l’île, avec un accès à une partie du littoral sud,
    * cacique (en `1552`) : `Caonabó` (homme).
