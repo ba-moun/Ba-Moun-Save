@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T08:35:21.689Z
+date: 2021-04-26T08:40:08.909Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -15,9 +15,17 @@ dateCreated: 2021-04-26T06:52:19.539Z
 
 Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
 Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes. Ces régions sont délimitées par des éléments naturels comme de grands cours d’eau, de hautes montagnes, des vallées ou des plaines. Ci-après les cinq caciquats.[^1][^3]
-* Le Caciquat de `Xaragua` (alias `Jaragua`) qui s’étend sur le sud-ouest de l’île,
-* Le Caciquat de `Marien` qui se trouve au nord-ouest de  l’île. La superficie est supérieure à cellle du royaume du Portugal. En `1552`, le cacique de cette région se nomme `Guacanagarí`. Cette région montagneuse est constituée de mines d’or et de cuivre
-* Le caciquat de `Maguana` qui se trouve au centre avec un accès à une partie du littoral sud de l’île.
+* Le Caciquat de `Xaragua` :
+   * autre nom : `Jaragua`,
+   * géolocalisation : sud-ouest de l’île,
+* Le caciquat de `Maguana` :
+   * géolocalisation : centre de l’île, avec un accès à une partie du littoral sud,
+   * cacique (en `1552`) : `Caonabó`.
+* Le Caciquat de `Marien` :
+   * géolocalisation : nord-ouest de  l’île.,
+   * superficie : supérieure à cellle du royaume du Portugal,[^3]
+   * cacique (en `1552`) : `Guacanagarí`
+   * relief : région montagneuse constituée de mines d’or et de cuivre.
 * Le caciquat de `Maguá`.
 * Le caciquat de `Higüey`.
 
