@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T14:15:46.940Z
+date: 2021-04-26T15:44:48.773Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -57,7 +57,7 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
    * aux animaux,
    * aux plantes,
    * aux objets inanimés,
-* à l’instar des fétiches, les forces mystiques sont représentées par des statues nommées `cémi` ou `zémi`.
+* à l’instar des `fétiches`, les forces mystiques sont représentées par des statues nommées `cémi` ou `zémi`.
 
 > **Le saviez-vous ?**
 >
