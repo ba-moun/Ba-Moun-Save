@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:26:24.359Z
+date: 2021-04-26T13:46:14.025Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -43,6 +43,7 @@ Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le boh
 
 # Culture et savoir-faire[^1]
 
+## Spiritualité et religion
 <figure class="image image-style-align-right image_resized" style="width: 16%;">
    <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
    <figcaption>
@@ -80,6 +81,8 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
 > Chaque famille et chaque clan `Taïno` doit vouer un culte à ses ***cémies*** respectifs. Les prières sont directement adressées aux ***zémis***. De plus, les cultes, les rites et les sacrifices sont célébrés en leurs présences.
 {.is-info}
 
+## Coutumes
+
 Les ***Taïnos*** sont connus pour les coutumes suivantes :
 
 * utilisation du tabac pour contacter les défunts,
@@ -98,6 +101,12 @@ Ci-dessous quelques savoir-faires ***Taïnos*** :
 * le travail du bois et de l'or.
 
 La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est à l’origine la déesse maya de la lune. Son sanctuaire se trouve sur l'île de `Cozumel`.[^3]
+
+## Structure familiale
+
+Chez les ***Taïnos***, il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Deux faits permettent de comprendre l’hétérogénéité de cette pratique :
+* ne pas avoir d’enfant est une honte pour les ***Taïnos***, il est donc primordial d’en avoir,
+* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses, donc de plusieurs enfants.
 
 # Extermination[^1][^5]
 
