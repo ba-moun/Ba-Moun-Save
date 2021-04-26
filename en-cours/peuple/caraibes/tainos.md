@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:01:33.069Z
+date: 2021-04-26T13:01:57.746Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -33,7 +33,7 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-# Civilisation[^1]
+# Civilisation[^1][^5]
 
 Les `caciques` sont en charge d’une région. Leur pouvoir est absolu et le poste s’obtient par hérédité. Avec les `nitaïnos`, les `caciques` constituent toute la noblesse ***Taïnos***.[^5]
 À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`.
