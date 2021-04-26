@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-04-26T13:25:13.405Z
+date: 2021-04-26T13:50:48.813Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -56,7 +56,9 @@ Ce peuple s'est organisé en région. Par exemple, `l’île Haïti`^*^ est comp
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
 
-### Culture et savoir-faire[^1]
+### Sciences[^1]
+
+#### Spiritualité et religion
 
 <figure class="image image-style-align-right image_resized" style="width: 16%;">
    <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
@@ -95,6 +97,8 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
 > Chaque famille et chaque clan `Taïno` doit vouer un culte à ses ***cémies*** respectifs. Les prières sont directement adressées aux ***zémis***. De plus, les cultes, les rites et les sacrifices sont célébrés en leurs présences.
 {.is-info}
 
+#### Coutumes et savoir-faire
+
 Les `Taïnos` sont connus pour :
 
 * leur utilisation du tabac pour contacter les défunts,
@@ -108,6 +112,12 @@ Les `Taïnos` sont connus pour :
 >
 > Le `vaudou haïtien` a hérité de certaines coutumes ***Taïnos***. Il peut être cité l'utilisation du tabac et la représentation des `entités mystiques` (ex. vèvè).
 {.is-info}
+
+#### Structure familiale
+
+Chez les ***Taïnos***, il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Deux faits permettent de comprendre l’hétérogénéité de cette pratique :
+* ne pas avoir d’enfant est une honte pour les ***Taïnos***, il est donc primordial d’en avoir,
+* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses, donc de plusieurs enfants.
 
 ### Génocide
 
