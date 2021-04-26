@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T12:04:00.855Z
+date: 2021-04-26T12:15:22.193Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -15,8 +15,11 @@ dateCreated: 2021-04-26T06:52:19.539Z
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciques-de-haïti_domaine-public.png"><figcaption>Les cinq caciques de l’Haïti Taïnos</figcaption></figure>
 
-Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
-Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes. Ces régions sont délimitées par des éléments naturels comme de grands cours d’eau, de hautes montagnes, des vallées ou des plaines. Chaque région, dénommée `caciquat`, est régie par un `cacique` de façon héréditaire. Le pouvoir de ce derniesr est absolu.
+Dans l’archipel des antilles, `Haïti` fait partie des plus grandes îles situées au nord.
+
+# Territoires[^1][^3][^5]
+
+Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes. Ces régions sont délimitées par des éléments naturels comme de grands cours d’eau, de hautes montagnes, des vallées ou des plaines. Chaque région, dénommée `caciquat` (ou `cacique`), est régie par une personne nommée elle-aussi `cacique`. Il peut s’agir d’une femme ou d’un homme.
 Ci-après les cinq caciquats de `Haïti` (au temps des `Taïnos`).[^1][^3][^5]
 * Le Caciquat de `Xaragua` :
    * autre nom : `Jaragua` (homme),
@@ -44,6 +47,10 @@ Ci-après les cinq caciquats de `Haïti` (au temps des `Taïnos`).[^1][^3][^5]
          * les 25 000 rivières et ruisseaux dont la source provient des montagnes de l’ouest sont chargés d’or.
 * Le caciquat de `Higüey` :
    * cacique (en `1552`) : `Higuanamá` (femme).
+
+# Civilisation
+
+Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
