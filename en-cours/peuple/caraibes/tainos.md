@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:46:14.025Z
+date: 2021-04-26T13:52:19.168Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -41,7 +41,7 @@ Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels
 Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.
 Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le bohio) associés à la moitié serpent de la tribu.[^3]
 
-# Culture et savoir-faire[^1]
+# Sciences[^1]
 
 ## Spiritualité et religion
 <figure class="image image-style-align-right image_resized" style="width: 16%;">
@@ -106,7 +106,7 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 
 Chez les ***Taïnos***, il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Deux faits permettent de comprendre l’hétérogénéité de cette pratique :
 * ne pas avoir d’enfant est une honte pour les ***Taïnos***, il est donc primordial d’en avoir,
-* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses, donc de plusieurs enfants.
+* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses et par conséquent de plusieurs enfants.
 
 # Extermination[^1][^5]
 
