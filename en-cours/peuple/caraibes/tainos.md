@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T08:18:15.473Z
+date: 2021-04-26T08:18:50.539Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -108,4 +108,4 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 
 [^5]: Fray Bartolomé de las Casas. [Brevísima relación de la destrucción de las Indias](http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ciudadseva.com%2Ftextos%2Fotros%2Fbrevisi.htm). `1552`. Crónica de Indias: Texto completo.
 
-[^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
+[^10]: [Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
