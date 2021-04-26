@@ -2,7 +2,7 @@
 title: Arawak
 description: Présentation des Arawaks
 published: true
-date: 2021-01-13T16:45:47.282Z
+date: 2021-04-26T13:25:13.405Z
 tags: peuple, communauté, caraïbe, arawak, peuple arawak, communauté arawak, peuple de la caraïbe, autochtone de la caraïbe, autochtone, peuple taïnos, taïnos, organisation sociale, organisation sociale taïnos, bohique, bohiti, naborias, nitaínos, nitainos, cacique, kasik, kasika, yucayeque, guare
 editor: markdown
 dateCreated: 2020-12-22T16:06:01.108Z
@@ -99,7 +99,7 @@ Les `Taïnos` sont connus pour :
 
 * leur utilisation du tabac pour contacter les défunts,
 * leurs tatouages de symboles religieux pour éloigner les mauvais esprits,
-* l'ornement de leurs lèvres et de leurs oreilles avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent.
+* l'ornement des lèvres, des oreilles, du coup et de la tête avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent,
 * leurs vanneries en osier ou en bananier,
 * leurs poteries (cruche, govi, jarres, etc.),
 * leur travail du bois et de l'or.
