@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T06:55:50.207Z
+date: 2021-04-26T06:57:29.171Z
 tags: arawak, taïnos, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -18,7 +18,7 @@ Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes
 * le Caciquat de `Xaragua` (alias `Jaragua`) qui s’étend sur le sud-ouest de l’île,
 * le Caciquat de `Marien`
 
-La gouvernance des `Caciques` est héréditaire 
+La gouvernance des `Caciques` est héréditaire et absolu.[^1]
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
