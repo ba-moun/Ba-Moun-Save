@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:06:29.470Z
+date: 2021-04-26T13:07:28.742Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -23,7 +23,7 @@ Lors du `Yovodah`, les `envahisseurs européens` asservissent les ***Taïnos*** 
 Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacement des pays actuellement nommées[^1] :
 
 * `Cuba 🇨🇺`,
-* `Porto Rico`,
+* `Porto Rico 🇵🇷`,
 * `Haïti 🇭🇹`,
 * `République dominicaine 🇩🇴`.
 
