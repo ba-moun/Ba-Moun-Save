@@ -2,13 +2,16 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T05:40:36.682Z
+date: 2021-04-26T06:51:32.361Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
 ---
 
-***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Kasika`). La société ***Taïnos*** est ainsi constituée de[^1] :
+> Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
+{.is-info}
+
+***Taïnos*** signifie « ***les hommes bons*** ». Il s’agit du nom d’un peuple `Arawak` pacifique qui n’a travaillé que pour subvenir à ses besoins (ex. : nourriture et logement). Les ***Taïnos*** se sont organisés en région réparties dans les grandes îles de la Caraïbe. Par exemple, `l’île Haïti`^*^ est composée de cinq régions régies par leur `Cacique` (ou `Caciquat`). La société ***Taïnos*** est ainsi constituée de[^1] :
 
 * `Naborias` : villageois qui travaillent la terre,
 * `Bohiques` : chamans / prêtres,
