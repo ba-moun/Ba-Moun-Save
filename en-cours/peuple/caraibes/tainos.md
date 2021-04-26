@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:52:19.168Z
+date: 2021-04-26T14:00:55.757Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -104,9 +104,10 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 
 ## Structure familiale
 
-Chez les ***Taïnos***, il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Deux faits permettent de comprendre l’hétérogénéité de cette pratique :
+Chez les ***Taïnos***, il y a la polygamie. À l’inverse du reste de la population, il est habituel qu’un `cacique` pratique la polygamie. Trois faits permettent de comprendre la raison et l’hétérogénéité de cette pratique :
 * ne pas avoir d’enfant est une honte pour les ***Taïnos***, il est donc primordial d’en avoir,
-* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses et par conséquent de plusieurs enfants.
+* la richesse des `caciques` leurs a permis d’entrenir une famille de plusieurs épouses et par conséquent de plusieurs enfants,
+* les guerres dans la `Caraïbe` engendraient la mort, donc la diminution de la population. Pour pallier cela, les ***Taïnos*** renouvèle sa force vive par l’incitation à la fécondité.
 
 # Extermination[^1][^5]
 
