@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T13:05:14.701Z
+date: 2021-04-26T13:06:29.470Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -100,7 +100,7 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 
 # Extermination[^1][^5]
 
-Le déclin de la civilisation ***Taïnos*** a commencée avec le `Yovodah` qui leur a imposé travail forcé et sévices corporels.
+Le déclin de la civilisation ***Taïnos*** a commencée avec le `Yovodah` qui leur a imposé travail forcé et sévices corporels. Il est arrivé que les ***Taïnos*** se suicident pour ne pas vivre l’état de servitude imposé par les envahisseurs `leucodermes`.
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
 
