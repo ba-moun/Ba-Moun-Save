@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T13:26:30.340Z
+date: 2021-04-26T14:41:41.645Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -39,7 +39,10 @@ Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***v�
 
 # Organisation[^1]
 
-Les mambo et les hougan sont respectivement les prêtresses et les prêtres du ***vaudou haïtien***. À l’instar des `bohiques` chez les `Taïnos` ou le vaudou du continent, les mambo et les hougan exécutent le culte et les cérémonies religieuses.
+Les mambo et les hougan sont respectivement les prêtresses et les prêtres du ***vaudou haïtien***. À l’instar des `bohiques` chez les `Taïnos` ou le vaudou du continent les mambo et les hougan :
+* exécutent le culte et les cérémonies religieuses,
+* doivent faire preuve de sagesse,
+* doivent posséder la connaissance ésothérique de leur religion et de leur spiritualité.
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2^ème^ trimestre 2020.
 
