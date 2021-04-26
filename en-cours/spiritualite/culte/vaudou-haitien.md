@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T14:45:36.075Z
+date: 2021-04-26T14:56:22.073Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -18,7 +18,7 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 
 # Ascendance[^1]
 
-Par l’histoire de son peuple et son emplacement géographique, le vaudou haïtien bénéficie d’une ascendance `Taïnos` et `Kamit`.
+Par l’histoire de son peuple et son origine géographique, le vaudou haïtien bénéficie d’une ascendance `Taïnos` et `Kamit`. 
 
 ## Onglets {.tabset}
 
@@ -41,6 +41,10 @@ Ci-dessous, des pratiques ancestrales `Taïnos` qui se retrouvent chez les vaudo
 ### Ascendance Kamit
 
 Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***vèvè*** (peut s'écrire ***veve*** ou ***vévé***). Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai`.[^1]
+
+# Influences
+
+Les violences pratiquées pendant et après le `Yovodah` ont obligé les vaudouisants haïtiens à se cacher de leurs agresseurs. C’est la raison pour laquelle le ***vaudou haïtien*** est parsemé de `syncrétisme` entre les cultes ancestraux `Taïnos` ou `Kamit` et le christianisme.
 
 # Entités mystiques
 
