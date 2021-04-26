@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T09:05:01.347Z
+date: 2021-04-26T09:12:03.328Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -16,29 +16,30 @@ dateCreated: 2021-04-26T06:52:19.539Z
 Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
 Les `Taïnos` d’Haïti ont organisés l’île en cinq régions indépendantes. Ces régions sont délimitées par des éléments naturels comme de grands cours d’eau, de hautes montagnes, des vallées ou des plaines. Ci-après les cinq caciquats.[^1][^3]
 * Le Caciquat de `Xaragua` :
-   * autre nom : `Jaragua`,
+   * autre nom : `Jaragua` (homme),
    * géolocalisation : sud-ouest de l’île,
 * Le caciquat de `Maguana` :
    * géolocalisation : centre de l’île, avec un accès à une partie du littoral sud,
-   * cacique (en `1552`) : `Caonabó`.
+   * cacique (en `1552`) : `Caonabó` (homme).
 * Le Caciquat de `Marien` :
    * géolocalisation : nord-ouest de  l’île,
-   * cacique (en `1552`) : `Guacanagarí`
+   * cacique (en `1552`) : `Guacanagarí` (homme),
    * superficie : supérieure à cellle du royaume du Portugal,[^3]
    * paysage : région montagneuse constituée de mines d’or et de cuivre.
 * Le caciquat de `Maguá` :
    * traduction  : le royaume de la vallée,
    * géolocalisation : nord-est de l’île,
-   * cacique (en `1552`) : `Guarionex`,
+   * cacique (en `1552`) : `Guarionex` (homme),
    * superficie[^5] :
       * 80 lieues (<400 km) de lattitude
-      * entre 5,8 et 5,1 lieues (entre 25 et 30 km) de longitude.
-* Le caciquat de `Higüey`.
+      * entre 5,8 et 5,1 lieues (entre 25 et 30 km) de longitude,
    * paysage[^5] :
       * vallées hautes en altitude
       * 30 000 rivières et ruisseaux :
-         * douze extrêmement grands
-         * 25 000 rivières et ruisseaux, dont la source provient des montagnes de l’ouest, sont chargés d’or
+         * douze extrêmement grandes rivières,
+         * les 25 000 rivières et ruisseaux dont la source provient des montagnes de l’ouest sont chargés d’or.
+* Le caciquat de `Higüey` :
+   * cacique (en `1552`) : `Higuanamá` (femme).
 
 
 La gouvernance des `Caciques` est héréditaire et absolu.[^1]
