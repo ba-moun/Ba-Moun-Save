@@ -2,7 +2,7 @@
 title: Afrodescendant
 description: Présentation du terme afrodescendant
 published: true
-date: 2021-04-26T06:24:39.410Z
+date: 2021-04-26T06:27:48.085Z
 tags: africain, afrodescendant, afro-descendant, descendant d’africain, africain déporté, descendant d’africain déporté
 editor: markdown
 dateCreated: 2021-04-26T06:18:47.529Z
@@ -20,10 +20,9 @@ dateCreated: 2021-04-26T06:18:47.529Z
    </figcaption>
 </figure>
 
-Le *roi Ibrahim Njoya* (ou *Sultan Ibrahim Njoya*) est le XVIIème représentant du peuple `Bamoun`. Il appartient à la `dynastie Nchare Yen`. Ce *roi* règne de `1887` à `1933`. Il est déifié par son peuple suite aux miracles qu'il a accompli.[^1][^2]
+Afrodescendant (ou afro-descendant) désigne les personnes d’ascendance `kamit` (`africaine`), donc qui appartiennent à sa diaspora. 
 
-Le *Roi Ibrahim Njoya* né en `1876` de `Na Njapdnunke`, `sa mère`.[^1]
-Il se marie avec plus de six cent femmes dans le but de rassembler tous les critères de beauté féminins.[^2]
+
 
 La frise ci-dessous retrace quelques faits historiques liées au  *Sultan Ibrahim Njoya*.
 
