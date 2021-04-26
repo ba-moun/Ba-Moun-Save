@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T15:48:29.365Z
+date: 2021-04-26T15:56:01.410Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -51,13 +51,13 @@ Le ***bohique*** tient ses origines du boa (symbole de la connaissance) et de la
    </figcaption>
 </figure>
 
-Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`. Par exemple :
-* leur spiritualité est animiste étant donné que les esprits sont associés respectivement :
+Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Yocahú` (le jumeau du soleil). Leur spiritualité, même si différente, possède des points communs avec les spiritualités `Kamyout`.
+* La spiritualité taïnos associe les esprits :
    * aux humains,
    * aux animaux,
    * aux plantes,
    * aux objets inanimés,
-* à l’instar des `fétiches`, les `cémi` (alias `zémi`) sont des forces mystiques enfermées dans des statues en bois, en terre ou en pierre et potentiellement décorées d’os, de coquillages ou autre.
+* À l’instar des `fétiches`, les `cémis` (alias `zémis`) sont des forces mystiques enfermées dans des statues en bois, en terre ou en pierre. Elles peuvent être décorées d’os, de coquillages ou autre. De plus, ces `cémis` sont utilisés pour les prières et les cultes.
 
 > **Le saviez-vous ?**
 >
