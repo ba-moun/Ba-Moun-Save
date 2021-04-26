@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: true
-date: 2021-04-26T06:53:05.068Z
+date: 2021-04-26T08:18:15.473Z
 tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
 editor: markdown
 dateCreated: 2020-12-23T14:21:37.544Z
@@ -35,9 +35,11 @@ Avant le `Yovodah`, les ***Taïnos*** ont résidé, entre autre, à l’emplacem
 
 # Civilisation[^1]
 
-Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc. À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`.
-Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.[^3]
-Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le bohio) associés à la moitié serpent de la tribu.
+Les `caciques` sont en charge d’une région. Avec les `nitaïnos`, les `caciques` constituent toute la noblesse ***Taïnos***.[^5]
+À l’instar des `caciques` et des `nitaïnos`, les `bohiques` sont capables de communiquer avec les esprits. Par exemple, cette prouesse peut être vue lors du `rituel de la cohoba`. Les `bohiques` représent l’incarnation de `Yukiyú`.
+Les `bohiques`, accompagnés des `caciques`, représent les pouvoirs surnaturels du dieu de la nuit. Ce sont les représentants des croyances religieuses, étant en charge de l'exécution des rituels, cérémonies, cultes, etc.
+Avant une cérémonie divinatoire, les ***bohiques*** doivent pratiquer le jeun et l’abstinence. De plus, pour se purger, les ***bohiques*** disposent d’une boisson fermentée et d’une spatule vomitoire. Cette dernière est marquée d’un bandeau à l’effigie de leur clan.
+Le ***bohique*** tient ses origines du boa et de la maison rectangulaire (le bohio) associés à la moitié serpent de la tribu.[^3]
 
 # Culture et savoir-faire[^1]
 
@@ -103,5 +105,7 @@ La déesse `Ixchel` fait partie des divinités ***taïno***. Cette déesse est �
 [^3]: [Taïnos](https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `28` `Septembre` `2020` [consulté le `23` `Décembre` `2020`]. Disponible sur : https://fr.wikipedia.org/wiki/Ta%C3%AFnos#Soci%C3%A9t%C3%A9
 
 [^4]: [Caciquats d'Hispaniola](https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Juin` `2020` [consulté le `26` `Avril` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien
+
+[^5]: Fray Bartolomé de las Casas. [Brevísima relación de la destrucción de las Indias](http://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.ciudadseva.com%2Ftextos%2Fotros%2Fbrevisi.htm). `1552`. Crónica de Indias: Texto completo.
 
 [^10]: [ Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
