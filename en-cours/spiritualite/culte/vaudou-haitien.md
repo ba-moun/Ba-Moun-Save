@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: true
-date: 2021-04-26T15:53:00.198Z
+date: 2021-04-26T16:06:17.316Z
 tags: spiritualité, religion, religion haïtienne, culte haïtien, spiritualité haïtienne, spiritualité afro-caribéenne, religion afro-caribéenne, culte afro-caribéen, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, vaudou, spiritualité vaudou, culte vaudou, religion vaudou, vaudou haïtien, culte vauou haïtien, religion vaudou haïtienne, spiritualité vaudou haïtienne, pratique vaudou haïtienne, pratique spirituelle vaudou haïtienne, pratique spirituelle vaudou
 editor: markdown
 dateCreated: 2020-12-22T16:36:58.234Z
@@ -18,13 +18,15 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 
 # Ascendance[^1]
 
-Par l’histoire de son peuple et son origine géographique, le vaudou haïtien est une spiritualité hybride d’ascendance `Taïnos` et `Kamit`. 
+Par l’histoire de son peuple et son origine géographique, le vaudou haïtien bénéficie d’une spiritualité et de pratiques hybrides d’ascendance `Taïnos` et `Kamit`. 
 
 ## Onglets {.tabset}
 
 ### Ascendance Taïnos
 
-Le ***vaudou haïtien*** bénéficie des pratiques ancestrales `Taïnos` qui se retrouvent chez les vaudouisant.e.s d'Haïti[^1] :
+#### Spiritualité
+
+Quelques pratiques spirituelles ancestrales `Taïnos` se retrouvent dans le ***vaudou haïtien***[^1] :
 
 * l'utilisation du tabac pour contacter les défunts,
 * le tatouage de symboles religieux,
