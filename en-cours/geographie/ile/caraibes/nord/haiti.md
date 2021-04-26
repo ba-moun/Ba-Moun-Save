@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: true
-date: 2021-04-26T12:58:45.525Z
+date: 2021-04-26T13:00:56.237Z
 tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
 editor: markdown
 dateCreated: 2021-04-26T06:52:19.539Z
@@ -83,6 +83,8 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 Les `Taïnos` font partie du peuple `Arawak`. Ce sont des personnes pacifiques qui n’ont travaillées que pour subvenir à leurs besoins (ex. : nourriture et logement).
 
 [^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
+
+[^2]: [Caciquats d'Hispaniola](https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Juin` `2020` [consulté le `26` `Avril` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien
 
 [^3]: [Caciquats d'Hispaniola](https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `26` `Juin` `2020` [consulté le `26` `Avril` `2021`]. Disponible sur : https://fr.wikipedia.org/wiki/Caciquats_d%27Hispaniola#Caciquat_du_Marien
 
