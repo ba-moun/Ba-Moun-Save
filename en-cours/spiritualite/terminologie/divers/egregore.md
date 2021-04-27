@@ -2,7 +2,7 @@
 title: Égrégore
 description: Explication de ce qu’est un égrégore
 published: true
-date: 2021-04-27T17:30:45.634Z
+date: 2021-04-27T17:52:50.926Z
 tags: égrégore, masse d’énergie
 editor: markdown
 dateCreated: 2021-04-27T16:44:27.757Z
@@ -17,12 +17,11 @@ dateCreated: 2021-04-27T16:44:27.757Z
    </figcaption>
 </figure>
 
+Les égrégores sont des masses d’énergie qui renferment des divinités. Ces égrégores peuvent être utilisés pour prier, comme les `Taïnos` et leurs `zémi` ou les chrétiens devant la représentation de leurs saints.
+
 Les égrégores peuvent être représentés matériellement sous différentes formes :
-* statue,
-* statuette,
-* pendentif,
-* tatouage,
-* vèvè,
+* scuplture,
+* dessin,
 * …
 
 Ci-dessous quelques exemples d’égrégores.
@@ -34,3 +33,5 @@ Ci-dessous quelques exemples d’égrégores.
 | Croix nimbée | Regilion celte | <figure class="align-center" style="width: 32%;"><img src="/images/statue/celte/croix-celte.jpg"></figure> |
 | Vèvè de Papa Danbala Wédo Tokan | Vaudou haïtien | <figure class="align-center" style="width: 64%;"><img src="/images/writing/haïtienne/vaudou/vèvè/danbala-wedo-tokan.jpg"></figure> |
 | Drapeau du Ghana | Pays Ghana | <figure class="align-center" style="width: 64%;"><img src="/images/flag/ghana/flag-of-ghana_pixabay-license.png"></figure> |
+
+[^1]: Manbo Rosmy. Sans titre [audio WhatsApp]. Chimen Ginen, 2019.
