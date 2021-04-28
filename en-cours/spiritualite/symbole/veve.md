@@ -1,8 +1,8 @@
 ---
-title: Veve
-description: Présentation des veve
+title: Vèvè
+description: Présentation des vèvè
 published: true
-date: 2020-12-30T21:34:15.107Z
+date: 2021-04-28T07:27:49.063Z
 tags: vaudou, vaudou haïtien, veve, vévé, vèvè, haïti, vévé haïtien, vévé du vodou haïtien, vèvè du vaudou haïtien, veve du vaudou haïtien
 editor: markdown
 dateCreated: 2020-12-23T21:22:38.175Z
