@@ -2,7 +2,7 @@
 title: Lumination / Guidance / Éclairage
 description: Qu'est-ce qu'une lumination dans le vaudou haïtien&nbsp;?
 published: 1
-date: 2022-01-10T17:03:58.364Z
+date: 2022-01-10T17:04:18.604Z
 tags: bougie, cosmos, esprit, guidance, lampe, lumination, luminer, rada, rite rada, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, éclairage, étoile
 editor: markdown
 dateCreated: 2022-01-10T16:35:31.864Z
@@ -21,7 +21,7 @@ Contrairement à la bougie, la lampe est composée d'une matière grasse végét
 	* forte résonnance ancestrale
   * liée à `Ayizan Vélékété` (ou `Avlékété`)
 * l'huile de coco :
-	* symbole du ventre maternel, de la vie, de la matrice (en lien avec l'eau que contient la noix)
+	* symbole du ventre maternel, de la vie, de la matrice (en lien avec les mystères liés à l'eau que contient la noix)
 
 # Sources
 
