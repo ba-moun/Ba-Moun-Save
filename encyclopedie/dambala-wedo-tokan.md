@@ -2,13 +2,13 @@
 title: Papa Dambala Wédo Tokan
 description: Présentation de Papa Dambala Wédo Tokan
 published: 1
-date: 2022-01-10T18:02:09.997Z
+date: 2022-01-10T18:04:22.481Z
 tags: connaissance, cosmogonie, cosmogonie vaudou, dambala, dambala wédo, dambala wédo tokan, esprit, esprit serpent, esprit vaudou, loa, loa primordial, loa serpent, loa solaire, loa vaudou, papa danbala, papa danbala wédo tokan, serpent, énergie primordiale
 editor: markdown
 dateCreated: 2022-01-10T17:46:16.105Z
 ---
 
-*Papa Dambala Wédo Tokan* (diminutif : *Papa Dambala* ou *Dambala* pour les non-initiés) est le `loa androgyne` à l'origine de la création.
+*Papa Dambala Wédo Tokan* (*Papa Dambala*, *Dambala Wédo Tokan* ou *Dambala*) est le `loa androgyne` à l'origine de la création.
 Cette entité est présente sous divers noms dans divers `spiritualités kamyout`. Par exemple, son équivalent `Yorouba` est à l'origine de la création des êtres humains.
 *Dambala Wédo Tokan* symbolise l'âme, l'air et le feu.[^1]
 
