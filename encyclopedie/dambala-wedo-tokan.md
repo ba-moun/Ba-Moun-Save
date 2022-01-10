@@ -2,7 +2,7 @@
 title: Papa Dambala Wédo Tokan
 description: Présentation de Papa Dambala Wédo Tokan
 published: 1
-date: 2022-01-10T18:16:51.059Z
+date: 2022-01-10T18:39:54.990Z
 tags: connaissance, cosmogonie, cosmogonie vaudou, dambala, dambala wédo, dambala wédo tokan, esprit, esprit serpent, esprit vaudou, loa, loa primordial, loa serpent, loa solaire, loa vaudou, papa danbala, papa danbala wédo tokan, serpent, énergie primordiale
 editor: markdown
 dateCreated: 2022-01-10T17:46:16.105Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-10T17:46:16.105Z
 
 ![damballah-wedo-simple.jpg](/images/symboles/veve/damballah-wedo-simple.jpg){.align-abstopright}
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 64%;">
    <img src="/images/symboles/veve/damballah-wedo-complex.jpg">
    <figcaption>
       L'un des vèvè de <b>Papa Dambala Wédo Tokan</b><br/>
