@@ -1,9 +1,9 @@
 ---
 title: Lumination / Guidance / Éclairage
-description: Qu'est-ce qu'une lumination dans le vaudou haïtien ?
+description: Qu'est-ce qu'une lumination dans le vaudou haïtien&nbsp;?
 published: 1
-date: 2022-01-10T16:35:31.864Z
-tags: spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, lumination, guidance, éclairage, bougie, lampe, rite rada, rada
+date: 2022-01-10T16:38:25.193Z
+tags: bougie, guidance, lampe, lumination, rada, rite rada, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, éclairage
 editor: markdown
 dateCreated: 2022-01-10T16:35:31.864Z
 ---
@@ -12,6 +12,9 @@ Dans le `rite Rada`, une lumination (alias illumination, guidance ou éclairage)
 
 # La lampe
 
-Contrairement à la bougie, la lampe se fait avec une matière grasse végétale ou animale. Elle renforce les vibrations mystiques de la lumination effectuée. Dans le `rite Rada`, cette huile est versée dans une assiette blanche ou un bol blanc.[^1]
+Contrairement à la bougie, la lampe se fait avec une matière grasse végétale ou animale. Elle renforce les vibrations mystiques de la lumination effectuée.
+Dans le `rite Rada`, cette huile est versée dans une assiette blanche (symbole du cosmos) ou un bol blanc.[^1]
+
+# Sources
 
 [^1]:  [Manbo Sa'w Wè Sé Sa](https://www.facebook.com/rosmywaystv). Technique − Lumination sous le rite Rada [Conférence WhatsApp]. [Ife Nziga Moyo](https://www.facebook.com/IF%C3%89-Nzinga-Moyo-102447998373899/), `2022`. Conférences WhatsApp `Chimen Ginen`.
