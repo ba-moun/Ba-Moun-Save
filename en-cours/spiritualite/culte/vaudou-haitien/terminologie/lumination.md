@@ -2,7 +2,7 @@
 title: Lumination / Guidance / Éclairage
 description: Qu'est-ce qu'une lumination dans le vaudou haïtien&nbsp;?
 published: 1
-date: 2022-01-10T16:40:14.696Z
+date: 2022-01-10T16:48:20.562Z
 tags: bougie, guidance, lampe, lumination, rada, rite rada, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, éclairage
 editor: markdown
 dateCreated: 2022-01-10T16:35:31.864Z
@@ -13,7 +13,7 @@ Dans le `rite Rada`, une lumination (alias illumination, guidance ou éclairage)
 # La lampe
 
 Contrairement à la bougie, la lampe se fait avec une matière grasse végétale ou animale. Elle renforce les vibrations mystiques de la lumination effectuée.
-Dans le `rite Rada`, cette huile est versée dans une assiette blanche (symbole du cosmos) ou un bol blanc qui contient une mèche (symbole de l'esprit).[^1]
+Dans le `rite Rada`, cette huile est versée dans une assiette blanche (symbole du cosmos) ou un bol blanc qui contient une mèche (symbole de l'esprit). Quand vous luminez, la mèche représente votre esprit et le récipient blanc le cosmos. Une fois allumée, la flame au-dessus de votre mèche symbolise une étoile du cosmos.[^1]
 
 # Sources
 
