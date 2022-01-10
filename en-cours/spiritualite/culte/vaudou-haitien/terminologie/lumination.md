@@ -2,13 +2,13 @@
 title: Lumination / Guidance / Éclairage
 description: Qu'est-ce qu'une lumination dans le vaudou haïtien&nbsp;?
 published: 1
-date: 2022-01-10T17:29:54.264Z
+date: 2022-01-10T17:32:11.946Z
 tags: bougie, cosmos, esprit, guidance, lampe, lumination, luminer, rada, rite rada, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, éclairage, étoile
 editor: markdown
 dateCreated: 2022-01-10T16:35:31.864Z
 ---
 
-Dans le `rite Rada`, une *lumination* (ou *illumination*, *guidance*, *éclairage*) est le fait d'allumer une `bougie blanche` (couleur de la neutralité) ou une `lampe`. Cette pratique sert à se connecter à la matrice divine et à son âme.[^1]
+Dans le `rite Rada`, une *lumination* (ou *illumination*, *guidance*, *éclairage*) est le fait d'allumer une `bougie blanche` (couleur de la neutralité) ou une `lampe`. Dans le `rite Rada`, la *lumination* sert à se connecter à la `matrice divine` et à son âme.[^1]
 
 # La lampe
 
