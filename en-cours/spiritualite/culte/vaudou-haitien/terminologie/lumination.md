@@ -2,7 +2,7 @@
 title: Lumination / Guidance / Éclairage
 description: Qu'est-ce qu'une lumination dans le vaudou haïtien&nbsp;?
 published: 1
-date: 2022-01-10T17:25:08.627Z
+date: 2022-01-10T17:28:44.903Z
 tags: bougie, cosmos, esprit, guidance, lampe, lumination, luminer, rada, rite rada, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, éclairage, étoile
 editor: markdown
 dateCreated: 2022-01-10T16:35:31.864Z
@@ -18,7 +18,7 @@ Contrairement à la bougie, la lampe est composée d'une matière grasse végét
 
 > **Le saviez-vous ?**
 >
-> Les huiles suivantes peuvent être utilisées lors d'une lumination pour les énergies primordiales :[^1]
+> Les ***huiles douces*** sont recommandées lors d'une lumination pour des `énergies primordiales`. ces huiles peuvent être :[^1]
 > * l'huile d'olive :
 > 	* l'utilisation fréquente dans le vaudou haïtien vient des influences chrétiennes
 > * l'huile de palme :palm_tree: :
@@ -31,7 +31,7 @@ Contrairement à la bougie, la lampe est composée d'une matière grasse végét
 >   * lié à `Danbala Wèdo Tokan` : `loa` confondu avec le soleil
 > 	* tous les jours, la fleur de tournesol suit la courbe du soleil, ce qui l'associe au soleil
 >
-> :warning: Les huiles chaudes comme l'huile de carapate, l'huile d'animal et l'huile de ricin sont proscrites dès qu'il s'agit d'une lumination pour des énergies primordiales. Ces huiles sont définies comme étant des huiles chaudes.
+> :warning: Les ***huiles chaudes*** comme l'huile de carapate, les huiles animales et l'huile de ricin sont proscrites dès qu'il s'agit d'une lumination pour des énergies primordiales. Ces huiles sont dites chaudes.
 {.is-info}
 
 # Sources
