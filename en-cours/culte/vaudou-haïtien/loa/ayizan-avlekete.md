@@ -2,7 +2,7 @@
 title: Mambo Ayizan Avlékété
 description: Présentation du loa Ayizan Avlékété
 published: 1
-date: 2022-01-10T18:48:42.754Z
+date: 2022-01-10T18:57:18.743Z
 tags: ayizan, ayizan avlekete, initiation vaudou, loa, loa vaudou, mambo, mambo ayizan, mambo ayizan avlekete, palme
 editor: markdown
 dateCreated: 2022-01-10T17:41:22.866Z
@@ -12,12 +12,16 @@ dateCreated: 2022-01-10T17:41:22.866Z
 
 <figure class="image image-style-align-right image_resized" style="width: 32%;"><img src="/images/symboles/freemasonry/square-and-compases.png"><figcaption>Symbole franc-maçon similaire au vévé de <i>Mambo Ayizan Avlékété</i><br/></figcaption></figure>
 
-*Mambo Ayizan Avlékété* (*Mambo Ayizan Avélékété*, *Mambo Ayizan*, *Ayizan Vélékété*, *Ayizan Avlékété* ou *Ayizan*) est un `loa féminin` du `vaudou haïtien` qui symbolise l'illumination de l'être à travers le processus initiatique. Sa présence dans l'`initiation Kanzo` est sine qua non. En effet, *Mambo Ayizan Avlékété* symbolise l'esprit de l'initié.e là où le loa [Papa Dambala Wédo Tokan](/fr/encyclopedie/dambala-wedo-tokan) symbolise l'âme et `Ayida Wédo Tokan` le corps. *Mambo Ayizan* est la mère spirituelle primordiale qui initie les êtres humains au `vaudou haïtien` ; par conséquent, elle symbolise la mère de l'esprit de l'initié.e. 
-Dans la mythologie *Mambo Ayizan* est une `mambo` divinisée.[^1]
+*Mambo Ayizan Avlékété* (*Mambo Ayizan Avélékété*, *Mambo Ayizan*, *Ayizan Vélékété*, *Ayizan Avlékété* ou *Ayizan*) est un `loa féminin` du `vaudou haïtien`. Dans la `mythologie`, cette entité est une `mambo` divinisée.[^1]
+
+# Symbolisme[^1]
+
+*Mambo Ayizan* symbolise l'illumination de l'être à travers le processus initiatique. Sa présence dans l'`initiation Kanzo` est sine qua non car elle est associée à l'esprit de l'initié.e étant donné qu'elle est la mère spirituelle primordiale qui initie les êtres humains à la `spiritualité vaudou haïtienne`.
+D'ailleurs, là où *Mambo Ayizan Avlékété* représente l'esprit, le loa `Ayida Wédo Tokan` représente le corps et [Papa Dambala Wédo Tokan](/fr/encyclopedie/dambala-wedo-tokan) l'âme.
 
 Lors des `cérémonies vaudou haïtiennes`, *Mambo Ayizan* est représentée par son `vèvè` sur lequel est posé une `bougie blanche` allumée recouverte par une chaise haute elle-même recouverte par un tissu blanc et des feuilles de palmier déchirées.[^1]
 
-> ***Le saviez-vous ?***
+> **Le saviez-vous ?**
 >
 > Le `vèvè` de *Mambo Ayizan Vélékété* ressemble étrangement au symbole maçonique constitué d'une équerre et d'un compas.
 >
