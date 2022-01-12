@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-12T21:20:46.271Z
+date: 2022-01-12T21:22:43.161Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -41,7 +41,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 # Valorisation de la langue[^15]
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 32%;">
    <img src="/images/personnalite/whites/stephanus-jacobus-du-toit/du_toit__stephanus_jacobus_public.jpg">
    <figcaption>
       Stephanus Jacobus du Toit
