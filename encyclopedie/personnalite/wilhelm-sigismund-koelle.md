@@ -2,7 +2,7 @@
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
 published: 1
-date: 2022-01-12T21:27:10.914Z
+date: 2022-01-12T21:30:56.349Z
 tags: ali eisami gazirmabe de kanem, allemagne, allemand, grammaire, grammaire kanuri, kanuri, koelle, langue de l’ouest, langue ouest-africaine, leucoderme, linguistique, missionnaire, missionnaire allemand, pionnier, s. koelle, sigismund, w. koelle, w.s. koelle, wilhelm, wilhelm sigismund koelle
 editor: markdown
 dateCreated: 2022-01-10T07:58:22.871Z
@@ -32,12 +32,13 @@ Sous l’enseignement d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm 
 >
 > <figure class="image image-style-align-right image_resized" style="width: 16%;"><img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg"></figure>
 >
-> `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`. Il y est mis en captivité puis asservi.
+> `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`.
+> `Ali Eisami Gazirmabe` est mis en captivité dans `l’empire Kanem` puis asservi.
 > Par la suite, `Ali Eisami Gazirmabe` est libéré par la `Royal Navy`.
 >
-> Des informations sur `Ali Eisami Gazirmabe` se trouvent dans un mémoire rédigé par ***Wilhelm Sigismund Koelle***.
+> Vous pouvez trouver des informations sur `Ali Eisami Gazirmabe` dans un mémoire rédigé par ***Wilhelm Sigismund Koelle***.
 >
-> Ci-contre, une illustration de `Ali Eisami Gazirmabe de Kanem`.
+> Ci-contre, une représentation de `Ali Eisami Gazirmabe de Kanem`.
 {.is-info}
 
 [^1]: [Moabli Makasi](https://www.youtube.com/channel/UCjj4wUCAsYWITZQv4DbtPNw). [NEGRO MESSIANISME les juifs Bantus une arnaque historique PRT1#](https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s) [vidéo en ligne]. YouTube, `31` `mai` `2019` [consulté le `27` `juillet` `2020`]. 1 vidéo, 57min. 07s. https://www.youtube.com/watch?v=XV3WIpZQrv8&t=443s
