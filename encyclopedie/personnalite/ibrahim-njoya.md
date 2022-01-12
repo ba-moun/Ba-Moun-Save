@@ -2,7 +2,7 @@
 title: Ibrahim Njoya
 description: Présentation du roi Ibrahim Njoya
 published: 1
-date: 2022-01-12T21:34:25.402Z
+date: 2022-01-12T21:35:20.621Z
 tags: afrique, bamoun, ibrahim, ibrahim njoya, kamit, kemit, kémit, njoya, roi, roi africain, roi bamoun, roi ibrahim njoya, sultan, sultan africain, sultan bamoun, sultan ibrahim njoya
 editor: markdown
 dateCreated: 2022-01-10T07:58:15.118Z
@@ -117,6 +117,14 @@ Quelques jours après son embarquement, les guerriers `Bamoun` font circuler la 
 
 # Fin du règne
 
+<figure class="image image-style-align-right image_resized" style="width: 50%;">
+   <img src="/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya-by-ba-moun_cc-by-sa.png">
+   <figcaption>
+      Portrait en pied au crayon<br/>
+      du <i><b>roi Ibrahim Njoya</i></b> en tenue traditionnelle<br/>
+   </figcaption>
+</figure>
+
 Lors de son exil forcé, le ***Sultan Ibrahim NJOYA*** tisse des liens avec les habitants de `Yaoundé`.
 Ainsi, le ***Sultan***[^2] :
 
@@ -129,14 +137,6 @@ Ainsi, le ***Sultan***[^2] :
 - etc.
 
 En remerciement, les habitants aident le ***Sultan Ibrahim Njoya*** dans ses travaux de construction.[^2]
-
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
-   <img src="/images/personnalite/kemit/ibrahim-njoya/ibrahim-njoya-by-ba-moun_cc-by-sa.png">
-   <figcaption>
-      Portrait en pied au crayon<br/>
-      du <i><b>roi Ibrahim Njoya</i></b> en tenue traditionnelle<br/>
-   </figcaption>
-</figure>
 
 Cet exil laisse place à une amitié entre le *Sultan* et `Shala Tangana`, un `Kémit` nommé chef de `Yaoundé` par les envahisseurs Français. En tant qu’invité de `Shala Tangana`, le ***Sultan Ibrahim Njoya*** est convié aux défilés de l'armée Française qui se déroulent dans la ville. Le *Sultan* apprécie tant `Shala Tangana` qu'il en vient à donner son nom à son fils né à `Yaoundé`.[^2]
 
