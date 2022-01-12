@@ -1,11 +1,11 @@
 ---
 title: Le semi-désert ǃ’Aukarob
 description: Présentation du semi-désert ǃ’Aukarob
-published: true
-date: 2021-01-14T14:23:34.978Z
-tags: afrique, sud, sud-ouest, sud du continent, ǃ’aukarob, karoo, désert, sud de l’afrique, kora, langue kora, ǃorakobab, khoemana, korana, langue korana, langue ǃorakobab, langue khoemana, ǃora, langue ǃora, griqua, langue griqua, veld, champs, désert !’aukarob, désert karoo, xirikuana, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo
+published: 1
+date: 2022-01-12T21:23:47.233Z
+tags: afrique, champs, désert, désert !’aukarob, désert karoo, griqua, karoo, khoemana, kora, korana, langue griqua, langue khoemana, langue kora, langue korana, langue ǃora, langue ǃorakobab, peuple xirikuana, semi-désert, semi-désert !’aukarob, semi-désert karoo, sud, sud de l’afrique, sud du continent, sud-ouest, veld, xirikuana, ǃora, ǃorakobab, ǃ’aukarob
 editor: markdown
-dateCreated: 2020-09-11T17:21:30.789Z
+dateCreated: 2022-01-10T07:57:05.088Z
 ---
 
 ![!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg](/images/geography/grassland/’aukarob/!’aukarob-in-front-from-winfried-bruenken-(amrum)_cc-by-sa.jpg){.align-abstopright}
@@ -30,7 +30,7 @@ En effet, tous ces mots désignent essentiellement de larges espaces plats situ�
 
 # Formation
 
-<figure class="image image-style-align-right image_resized" style="width: 50%;">
+<figure class="image image-style-align-right image_resized" style="width: 32%;">
    <img src="/images/geography/grassland/’aukarob/karoo-from-en.wiki_cc-by-sa.jpg">
    <figcaption>
       Paysage du !’Aukarob<br/>
