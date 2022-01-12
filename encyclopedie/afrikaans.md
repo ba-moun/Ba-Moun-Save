@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-12T21:18:17.482Z
+date: 2022-01-12T21:20:46.271Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -54,11 +54,6 @@ En `1876`, `S.J. du Toit` devient le rédacteur en chef de la revue « Die Afr
 
 En `1877`, `S.J. du Toit` publie le premier « livre d’histoire » des Afrikaners écrit en ***afrikaans***. Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (L’Histoire de notre Pays dans la Langue de notre Peuple). C’est un manifeste politique des `Afrikaners` empreint de mystique. Ce livre d’histoire romance la lutte du « petit peuple Afrikaners » élu pour rester fidèle au dessein du dieu chrétien depuis `1795`.
 
-> **Le saviez-vous  ?**[^4]
->
-> En `1795`, les `Britanniques` et les `Néerlandais` entrent en guerre pour s’accaparer le sud du continent.
-{.is-info}
-
 Les propagandes du mouvement identifaire afrikaner s’axe sur :
 * le droit d'enseigner l’afrikaan
 * le droit de parler l’afrikaan dans les administrations publiques.
@@ -69,7 +64,9 @@ Enfin, jusqu'en `1990`, l'***afrikaans***, l’anglais et l’allemand sont les 
 
 > ***Le saviez-vous ?***[^2]
 >
-> Le `Sud-Ouest africain` devient définitivement la `République de Namibie` en `1990`.
+> En `1795`, les `Britanniques` et les `Néerlandais` entrent en guerre pour s’accaparer le sud du continent.
+>
+> Par la suite, en `1990`, le `Sud-Ouest africain` devient définitivement la `République de Namibie`.
 {.is-info}
       
 [^1]: [Peuples de langue afrikaans](https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans). In [Wikipédia](https://wikipedia.org) [en ligne]. Fondation Wikimedia, `2003`, mis à jour le `13` `Juillet` `2019` [consulté le `13` `Septembre` `2020`] (calendrier grégorien). Disponible sur : https://fr.wikipedia.org/wiki/Peuples_de_langue_afrikaans
