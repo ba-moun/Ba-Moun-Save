@@ -1,11 +1,11 @@
 ---
 title: Wilhelm Sigismund Koelle
 description: Présentation de Wilhelm Sigismund Koelle
-published: true
-date: 2021-01-14T13:48:52.099Z
-tags: wilhelm sigismund koelle, wilhelm, sigismund, koelle, leucoderme, linguistique, langue ouest-africaine, langue de l’ouest, pionnier, allemand, missionnaire, kanuri, grammaire, grammaire kanuri, w.s. koelle, w. koelle, s. koelle, ali eisami gazirmabe de kanem, allemagne, missionnaire allemand
+published: 1
+date: 2022-01-12T21:27:10.914Z
+tags: ali eisami gazirmabe de kanem, allemagne, allemand, grammaire, grammaire kanuri, kanuri, koelle, langue de l’ouest, langue ouest-africaine, leucoderme, linguistique, missionnaire, missionnaire allemand, pionnier, s. koelle, sigismund, w. koelle, w.s. koelle, wilhelm, wilhelm sigismund koelle
 editor: markdown
-dateCreated: 2020-07-27T12:22:24.667Z
+dateCreated: 2022-01-10T07:58:22.871Z
 ---
 
 ![german-flag_free-for-commercial-use-no-attribution-required.png](/images/flag/germany/german-flag_free-for-commercial-use-no-attribution-required.png){.align-abstopright}
@@ -32,7 +32,8 @@ Sous l’enseignement d’un `Kanuri` nommé `Ali Eisami Gazirmabe`, ***Wilhelm 
 >
 > <figure class="image image-style-align-right image_resized" style="width: 16%;"><img src="/images/personnalite/kemit/ali-eisami-gazirmabe-of-bornu/ali-eisami_public-domain.jpg"></figure>
 >
-> `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`. Il y est mis en captivité puis asservi. Par la suite, `Ali Eisami Gazirmabe` est libéré par la `Royal Navy`.
+> `Ali Eisami Gazirmabe` est un `Kanuri` originaire de `l’empire Kanem`. Il y est mis en captivité puis asservi.
+> Par la suite, `Ali Eisami Gazirmabe` est libéré par la `Royal Navy`.
 >
 > Des informations sur `Ali Eisami Gazirmabe` se trouvent dans un mémoire rédigé par ***Wilhelm Sigismund Koelle***.
 >
