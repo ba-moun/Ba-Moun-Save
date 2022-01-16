@@ -2,7 +2,7 @@
 title: Rituel de connexion aux ancêtres
 description: Comment se connecter aux ancêtres
 published: 1
-date: 2022-01-16T22:41:40.222Z
+date: 2022-01-16T23:08:01.583Z
 tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -12,13 +12,13 @@ Les rituels présents sur cette page ont pour objectif d'améliorer votre connex
 
 # Première pleine lune de l'année solaire[^1]
 
-Ce rituel est à réaliser le premier jour de pleine lune de chaque année solaire.
+Ce rituel est à réaliser le premier jour de pleine lune de chaque année solaire. Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
 
 ## Ustensiles
 
 * Une assiette blanche ou un bol blanc
-* Une feuille de papier machine
-* De quoi écrire et dessiner (ex. : un stylo)
+* Une feuille de papier
+* De quoi écrire et dessiner (ex. : un stylo de n'importe quelle couleure)
 * De l'huile
 * Du coton
 
