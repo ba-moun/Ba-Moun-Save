@@ -2,7 +2,7 @@
 title: Rituel de connexion aux ancêtres
 description: Comment se connecter aux ancêtres
 published: 1
-date: 2022-01-16T23:22:41.069Z
+date: 2022-01-16T23:24:22.548Z
 tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -12,7 +12,7 @@ Les rituels présents sur cette page ont pour objectif d'améliorer votre connex
 
 # :full_moon: Première pleine lune de l'année solaire[^1]
 
-Ce rituel est à réaliser le premier jour de pleine lune de chaque année solaire. Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
+Il s'agit ici d'un rituel vaudou à réaliser le premier jour de pleine lune de chaque année solaire. Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
 
 ## Ustensiles
 
