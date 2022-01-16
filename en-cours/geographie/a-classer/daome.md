@@ -2,8 +2,8 @@
 title: Dahomey
 description: Présentation du Dahomey
 published: 1
-date: 2022-01-16T21:33:07.707Z
-tags: 
+date: 2022-01-16T21:36:15.991Z
+tags: afrique, alada, dahomey, royaume, royaume d'alada, royaume dahomey, bénin, katyopa, katyopa de l'ouest, afrique de l'ouest, royaume africain
 editor: markdown
 dateCreated: 2022-01-10T07:58:40.948Z
 ---
