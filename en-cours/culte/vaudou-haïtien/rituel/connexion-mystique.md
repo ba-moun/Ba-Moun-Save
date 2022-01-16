@@ -2,8 +2,8 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-16T23:39:48.390Z
-tags: connexion, connexion mystique, mysticisme, demande de connexion, demande de connexion mystique, demande mystique
+date: 2022-01-16T23:50:51.639Z
+tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
 ---
@@ -15,12 +15,17 @@ Les rituels présents sur cette page ont pour objectif d'améliorer votre connex
 Il s'agit ici d'un rituel appartenant au [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) à réaliser le premier jour de pleine lune de chaque année solaire.
 Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
 
-Il est préférable d'avoir les ustensiles suivants en avance pour faciliter votre rituel.
+> ***Remarque***
+>
+> La lune peut être pleine à 100% en pleine journée. De plus, le rituel demande d'utiliser plusieurs objets.
+> Par conséquent, nous vous conseillons de prendre vos dispositions suffisemment tôt pour que vous puissiez pratiquer sereinement (congé, obtention du matériel, …).
+{.is-success}
 
 ## Ustensiles
 
 * De quoi écrire et dessiner (ex. : un stylo de n'importe quelle couleur) :memo:
 * Une feuille de papier
+* Des allumettes
 * De quoi faire une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) :
 	* une bougie blanche :candle: ou une `lampe Rada`
 * Pour la `lampe Rada` :
@@ -38,9 +43,11 @@ Il est préférable d'avoir les ustensiles suivants en avance pour faciliter vot
 6. Faire passer la mèche de coton dans un flotteur.
 7. Mettre cette mèche et son flotteur sur l'huile.
 8. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
-9. Allumez la mèche.
-10. Prononcez sept fois votre nom (nom d'initié ou nom de naissance).
+9. Dès que la lune est pleine à 100%, allumer la mèche avec une allumette, puis prononcer sept fois votre nom (nom d'initié ou nom de naissance).
 11. Réciter l'invocation suivante à l 'heure de la première pleine lune de l'année solaire. :pray:
+12. Faire sa demande de connexion aux `loas`.
+13. Méditer.
+14. Dormir si vous y arrivez.
 
 # Source
 
