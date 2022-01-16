@@ -2,7 +2,7 @@
 title: Rite Rada
 description: Présentation du rite Rada
 published: 1
-date: 2022-01-16T21:53:32.505Z
+date: 2022-01-16T21:55:26.386Z
 tags: alada, haïti, rada, rite, rite rada, rite vaudou, rite vaudou haïtien, royaume alada, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-16T21:44:32.884Z
