@@ -2,7 +2,7 @@
 title: Rituel de connexion aux ancêtres
 description: Comment se connecter aux ancêtres
 published: 1
-date: 2022-01-16T23:19:11.446Z
+date: 2022-01-16T23:22:41.069Z
 tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -24,7 +24,7 @@ Ce rituel est à réaliser le premier jour de pleine lune de chaque année solai
 
 ## Rituel
 
-1. Dessiner une étoile à 5 branches sur une feuille de papier. :star:
+1. Dessiner une étoile à 6 branches (alias `étoile de David`) sur une feuille de papier.
 2. Écrire votre nom au milieu de cette étoile.
 3. Mettre la feuille au fond de votre récipient.
 4. Verser un fond d'huile dans le récipient. :droplet:
