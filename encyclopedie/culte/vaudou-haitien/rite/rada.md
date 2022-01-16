@@ -2,7 +2,7 @@
 title: Rada
 description: Présentation du rite Rada
 published: 1
-date: 2022-01-16T22:18:59.285Z
+date: 2022-01-16T22:19:11.679Z
 tags: alada, haïti, rada, rite, rite rada, rite vaudou, rite vaudou haïtien, royaume alada, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-16T21:44:32.884Z
@@ -23,7 +23,7 @@ Ci-dessous quelques exemples de divinités, de rituels et d'objets hérités du 
   * le baptême des enfants
   * l'initiation Kanzo
   * le mariage
-  * les funérailles.
+  * les funérailles
 
 # Source
 
