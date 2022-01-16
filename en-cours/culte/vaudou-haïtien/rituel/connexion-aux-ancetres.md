@@ -1,26 +1,32 @@
 ---
-title: Rituel de connexion aux ancêtres
-description: Comment se connecter aux ancêtres
+title: Rituel de connexion mystique
+description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-16T23:27:51.458Z
-tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
+date: 2022-01-16T23:39:48.390Z
+tags: connexion, connexion mystique, mysticisme, demande de connexion, demande de connexion mystique, demande mystique
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
 ---
 
-Les rituels présents sur cette page ont pour objectif d'améliorer votre connexion avec vos ancêtres. Il va de soit que vous n'avez pas besoin d'être initié.e pour réaliser ces rituels.[^1]
+Les rituels présents sur cette page ont pour objectif d'améliorer votre connexion au divin. Il va de soit que vous n'avez pas besoin d'être initié.e pour réaliser ces rituels.[^1]
 
 # :full_moon: Première pleine lune de l'année solaire[^1]
 
-Il s'agit ici d'un rituel `vaudou haïtien` à réaliser le premier jour de pleine lune de chaque année solaire. Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
+Il s'agit ici d'un rituel appartenant au [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) à réaliser le premier jour de pleine lune de chaque année solaire.
+Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
+
+Il est préférable d'avoir les ustensiles suivants en avance pour faciliter votre rituel.
 
 ## Ustensiles
 
-* Une assiette blanche ou un bol blanc
-* Une feuille de papier
 * De quoi écrire et dessiner (ex. : un stylo de n'importe quelle couleur) :memo:
-* De l'huile
-* Du coton
+* Une feuille de papier
+* De quoi faire une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) :
+	* une bougie blanche :candle: ou une `lampe Rada`
+* Pour la `lampe Rada` :
+	* une assiette blanche ou un bol blanc
+	* de l'[huile douce](/encyclopedie/culte/vaudou-haitien/rituel/lumination#la-lampe)
+	* du coton
 
 ## Rituel
 
