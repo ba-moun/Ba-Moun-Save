@@ -2,13 +2,13 @@
 title: Rite Rada
 description: Présentation du rite Rada
 published: 1
-date: 2022-01-16T21:44:32.884Z
-tags: alada, haïti, rada, rite rada, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou haïtien, rite, rite vaudou, royaume alada, rite vaudou haïtien
+date: 2022-01-16T21:45:49.763Z
+tags: alada, haïti, rada, rite, rite rada, rite vaudou, rite vaudou haïtien, royaume alada, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-16T21:44:32.884Z
 ---
 
-Le ***rite Rada*** est une pratique sociale codifiée et sacrée du `vaudou haïtien`. Ce rite a été fondé en l'honneur du `royaume d'Alada`.[^1]
+Le ***rite Rada*** est une pratique sociale codifiée et sacrée du `vaudou haïtien`. Ce rite a été fondé en l'honneur du `royaume d'Alada` et son nom est une déformation du nom de ce royaume (`Alada`).[^1]
 
 # Source
 
