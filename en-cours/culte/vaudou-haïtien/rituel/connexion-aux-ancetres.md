@@ -2,7 +2,7 @@
 title: Rituel de connexion aux ancêtres
 description: Comment se connecter aux ancêtres
 published: 1
-date: 2022-01-16T23:08:01.583Z
+date: 2022-01-16T23:09:09.721Z
 tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -28,7 +28,7 @@ Ce rituel est à réaliser le premier jour de pleine lune de chaque année solai
 2. Écrire votre nom au milieu de cette étoile.
 3. Mettre la feuille au fond de votre récipient.
 4. Verser un fond d'huile dans le récipient.
-5. Prendre du coton et en faire une mêche
+5. Prendre du coton et en faire une mêche similaire à une mèche de bougie.
 6. Mettre cette mèche de coton au-dessus de votre nom.
 7. Une fois la mèche imbibée de l'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
 8. Réciter la prière suivante à l 'heure de la première pleine lune de l'année solaire.
