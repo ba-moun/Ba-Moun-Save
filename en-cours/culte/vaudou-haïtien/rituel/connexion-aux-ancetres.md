@@ -2,7 +2,7 @@
 title: Rituel de connexion aux ancêtres
 description: Comment se connecter aux ancêtres
 published: 1
-date: 2022-01-16T23:26:53.166Z
+date: 2022-01-16T23:27:06.029Z
 tags: ancêtres, connexion, connexion aux ancêtres, connexion mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -34,7 +34,7 @@ Il s'agit ici d'un rituel `vaudou haïtien` à réaliser le premier jour de plei
 8. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
 9. Allumez la mèche.
 10. Prononcez sept fois votre nom.
-11. Réciter la prière suivante à l 'heure de la première pleine lune de l'année solaire. :pray:
+11. Réciter l'invocation suivante à l 'heure de la première pleine lune de l'année solaire. :pray:
 
 # Source
 
