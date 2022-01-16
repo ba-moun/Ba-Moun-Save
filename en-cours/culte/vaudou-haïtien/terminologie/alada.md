@@ -2,7 +2,7 @@
 title: Alada
 description: Présentation d'Alada
 published: 1
-date: 2022-01-16T21:22:46.062Z
+date: 2022-01-16T21:25:11.561Z
 tags: alada, dahomey, kamit, monde invisible, monde invisible vaudou, paradis, paradis vaudou, religion kamit, royaume, royaume d'alada, royaume dahomey, spiritualité kamit, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-16T21:20:39.465Z
@@ -11,8 +11,7 @@ dateCreated: 2022-01-16T21:20:39.465Z
 > Il est allé Alada.
 > Il est passé dans l'au-delà.
 
-Les vaudouisant.e.s utilisent cette expression pour dire qu'une personne est allé dans le monde invisible, le royaume des morts.
-Cette expression vient du `royaume d'Alada`, le royaume fondé par le `Roi Agassou` qui a été divinisé dans la `spiritualité vaudou haïtienne`.[^1]
+`Alada` est un royaume fondé par le `Roi Agassou`. Les vaudouisant.e.s utilisent cette expression pour dire qu'une personne est passée de vie à trépas. La raison de cette expression vient du fait que c'est un endroit où l'on enterrait les Reines et les Rois.[^1]
 
 # Source
 
