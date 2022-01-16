@@ -2,16 +2,19 @@
 title: Alada
 description: Présentation d'Alada
 published: 1
-date: 2022-01-16T21:31:24.535Z
+date: 2022-01-16T22:04:40.458Z
 tags: alada, dahomey, kamit, monde invisible, monde invisible vaudou, paradis, paradis vaudou, religion kamit, royaume, royaume d'alada, royaume dahomey, spiritualité kamit, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-16T21:20:39.465Z
 ---
 
-> Il est allé Alada.
-> Il est passé dans l'au-delà.
+> Il est allé à Alada.
 
-`Alada` est un royaume fondé par le `Roi Agassou`. Ce royaume est à l'origine du `Royaume de Dahomey`. La culture `vaudou haïtienne` enseigne qu'`Alada` est un endroit où l'on enterre les Reines et les Rois. Toutefois, les initiées sont concidérées comme des Reines et les initiés comme des Rois. Par conséquent, cette expression est utilisée pour dire qu'une personne est passée de vie à trépas.[^1]
+Cette expression est utilisée pour dire qu'une personne est passée de vie à trépas. En effet, `Alada` est un royaume fondé par le `Roi Agassou`. Ce royaume est à l'origine du `Royaume Dahomey`. La culture `vaudou haïtienne` enseigne qu'`Alada` est un endroit où l'on enterre les Reines et les Rois.[^1]
+
+> **Le saviez-vous ?**
+> Les initiées sont considérées comme des reines et les initiés comme des rois.
+{.is-info}
 
 # Source
 
