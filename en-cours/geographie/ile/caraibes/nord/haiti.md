@@ -2,7 +2,7 @@
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
 published: 1
-date: 2022-01-17T00:01:29.782Z
+date: 2022-01-17T00:04:48.148Z
 tags: arawak, avant les invasions européennes, cacique, cacique d’haïti, géographie d’haïti, haïti, haïti avant invasion européenne, haïti taïnos, higüey, jaragua, maguana, maguá, marien, marién, taïnos
 editor: markdown
 dateCreated: 2022-01-10T08:03:32.333Z
@@ -58,6 +58,8 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 
 ### Le caciquat de Maguá
 
+<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-magua_domaine-public.jpg"><figcaption>Le cacique Maguá<br/>(domaine public)</figcaption></figure>
+
 * traduction  : le royaume de la vallée,
 * géolocalisation : nord-est,
 * cacique (en `1552`) : `Guarionex` (homme),
@@ -69,8 +71,6 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 * superficie :
    * 80 lieues (<400 km) de latitude
    * entre 5,8 et 5,1 lieues (entre 25 et 30 km) de longitude.
-
-<figure class="image image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-magua_domaine-public.jpg"><figcaption>Le cacique Maguá<br/>(domaine public)</figcaption></figure>
 
 ### Le caciquat de Higüey
 
