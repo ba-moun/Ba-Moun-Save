@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-12T21:22:43.161Z
+date: 2022-01-17T15:13:07.267Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -11,11 +11,16 @@ dateCreated: 2022-01-10T07:56:55.232Z
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-***Afrikaans*** est le nom d’une `langue leuco-africaine` qui a vu le jour dans le sud du continent.
-L’***afrikaans*** vient des Européens qui ont envahit le `sud` du `continent` à partir de `1488`. Ces `envahisseurs` sont des `Néerlandais`, des `Huguenots` et des `protestants Allemands` dénommés `Trekboers`.
-« Afrikaans » se traduit par « africain » en `néerlandais`. La langue ***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, le `Pays-Bas`. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais. 
+***Afrikaans*** est le nom d’une `langue leuco-africaine` qui a vue le jour dans le sud du continent. Cette langue vient des `Trekboers`. Ce peuple Européen a envahi le `sud` du `continent` à partir de 1488. Il est originaire de trois peuples distincts : les `Néerlandais`, les `Huguenots` et les `protestants Allemands`.
+« ***Afrikaans*** » se traduit par « africain » en `néerlandais`. L'***afrikaans*** est issue d’un dialecte hollandais originaire de la Hollande-Méridionale.  Le dialecte a évolué à l’écart de sa culture d’origine, le `Pays-Bas`. Au fil du temps, la `langue néerlandaise` de ces `envahisseurs` s’est transformée jusqu’à devenir une nouvelle langue. À présent, l’***afrikaans*** est un mélange de français, d’allemand et de néerlandais.[^1][^12][^15]
 
-L'***afrikaans*** est une langue parlée en `Afrique du Sud 🇿🇦`, en `Namibie 🇳🇦`, au `Botswana 🇧🇼` et au `Zimbabwe 🇿🇼`. C'est la langue nationale de la `Namibie 🇳🇦` et une des langues officielles d’Afrique du Sud 🇿🇦. Parmi les 15 millions de personnes parlant l’***afrikaans*** 7,2 millions l’utilisent comme langue maternelle.
+> **L'avez-vous remarqué ?**
+>
+> L'expression « je parle l'***afrikaans*** » veut littéralement dire « je parle l'africain ».
+> Cette expression est plutôt cocasse quand on sait que c'est une langue européenne parlée qui a évoluée dans le continent sans influence `kamit` (c'est-à-dire afro-africaine).
+{.is-info}
+
+Cette langue est parlée en `Afrique du Sud 🇿🇦`, en `Namibie 🇳🇦`, au `Botswana 🇧🇼` et au `Zimbabwe 🇿🇼`. C'est la langue nationale de la `Namibie 🇳🇦` et une des langues officielles d’Afrique du Sud 🇿🇦. Parmi les 15 millions de personnes parlant l’***afrikaans*** 7,2 millions l’utilisent comme langue maternelle.
 La langue ***afrikaans*** est parlée par les `Afrikaners` mais aussi par des peuples aliénés comme les `Xirikuana`.
 Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^12][^15] :
 
