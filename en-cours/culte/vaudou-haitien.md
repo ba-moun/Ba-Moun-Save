@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T00:42:28.923Z
+date: 2022-01-17T00:43:04.022Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -81,7 +81,7 @@ Les mambo et les hougan sont respectivement les prêtresses et les prêtres du *
 
 Il existe quatre principaux rites dans le ***vaudou haïtien*** qui sont le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gede Bannda` et le `rite Petro`.
 
-Le `rite Petro` est un rite issu du `royaume Kongo` et hérité de `Jean-Philippe Don Pedro`. Ce dernier est un initié Kongo dont le nom vient d'Europe. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro).
+Le `rite Petro` est un héritage ancestral de `Jean-Philippe Don Pedr`. rite issu du `royaume Kongo` et hérité de `Jean-Philippe Don Pedro`. Ce dernier est un initié Kongo dont le nom vient d'Europe. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro).
 
 Le `rite Gede` est un rite autour des `Gede`.
 
