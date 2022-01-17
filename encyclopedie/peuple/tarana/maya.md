@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: 1
-date: 2022-01-17T02:13:33.951Z
+date: 2022-01-17T02:15:56.768Z
 tags: calendirer, calendrier lunaire, calendrier maya, calendrier sacré, calendrier sacré maya, cenote, ciel, compte long, compte long maya, dieu, dieu aztèque, dieu jumeau, dieu lunaire, dieu lune, dieu maya, dieu pluie, dieu solaire, dieu soleil, dieu toltèque, dieu vénus, divinité, divinité aztèque, divinité de la puie, divinité lunaire, divinité maya, divinité solaire, divinité toltèque, d’zonote, haab, lune, maya, monde, monde céleste, monde souterrain, monde terrestre, mort, religion, religion de tarana, religion maya, soleil, spiritualité, spiritualité de tarana, spiritualité maya, tarana, terre, tzolk’in, univers, vénus
 editor: markdown
 dateCreated: 2022-01-10T08:02:28.269Z
@@ -11,7 +11,7 @@ dateCreated: 2022-01-10T08:02:28.269Z
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-Les Mayas sont un peuple de `Tarana` (alias l’Amérique). Leur spiritualité polythéiste appartient aux `spiritualtiées` dites `mésoaméricaines`. La spiritualité Maya considère que la création et la destruction sont des phénomènes cycliques. Les rituels et les cérémonies mayas sont liées à ces cycles terrestres et célestes. Un prètre est chargé d’interpréter ces cycles. Ainsi, le prêtre arrive à dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
+Les Mayas sont un peuple de `Tarana` (Appelé Amérique par les `Européens`). Leur spiritualité polythéiste appartient aux `spiritualtiées` dites `mésoaméricaines`. La spiritualité Maya considère que la création et la destruction sont des phénomènes cycliques. Les rituels et les cérémonies mayas sont liées à ces cycles terrestres et célestes. Un prètre est chargé d’interpréter ces cycles. Ainsi, le prêtre arrive à dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
 Les cycles de création et de destruction sont recensés dans plusieurs calendriers[^3][^4] :
 * Tzolk’in : un calendrier sacré de 260 jours,
 * haab : un calendrier sacré de 365 jours,
