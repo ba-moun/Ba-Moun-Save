@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-17T15:14:42.457Z
+date: 2022-01-17T15:17:22.356Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -33,7 +33,8 @@ Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^12][^15] :
 > **Le saviez-vous ?**[^12]
 >
 > Les ***Khoïsans*** forment une communauté `kémit` présente depuis 40 000 ans dans le sud du continent.
-> À l’inverse de l’***afrikaans***, les langues endogènes aux ***Khoïsans*** sont en voie d’extinction. Pour certaines, en `2009`, il n’existait qu’une dizaine de locutrices et/ou de locuteurs.
+> À l’inverse de l’***afrikaans***, les langues endogènes aux ***Khoïsans*** sont en voie d’extinction.
+> Pour certaines, en `2009`, il n’existait qu’une dizaine de locutrices et/ou de locuteurs.
 {.is-info}
 
 
