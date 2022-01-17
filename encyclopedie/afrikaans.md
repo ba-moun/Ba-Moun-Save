@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-17T15:14:21.254Z
+date: 2022-01-17T15:14:42.457Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -20,7 +20,7 @@ dateCreated: 2022-01-10T07:56:55.232Z
 > Cette expression est plutôt cocasse quand on sait que c'est une langue européenne parlée qui a évoluée dans le continent sans influence `kamit` (c'est-à-dire négro-africaine).
 {.is-info}
 
-L'***afrikaans*** est parlée en `Afrique du Sud 🇿🇦`, en `Namibie 🇳🇦`, au `Botswana 🇧🇼` et au `Zimbabwe 🇿🇼`. C'est la langue nationale de la `Namibie 🇳🇦` et une des langues officielles d’Afrique du Sud 🇿🇦. Parmi les 15 millions de personnes parlant l’***afrikaans*** 7,2 millions l’utilisent comme langue maternelle.
+L'***afrikaans*** est parlée en `Afrique du Sud 🇿🇦`, en `Namibie 🇳🇦`, au `Botswana 🇧🇼` et au `Zimbabwe 🇿🇼`. C'est la langue nationale de la `Namibie 🇳🇦` et une des langues officielles d’`Afrique du Sud 🇿🇦`. Parmi les 15 millions de personnes parlant l’***afrikaans*** 7,2 millions l’utilisent comme langue maternelle.
 La langue ***afrikaans*** est parlée par les `Afrikaners` mais aussi par des peuples aliénés comme les `Xirikuana`.
 Ci-dessous une liste de peuples parlant ***Afrikaans***[^1][^12][^15] :
 
