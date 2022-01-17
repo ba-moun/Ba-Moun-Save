@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-17T13:41:22.121Z
+date: 2022-01-17T13:51:03.612Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -26,7 +26,8 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 * De quoi écrire et dessiner (ex. : un stylo de n'importe quelle couleur) :memo:
 * Une feuille de papier
 * Des allumettes
-* 1 verre transparent (sans écriture, ni dessin, ni étiquette de préférence)
+* Un verre transparent (sans écriture, ni dessin, ni étiquette de préférence)
+* Trois feuilles de basilic propres
 * de l'eau potable
 * De quoi faire une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) :
 	* une bougie blanche :candle: ou une `lampe Rada`
@@ -51,13 +52,16 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 	4.5. Mettre cette mèche et son flotteur sur l'huile.
 	4.6. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
 	4.7. Allumez votre lampe.
-5. Mettre de votre eau potable dans le verre.
-6. `Signaler Placer un Dès que la lune est pleine à 100%, prononcer sept fois votre nom (nom d'initié sinon nom de naissance).
-11. Réciter l'invocation suivante. :pray:
-12. Faire votre demande de connexion aux `loas`.
+5. Mettre de votre eau potable et les trois feuilles de basilic dans le verre.
+6. `Signaler` votre verre d'eau.
+7. Mettre le verre sur l'autel.
+8. Dès que la lune est pleine à 100%, prononcer sept fois votre nom (nom d'initié sinon nom de naissance).
+9. Réciter l'invocation suivante. :pray:
+10. Faire votre demande de connexion aux `loas`.
+11. Boire trois petites gorgées de votre verre d'eau.
 13. Méditer.
 14. Dormir si vous y arrivez.
 
 # Source
 
-[^1]:  [Manbo Sa'w Wè Sé Sa](https://www.facebook.com/rosmywaystv). Rituel de connexion aux ancètres [Conférence WhatsApp]. [Ife Nziga Moyo](https://www.facebook.com/IF%C3%89-Nzinga-Moyo-102447998373899/), `2022`. Conférences WhatsApp `Chimen Ginen`.
+[^1]:  [Manbo Sa'w Wè Sé Sa](https://www.facebook.com/rosmywaystv). Rituel de connexion aux ancètres [Conférence WhatsApp]. [Ife Nziga Moyo](https://www.facebook.com/IF%C3%89-Nzinga-Moyo-102447998373899/), 2022. Conférences WhatsApp `Chimen Ginen`.
