@@ -2,7 +2,7 @@
 title: Back to Africa (retour en Afrique)
 description: Présentation de la philosophie Back to Africa
 published: 1
-date: 2022-01-17T00:20:10.663Z
+date: 2022-01-17T02:13:13.814Z
 tags: back to africa, philosophie, philosophie africaine, philosophie kamit, philosophie kemit, philosophie kémit, philosophie négro-africaine, retour en afrique
 editor: markdown
 dateCreated: 2022-01-10T07:57:48.164Z
@@ -11,7 +11,7 @@ dateCreated: 2022-01-10T07:57:48.164Z
 > L'Afrique à la Race africaine, et c'est à des hommes noirs de la gouverner. Par des hommes noirs, j'entends des hommes de descendance africaine qui réclament une identité avec la race.[^1][^4]
 > <p style="text-align: right;"><i>Martin R. Delany, 1859 (calendrier grégorien)</i></p>
 
-Le *back to Africa* est une idéologie aspirant au bien-être moral et matériel de la `communauté` sur `le continent` :earth_africa:.
+Le ***back to Africa*** est une idéologie aspirant au bien-être moral et matériel de la `communauté` sur `le continent` :earth_africa:.
 
 > Les Noirs devraient se mettre au travail avec zèle pour créer leur propre place sous le soleil − un empire qui forcerait l'admiration du monde, rivalisant avec la gloire de leurs ancêtres historiques.[^1][^4]
 > <p style="text-align: right;"><i>Robert Hamilton (rappel des propos de Wesley S. Jones)</i></p>
