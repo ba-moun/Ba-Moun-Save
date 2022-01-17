@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-16T23:50:51.639Z
+date: 2022-01-17T13:41:22.121Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -12,7 +12,7 @@ Les rituels présents sur cette page ont pour objectif d'améliorer votre connex
 
 # :full_moon: Première pleine lune de l'année solaire[^1]
 
-Il s'agit ici d'un rituel appartenant au [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) à réaliser le premier jour de pleine lune de chaque année solaire.
+Il s'agit ici d'une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) [Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) à réaliser le premier jour de pleine lune de chaque année solaire.
 Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où vous vous trouvez sur la planète.
 
 > ***Remarque***
@@ -26,6 +26,8 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 * De quoi écrire et dessiner (ex. : un stylo de n'importe quelle couleur) :memo:
 * Une feuille de papier
 * Des allumettes
+* 1 verre transparent (sans écriture, ni dessin, ni étiquette de préférence)
+* de l'eau potable
 * De quoi faire une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) :
 	* une bougie blanche :candle: ou une `lampe Rada`
 * Pour la `lampe Rada` :
@@ -37,15 +39,22 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 
 1. Dessiner une étoile à 6 branches (alias `étoile de David`) sur une feuille de papier.
 2. Écrire votre nom au milieu de cette étoile avec votre date de naissance.
-3. Mettre la feuille au fond de votre récipient.
-4. Verser un fond d'huile dans le récipient.
-5. Prendre du coton et en faire une mèche similaire à une mèche de bougie. :candle:
-6. Faire passer la mèche de coton dans un flotteur.
-7. Mettre cette mèche et son flotteur sur l'huile.
-8. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
-9. Dès que la lune est pleine à 100%, allumer la mèche avec une allumette, puis prononcer sept fois votre nom (nom d'initié ou nom de naissance).
-11. Réciter l'invocation suivante à l 'heure de la première pleine lune de l'année solaire. :pray:
-12. Faire sa demande de connexion aux `loas`.
+3. Si vous utilisez une bougie blanche. :candle:
+	3.1. Poser la feuille dans votre autel.
+  3.2. Craquer une allumette et allumer votre bougie.
+  3.3. Faire couler de la cire au centre de l'étoile pour y fixer la bougie ensuite.
+4. Si vous utilisez une lampe.
+	4.1. Mettre la feuille au fond de votre récipient.
+	4.2. Verser un fond d'huile dans le récipient.
+	4.3. Prendre du coton et en faire une mèche similaire à une mèche de bougie.
+	4.4. Fixer la mèche de coton à un flotteur.
+	4.5. Mettre cette mèche et son flotteur sur l'huile.
+	4.6. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
+	4.7. Allumez votre lampe.
+5. Mettre de votre eau potable dans le verre.
+6. `Signaler Placer un Dès que la lune est pleine à 100%, prononcer sept fois votre nom (nom d'initié sinon nom de naissance).
+11. Réciter l'invocation suivante. :pray:
+12. Faire votre demande de connexion aux `loas`.
 13. Méditer.
 14. Dormir si vous y arrivez.
 
