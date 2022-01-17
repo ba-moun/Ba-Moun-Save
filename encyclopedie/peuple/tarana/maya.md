@@ -2,7 +2,7 @@
 title: Les Mayas
 description: Présentation des Mayas (spiritualité et religion)
 published: 1
-date: 2022-01-17T02:47:57.972Z
+date: 2022-01-17T03:42:13.587Z
 tags: calendirer, calendrier lunaire, calendrier maya, calendrier sacré, calendrier sacré maya, cenote, ciel, compte long, compte long maya, dieu, dieu aztèque, dieu jumeau, dieu lunaire, dieu lune, dieu maya, dieu pluie, dieu solaire, dieu soleil, dieu toltèque, dieu vénus, divinité, divinité aztèque, divinité de la puie, divinité lunaire, divinité maya, divinité solaire, divinité toltèque, d’zonote, haab, lune, maya, monde, monde céleste, monde souterrain, monde terrestre, mort, religion, religion de tarana, religion maya, soleil, spiritualité, spiritualité de tarana, spiritualité maya, tarana, terre, tzolk’in, univers, vénus
 editor: markdown
 dateCreated: 2022-01-10T08:02:28.269Z
@@ -55,11 +55,11 @@ La ***spiritualité Maya*** considère que l’univers est constitué du monde i
    </figcaption>
 </figure>
 
-Pour les Mayas, le ciel est la résidence des `ancêtres méritants`. Ce monde est composé de treize couches gouvernées par une divinité. C’est un lieu calme et agréable symbolisé par un serpent bicéphale maintenu en l’air par d’énormes pilliers à chaque point cardinal. Ces pilliers sont d’énormes êtres qui sont tantôt des personnages gigantesques (les `bacab`), tantôt des arbres géants.
+Pour les Mayas, le ciel est la résidence des `ancêtres méritants`. Ce monde est composé de treize couches gouvernées par une divinité. C’est un lieu calme et agréable symbolisé par un serpent bicéphale maintenu en l’air par d’énormes pilliers à chaque point cardinal. Ces pilliers sont d’énormes êtres qui sont tantôt des personnages gigantesques (les bacab), tantôt des arbres géants.
 
-##### Les `Bacab`
+##### Les Bacab
 
-Certains Mayas ont considéré que les énormes êtres qui soutiennent le ciel sont des géants dénommés `Bacab`.
+Certains Mayas ont considéré que les énormes êtres qui soutiennent le ciel sont des géants dénommés **Bacab**.
 
 ##### Les arbres géants
 
@@ -83,7 +83,7 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 * le sud est jaune,
 * le centre de la terre est vert.
 
-#### Xibalba
+#### Xibalba[^2][^5][^6][^7]
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;">
    <img src="/images/geology/tzonot/tzonot_cc-by-sa.png">
@@ -94,7 +94,7 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 </figure>
 
 
-Le monde inférieur (ou monde souterrain) est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». Le monde inférieur connu pour être l’endroit où les `dieux jumeaux` ont gagné au jeu de balle contre les autres dieux. Ce `dieux jumeaux` sont le `soleil` et la `lune`.
+Le monde inférieur (ou monde souterrain) est composé de neuf parties gouvernées par des « seigneurs de la Nuit ». Le monde inférieur est connu pour être l’endroit où les `dieux jumeaux` ont gagné au jeu de balle contre les autres dieux. Ces `dieux jumeaux` sont associés au `soleil` et à la `lune`.
 
 Le monde souterrain est un monde « froid et inhospitalier ». Les rois y séjournent temporairement étant donné que grâce à leurs pouvoirs mystiques ils arrivent à rejoindre le monde céleste. En plus du roi, le monde souterrain abrite :
 * les défunts,
@@ -102,19 +102,23 @@ Le monde souterrain est un monde « froid et inhospitalier ». Les rois y s�
 * la `lune` quand elle n’est pas visible
 * `Vénus` quand elle n’est pas visible.
 
-L’emplacement de ce monde souterrain s'appelle `d’zonot`. `d’zonot` (ou `tzonot`) signifie « cavité remplie d’eau » en langue maya. Pour les Mayas, ce sont des avens sacrés situés en pleine forêt. Chaque `d’zonot` est une entrée dans le monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un `d’zonot` peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du `t’zonot` rentre dans le secret des initiés. Par exemple, des processions mystico-religieuses ont été effectuées dans le `t’zonot` de `Chichén Itzá`.[^7]
-Les `tzonot` sont des avens de taille variable qui contiennent la seule source d’eau douce du `Yucatán`. Cette eau douce vient principalement de l’eau de pluie. Leur formation remonte à plusieurs millions d’années. À cette époque, les `t’zonot` sont sous le niveau de la mer. Il s’agit d’une formation géologique liée à l’impact d’une météorite tombée à Chicxulub, dans la mer des Caraïbes. Cette météorite a percuté la Terre il y a 65 millions d’années et serait à l’origine de l’extinction des dinosaures. Le cratère mesure 180 km de diamètre et 30 m de profondeur. De nos jours, les `t’zonot` sont toujours en cours de fabrication naturelle. Leur ouverture est issue de l’effondrement de leur toit constitué de roches calcaires. Par exemple, le `t’zonot` le plus récent s’appel `el Hoyo de Chencoh` ; il s’est ouvert en `Juillet` `2010`.[^6][^7]
-Par endroit, dans les profondeurs d’un `tzonot`, on peut observer des haloclines. Dans un `tzonot`, une halocline est une cission entre l’eau de mer et l’eau douce qui se chevauchent. Ces deux eaux forment une ligne avec en dessous l’eau salée et au dessus l’eau douce. Lors d’une plongée sous-marine dans un `tzonot`, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. Les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des `tzonot`.
-Dans les `langues européennes`, le mot `tzonot` a été déformé en `cénote`. À présent, ce sont des lieux touristiques.[^2][^5]
+L’emplacement de ce monde souterrain s'appelle **d’zonot**. **d’zonot** (ou **tzonot**), ce  signifie « cavité remplie d’eau » en langue maya.
 
-> **Le saviez-vous ?**[^6]
->
-> Pour les Maya, les `tzonot`, sont les portes du monde inférieur. Il s’avère justement que tous les `tzonot` sont reliés entre eux par un réseau sous-terrain principalement rempli d’eau. Cette eau est douce à l’entrée des `tzonot` mais salée dans les profondeurs. La salinité de l’eau vient du fait que les `tzonot`sont connectés à la mer des Caraïbes via ses réseaux sous-terrains. L’eau est douce en surface grâce à l’eau de pluie qui s’y dépose.
+Pour les ***Mayas***, les **d'zonot** sont des avens sacrés situés en pleine forêt. Chaque **d’zonot** est une entrée dans le monde souterrain. Les `divinités` et les `ancêtres` qui n’ont pas pu atteindre le `monde céleste` y résident. Un **d’zonot** peut être utilisé soit exclusivement dans un but domestique, soit exclusivement dans un contexte sacré. Dans ce dernier cas, l’emplacement du **d’zonot** rentre dans le secret des initiés. Par exemple, le **d’zonot** de Chichén Itzá est sûrement resté secret à l'époque puisque des processions mystico-religieuses y ont été effectuées.
+
+Les **dzonot** sont des avens de taille variable qui contiennent la seule source d’eau douce du Yucatán. Cette eau douce vient principalement de l’eau de pluie. Leur formation remonte à plusieurs millions d’années. À cette époque, les **d’zonot** sont sous le niveau de la mer. Elles sont issues d’une formation géologique due à l’impact d’une météorite tombée à Chicxulub, dans la mer des Caraïbes. Cette météorite a percuté la Terre il y a 65 millions d’années et pourrait être à l’origine de l’extinction des dinosaures. Le cratère mesure 180 km de diamètre et 30 m de profondeur. De nos jours, les **d’zonot** sont toujours en cours de fabrication tellurique naturelle. Leur ouverture est issue de l’effondrement de leur toit constitué de roches calcaires. Par exemple, le **d’zonot** le plus récent s’appelle **el Hoyo de Chencoh**. Il s’est ouvert en Juillet 2010.
+
+D'ailleurs, il s’avère que tous les **dzonot** sont reliés entre eux par un réseau sous-terrain principalement rempli d’eau. Cette eau est douce à l’entrée mais salée dans les profondeurs. La salinité de l’eau vient du fait que les **dzonot** sont connectés à la mer des Caraïbes via ses réseaux sous-terrains. L’eau est douce en surface grâce à l’eau de pluie qui s’y renferme en y tombant directement ou par écoulement.
+
+Dans les **d'zonot**, la cission entre l'eau de mer et l’eau douce s'appelle halocline. Ces deux eaux forment une ligne avec en-dessous l’eau salée et l’eau douce au-dessus. Lors d’une plongée sous-marine dans un **dzonot**, il est possible de passer d’une zone à une autre. L’eau douce est si limpide que la traversée entre l’eau salé et l’eau douce donne l’impression de sortir de l’eau tout en y entrant. De cette manière, les haloclines peuvent troubler les plongeurs qui se trouvent dans les galeries subaquatiques des **dzonot**.
+
+> Dans les langues européennes, le mot **dzonot** a été déformé en **cénote**. Ce sont à présent des lieux touristiques.
 {.is-info}
 
-# Divinités Maya
 
-La spiritualité Maya identifie moult divinités. Cette particularité vient du fait qu’une même divinité peut être vue sous plusieurs facettes. Par exemple, une même divinité peut être scindée en plusieurs projections différentes en fonction du changement[^4] :
+# Divinités Mayas
+
+La ***spiritualité Maya*** identifie moult divinités. Cette particularité vient du fait qu’une même divinité peut être vue sous plusieurs facettes. Par exemple, une même divinité peut être scindée en plusieurs projections différentes en fonction du changement[^4] :
 * de son sexe,
 * de sa tranche d’âge (jeune ou âgée),
 * du monde dans lequel il se trouve (ex. : monde céleste ou monde souterrain).[^4]
@@ -123,7 +127,9 @@ La spiritualité Maya identifie moult divinités. Cette particularité vient du 
 
 ### Chaac[^8][^7]
 
-Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souterrain). Son nom peut être orthographié Chaac, Chac ou Chaahk. Pour les Mayas et les Toltèques, il est associé à :
+**Chaac** est un dieu qui demeure dans les d’zonot (aven remplit d'eau symbolisant le monde invisible). Son nom peut être orthographié **Chaac**, **Chac** ou **Chaahk**. 
+
+Pour les Mayas et les Toltèques, **Chaac** est associé à :
 * la pluie,
 * le vent,
 * la foudre,
@@ -135,30 +141,40 @@ Chaac est un dieu qui demeure dans les `d’zonot` (les entrées du monde souter
 
 ### Itzamana
 
-### Ixchel
+### Ixchel[^10][^12][^13]
 
-Cette déesse date des périodes dites `classique` et `post-classique` tardive `maya`.
-`Ixchel` (alias `Ix Chel`, `aixchel` ou `yschel`) est la déesse maya de la lune. De plus, les `Taïnos` ont adopté cette divinité.
-Avec trois autres déesses, `Ixchel` a été vénéré sur les îles `Isla de Mujeres` et `Cozumel` (`Mexique`). Les femmes `mayas` allaient en pélerinage à `Cozumel` pour demander de l’aide aux quatre divinités qui s’y trouvent.
-La déesse `Ixchel` réside tantôt dans le ciel, tantôt dans les `tzonot`. Au début des `invasions européennes`, les `Mayas` qui vouent un culte à la déesse `Ixchel` sont[^13][^10] :
-* les `Chontal`,
-* les `Manche Chol`,
-* les `Yucatec`,
-* les `Pocomchi`.
+**Ixchel** (alias **Ix Chel**, **aixchel** ou **yschel**) date des périodes dites `classique` et `post-classique` tardives maya. Elle a été adoptée par les `Taïnos`.
 
-#### Histoire[^12]
+**Ixchel** est la déesse maya de la lune. Elle réside tantôt dans le ciel, tantôt dans les d'zonot (monde invisible où vivent les défunts mais aussi le soleil, la lune et Vénus quand ils ne sont pas visibles).
 
-La déesse `Ixchel` a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, un cerf lui applatit le ventre. Dès lors, la déesse `Ixchel` est devenue fertile et capable d’enfenter les `Bacabs`.
-
-#### Projections[^13]
-
-La déesse `Ixchel` est liée à :
+La déesse **Ixchel** est liée à :
 * la fertilité,
 * la procréation,
 * le mariage
 * l’amour physique.
 
-`Ixchel` peut se traduire par `la dame arc-en-ciel` ou `celle au visage pâle`. Toutefois, elle peut aussi être appelée la `déesse I` ou la `déesse O`. En `2019`, les `mayanistes` hésitent entre le fait que la `déesse I` et la `déesse O` sont :
+Dans la mythologie maya, tantôt **Ixchel** est l’épouse de `Itzamna` (le dieu suprême), tantôt celle du dieu soleil `Kinich Ahau`.
+
+> **Le saviez-vous ?**
+>
+> Il est possible que `Itzamna` et `Kinich Ahau` soient deux projections d’une même entité.
+{.is-info}
+
+Avec trois autres déesses, **Ixchel** a été vénérée sur les îles Isla de Mujeres et Cozumel (Mexique 🇲🇽). Les femmes mayas allaient en pélerinage à Cozumel pour demander de l’aide aux quatre divinités qui s’y trouvent.
+
+Au début des `invasions européennes`, les ***Mayas*** qui vouent un culte à la déesse **Ixchel** sont :
+* les Chontal,
+* les Manche Chol,
+* les Yucatec,
+* les Pocomchi.
+
+#### Histoire
+
+La déesse **Ixchel** a pris conscience de sa stérilité après son mariage en remarquant qu’elle n’a pas d’appareil reproducteur. Cette découverte a plongé la déesse dans un grand désespoir. Plus tard, un cerf lui applatit le ventre. Dès lors, la déesse **Ixchel** est devenue fertile et capable d’enfenter les Bacabs, des géants qui soutiennent le ciel.
+
+#### Projections
+
+**Ixchel** peut se traduire par **la dame arc-en-ciel** ou **celle au visage pâle**. Toutefois, elle peut aussi être appelée la `déesse I` ou la `déesse O`. En `2019`, les `mayanistes` hésitent entre le fait que la `déesse I` et la `déesse O` sont :
 * deux entités distinctes,
 * ou une seule et même entité représentant la déesse de la lune.
 
@@ -167,40 +183,31 @@ La déesse `Ixchel` est liée à :
 > Un `mayaniste` est une personne (professionnelle ou non) qui fait des recherches sur les `Mayas`.
 {.is-info}
 
-Tantôt `Ixchel` est l’épouse de `Itzamna` (le dieu suprême), tantôt celle du dieu soleil `Kinich Ahau`.[^12]
+##### La déesse I
 
-> **Le saviez-vous ?**[^12]
->
-> Il est possible que `Itzamna` et `Kinich Ahau` soient deux projections d’une même entité.
-{.is-info}
-
-##### La `déesse I`
-
-La `déesse I` correspond à l’une des formes de `Ixchel`.
-Sous cette forme, `Ixchel` est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le `codex de Madrid`, `Ixchel` peut apparaitre jeune comme vieille.
-Elle est associée au croissant de lune et au lapin.
+La **déesse I** correspond à l’une des formes de **Ixchel**.
+Sous cette forme, **Ixchel** est une jeune dame évoquant le plaisir charnel. Elle peut avoir une sorte de bec qui devance sa lèvre du dessus. Néanmoins, dans le `codex dit de Madrid`, **Ixchel** peut apparaitre jeune comme vieille. Elle est associée au croissant de lune et au lapin.
 
 > **Le saviez-vous ?**[^11]
 >
 > Les livres `mayas` sont appelés `codex` (`codices`) en français.
 {.is-info}
 
-La `déesse I` peut s’appeler :
-* `Ix Kanab` = `l'enfant de la Dame des mers`,
-* `Ix Tan Dz'onot` = `l'enfant d'elle-même au milieu du tzonot`,
-* `Ixik Uh` = `Madame Lune` (cf. `codex` de Madrid et de Dresde),
-* `Ixik Kab` = `Madame Terre` (cf. `codex` de Madrid et de Dresde) : associée au tissage dans la période post-classique, sa forme âgée est représentée en train de tisser ou couronnée de fuseaux.
+La **déesse I** peut s’appeler :
+* **Ix Kanab** = **l'enfant de la Dame des mers**,
+* **Ix Tan Dz'onot** = **l'enfant d'elle-même au milieu du tzonot**,
+* **Ixik Uh** = **Madame Lune** (cf. `codex` dit de Madrid et de Dresde),
+* **Ixik Kab** = **Madame Terre** (cf. `codex` dit de Madrid et de Dresde) : associée au tissage dans la période post-classique, sa forme âgée est représentée en train de tisser ou couronnée de fuseaux.
 
-##### La `déesse O`
+##### La déesse O
 
-La `déesse O` est une femme âgée. Sa puissance est telle qu’elle est associée à :
+La **déesse O** est une femme âgée. Sa puissance est telle qu’elle est associée à :
 * la naissance du monde,
 * la création du monde,
 * la mort du monde,
 * la destruction du monde.
 
-Étant mariée à `Itzamna`, la `déesse O` est l’une des deux divinités créatrices `mayas`.[^12]
-
+Étant mariée à `Itzamna`, la **déesse O** est l’une des deux divinités créatrices mayas.
 
 ### Les dieux jumeaux[^3]
 
@@ -208,9 +215,9 @@ Les dieux jumeaux sont liés au `soleil` et à la `lune`. Ces dieux sont réput�
 
 # Histoire de la religion maya[^4]
 
-De 250 à 900, les cultes sont basés autour du **k'uhul ajaw**. **k'uhul ajaw** signifie littéralement « divin seigneur » il s’agit du nom endogène du souverain Maya. Ce dernier est responsable de l’ordre cosmique, communique avec les ancêtres et les entités mystiques.
+250 − 900, les cultes sont basés autour du **k'uhul ajaw** (« divin seigneur »), nom endogène du souverain ***Maya***. Ce dernier est responsable de l’ordre cosmique, et de la communication avec les ancêtres et les entités mystiques.
 
-Vers 800−900, la civilisation maya classique meurt. La royauté sacrée disparait laissant place aux divinités astrales et étrangères :
+Vers 800 − 900, la ***civilisation maya*** classique meurt. La royauté sacrée disparait laissant place aux divinités astrales et étrangères :
 * la `divinité soleil`,
 * la `divinité lunaire`,
 * la `divinité de la pluie`,
