@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T00:16:04.557Z
+date: 2022-01-17T00:26:40.772Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -81,7 +81,7 @@ Les mambo et les hougan sont respectivement les prêtresses et les prêtres du *
 
 À l’instar des `Taïnos` avec leurs `cémies`, chaque bitasyon possède ses propres `lwa danti` (alias `ancêtres`, `lwa familiaux` ou `lwa raciaux`).
 
-## Fonctionnement du monde
+## Astronomie et astrologie
 
 > Chaque phénomène astronomique provoque un phénomène astrologique.
 > Chaque phénomène astrologique provoque un phénomène mystique.
