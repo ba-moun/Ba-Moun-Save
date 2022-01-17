@@ -2,7 +2,7 @@
 title: Spiritualité et religion maya
 description: Présentation de la spiritualité et de la religion maya
 published: 1
-date: 2022-01-17T02:17:59.904Z
+date: 2022-01-17T02:29:58.380Z
 tags: calendirer, calendrier lunaire, calendrier maya, calendrier sacré, calendrier sacré maya, cenote, ciel, compte long, compte long maya, dieu, dieu aztèque, dieu jumeau, dieu lunaire, dieu lune, dieu maya, dieu pluie, dieu solaire, dieu soleil, dieu toltèque, dieu vénus, divinité, divinité aztèque, divinité de la puie, divinité lunaire, divinité maya, divinité solaire, divinité toltèque, d’zonote, haab, lune, maya, monde, monde céleste, monde souterrain, monde terrestre, mort, religion, religion de tarana, religion maya, soleil, spiritualité, spiritualité de tarana, spiritualité maya, tarana, terre, tzolk’in, univers, vénus
 editor: markdown
 dateCreated: 2022-01-10T08:02:28.269Z
@@ -11,18 +11,7 @@ dateCreated: 2022-01-10T08:02:28.269Z
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
 {.is-info}
 
-Les Mayas sont un peuple de `Tarana` (Appelé Amérique par les `Européens`). Leur spiritualité polythéiste appartient aux `spiritualtiés mésoaméricaines`.
-La spiritualité Maya considère que la création et la destruction sont des phénomènes cycliques. Leurs rituels et cérémonies sont liés à ces cycles terrestres et célestes.
-Un prètre est chargé d’interpréter ces cycles pour dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
-Les cycles de création et de destruction sont recensés dans plusieurs calendriers[^3][^4] :
-* Tzolk’in : un calendrier sacré de 260 jours,
-* haab : un calendrier sacré de 365 jours,
-* compte long : dans la « mésoamérique », seul les Mayas utilisent ce calendirer,
-* un calendrier lunaire,
-* un calendrier basé sur Vénus,
-
-Les Mayas croient en la réincarnation.
-Certains rituels mayas se retrouvent dans les pratiques des « Maya-descendants » du `Guatemala`.[^4]
+Les ***Mayas*** sont un peuple de `Tarana` (Appelé Amérique par les `Européens`). Leur spiritualité polythéiste est dite mésoaméricaine. À l'instar des `spiritualités kamyout`, les ***Mayas*** croient en la réincarnation. Certains de leurs rituels ont survécus et sont pratiqués par leurs descendants, comme ceux du `Guatemala `.[^4]
 
 La frise chronologique ci-dessous représente les évolutions de la spiritualité et de la religion maya au fil des années[^4]
 
@@ -34,23 +23,36 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 # Perception de l’univers[^3]
 
+## Les cycles
+
+La spiritualité Maya considère que la création et la destruction sont des phénomènes cycliques. Leurs rituels et cérémonies sont liés à ces cycles terrestres et célestes.
+Un prètre est chargé d’interpréter ces cycles pour dire ce qui s’est passé et ce qui va se passer. En cas de mauvais présage, les mayas effectuent des sacrifices pour apaiser les dieux.
+Les cycles de création et de destruction sont recensés dans plusieurs de leurs calendriers[^3][^4] :
+* Tzolk’in : un calendrier sacré de 260 jours,
+* haab : un calendrier sacré de 365 jours,
+* compte long : dans la « mésoamérique », seul les Mayas utilisent ce calendrier,
+* un calendrier lunaire,
+* un calendrier basé sur Vénus.
+
+## La constitution de l'univers
+
 La spiritualité Maya considère que l’univers est constitué du monde inférieur (Xibalba), de la terre et du ciel.[^1]
 
-## Onglets{.tabset}
+### Onglets{.tabset}
 
-### Le monde céleste[^4]
+#### Le monde céleste[^4]
 
 Pour les Mayas, le ciel est la résidence des `ancêtres méritants`. Ce monde est composé de treize couches gouvernées par une divinité. C’est un lieu calme et agréable symbolisé par un serpent bicéphale maintenu en l’air par d’énormes pilliers à chaque point cardinal. Ces pilliers sont d’énormes êtres qui sont tantôt des personnages gigantesques (les `bacab`), tantôt des arbres géants.
 
-#### Les `Bacab`
+##### Les `Bacab`
 
 Certains Mayas ont considéré que les énormes êtres qui soutiennent le ciel sont des géants dénommés `Bacab`.
 
-#### Les arbres géants
+##### Les arbres géants
 
 À la différence des Mayas qui se sont intéressés aux `Bacab`, d’autres Mayas ont identifié qu’il s’agit d’arbres géants. Chaque arbre est d’une espèce différente et possède sa propre couleur. Enfin, un autre arbre gigantesque se dresse au milieu de la surface de la Terre ; il s’agit d’un ceiba vert ou liard géant.
 
-### La monde terrestre
+#### La monde terrestre
 
 Pour les Mayas, la terre représente le monde visible des humains. C’est le dos d’un immense crocodile des marais. Celle-ci est carrée, avec un point cardinal à chaque sommet[^1] :
 * l’est est rouge,
@@ -59,7 +61,7 @@ Pour les Mayas, la terre représente le monde visible des humains. C’est le do
 * le sud est jaune,
 * le centre de la terre est vert.
 
-### Xibalba
+#### Xibalba
 
 <figure class="image image-style-align-right image_resized" style="width: 64%;">
    <img src="/images/geology/tzonot/tzonot_cc-by-sa.png">
