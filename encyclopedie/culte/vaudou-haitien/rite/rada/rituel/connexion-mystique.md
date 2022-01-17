@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-17T14:49:44.762Z
+date: 2022-01-17T14:55:05.913Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -45,8 +45,8 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 {.is-warning}
 
 
-1. Dessiner une étoile à 6 branches (alias `étoile de David`) sur une feuille de papier.
-2. Écrire votre nom au milieu de cette étoile avec votre date de naissance.
+1. Dessiner un pentagramme sur une feuille de papier.
+2. Écrire votre nom dans le pentagone à l'intérieur du pentagramme et votre date de naissance juste en dessous.
 3. Si vous utilisez une bougie blanche. :candle:
 	3.1. Poser la feuille dans votre autel.
   3.2. Craquer une allumette et allumer votre bougie.
@@ -64,7 +64,7 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 5. Mettre votre eau potable :potable_water: et les trois feuilles de basilic dans le verre.
 6. `Signaler` votre verre d'eau.
 7. Mettre le verre sur l'autel.
-8. Dès que la lune est pleine à 100%, prononcer sept fois votre nom (nom d'initié sinon nom de naissance).
+8. Dès que la lune est pleine à 100%, prononcer sept fois votre nom.
 9. Tenir votre verre d'eau dans votre main droite tout en récitant l'invocation suivante en français ou dans votre langue `Kamit`. :pray:
 
 > Par le pouvoir du Grand Dieu Olohoum
@@ -95,10 +95,10 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 >
 > Aux esprits familiers passés, errants ou restés sous l’eau
 >
-> Moi **<votre nom d'initié ou de naissance>**, je désire en apprendre plus sur vous et sur moi.
+> Moi **<votre nom>**, je désire en apprendre plus sur vous et sur moi.
 > J’implore votre grâce afin de m’envoyer votre lumière
 > Je vous le demande du plus profond de mon cœur,
-> Je vous implore, moi **<votre nom d'initié ou de naissance>**, je demande aux loas qui marchent avec moi, aux forces de lumière, de venir me parler.
+> Je vous implore, moi **<votre nom>**, je demande aux loas qui marchent avec moi, aux forces de lumière, de venir me parler.
 > Qu’ils viennent me révéler ce que je suis curieux(se) de savoir et d’apprendre 
 > Je vous demande à tous de m’inonder de votre Lumière, et de m'aider à me connecter a mes loas et a mes ancêtres
 >
