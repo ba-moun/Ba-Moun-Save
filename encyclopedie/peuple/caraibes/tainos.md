@@ -2,7 +2,7 @@
 title: Taïnos
 description: Présentation des Taïnos
 published: 1
-date: 2022-01-17T01:58:37.684Z
+date: 2022-01-17T01:59:21.484Z
 tags: arawak, cacique, caraibes, peuple, peuple arawak, peuple taïnos, taïnos
 editor: markdown
 dateCreated: 2022-01-10T08:00:00.645Z
@@ -44,7 +44,7 @@ Le ***bohique*** tient ses origines du boa (symbole de la connaissance) et de la
 # Sciences[^1]
 
 ## Spiritualité et religion
-<figure class="image image-style-align-right image_resized" style="width: 16%;">
+<figure class="image image-style-align-right image_resized" style="width: 8%;">
    <img src="/images/statue/arawak/taino/tainos_cemi-aka-zemi_lombards-museum_cc-by.jpg">
    <figcaption>
      Cémi <b><i>Taïno</i></b>
