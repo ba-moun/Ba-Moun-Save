@@ -1,19 +1,24 @@
 ---
 title: Marcus GARVEY
 description: Présentation de Marcus GARVEY
-published: true
-date: 2020-08-10T14:09:58.881Z
-tags: xamayca, jamaïque, marcus garvey, garvey, marcus, panafricain, panafricanisme, panafricaniste, rouge vert noir, jamaicain, île de la caraïbe, entrepreneur, imprimeur, black star line, père du panafricanisme, back to africa, partisan du back to africa
+published: 1
+date: 2022-01-17T16:54:34.194Z
+tags: back to africa, black star line, entrepreneur, garvey, imprimeur, jamaicain, jamaïque, marcus, marcus garvey, panafricain, panafricanisme, panafricaniste, partisan du back to africa, père du panafricanisme, rouge vert noir, xamayca, île de la caraïbe
 editor: markdown
+dateCreated: 2022-01-10T08:05:18.416Z
 ---
 
 ![marcus-garvey-portrait_public-domain.png](/images/personnalite/kemit/marcus-garvey/marcus-garvey-portrait_public-domain.jpg){.align-abstopright}
 
-*Marcus Garvey* a reçu plusieurs prénoms : *Manasseh*, *Moses*, *Aurelius* et *Moziah*[^1]. Il nait dans un village côtier nommé `Saint Ann's Park`, le `18 Août 1887` (`calendrier grégorien`).[^1] *Marcus* est donc un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲).
-À cette époque, l'ile est une colonie britanique :gb:. L'`esclavage` a été aboli il y a 53 ans (`1834` du `calendrier grégorien`).[^1] Les grands-parents de *Marcus Garvey* ont donc connu le `Yovodah`
+> Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
+{.is-info}
+
+***Marcus Garvey*** est un Africain de `Xamayca` (nom originel de la `Jamaïque` 🇯🇲). Il est né à Saint Ann's Park, le 18 Août 1887. Ses autres nom sont : *Manasseh*, ***Moses***, ***Aurelius*** et ***Moziah***.
+À cette époque, l'ile est une colonie britanique :gb: où l'`esclavage` est aboli depuis 53 ans (1834). Les grands-parents de ***Marcus Garvey*** ont donc connu le `Yovodah`.[^1]
 
 > **Définition**
-> *Yovodah* est un terme `Fon` utilisé pour désigner l'esclavage. Ce terme définit l'esclavage par "le désastre blanc".
+>
+> *Yovodah* signifie littéralement « le désastre blanc » en Fon. Ce terme est utilisé pour désigner l'esclavage.
 {.is-info}
 
 *Marcus Garvey* n'est jamais allé en Afrique[^1]. Néanmoins, il a eu l'ambition de[^1] :
