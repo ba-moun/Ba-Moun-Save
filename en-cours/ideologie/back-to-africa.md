@@ -2,7 +2,7 @@
 title: Back to Africa (retour en Afrique)
 description: Présentation de la philosophie Back to Africa
 published: 1
-date: 2022-01-17T00:19:12.974Z
+date: 2022-01-17T00:19:47.810Z
 tags: back to africa, philosophie, philosophie africaine, philosophie kamit, philosophie kemit, philosophie kémit, philosophie négro-africaine, retour en afrique
 editor: markdown
 dateCreated: 2022-01-10T07:57:48.164Z
@@ -23,7 +23,7 @@ Plusieurs personnalités prônent cette idéologie[^1][^4] :
 - `Wesley S. Jones`
 - Robert Hamilton.
 
-> […]nous (les `Kamit`) ferons là-bas une grande nation pour nous-mêmes, nous construirons nos propres cités et villes, édicterons nos propres lois, collecterons nos propres revenus, commanderons nos propres gouvernements et législateurs, aurons nos propres écoles et collèges, nos propres avocats et docteurs ; en un mot, nous cesserons d'être des employés à couper le bois, à puiser l'eau et serons des hommes.[^1][^4]
+> […]nous (les `Kamyout`) ferons là-bas une grande nation pour nous-mêmes, nous construirons nos propres cités et villes, édicterons nos propres lois, collecterons nos propres revenus, commanderons nos propres gouvernements et législateurs, aurons nos propres écoles et collèges, nos propres avocats et docteurs ; en un mot, nous cesserons d'être des employés à couper le bois, à puiser l'eau et serons des hommes.[^1][^4]
 > <p style="text-align: right;"><i>Wesley S. Jones, 1851 (calendrier grégorien)</i></p>
 
 # Idéologie inverse
