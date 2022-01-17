@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T01:10:35.827Z
+date: 2022-01-17T01:23:50.130Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -90,6 +90,8 @@ Il existe quatre principaux rites dans le ***vaudou haïtien*** qui sont le [rit
 ## Entités mystiques
 
 À l’instar des `Taïnos` avec leurs `cémies`, chaque bitasyon possède ses propres `lwa danti` (alias `ancêtres`, `lwa familiaux` ou `lwa raciaux`).
+
+Le nom de chaque divinité est très important parce qu'il fait parti des attributs qui permettent d'invoquer le loa.
 
 ## Astronomie et astrologie
 
