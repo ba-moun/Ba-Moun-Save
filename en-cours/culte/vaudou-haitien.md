@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T01:03:39.084Z
+date: 2022-01-17T01:10:35.827Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -101,7 +101,7 @@ Dans le ***vaudou haïtien***, il suffit de profiter des moments astronomiques c
 
 ### La lune :moon:
 
-En phase de pleine lune et de nouvelle lune : les attractions lunaires et solaires s'additionnent, ce qui engendre des marées plus fortes.[^3]
+En phase de pleine lune et de nouvelle lune : les attractions lunaires et solaires s'additionnent, ce qui engendre des effets plus importants sur les eaux. Cet événement astronomique a donc un effet sur les marées, les règles, le liquide amniotique, les végéteaux, les animaux, le psychisme, …[^3] C'est donc le meilleur moment pour méditer, améliorer sa connexion mystique, pratiquer de la magie, travailler les énergies, se purifier, faire ses demandes aux dèesses des eaux et autres divinités féminines.
 
 # Source
 
