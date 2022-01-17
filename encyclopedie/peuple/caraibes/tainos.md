@@ -1,11 +1,11 @@
 ---
 title: Taïnos
 description: Présentation des Taïnos
-published: true
-date: 2021-04-26T15:56:01.410Z
-tags: peuple, arawak, peuple arawak, peuple taïnos, taïnos, caraibes, cacique
+published: 1
+date: 2022-01-17T01:58:37.684Z
+tags: arawak, cacique, caraibes, peuple, peuple arawak, peuple taïnos, taïnos
 editor: markdown
-dateCreated: 2020-12-23T14:21:37.544Z
+dateCreated: 2022-01-10T08:00:00.645Z
 ---
 
 > Les dates contenues dans ce document se basent sur le `calendrier grégorien`.
@@ -61,7 +61,7 @@ Les ***Taïnos*** croient aux divinités `Yukiyú`, `Guatauba` (le soleil) et `Y
 
 > **Le saviez-vous ?**
 >
-> <figure class="image image-style-align-right image_resized" style="width: 50%;"><img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg"><figcaption>Fétiche congolais de Nkisi Nkondi<br/>Représentation du pouvoir féminin<br/></figcaption></figure>
+> <figure class="image image-style-align-right image_resized" style="width: 32%;"><img src="/images/statue/kamit/nkisi_nkondi_congolese-fetish_female-power_collection-bnk-royal-tribal-art_cc-by-sa.jpg"><figcaption>Fétiche congolais de Nkisi Nkondi<br/>Représentation du pouvoir féminin<br/></figcaption></figure>
 > 
 > Les ***zémi*** peuvent être fabriqués avec :
 > * du coton,
