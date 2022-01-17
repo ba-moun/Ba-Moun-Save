@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-17T13:51:03.612Z
+date: 2022-01-17T14:13:46.137Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -28,7 +28,7 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 * Des allumettes
 * Un verre transparent (sans écriture, ni dessin, ni étiquette de préférence)
 * Trois feuilles de basilic propres
-* de l'eau potable
+* de l'eau potable :potable_water:
 * De quoi faire une [lumination](/encyclopedie/culte/vaudou-haitien/rituel/lumination) :
 	* une bougie blanche :candle: ou une `lampe Rada`
 * Pour la `lampe Rada` :
@@ -38,12 +38,20 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 
 ## Rituel
 
+> **:warning::warning::warning: Attention :warning::warning::warning:**
+>
+> Ce rituel vous demande d'utiliser une bougie :candle: ou une lampe. Vous devrez donc manipuler du feu :fire:. Nous vous exortons donc d'être vigilant quant à l'endroit où vous placez ces objets pour éviter de calciner votre environnement ou vous-même.
+> Lors du rituel, il vous est conseillé de méditer. Pour méditer sereinement, nous vous conseillons de disposer d'un autel qui vous permette de concerver votre bougie ou votre lampe incandescente en sécurité sans que vous ayez à la surveiller.
+{.is-warning}
+
+
 1. Dessiner une étoile à 6 branches (alias `étoile de David`) sur une feuille de papier.
 2. Écrire votre nom au milieu de cette étoile avec votre date de naissance.
 3. Si vous utilisez une bougie blanche. :candle:
 	3.1. Poser la feuille dans votre autel.
   3.2. Craquer une allumette et allumer votre bougie.
-  3.3. Faire couler de la cire au centre de l'étoile pour y fixer la bougie ensuite.
+  3.3. `Signaler` votre bougie.
+  3.4. Faire couler de la cire au centre de l'étoile pour y fixer la bougie ensuite.
 4. Si vous utilisez une lampe.
 	4.1. Mettre la feuille au fond de votre récipient.
 	4.2. Verser un fond d'huile dans le récipient.
@@ -52,7 +60,8 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 	4.5. Mettre cette mèche et son flotteur sur l'huile.
 	4.6. Une fois la mèche imbibée d'huile, assurez-vous qu'il en reste un peu au fond de votre récipient.
 	4.7. Allumez votre lampe.
-5. Mettre de votre eau potable et les trois feuilles de basilic dans le verre.
+  4.8. `Signaler` votre lampe.
+5. Mettre votre eau potable :potable_water: et les trois feuilles de basilic dans le verre.
 6. `Signaler` votre verre d'eau.
 7. Mettre le verre sur l'autel.
 8. Dès que la lune est pleine à 100%, prononcer sept fois votre nom (nom d'initié sinon nom de naissance).
