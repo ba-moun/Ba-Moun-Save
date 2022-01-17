@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T01:23:50.130Z
+date: 2022-01-17T01:48:49.289Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -104,6 +104,14 @@ Dans le ***vaudou haïtien***, il suffit de profiter des moments astronomiques c
 ### La lune :moon:
 
 En phase de pleine lune et de nouvelle lune : les attractions lunaires et solaires s'additionnent, ce qui engendre des effets plus importants sur les eaux. Cet événement astronomique a donc un effet sur les marées, les règles, le liquide amniotique, les végéteaux, les animaux, le psychisme, …[^3] C'est donc le meilleur moment pour méditer, améliorer sa connexion mystique, pratiquer de la magie, travailler les énergies, se purifier, faire ses demandes aux dèesses des eaux et autres divinités féminines.
+
+## L'eau
+
+Dans le ***vaudou haïtien***, l'eau :droplet: est un élément puissant. En effet :
+* l'eau est le lien entre l'Homme et l'au-delà : à la mort d'une personne, son âme va sous l'eau ;
+* l'Homme et la spiritualité : l'eau est utilisé dans divers rituels comme le `rituel de reconnexion à la première pleine lune de l'année solaire` ;
+* l'Homme et le divin : le liquide amniotique est vu comme de l'eau contenu dans le ventre d'une femme qui se prépare à donner la vie ;
+* l'Homme et l'invisible : grâce aux libations.
 
 # Source
 
