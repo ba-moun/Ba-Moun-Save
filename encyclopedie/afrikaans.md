@@ -2,7 +2,7 @@
 title: Afrikaans (langue)
 description: Présentation de la langue Afrikaans
 published: 1
-date: 2022-01-17T15:28:19.140Z
+date: 2022-01-17T15:29:00.732Z
 tags: africain, africaine, afrikaans, allemand, du toit, euro-africain, euro-africaine, européen, européenne, français, jacobus, langue, langue africaine, langue euro-africaine, langue européenne, langue leuco-africaine, leuco-africain, leuco-africaine, néerlandais, stephanus, stephanus jacobus, stephanus jacobus du toit
 editor: markdown
 dateCreated: 2022-01-10T07:56:55.232Z
@@ -59,7 +59,8 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 En `1875`, `Stephanus Jacobus du Toit` travaille avec *Die Genootskap van Regte Afrikaners* (l’Association des vrais Afrikaners). Leurs objectifs sont de défendre et d’imposer l’***afrikaans*** comme langue officielle de la `Colonie du Cap`, en plus de l’anglais.
 
-En `1876`, `S.J. du Toit` devient le rédacteur en chef de la revue « Die Afrikaanse Patriot » (« Le Patriote Africain »). Cette revue écrite en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer ce peuple de leur complexe d’infériorité. À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
+En `1876`, `S.J. du Toit` devient le rédacteur en chef de la revue « Die Afrikaanse Patriot » (« Le Patriote Africain »). Cette revue écrite en ***afrikaans*** est un outil politique utilisé pour éveiller la conscience nationale des Afrikaners. De plus, cette revue sert à libérer ce peuple de leur complexe d’infériorité.
+À cette époque, les `Afrikaners` se sentent culturellement inférieurs aux `Anglais`. Dès lors, la défense de la langue s’entremèle avec « l’identité afrikaans ».
 
 En `1877`, `S.J. du Toit` publie le premier « livre d’histoire » des Afrikaners écrit en ***afrikaans***. Ce livre se nomme *Die Geskiedenis van ons Land in die Taal van ons Volk* (L’Histoire de notre Pays dans la Langue de notre Peuple). C’est un manifeste politique des `Afrikaners` empreint de mystique. Ce livre d’histoire romance la lutte du « petit peuple Afrikaners » élu pour rester fidèle au dessein du dieu chrétien depuis `1795`.
 
