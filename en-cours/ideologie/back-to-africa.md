@@ -2,7 +2,7 @@
 title: Back to Africa (retour en Afrique)
 description: Présentation de la philosophie Back to Africa
 published: 1
-date: 2022-01-17T00:19:47.810Z
+date: 2022-01-17T00:20:10.663Z
 tags: back to africa, philosophie, philosophie africaine, philosophie kamit, philosophie kemit, philosophie kémit, philosophie négro-africaine, retour en afrique
 editor: markdown
 dateCreated: 2022-01-10T07:57:48.164Z
@@ -31,7 +31,7 @@ Plusieurs personnalités prônent cette idéologie[^1][^4] :
 Certains intellectuels prônent l'épanouissement des `afrodescendants` au sein des pays d'accueil forcé.
 Pas exemple, `Wiliam Edward Burghardt DuBois` et `Booker Taliaferro Washington` revendiquent cette idéologie.[^1]
 
-<figure class="image image_resized" style="width: 64%;"><img src="/images/personnalite/kemit/booker-t-washington/booker-taliaferro-washington_public-domain.jpg"> <figcaption>Booker Taliaferrro Washington</figcaption></figure>
+<figure class="image image_resized" style="width: 50%;"><img src="/images/personnalite/kemit/booker-t-washington/booker-taliaferro-washington_public-domain.jpg"> <figcaption>Booker Taliaferrro Washington</figcaption></figure>
 
 [^1]: `Doumbi Fakoly`. `Marcus Garvey expliqué aux adolescents`. Édition `MENAIBUC` ; 2ème trimestre `2009`. 91 p. ISBN : 978-2-35349-102-5.
 [^4]: `Têtêvi Godwin Tété-Adjalogo`. `Marcus Garvey, Père de l'Unité Africaine des Peuples`. Tome 1. Ed. L'Harmattan ; `Paris` ; `1995`.
