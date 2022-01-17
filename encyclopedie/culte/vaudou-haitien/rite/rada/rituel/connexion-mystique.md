@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-17T14:41:12.077Z
+date: 2022-01-17T14:49:44.762Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -112,12 +112,9 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 11. Boire trois petites gorgées de votre verre d'eau.
 12. Verser une petite goutte de l'eau de votre verre à l'emplacement de votre chakra coronal.
 13. Redéposer le verre sur l'autel.
-14. Méditer. Vous pouvez profiter de la musique suivante pour méditer.
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294411896&color=%23f1c503&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rosmy-pmd" title="Rosmy Pmd" target="_blank" style="color: #cccccc; text-decoration: none;">Rosmy Pmd</a> · <a href="https://soundcloud.com/rosmy-pmd/aud-20161122-wa0017-mp3-1" title="AUD-20161122-WA0017.mp3" target="_blank" style="color: #cccccc; text-decoration: none;">AUD-20161122-WA0017.mp3</a></div>
-
+14. Méditer. Vous pouvez profiter de cette [musique vaudou](https://soundcloud.com/rosmy-pmd/aud-20161122-wa0017-mp3-1) pour méditer.
 15. Dormir si vous y arrivez.
-17. Vous rincer le visage avec le reste de l'eau contenue dans votre verre (vous pouvez vous laver le visage avec une autre eau avant).
+17. Après votre réveil ou après avoir médité, vous rincer le visage avec le reste de l'eau contenue dans votre verre (vous pouvez vous laver le visage avec une autre eau avant).
 
 # Source
 
