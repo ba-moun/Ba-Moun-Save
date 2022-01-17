@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T00:52:18.014Z
+date: 2022-01-17T00:53:21.734Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -83,7 +83,7 @@ Il existe quatre principaux rites dans le ***vaudou haïtien*** qui sont le [rit
 * Le `rite Gede` est un rite autour des `Gede`.
 * Le `rite Kongo` est un héritage du `royaume Kongo`.
 * Le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) est un héritage du `royaume d'Alada` (royaume qui a donné naissance au `royaume Dahomey`. Ce rite est populairement associé à l'élévation spirituelle, à la prière, au recueillement, à la méditation et au combat
-* Le `rite Petro` est un héritage ancestral de `Névika Yakan Nga`. Ce dernier est un initié Lèmba (spirualité Kongo) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
+* Le `rite Petro` est un héritage ancestral de `Névika Yakan Nga` (Celu qu'on utilise comme barrière de protection). Ce dernier est un initié Lèmba (spirualité Kongo) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
 
 # Croyances[^1]
 
