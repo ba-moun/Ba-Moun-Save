@@ -2,7 +2,7 @@
 title: Rituel de connexion mystique
 description: Comment se connecter aux divinités qui vous accompagnent
 published: 1
-date: 2022-01-17T14:13:46.137Z
+date: 2022-01-17T14:17:41.387Z
 tags: connexion, connexion mystique, demande de connexion, demande de connexion mystique, demande mystique, mysticisme
 editor: markdown
 dateCreated: 2022-01-16T22:30:58.994Z
@@ -68,8 +68,11 @@ Notez bien que la date et l'heure de cette pleine lune varie en fonction d'où v
 9. Réciter l'invocation suivante. :pray:
 10. Faire votre demande de connexion aux `loas`.
 11. Boire trois petites gorgées de votre verre d'eau.
-13. Méditer.
-14. Dormir si vous y arrivez.
+12. Verser une petite goutte de l'eau de votre verre à l'emplacement de votre chakra coronal.
+13. Redéposer le verre sur l'autel.
+14. Méditer.
+15. Dormir si vous y arrivez.
+17. Vous rincer le visage avec le reste de l'eau contenue dans votre verre (vous pouvez vous laver le visage avec une autre eau avant).
 
 # Source
 
