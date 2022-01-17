@@ -1,11 +1,11 @@
 ---
 title: Haïti (période Taïnos)
 description: Présentation de l’île d’Haïti à l’époque des Taïnos
-published: true
-date: 2021-04-26T13:14:55.619Z
-tags: arawak, taïnos, cacique, haïti, haïti taïnos, haïti avant invasion européenne, avant les invasions européennes, géographie d’haïti, marien, cacique d’haïti, jaragua, higüey, maguá, maguana, marién
+published: 1
+date: 2022-01-17T00:01:29.782Z
+tags: arawak, avant les invasions européennes, cacique, cacique d’haïti, géographie d’haïti, haïti, haïti avant invasion européenne, haïti taïnos, higüey, jaragua, maguana, maguá, marien, marién, taïnos
 editor: markdown
-dateCreated: 2021-04-26T06:52:19.539Z
+dateCreated: 2022-01-10T08:03:32.333Z
 ---
 
 ![caciques-de-haïti_domaine-public.png](/images/geography/island/haïti/caciques-de-haïti_domaine-public.png){.align-abstopright}
@@ -25,18 +25,18 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 
 ### Le Caciquat de Xaragua
 
-<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-jaragua_domaine-public.jpg"><figcaption>Le cacique Xaragua (alias Jaragua)<br/>(domaine public)</figcaption></figure>
-
 * Autre nom : `Jaragua`,
 * géolocalisation : sud-ouest,
 * cacique (en `1552`) : `Behechio` (homme).
-   
-### Le caciquat de Maguana
 
-<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-maguana_domaine-public.jpg"><figcaption>Le cacique Maguana<br/>(domaine public)</figcaption></figure>
+<figure class="image image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-jaragua_domaine-public.jpg"><figcaption>Le cacique Xaragua (alias Jaragua)<br/>(domaine public)</figcaption></figure>
+
+### Le caciquat de Maguana
 
 * géolocalisation : centre de l’île, avec un accès à une partie du littoral sud,
 * cacique (en `1552`) : `Caonabó` (homme).
+
+<figure class="image image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-maguana_domaine-public.jpg"><figcaption>Le cacique Maguana<br/>(domaine public)</figcaption></figure>
 
 ### Le Caciquat de Marién
 
@@ -58,8 +58,6 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
 
 ### Le caciquat de Maguá
 
-<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-magua_domaine-public.jpg"><figcaption>Le cacique Maguá<br/>(domaine public)</figcaption></figure>
-
 * traduction  : le royaume de la vallée,
 * géolocalisation : nord-est,
 * cacique (en `1552`) : `Guarionex` (homme),
@@ -72,11 +70,13 @@ Ci-après les cinq `caciquats` de `Haïti`, au temps des royaumes `Taïnos`.
    * 80 lieues (<400 km) de latitude
    * entre 5,8 et 5,1 lieues (entre 25 et 30 km) de longitude.
 
+<figure class="image image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-magua_domaine-public.jpg"><figcaption>Le cacique Maguá<br/>(domaine public)</figcaption></figure>
+
 ### Le caciquat de Higüey
 
-<figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-higuey_domaine-public.jpg"><figcaption>Le cacique Higüey<br/>(domaine public)</figcaption></figure>
+* cacique (en `1552`) : `Higuanamá` (femme).
 
-   * cacique (en `1552`) : `Higuanamá` (femme).
+<figure class="image image_resized" style="width: 64%;"><img src="/images/geography/island/haïti/caciquat-higuey_domaine-public.jpg"><figcaption>Le cacique Higüey<br/>(domaine public)</figcaption></figure>
 
 # Civilisation
 
