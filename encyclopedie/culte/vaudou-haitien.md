@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T10:29:50.251Z
+date: 2022-01-19T10:30:35.419Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -100,7 +100,7 @@ Le ***vaudou haïtien*** hérite de spiritualités, de religions et de croyances
 
 # Influences
 
-Les violences pratiquées pendant et après le `Yovodah` ont obligé les vaudouisants haïtiens à se cacher de leurs agresseurs. C’est la raison pour laquelle le ***vaudou haïtien*** est parsemé de `syncrétisme` entre les cultes ancestraux `Taïnos` ou `Kamit` et le christianisme.
+Les violences pratiquées pendant et après le `Yovodah` ont obligées les vaudouisant.e.s d'Haïti à se cacher. C’est la raison pour laquelle le ***vaudou haïtien*** est parsemé de `syncrétisme` entre les cultes ancestraux `Taïnos` ou `Kamit` et le christianisme.
 
 # Organisation[^1]
 
