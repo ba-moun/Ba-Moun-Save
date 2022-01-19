@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T10:31:54.066Z
+date: 2022-01-19T10:34:51.087Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -106,10 +106,10 @@ Les violences pratiquées pendant et après le `Yovodah` ont obligées les vaudo
 
 ## Religion
 
-Les mambo et les hougan sont respectivement les prêtresses et les prêtres du ***vaudou haïtien***. À l’instar des `bohiques` chez les `Taïnos` ou le vaudou du continent les mambo et les hougan :
-* exécutent le culte et les cérémonies religieuses,
-* doivent faire preuve de sagesse,
-* doivent posséder la connaissance ésothérique de leur religion et de leur spiritualité.
+Les mambos et les hougans sont respectivement les prêtresses et les prêtres du ***vaudou haïtien***. À l’instar des `bohiques` chez les `Taïnos` ou les mambos et hougans du vaudou de `Katyopa` (`vaudou béninois`) :
+* ils/elles exécutent le culte et les cérémonies religieuses,
+* ils/elles doivent faire preuve de sagesse,
+* ils/elles doivent posséder la connaissance ésothérique de leur religion et de leur spiritualité.
 
 ## Rites
 
