@@ -2,7 +2,7 @@
 title: Whai
 description: Présentation du whai
 published: 1
-date: 2022-01-19T07:47:26.820Z
+date: 2022-01-19T07:47:57.376Z
 tags: animal, antidorcas marsupialis, antilope, antilope de la tribu des gazelles, bovidé, euchore, gazelle, gazelle à poche dorsale, haut du continent, springbok, springbuck, sud du continent, whai
 editor: markdown
 dateCreated: 2022-01-10T07:57:27.420Z
@@ -15,7 +15,7 @@ dateCreated: 2022-01-10T07:57:27.420Z
 ***Whai*** est le nom de la ***gazelle à poche dorsale*** en `|xam` (langue des `!nussa !e`). Native des plaines sans arbres du sud ouest du continent, la ***whai*** fait partie des espèce migrant vers la région [ǃ’Aukarob](/encyclopedie/geographie/karoo).
 L'équipe d'Afrique du Sud de rugby à XV à la ***Whai*** comme emblème.[^1][^4][^5]
 
-Ci-contre, une représentation de la ***whai*** par `Dia!kwain`. Ce dernier est un `!nussa !e` qui a fourni moult informtions sur son peuple aux familles `Bleek` et `Lloyd`. Des milliers de pages de récits et de dessins de `Dia!kwain` sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^2][^3]
+Ci-contre, une représentation de la ***whai*** par `Dia!kwain`. Ce dernier est un `!nussa !e` qui a fourni moult informtion sur son peuple aux familles `Bleek` et `Lloyd`. Des milliers de pages de récits et de dessins de `Dia!kwain` sont recensées dans la [Lloyd and Bleek collection](http://lloydbleekcollection.cs.uct.ac.za).[^2][^3]
 
 La ***whai*** se déplace en troupeau.
 Une ***whai*** en bonne santé est reconnaissable par ses bons verticaux. Une ***whai*** est reconnaissable par son pelage tricolore. Elle peut faire jusqu’à 86cm de haut et 150cm de long. La femelle peut peser jusqu’à 40kg et ses cornes atteindre les 30cm. Le mâle quant à lui peut peser jusqu’à 48 kg avec des cornes pouvant atteindre les 50cm.
