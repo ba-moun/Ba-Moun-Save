@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T10:26:13.602Z
+date: 2022-01-19T10:29:50.251Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -92,11 +92,11 @@ De plus, moult `loas` proviennent de `Katyopa`.
 
 ### Ascendance commune
 
-Le ***vaudou haïtien*** hérite de spiritualités, de religions et de croyances distinctes qui se rejoignent sur certains points.
-
-* La comparaison des esprits aux êtres humains (divinités féminines ou masculines), aux animaux (ex. : le serpent), aux plantes ou aux êtres inanimés (ex. : soleil et lune).
-* L’enfermement d’égrégores dans des objets inanimés (`cémis` ou `fétiches`) conçus en bois, en pierre ou en terre.
-* Le culte voué à de divinités propres à un clan ou à une famille.
+Le ***vaudou haïtien*** hérite de spiritualités, de religions et de croyances distinctes qui se rejoignent sur plusieurs points :
+* la comparaison des esprits aux êtres humains (divinités féminines ou masculines), aux animaux (ex. : le serpent), aux plantes ou aux êtres inanimés (ex. : soleil et lune),
+* les divinités primordiales (points cardinaux, esprit des mers et des océans, esprit de la connaissance, esprit de la création, esprit de la nature, …),
+* le culte voué à des divinités propres à un clan ou à une famille,
+* l’enfermement d’égrégores dans des objets inanimés (`cémis` ou `fétiches`) conçus en bois, en pierre ou en terre.
 
 # Influences
 
