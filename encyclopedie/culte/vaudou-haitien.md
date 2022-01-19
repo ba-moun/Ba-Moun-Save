@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T09:49:47.459Z
+date: 2022-01-19T09:50:25.283Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -38,7 +38,7 @@ Par l’histoire de son peuple et son origine géographique, le ***vaudou haïti
 
 #### Spiritualité
 
-Quelques pratiques spirituelles ancestrales `Taïnos` se retrouvent dans le ***vaudou haïtien*** :
+Ci-dessous quelques pratiques spirituelles ancestrales `Taïnos` présentes dans le ***vaudou haïtien*** :
 
 * l'utilisation du tabac pour contacter les défunts,
 * le tatouage de symboles religieux,
