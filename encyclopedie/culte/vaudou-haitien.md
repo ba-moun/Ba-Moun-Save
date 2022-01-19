@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T17:02:17.011Z
+date: 2022-01-19T17:29:35.679Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -128,8 +128,9 @@ Les mambos et les hougans sont respectivement les prêtresses et les prêtres du
   </figcaption>
 </figure>
 
-Il existe quatre principaux rites dans le ***vaudou haïtien*** qui sont le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gede Banda` et le `rite Petro`.
-* Le `rite Petro` est un héritage ancestral de `Névika Yakan Nga` (Celu qu'on utilise comme barrière de protection). Ce dernier est un initié Lèmba (spiritualité Kongo) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
+Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gédé Banda` et le `rite Pétro`.
+* Le `rite Kongo` est un héritage ancestral du `royaume Kongo`.
+* Le `rite Pétro` est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (spiritualité Kongo) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
 * Le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) est un héritage ancestral du `royaume d'Alada` (royaume qui a donné naissance au `royaume Dahomey`. Ce rite est populairement associé à l'élévation spirituelle, à la prière, au recueillement, à la méditation et au combat.
 * Le `rite Gede Banda`
 	* Rite originaire des `Gédévi` peuple qui était à l'origine en centrafrique pui qui a migré au plateau d'Abomey (`Bénin 🇧🇯`) au XVIII^ème^ siècle.
@@ -138,7 +139,6 @@ Il existe quatre principaux rites dans le ***vaudou haïtien*** qui sont le [rit
   * La majorité des `Gédés` sont servis dans le `rite Rada`.
   * Les `Gédés` sont servis pour briser la magie négative, briser les rituels d'envoutement, faire des consultations et guérir.
   * Les esrpts de ce rite sont liés à la mort. Ils permettent de créer un lien entre les vivants et les morts.
-* Le `rite Kongo` est un héritage ancestral du `royaume Kongo`.
 
 # Croyances[^1]
 
