@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T09:25:54.370Z
+date: 2022-01-19T09:39:43.415Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -13,11 +13,13 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 * `Mambo Ayizan Vélékété` : la divinité siné qua non de toute `initiation Kanzo`,
 * `Papa Lègba` : l'esprit qui garde le passage entre le monde visible et le monde invisible,
 * `Papa Ogou Badagri` : une divinité issue de la tradition `Nago` (`Nigéria 🇳🇬`) réputé pour ses connaissances des plantes,
-* `Erzuli Fréda` : la divinité associée à la pureté et à l'amour
-* `Maître Agwé Tawoyo` : 
+* `Maîtresse Erzuli Fréda` : la divinité associée à la pureté, l'amour et la chance,
+* `Maître Agwé Tawoyo` : le loa des océans et des mers,
+* `Maîtresse Erzuli Dantor` : une divinité associée à la mère protectrice.
 
-> ^*^**Le saviez-vous ?**[^10][^2]
-> Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
+> **Le saviez-vous ?**[^2][^4][^10]
+>
+> *Haïti* (« Ayiti » en haïtien) est l'un des noms endogènes [taïnos](/encyclopedie/peuple/caraibes/tainos) de l'île où sont localisés la `République dominicaine 🇩🇴` et la `République d'Haïti 🇭🇹`. Les autres noms [Taïnos](/encyclopedie/peuple/caraibes/tainos) sont *Tohio* (ou *Bohyo*) et *Quisqueya*.
 > C'est en hommage au peuple ***Taïnos*** que les Haïtiens ont appelé l'île `Haïti 🇭🇹`.
 > Dans la langue des ***Taïnos***, Haïti signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
 >{.is-info}
@@ -126,5 +128,7 @@ Dans le ***vaudou haïtien***, l'eau :droplet: est un élément puissant. En eff
 [^2]: [HAÏTI](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f834.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). In [Dictionnaire universel d'histoire et de géographie](https://gallica.bnf.fr/ark:/12148/bpt6k4849m/f3.item.r=Dictionnaire%20universel%20d'histoire%20et%20de%20g%C3%A9ographie). Nouvelle édition (26^ème^) avec un supplément. LIBRAIRIE HACHETTE ET C^IE^, 1878. p. 826.
 
 [^3]: `Michel Gros`. `Calendrier Lunaire 2021`. 2ème trimestre `2020`. 131 p. ISBN : 978-2-9559359-2-7.
+
+[^4]: [ Ile Quisqueya et non Hispaniola](https://www.agh.qc.ca/articles/?id=15). In [Association de Généalogie d'Haïti](https://www.agh.qc.ca//). https://www.agh.qc.ca/articles/?id=15
 
 [^10]: [Haïti, Le nom du pays](http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html). In [Biblio Monde bibliographie](http://www.bibliomonde.com) [en ligne]. © BiblioMonde.com [consulté le `22` `Décembre` `2020`]. Disponible sur : http://www.bibliomonde.com/donnee/ha%C3%AFti-nom-pays-284.html
