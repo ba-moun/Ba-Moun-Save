@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T10:23:59.781Z
+date: 2022-01-19T10:26:13.602Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -11,7 +11,7 @@ dateCreated: 2022-01-10T08:00:20.628Z
 <figure class="image image-style-align-right image_resized" style="width: 32%;">
   <img src="/images/symboles/veve/minokan_nb.jpeg">
   <figcaption>
-    Vévè du Minokan
+    Vévè du Minokan (symbole des 21 nations du <i><b>vaudou haïtien</b></i>)
   </figcaption>
 </figure>
 
