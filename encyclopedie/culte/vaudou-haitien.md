@@ -2,13 +2,19 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-17T01:48:49.289Z
+date: 2022-01-19T09:25:54.370Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
 ---
 
-Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti^*^) et ceux des `Kamyout` déportés lors du `Yovodah`. Parmi les divinités de cette spiritualité, on trouve `Papa Damballa`, le boa de la conaissance.[^1]
+Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti) et ceux des négro-africains déportés lors du `Yovodah`. Dans le ***vaudou haïtien***, les esprits sont dénomés loas. Parmi ces loas, on peut trouver[^1] :
+* `Papa Damballa Wèdo Tokan` : le boa de la conaissance,
+* `Mambo Ayizan Vélékété` : la divinité siné qua non de toute `initiation Kanzo`,
+* `Papa Lègba` : l'esprit qui garde le passage entre le monde visible et le monde invisible,
+* `Papa Ogou Badagri` : une divinité issue de la tradition `Nago` (`Nigéria 🇳🇬`) réputé pour ses connaissances des plantes,
+* `Erzuli Fréda` : la divinité associée à la pureté et à l'amour
+* `Maître Agwé Tawoyo` : 
 
 > ^*^**Le saviez-vous ?**[^10][^2]
 > Haïti (« Ayiti » en haïtien) est le nom taïnos de l'île où se trouve les pays dénommés `République dominicaine 🇩🇴` et `Haïti 🇭🇹`. Toutefois, les ***Taïnos*** ont aussi appelé l'île Tohio ou Quisqueya.
