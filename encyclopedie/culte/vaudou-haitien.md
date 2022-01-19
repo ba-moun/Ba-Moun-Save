@@ -2,16 +2,23 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T09:50:25.283Z
+date: 2022-01-19T10:23:59.781Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
 ---
 
+<figure class="image image-style-align-right image_resized" style="width: 32%;">
+  <img src="/images/symboles/veve/minokan_nb.jpeg">
+  <figcaption>
+    Vévè du Minokan
+  </figcaption>
+</figure>
+
 Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti) et ceux des négro-africains déportés lors du `Yovodah`. Dans le ***vaudou haïtien***, les esprits sont dénomés loas. Parmi ces loas, on peut trouver[^1] :
 * `Papa Damballa Wèdo Tokan` : le boa de la conaissance,
 * `Mambo Ayizan Vélékété` : la divinité siné qua non de toute `initiation Kanzo`,
-* `Papa Lègba` : l'esprit qui garde le passage entre le monde visible et le monde invisible,
+* `Papa Lègba Atibon` : l'esprit qui garde le passage entre le monde visible et le monde invisible,
 * `Papa Ogou Badagri` : une divinité issue de la tradition `Nago` (`Nigéria 🇳🇬`) réputé pour ses connaissances des plantes,
 * `Maîtresse Erzuli Fréda` : la divinité associée à la pureté, l'amour et la chance,
 * `Maître Agwé Tawoyo` : le loa des océans et des mers,
@@ -44,19 +51,21 @@ Ci-dessous quelques pratiques spirituelles ancestrales `Taïnos` présentes dans
 * le tatouage de symboles religieux,
 * l'ornement des lèvres, des oreilles, du coup et de la tête avec des bijoux faits de coquillage, d'os d'animaux, de pierres, d'or ou d'argent,
 * certaines tenues vestimentaires,
-* mode de vie,
-* manière de se vêtir,
+* le mode de vie,
+* la manière de se vêtir,
 * la fabrication de poterie (cruche, govi, jarres, etc.),
-* le traçage des `vèvè`avec de la farine de maïs,
-* l’offrande de maïs grillé aux `Marasa`, de cacahuète grillé ou de piment pour les gédés.
+* le traçage des `vèvè` avec de la farine de maïs,
+* l’offrande de maïs grillé aux `Marasa`
+* l'offrande de cacahuètes grillées ou de piment aux `Gédés`.
 
 > **Le saviez-vous ?**[^2]
-> Sur l'île Haïti se trouvent des mines d'or et d'argent.
+>
+> Il y a des mines d'or et d'argent sur l'île Haïti.
 >{.is-info}
 
 #### Consommation
 
-Les vaudouisant.e.s haïtiens héritent aussi des pratiques culinaires `Taïnos`, comme l’utilisation :
+Les vaudouisant.e.s d'Haïti héritent aussi des pratiques culinaires `Taïnos`, comme l’utilisation :
 * du manioc,
 * de la pomme de terre,
 * du maïs,
@@ -66,7 +75,20 @@ Les vaudouisant.e.s haïtiens héritent aussi des pratiques culinaires `Taïnos`
 
 ### Ascendance Kamit
 
-Le ***vaudou haïtien*** représente ses entités par des symboles nommés ***vèvè*** (peut s'écrire ***veve*** ou ***vévé***). Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai`.[^1]
+<figure class="image image-style-align-right image_resized" style="width: 64%;">
+  <img src="/images/symboles/veve/damballah-wedo-simple.jpg">
+  <figcaption>
+    Vévè de Papa Dambala Wèdo Tokan
+  </figcaption>
+</figure>
+
+Le ***vaudou haïtien*** représente ses entités par des symboles nommés vèvè. Cette pratique est un héritage du culte ancestral `Taïnos` et du `Vai`.
+
+De plus, moult `loas` proviennent de `Katyopa`.
+* [Dambala Wédo Tokan](/encyclopedie/culte/vaudou-haitien/loa/dambala-wedo-tokan) : origines diverses ; peut être nommé Maoulisa, Obatalá ou Oxala dans d'autres spiritualités `Kamyout`.
+* `Papa Ogou` : tradition `Nago` (`Nigéria 🇳🇬`).
+* `Maître Agwé Tawoyo` : origines divers ; est appelé Olokun chez les `Yoruba`.
+* `Papa Legba Atibon` : origine `Fon`.
 
 ### Ascendance commune
 
