@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-19T09:41:07.087Z
+date: 2022-01-19T09:49:24.526Z
 tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -19,11 +19,13 @@ Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui
 
 > **Le saviez-vous ?**[^2][^4][^10]
 >
+> <figure class="image image-style-align-right image_resized" style="width: 64%;"><img src="/images/monument/king christophe's citadelle/citadel-la-ferriere.jpg"></figure>
+>
 > *Haïti* (« Ayiti » en haïtien) est l'un des noms endogènes [taïnos](/encyclopedie/peuple/caraibes/tainos) de l'île où sont localisés la `République dominicaine 🇩🇴` et la `République d'Haïti 🇭🇹`. Les autres noms [Taïnos](/encyclopedie/peuple/caraibes/tainos) sont *Tohio* (ou *Bohyo*) et *Quisqueya*.
 >
 > C'est en hommage au peuple [Taïnos](/encyclopedie/peuple/caraibes/tainos), que les Haïtiens ont appelé leur république `Haïti 🇭🇹`.
 >
-> Dans la langue des [Taïnos](/encyclopedie/peuple/caraibes/tainos), « haïti » signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ».
+> Dans la langue des [Taïnos](/encyclopedie/peuple/caraibes/tainos), « haïti » signifie « terres des (hautes) montagnes », « la montagne à la mer » ou « Âpre terre ». La photo de la citadelle du `Roi Christophe` érigée sur les montagnes de `Milot` (`République d'Haïti 🇭🇹`) démontre la pertinence de ce nom.
 >{.is-info}
 
 # Héritage[^1]
