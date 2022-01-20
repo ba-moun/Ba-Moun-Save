@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T13:53:13.704Z
+date: 2022-01-20T13:55:03.817Z
 tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -132,12 +132,14 @@ Le vèvè ci-contre représente les vingt-et-une nations à l'origine des divers
 Le *rite Kongo Savann* (*rite de la savane* en français) est un rite plus violent et plus secret que le rite des forêts. Cela fait que ce rite est principalement utilisé dans les sociétés secrètes.
 Le *rite Kongo Savann* est un héritage ancestral de la province du Kasaï-Sankuru (`République Démocratique du Congo 🇨🇩`).
 
+Le peuple à l'origine de ce rite correspond à la 15^ème^ nation ***vaudou haïtienne***.
+
 ### Rite Pétro :red_circle:
 
 Les principales divinités du *rite Pétro* sont `Jean Petro` et `Dantor`.
 Ce rite est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (une `spiritualité Kongo`) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
 
-Le peuple à l'origine de ce 
+Le peuple à l'origine de ce rite correspond à la 18^ème^ nation ***vaudou haïtienne***.
 
 ### Rite Zandor
 
@@ -152,7 +154,7 @@ Le peuple à l'origine de ce
 Le *rite Zandor* (alias *Zandé* ou *Zanndé*) est un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
 Ce rite est un héritage des Zanndé (alias Azandé). Les Zanndés sont des chasseurs et des guerriers. Ils sont originaires du sud du `Soudan 🇸🇩`, du `Mali 🇲🇱` et de `Centre Afrique 🇨🇫`. Ils ont participés à la fondation de l'`empire du Mali` et migrés au `Kongo`. Par la suite, lors du `Yovodah`, le peuple Zanndé a été razié puis déporté en Haïti.
 
-Dans le ***vaudou haïtien***, le peuple Zanndé correspond à la 19^ème^ nation.
+Dans le ***vaudou haïtien***, le peuple Zanndé correspond à la 19^ème^ nation ***vaudou haïtienne***.
 
 ### Rite Kongo
 
