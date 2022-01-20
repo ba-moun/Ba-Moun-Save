@@ -2,18 +2,12 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T12:54:25.228Z
+date: 2022-01-20T13:53:13.704Z
 tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
 ---
 
-<figure class="image image-style-align-right image_resized" style="width: 32%;">
-  <img src="/images/symboles/veve/minokan_nb.jpeg">
-  <figcaption>
-    Vévè du Minokan (symbole des 21 nations du <i><b>vaudou haïtien</b></i>)
-  </figcaption>
-</figure>
 
 Le ***vaudou haïtien*** est l'héritage de plusieurs cultes ancestraux : celui des `Taïnos` (autochtone de l'île Haïti) et ceux des négro-africains déportés lors du `Yovodah`. Dans le ***vaudou haïtien***, les esprits sont dénomés loas. Parmi ces loas, on peut trouver[^1] :
 * `Papa Damballa Wèdo Tokan` : le boa de la conaissance,
@@ -120,29 +114,55 @@ Les mambos et les hougans sont respectivement les prêtresses et les prêtres du
 
 ## Rites
 
+<figure class="image image-style-align-right image_resized" style="width: 32%;">
+  <img src="/images/symboles/veve/minokan_nb.jpeg">
+  <figcaption>
+    Vévè du Minokan (symbole des 21 nations du <i><b>vaudou haïtien</b></i>)
+  </figcaption>
+</figure>
+
 Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gédé Banda` et le `rite Pétro`. Ci-dessous une liste non-exhaustive de rites vaudous haïtiens.
 
-### Onglets{.tabset}
+Le vèvè ci-contre représente les vingt-et-une nations à l'origine des divers rites ***vaudous haïtiens***.
 
-#### Rite Zandor
+### Rite des forêts :deciduous_tree:
 
-Le *rite Zandor* (alias *Zandé* ou *Zanndé*) est un héritage des Zanndé (alias Azandé). Les Zanndés sont des chasseurs et des guerriers originaires du sud du `Soudan 🇸🇩`, du `Mali 🇲🇱` et de `Centre Afrique 🇨🇫` qui ont migrés au `Congo`. Ils ont participés à la fondation du l'`empire du Mali`. Dans le ***vaudou haïtien***, le peuple Zanndé correspond à la 19^ème^ nation.
+### Rite Kongo Savann
 
-le *rite Zandor* est concidéré comme un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
+Le *rite Kongo Savann* (*rite de la savane* en français) est un rite plus violent et plus secret que le rite des forêts. Cela fait que ce rite est principalement utilisé dans les sociétés secrètes.
+Le *rite Kongo Savann* est un héritage ancestral de la province du Kasaï-Sankuru (`République Démocratique du Congo 🇨🇩`).
 
-#### Rite Kongo
+### Rite Pétro :red_circle:
+
+Les principales divinités du *rite Pétro* sont `Jean Petro` et `Dantor`.
+Ce rite est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (une `spiritualité Kongo`) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
+
+Le peuple à l'origine de ce 
+
+### Rite Zandor
+
+<figure class="image image-style-align-right image_resized" style="width: 16%;">
+  <img src="/images/population/azande/zannde-people.jpg">
+  <figcaption>
+    Photo du peuple Azandé<br />
+    Licence : public
+  </figcaption>
+</figure>
+
+Le *rite Zandor* (alias *Zandé* ou *Zanndé*) est un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
+Ce rite est un héritage des Zanndé (alias Azandé). Les Zanndés sont des chasseurs et des guerriers. Ils sont originaires du sud du `Soudan 🇸🇩`, du `Mali 🇲🇱` et de `Centre Afrique 🇨🇫`. Ils ont participés à la fondation de l'`empire du Mali` et migrés au `Kongo`. Par la suite, lors du `Yovodah`, le peuple Zanndé a été razié puis déporté en Haïti.
+
+Dans le ***vaudou haïtien***, le peuple Zanndé correspond à la 19^ème^ nation.
+
+### Rite Kongo
 
 * Le `rite Kongo` est un héritage ancestral du `royaume Kongo`.
 
-#### Rite Pétro
-
-* Le `rite Pétro` est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (une `spiritualité Kongo`) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
-
-#### Rite Rada
+### Rite Rada :white_circle:
 
 * Le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) est un héritage ancestral du `royaume d'Alada` (royaume qui a donné naissance au `royaume Dahomey`. Ce rite est populairement associé à l'élévation spirituelle, à la prière, au recueillement, à la méditation et au combat.
 
-#### Rite Gédé Bannda
+### Rite Gédé Bannda :skull:
 
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
   <img src="/images/symboles/veve/veve-gede-banda.png">
