@@ -2,7 +2,7 @@
 title: Bain chance
 description: Qu'est-ce que le bain chance ?
 published: 1
-date: 2022-01-20T15:07:16.165Z
+date: 2022-01-20T15:07:34.821Z
 tags: bain chance, culte, culte afro-caribéen, culte ancestral, culte ancestral vaudou, culte haïtien, culte vaudou, spiritualité afro-caribéenne, spiritualité haïtienne, vaudou
 editor: markdown
 dateCreated: 2022-01-10T17:02:44.011Z
@@ -13,7 +13,7 @@ Le bain chance peut être fait par un.e vaudouisant.e qui s'y connait dans la my
 * Eau de coco : symbole de la vie, de la matrice étant donné le mystère qui se cache dans l'apparition d'eau dans la noix du coco.
 * Fleurs (ex. : bergamotte, rose, patchouli).
 * Gros thym.
-* Hysope
+* Hysope (huile ou fleurs).
 * Lavande.
 * Romarin.
 
