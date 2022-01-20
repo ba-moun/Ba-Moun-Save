@@ -2,7 +2,7 @@
 title: Bain chance
 description: Qu'est-ce que le bain chance ?
 published: 1
-date: 2022-01-20T15:09:31.027Z
+date: 2022-01-20T15:09:58.846Z
 tags: bain chance, culte, culte afro-caribéen, culte ancestral, culte ancestral vaudou, culte haïtien, culte vaudou, spiritualité afro-caribéenne, spiritualité haïtienne, vaudou
 editor: markdown
 dateCreated: 2022-01-10T17:02:44.011Z
@@ -18,7 +18,7 @@ Le bain chance peut être fait par un.e vaudouisant.e qui s'y connait dans la my
 
 > **Important**
 >
-> Après un ***bain chance***, il est important de porter des vêtements propres et neufs !
+> Après un ***bain chance***, il est important de porter des vêtements propres, neufs et de couleur vive !
 {.is-warning}
 
 
