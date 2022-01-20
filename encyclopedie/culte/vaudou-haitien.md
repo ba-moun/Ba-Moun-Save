@@ -2,8 +2,8 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T12:46:01.428Z
-tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite rada, rite vaudou, rite vaudou haïtien, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, rite zandor, rite gede banda, rite gede, gede banda, banda, bannda, gede bannda, rite gede bannda, gédé, rite gédé, rite gédé banda, rite gédé bannda, zandor, rite kongo, congo, rite congo, kongo, rite pétro, pétro, rite haïtien
+date: 2022-01-20T12:47:32.086Z
+tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
 ---
@@ -126,7 +126,7 @@ Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada
 
 #### Rite Zandor
 
-Le rite Zandor (ou Zandé) est un héritage ancestral originaire du `Soudan 🇸🇩`, du `Mali 🇲🇱` et d'Afrique centrale.
+Le rite Zandor (ou Zandé) est un héritage ancestral originaire du `Soudan 🇸🇩`, du `Mali 🇲🇱` et d'Afrique centrale. Il est concidéré comme un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
 
 #### Rite Kongo
 
