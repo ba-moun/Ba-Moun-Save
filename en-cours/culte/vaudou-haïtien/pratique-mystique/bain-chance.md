@@ -2,20 +2,19 @@
 title: Bain chance
 description: Qu'est-ce que le bain chance ?
 published: 1
-date: 2022-01-20T15:01:14.669Z
+date: 2022-01-20T15:02:53.794Z
 tags: bain chance, culte, culte afro-caribéen, culte ancestral, culte ancestral vaudou, culte haïtien, culte vaudou, spiritualité afro-caribéenne, spiritualité haïtienne, vaudou
 editor: markdown
 dateCreated: 2022-01-10T17:02:44.011Z
 ---
 
 Le bain chance est un produit utilisé dans le ***vaudou haïtien***. Ce produit est utilisé pour se laver.
-
-Le bain chance peut être fait par un vaudouisant qui s'y connait dans la mystique des plantes ou par des profanes à l'aide d'ingrédients frais comme les suivants[^1] :
-* de l'eau de coco (symbole de la vie, de la matrice),
-* des fleurs,
-* du gros thym,
-* de la lavande,
-* du romarin.
+Le bain chance peut être fait par un vaudouisant qui s'y connait dans la mystique des plantes ou par des profanes. Les ingrédients frais suivants peuvent être utilisés pour réaliser un bain chance. Pour se faire, il faut mettre les feuilles dans de l'eau tiède et les frotter pour en extraire leur jus.[^1]
+* Eau de coco (symbole de la vie, de la matrice),
+* Fleurs,
+* Gros thym,
+* Lavande,
+* Romarin.
 
 # Source
 
