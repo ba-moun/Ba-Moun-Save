@@ -2,8 +2,8 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T12:36:15.264Z
-tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien
+date: 2022-01-20T12:46:01.428Z
+tags: culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite rada, rite vaudou, rite vaudou haïtien, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, rite zandor, rite gede banda, rite gede, gede banda, banda, bannda, gede bannda, rite gede bannda, gédé, rite gédé, rite gédé banda, rite gédé bannda, zandor, rite kongo, congo, rite congo, kongo, rite pétro, pétro, rite haïtien
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
 ---
@@ -120,18 +120,35 @@ Les mambos et les hougans sont respectivement les prêtresses et les prêtres du
 
 ## Rites
 
+Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gédé Banda` et le `rite Pétro`. Ci-dessous une liste non-exhaustive de rites vaudous haïtiens.
+
+### Onglets{.tabset}
+
+#### Rite Zandor
+
+Le rite Zandor (ou Zandé) est un héritage ancestral originaire du `Soudan 🇸🇩`, du `Mali 🇲🇱` et d'Afrique centrale.
+
+#### Rite Kongo
+
+* Le `rite Kongo` est un héritage ancestral du `royaume Kongo`.
+
+#### Rite Pétro
+
+* Le `rite Pétro` est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (une `spiritualité Kongo`) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
+
+#### Rite Rada
+
+* Le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) est un héritage ancestral du `royaume d'Alada` (royaume qui a donné naissance au `royaume Dahomey`. Ce rite est populairement associé à l'élévation spirituelle, à la prière, au recueillement, à la méditation et au combat.
+
+#### Rite Gédé Bannda
+
 <figure class="image image-style-align-right image_resized" style="width: 50%;">
   <img src="/images/symboles/veve/veve-gede-banda.png">
   <figcaption>
-    De gauche à droite et de haut en bas : vèvè de Baron, vèvè de Grann Brijit et vèvè des Gédés (rite Gédé Banda)
-    </ul>
+    De gauche à droite et de haut en bas : vèvè de Baron, vèvè de Grann Brijit et vèvè des Gédés (<i>rite Gédé Banda</i>)
   </figcaption>
 </figure>
 
-Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada), le `rite Kongo`, le `rite Gédé Banda` et le `rite Pétro`.
-* Le `rite Kongo` est un héritage ancestral du `royaume Kongo`.
-* Le `rite Pétro` est un héritage ancestral de `Névika Yakan Nga`. Son nom peut se traduire par « celui qu'on utilise comme barrière de protection ». Ce dernier est un initié Lèmba (une `spiritualité Kongo`) dont le nom d'esclave a été `Jean-Philippe Don Pedr`. Ce nom européen est à l'origine du nom du `rite Petro` (Don Pedro → Petro). Le rite est populairement associé au combat et au mystère des feuilles.
-* Le [rite Rada](/encyclopedie/culte/vaudou-haitien/rite/rada) est un héritage ancestral du `royaume d'Alada` (royaume qui a donné naissance au `royaume Dahomey`. Ce rite est populairement associé à l'élévation spirituelle, à la prière, au recueillement, à la méditation et au combat.
 * Le `rite Gede Banda`
 	* Rite originaire des `Gédévi` peuple qui était à l'origine en centrafrique pui qui a migré au plateau d'Abomey (`Bénin 🇧🇯`) au XVIII^ème^ siècle.
   * Les esprits de ce rite sont principalement les `Baron`, `Grande Brigitte` (leurs chefs) et les `Gédés` (puissants esprits de très anciens morts divinisés, dont certains font partie du panthéon haïtien).
