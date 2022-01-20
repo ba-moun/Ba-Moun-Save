@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T13:55:03.817Z
+date: 2022-01-20T13:55:45.553Z
 tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -131,6 +131,7 @@ Le vèvè ci-contre représente les vingt-et-une nations à l'origine des divers
 
 Le *rite Kongo Savann* (*rite de la savane* en français) est un rite plus violent et plus secret que le rite des forêts. Cela fait que ce rite est principalement utilisé dans les sociétés secrètes.
 Le *rite Kongo Savann* est un héritage ancestral de la province du Kasaï-Sankuru (`République Démocratique du Congo 🇨🇩`).
+Les principales divinités de ce rite sont `Toro Dichèn`, `Kou Kayèl` et `Kayèl Kanga`.
 
 Le peuple à l'origine de ce rite correspond à la 15^ème^ nation ***vaudou haïtienne***.
 
