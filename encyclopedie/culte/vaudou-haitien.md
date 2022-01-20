@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-20T12:52:41.471Z
+date: 2022-01-20T12:54:05.099Z
 tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -126,7 +126,9 @@ Il existe quatre principaux rites dans le ***vaudou haïtien*** : le [rite Rada
 
 #### Rite Zandor
 
-Le *rite Zandor* (alias *Zandé* ou *Zanndé*) est un héritage des Zanndé (alias Azandé). Les Zanndés sont des chasseurs et des guerriers originaires du sud du `Soudan 🇸🇩`, du `Mali 🇲🇱` et de `Centre Afrique 🇨🇫` qui ont migrés au `Congo`. Ils ont participés à la fondation du l'`empire du Mali`. Il est concidéré comme un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
+Le *rite Zandor* (alias *Zandé* ou *Zanndé*) est un héritage des Zanndé (alias Azandé). Les Zanndés sont des chasseurs et des guerriers originaires du sud du `Soudan 🇸🇩`, du `Mali 🇲🇱` et de `Centre Afrique 🇨🇫` qui ont migrés au `Congo`. Ils ont participés à la fondation du l'`empire du Mali`. Dans le ***vaudou haïtien***, le peuple Zanndé est identifié comme la 19^ème^ nation.
+
+le *rite Zandor* est concidéré comme un rite de guerre dont les principaux loas sont `Jean Zandor` et `Ezili Balyang`.
 
 #### Rite Kongo
 
