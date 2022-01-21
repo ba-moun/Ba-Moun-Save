@@ -2,7 +2,7 @@
 title: Vaudou haïtien
 description: Présentation du vaudou haïtien
 published: 1
-date: 2022-01-21T17:37:38.963Z
+date: 2022-01-21T17:38:15.471Z
 tags: banda, bannda, congo, culte afro-caribéen, culte haïtien, culte vaudou, culte vauou haïtien, gede, gede banda, gede bannda, gédé, kongo, pratique spirituelle, pratique spirituelle afro-caribéenne, pratique spirituelle haïtienne, pratique spirituelle vaudou, pratique spirituelle vaudou haïtienne, pratique vaudou haïtienne, pétro, rada, religion, religion afro-caribéenne, religion haïtienne, religion vaudou, religion vaudou haïtienne, rite, rite congo, rite gede, rite gede banda, rite gede bannda, rite gédé, rite gédé banda, rite gédé bannda, rite haïtien, rite kongo, rite pétro, rite rada, rite vaudou, rite vaudou haïtien, rite zandor, spiritualité, spiritualité afro-caribéenne, spiritualité haïtienne, spiritualité vaudou, spiritualité vaudou haïtienne, vaudou, vaudou haïtien, zandor
 editor: markdown
 dateCreated: 2022-01-10T08:00:20.628Z
@@ -69,10 +69,10 @@ Les vaudouisant.e.s d'Haïti héritent aussi des pratiques culinaires `Taïnos`,
 
 ### Ascendance Kamit
 
-<figure class="image image-style-align-right image_resized" style="width: 16%;">
+<figure class="image image-style-align-right image_resized" style="width: 8%;">
   <img src="/images/symboles/veve/damballah-wedo-simple.jpg">
   <figcaption>
-    Vévè de Papa Dambala Wèdo
+    Vévè Dambala Wèdo
   </figcaption>
 </figure>
 
